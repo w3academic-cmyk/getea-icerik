@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 29,
-  "publishedAt": "2026-11-18T13:03:51Z",
+  "revision": 30,
+  "publishedAt": "2026-11-18T13:13:49Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1248,6 +1248,22 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T12:51:23Z",
       "checkedAt": "2026-11-18T13:03:51Z"
+    },
+    {
+      "id": "x-unusualwhales-bloomberg",
+      "url": "https://x.com/unusual_whales/status/2123040274276597938",
+      "author": "@unusual_whales",
+      "network": "x",
+      "title": "Bloomberg: GTA VI bir “başyapıt”",
+      "summary": "Unusual Whales’in aktardığına göre Bloomberg, GTA VI için “başyapıt” ifadesini kullandı. Oyun Avustralya’da da açıldı; bölge bölge açılış sürüyor.",
+      "category": "Haber",
+      "tags": [
+        "Bloomberg",
+        "İnceleme"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T13:07:00Z",
+      "checkedAt": "2026-11-18T13:13:49Z"
     }
   ]
 }
