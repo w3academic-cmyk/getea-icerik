@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 45,
-  "publishedAt": "2026-11-18T14:32:29Z",
+  "revision": 46,
+  "publishedAt": "2026-11-18T14:38:15Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1806,6 +1806,23 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T14:24:31Z",
       "checkedAt": "2026-11-18T14:32:29Z"
+    },
+    {
+      "id": "x-jezcorden-series-s",
+      "url": "https://x.com/JezCorden/status/2123060736738185411",
+      "author": "@JezCorden",
+      "network": "x",
+      "title": "Xbox Series S’te şaşırtıcı performans",
+      "summary": "Windows Central’dan Jez Corden’a göre GTA VI, Xbox Series S’te beklenenden çok daha iyi çalışıyor. Series S 720p’den 1080p’ye FSR 4 ile ölçekleniyor.",
+      "category": "Performans",
+      "tags": [
+        "Xbox",
+        "SeriesS",
+        "Performans"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T14:28:18Z",
+      "checkedAt": "2026-11-18T14:38:15Z"
     }
   ]
 }
