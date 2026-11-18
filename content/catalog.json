@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 77,
-  "publishedAt": "2026-11-18T23:37:26.195Z",
+  "revision": 78,
+  "publishedAt": "2026-11-18T23:57:12.036Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3518,6 +3518,50 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T23:41:00Z",
       "checkedAt": "2026-11-18T23:37:26.195Z"
+    },
+    {
+      "id": "web-aroundprague-elektrikli-arac",
+      "url": "https://aroundprague.cz/en/news/technology/gta-6-unlocks-tonight-uk-europe-and-us-times-and-what-early-players-say",
+      "author": "Around Prague",
+      "network": "web",
+      "title": "Elektrikli araçlar şarj istiyor, benzinliler yakıt",
+      "summary": "Erken oynayan oyuncuların aktardığına göre GTA VI'da araçlar yakıt harcıyor, elektrikli arabaların da şarj edilmesi gerekiyor. Uzun yola çıkmadan önce depoyu ya da bataryayı kontrol et.",
+      "category": "Özellik",
+      "tags": [
+        "elektrikli araç",
+        "electric car",
+        "şarj",
+        "charging",
+        "yakıt",
+        "fuel",
+        "araç",
+        "vehicle"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T00:05:00Z",
+      "checkedAt": "2026-11-18T23:57:12.036Z"
+    },
+    {
+      "id": "web-yahoo-konsol-satis",
+      "url": "https://uk.finance.yahoo.com/news/grand-theft-auto-6-release-160756340.html",
+      "author": "Yahoo Finance UK",
+      "network": "web",
+      "title": "GTA VI konsol satışlarını patlattı",
+      "summary": "GTA VI'ın çıkışı İngiltere'de PS5 ve Xbox satışlarında büyük bir artışa yol açtı. Yalnızca İngiltere'de çıkış günü yaklaşık 2,8 milyon yetişkinin oyunu oynaması bekleniyor.",
+      "category": "Haber",
+      "tags": [
+        "satış",
+        "sales",
+        "PS5",
+        "Xbox",
+        "İngiltere",
+        "UK",
+        "konsol",
+        "console"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T00:06:00Z",
+      "checkedAt": "2026-11-18T23:57:12.036Z"
     }
   ]
 }
