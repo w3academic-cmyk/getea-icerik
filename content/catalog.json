@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 34,
-  "publishedAt": "2026-11-18T13:29:00Z",
+  "revision": 35,
+  "publishedAt": "2026-11-18T13:33:42Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1546,6 +1546,41 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T13:15:17Z",
       "checkedAt": "2026-11-18T13:29:00Z"
+    },
+    {
+      "id": "x-schreier-gizli-gorevler",
+      "url": "https://x.com/jasonschreier/status/2123045163589349645",
+      "author": "@jasonschreier",
+      "network": "x",
+      "title": "İşaretsiz gizli yan görevler: defterle ipucu avı",
+      "summary": "Bloomberg’den Jason Schreier’e göre GTA VI’da hiçbir hedef işareti veya haritada noktası olmayan, detaylı yan görevler var. Bunları çözmek için etrafı dikkatle izleyip ipuçlarını bulman ve oyundaki defterini kullanman gerekiyor. Gizem ve dedektiflik sevenler için.",
+      "category": "Gizli",
+      "tags": [
+        "GizliGörev",
+        "YanGörev",
+        "İpucu",
+        "Defter"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T13:26:25Z",
+      "checkedAt": "2026-11-18T13:33:42Z"
+    },
+    {
+      "id": "x-speed-blood-in-your-eyes",
+      "url": "https://x.com/IShowSpeedHQ/status/2123044792221217055",
+      "author": "@IShowSpeedHQ",
+      "network": "x",
+      "title": "Oyunun yeni şarkısı: “Blood In Your Eyes”",
+      "summary": "IShowSpeed, GTA VI yayınına oyunun yeni şarkısı “Blood In Your Eyes” ile dans ederek başladı.",
+      "category": "Gizli",
+      "tags": [
+        "Müzik",
+        "Radyo",
+        "IShowSpeed"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T13:24:57Z",
+      "checkedAt": "2026-11-18T13:33:42Z"
     }
   ]
 }
