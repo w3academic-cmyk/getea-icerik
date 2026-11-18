@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 30,
-  "publishedAt": "2026-11-18T13:13:49Z",
+  "revision": 31,
+  "publishedAt": "2026-11-18T13:18:43Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1264,6 +1264,106 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T13:07:00Z",
       "checkedAt": "2026-11-18T13:13:49Z"
+    },
+    {
+      "id": "x-novara-n3on-tam-harita",
+      "url": "https://x.com/novaraszn/status/2123016073750671859",
+      "author": "@novaraszn",
+      "network": "x",
+      "title": "Oyun içi haritanın tamamı yayında göründü",
+      "summary": "Yayıncı N3ON, oyun içindeki haritanın tamamını yayınında gösterdi; harita beklenenden çok büyük. Bu, Rockstar’ın yazdırılabilir resmî haritası değil, oyunun kendi harita ekranı.",
+      "category": "Harita",
+      "tags": [
+        "TamHarita",
+        "Leonida",
+        "N3ON"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T11:30:50Z",
+      "checkedAt": "2026-11-18T13:18:43Z"
+    },
+    {
+      "id": "x-clipcloud-adin-harita",
+      "url": "https://x.com/clipcloud/status/2123015686230614305",
+      "author": "@clipcloud",
+      "network": "x",
+      "title": "Adin Ross haritanın büyüklüğüne şaşırdı",
+      "summary": "Adin Ross, yayınında GTA VI haritasını açınca boyutuna şaşırdı. Klip 350 binden fazla izlendi.",
+      "category": "Harita",
+      "tags": [
+        "Harita",
+        "AdinRoss"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T11:29:17Z",
+      "checkedAt": "2026-11-18T13:18:43Z"
+    },
+    {
+      "id": "x-lacy-5kat",
+      "url": "https://x.com/LacyUpdatesLIVE/status/2123015583260438839",
+      "author": "@LacyUpdatesLIVE",
+      "network": "x",
+      "title": "İddia: Harita GTA V’ten 5 kat büyük",
+      "summary": "Yayıncı Lacy ilk görevi oynarken haritanın GTA V’in haritasından yaklaşık 5 kat büyük olduğunu söyledi. Resmî bir ölçüm değil, ilk izlenim.",
+      "category": "Harita",
+      "tags": [
+        "Harita",
+        "Boyut",
+        "İddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T11:28:53Z",
+      "checkedAt": "2026-11-18T13:18:43Z"
+    },
+    {
+      "id": "x-genepark-soygun-hazirlik",
+      "url": "https://x.com/GenePark/status/2123017818064945603",
+      "author": "@GenePark",
+      "network": "x",
+      "title": "Soygun ipucu: Ye, uyu, hazırlan",
+      "summary": "Washington Post’tan Gene Park’a göre banka soygunlarında yemek yemek ve uyumak önemli. Ne kadar hazırlanacağın sana kalmış; Park iyi beslenip dinlenerek, ağır silahlar alıp çıkış yollarını öğrenerek “temiz kaçış” yapabildiğini, yani polis gelmeden tüm parayla çıkabildiğini söylüyor.",
+      "category": "İpucu",
+      "tags": [
+        "Soygun",
+        "Hazırlık",
+        "Para"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T11:37:46Z",
+      "checkedAt": "2026-11-18T13:18:43Z"
+    },
+    {
+      "id": "x-baylen-haritadan-dustu",
+      "url": "https://x.com/BaylenLatona/status/2123017702893900238",
+      "author": "@BaylenLatona",
+      "network": "x",
+      "title": "Hata: İlk görevde haritanın içinden düşme",
+      "summary": "Bir oyuncu ilk görevi açar açmaz karakterinin haritanın içinden düştüğünü paylaştı. Başına gelirse son kayda dönmek genelde çözer.",
+      "category": "Hata",
+      "tags": [
+        "Hata",
+        "İlkGörev"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T11:37:18Z",
+      "checkedAt": "2026-11-18T13:18:43Z"
+    },
+    {
+      "id": "x-rap-drake-sarkilar",
+      "url": "https://x.com/Rap/status/2123033472147030152",
+      "author": "@Rap",
+      "network": "x",
+      "title": "Radyoda Drake: şimdiye kadar bulunan 3 şarkı",
+      "summary": "Oyunun radyosunda şimdiye kadar bulunan Drake şarkıları: “Hold On, We’re Going Home”, “Nonstop” ve “NOKIA”.",
+      "category": "Gizli",
+      "tags": [
+        "Radyo",
+        "Müzik",
+        "Drake"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T12:39:58Z",
+      "checkedAt": "2026-11-18T13:18:43Z"
     }
   ]
 }
