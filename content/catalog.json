@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 55,
-  "publishedAt": "2026-11-18T15:57:32Z",
+  "revision": 56,
+  "publishedAt": "2026-11-18T16:17:38Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -2270,6 +2270,126 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T15:41:44Z",
       "checkedAt": "2026-11-18T15:57:32Z"
+    },
+    {
+      "id": "x-lazarbeam-bigfoot",
+      "url": "https://x.com/Lazarbeam/status/2123085708072239142",
+      "author": "@Lazarbeam",
+      "network": "x",
+      "title": "Lazarbeam Koca Ayak’ı buldu (video)",
+      "summary": "Yayıncı Lazarbeam, GTA VI’da Koca Ayak’ı (Bigfoot) bulduğu anı videoya aldı. Konumu videodan takip edebilirsin; doğrulanınca haritaya ekleyeceğiz.",
+      "category": "Easter Egg",
+      "tags": [
+        "KocaAyak",
+        "Bigfoot",
+        "EasterEgg"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T16:07:32Z",
+      "checkedAt": "2026-11-18T16:17:38Z"
+    },
+    {
+      "id": "x-popcore-zara",
+      "url": "https://x.com/TheePopCore/status/2123085047586529332",
+      "author": "@TheePopCore",
+      "network": "x",
+      "title": "Pop radyosunda Zara Larsson ft. PinkPantheress",
+      "summary": "Zara Larsson’ın PinkPantheress’in eşlik ettiği “Midnight Sun (Girls Trip)” şarkısı oyunun Pop radyosunda.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "RadyoPop",
+        "ZaraLarsson"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T16:04:55Z",
+      "checkedAt": "2026-11-18T16:17:38Z"
+    },
+    {
+      "id": "x-pinksview-blackpink",
+      "url": "https://x.com/pinksview/status/2123084881785983176",
+      "author": "@pinksview",
+      "network": "x",
+      "title": "BLACKPINK üyelerinin oyundaki şarkıları",
+      "summary": "Şimdiye kadar bilinenler: JENNIE’nin “Power Trip” (GTA VI soundtrack’i) ve “Mantra”, JISOO’nun “earthquake” şarkıları.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "BLACKPINK",
+        "JENNIE",
+        "JISOO"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T16:04:15Z",
+      "checkedAt": "2026-11-18T16:17:38Z"
+    },
+    {
+      "id": "x-hypetribe-burna-bigger",
+      "url": "https://x.com/hypetribeng/status/2123084982172467254",
+      "author": "@hypetribeng",
+      "network": "x",
+      "title": "Burna Boy’dan GTA VI albümü için yeni şarkı: “Bigger”",
+      "summary": "Burna Boy’un GTA VI albüm soundtrack’inden yeni şarkısı “Bigger” cuma günü çıkıyor.",
+      "category": "Radyo",
+      "tags": [
+        "Müzik",
+        "BurnaBoy",
+        "Soundtrack"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T16:04:39Z",
+      "checkedAt": "2026-11-18T16:17:38Z"
+    },
+    {
+      "id": "x-fcbayern-son-antrenman",
+      "url": "https://x.com/FCBayern/status/2123086636254998887",
+      "author": "@FCBayern",
+      "network": "x",
+      "title": "Bayern Münih: “GTA VI öncesi son antrenman”",
+      "summary": "Bayern Münih, oyuncularının GTA VI öncesi son antrenmanını esprili bir paylaşımla duyurdu. Futbol kulüpleri GTA VI akımına katılmaya devam ediyor.",
+      "category": "Haber",
+      "tags": [
+        "Futbol",
+        "BayernMünih",
+        "Kulüpler"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T16:11:13Z",
+      "checkedAt": "2026-11-18T16:17:38Z"
+    },
+    {
+      "id": "x-typicalgamer-savas-ucagi",
+      "url": "https://x.com/TypicalGamer/status/2123085700379918486",
+      "author": "@TypicalGamer",
+      "network": "x",
+      "title": "Savaş uçağı çalmak mümkün",
+      "summary": "Typical Gamer, GTA VI’da bir savaş uçağı çaldığı anı paylaştı. Askerî uçaklar çalınabiliyor.",
+      "category": "Video",
+      "tags": [
+        "SavaşUçağı",
+        "Jet",
+        "Askeri"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T16:07:30Z",
+      "checkedAt": "2026-11-18T16:17:38Z"
+    },
+    {
+      "id": "x-bpthaber-scooter-gasp",
+      "url": "https://x.com/bpthaber/status/2123084559223083354",
+      "author": "@bpthaber",
+      "network": "x",
+      "title": "NPC’ler bile soygun yapıyor: scooter’lı gaspçı",
+      "summary": "Oyunda engelli scooter’ı kullanan bir NPC’nin gasp girişiminde bulunduğu görüldü. NPC’lerin kendi aralarında suç işlemesi gibi detaylar şaşırtıyor.",
+      "category": "Özellik",
+      "tags": [
+        "NPC",
+        "Detay",
+        "Suç"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T16:02:58Z",
+      "checkedAt": "2026-11-18T16:17:38Z"
     }
   ]
 }
