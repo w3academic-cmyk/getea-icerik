@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 25,
-  "publishedAt": "2026-11-18T12:33:58Z",
+  "revision": 26,
+  "publishedAt": "2026-11-18T12:48:31Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1182,6 +1182,22 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T12:00:11Z",
       "checkedAt": "2026-11-18T12:33:58Z"
+    },
+    {
+      "id": "x-tomhenderson-hileler",
+      "url": "https://x.com/_Tom_Henderson_/status/2123031800809480241",
+      "author": "@_Tom_Henderson_",
+      "network": "x",
+      "title": "Hile kodları geri döndü: Insider Gaming listesi",
+      "summary": "Insider Gaming’den Tom Henderson, GTA VI’daki tüm hile kodlarını derleyen bir rehber paylaştı. PowerPyx’e göre hileler hikâye bittikten sonra açılıyor; hile açıkken kupa kazanılamıyor ve kayıt yapılamıyor.",
+      "category": "Hile",
+      "tags": [
+        "Hileler",
+        "InsiderGaming"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-18T12:33:19Z",
+      "checkedAt": "2026-11-18T12:48:31Z"
     }
   ]
 }
