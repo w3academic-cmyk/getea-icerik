@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 65,
-  "publishedAt": "2026-11-18T20:48:54.864Z",
+  "revision": 66,
+  "publishedAt": "2026-11-18T20:50:48.943Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3026,6 +3026,144 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T19:00:00Z",
       "checkedAt": "2026-11-18T20:48:54.864Z"
+    },
+    {
+      "id": "x-ign-kulaklik-radyo",
+      "url": "https://x.com/IGN/status/2123148247845786099",
+      "author": "@IGN",
+      "network": "x",
+      "title": "Radyoyu her yerde dinlemek için kulaklık al",
+      "summary": "Radyo istasyonlarını araç dışında da dinlemek istiyorsan oyundaki bir mağazadan kulaklık satın alman gerekiyor. IGN'e göre bunu ilk saatlerde halletmek iyi fikir.",
+      "category": "Radyo",
+      "tags": [
+        "radyo",
+        "radio",
+        "kulaklık",
+        "headphones",
+        "mağaza",
+        "ipucu"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T20:16:00Z",
+      "checkedAt": "2026-11-18T20:50:48.943Z"
+    },
+    {
+      "id": "x-synthpotato-navigasyon",
+      "url": "https://x.com/SynthPotato/status/2123154081569271845",
+      "author": "@SynthPotato",
+      "network": "x",
+      "title": "Haritayı açmadan hedef takibi: yeni navigasyon sistemi",
+      "summary": "GTA VI'da görevleri ve konumları haritayı açmadan, oyun içinden takip edebiliyorsun. Menüye girip çıkmadan aksiyonda kalmanı sağlıyor; oyuncular sistemi çok beğendi.",
+      "category": "Özellik",
+      "tags": [
+        "navigasyon",
+        "navigation",
+        "GPS",
+        "harita",
+        "map",
+        "waypoint"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T20:39:00Z",
+      "checkedAt": "2026-11-18T20:50:48.943Z"
+    },
+    {
+      "id": "x-bpthaber-elektrik-kayip",
+      "url": "https://x.com/bpthaber/status/2123150203960115210",
+      "author": "@bpthaber",
+      "network": "x",
+      "title": "Elektrik kesildi, 10 saatlik ilerleme gitti",
+      "summary": "Bir yayıncı evindeki elektrik kesintisi yüzünden GTA VI'daki 10 saati aşkın ilerlemesini kaybetti. Ders: otomatik kayda güvenme, uzun oturumlarda ara ara elle kayıt al (güvenli ev/yatak).",
+      "category": "İpucu",
+      "tags": [
+        "kayıt",
+        "save",
+        "otomatik kayıt",
+        "autosave",
+        "ilerleme",
+        "progress"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T20:23:00Z",
+      "checkedAt": "2026-11-18T20:50:48.943Z"
+    },
+    {
+      "id": "x-andyvgc-2021-ev",
+      "url": "https://x.com/Andy_VGC/status/2123137515393794501",
+      "author": "@Andy_VGC (VGC)",
+      "network": "x",
+      "title": "2021'deki gizli ipucu doğru çıktı: o ev oyunda",
+      "summary": "Oyuncular, yıllardır konuşulan 'GTA 6 evi'ni oyunda buldu. Bu, oyunun ilk görüntüsünün aslında 2021'de bir easter egg içinde saklandığını gösteriyor olabilir.",
+      "category": "Easter Egg",
+      "tags": [
+        "easter egg",
+        "2021",
+        "ev",
+        "house",
+        "gizli",
+        "secret"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T19:33:00Z",
+      "checkedAt": "2026-11-18T20:50:48.943Z"
+    },
+    {
+      "id": "x-rackhamnz-bolge-ban",
+      "url": "https://x.com/RackhamNZ/status/2123130796836077625",
+      "author": "@RackhamNZ",
+      "network": "x",
+      "title": "İddia: Bölgeyi Yeni Zelanda yapanlara PSN banı",
+      "summary": "Bazı kullanıcılar, erken oynamak için PSN bölgesini Yeni Zelanda'ya çevirenlerin hesap yasağı aldığını iddia ediyor. Sony'den doğrulama yok; yine de hesabını riske atmamak için bölge değiştirmeden Türkiye çıkışını (00.00) beklemek en güvenlisi.",
+      "category": "Haber",
+      "tags": [
+        "İddia",
+        "PSN",
+        "ban",
+        "bölge",
+        "region",
+        "Yeni Zelanda"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T19:06:00Z",
+      "checkedAt": "2026-11-18T20:50:48.943Z"
+    },
+    {
+      "id": "x-selcukozdag-indirme-suresi",
+      "url": "https://x.com/selcukozdag/status/2123150801334116483",
+      "author": "@selcukozdag",
+      "network": "x",
+      "title": "Türkiye'de 100 GB indirme ortalama 2,5 saat",
+      "summary": "Eylül 2026 verilerine göre Türkiye 86,6 Mbps medyan sabit internet hızıyla dünyada 94. sırada. Bu hızla 100 GB'lık dosya yaklaşık 2 saat 34 dakikada iner; oyunu ön yüklemediysen gece uzun sürebilir.",
+      "category": "Türkçe",
+      "tags": [
+        "Türkiye",
+        "internet",
+        "indirme",
+        "download",
+        "hız",
+        "ön yükleme"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T20:26:00Z",
+      "checkedAt": "2026-11-18T20:50:48.943Z"
+    },
+    {
+      "id": "x-kirmizikose-mcgregor",
+      "url": "https://x.com/KirmiziKoseMMA/status/2123147988239323258",
+      "author": "@KirmiziKoseMMA",
+      "network": "x",
+      "title": "Conor McGregor, GTA VI için 400 çalışanına izin verdi",
+      "summary": "Conor McGregor, oyunun çıkışı şerefine farklı ülkelerdeki 400 kişilik ekibine yarın tam gün izin verdiğini duyurdu.",
+      "category": "Haber",
+      "tags": [
+        "McGregor",
+        "ünlüler",
+        "celebrity",
+        "izin"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T20:15:00Z",
+      "checkedAt": "2026-11-18T20:50:48.943Z"
     }
   ]
 }
