@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 64,
-  "publishedAt": "2026-11-18T18:57:30Z",
+  "revision": 65,
+  "publishedAt": "2026-11-18T20:48:54.864Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -2968,6 +2968,64 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T18:40:15Z",
       "checkedAt": "2026-11-18T18:57:30Z"
+    },
+    {
+      "id": "web-psn-kesinti-son-durum",
+      "url": "https://mein-mmo.de/en/psn-down-for-the-gta-6-release-in-the-live-ticker-everything-about-the-outage-and-the-server-status-on-ps5,1597022/",
+      "author": "MeinMMO",
+      "network": "web",
+      "title": "PSN kesintisi: Downdetector'da 1000'i aşan şikâyet, durum sayfası yeniden yeşil",
+      "summary": "GTA VI'ın dünya çapındaki açılışıyla PSN'de giriş ve kod etkinleştirme sorunları yaşandı; Downdetector şikâyetleri TSİ 21.00 civarında 1000'i geçti. Son güncellemelere göre Sony'nin durum sayfasında tüm servisler yeniden yeşil, şikâyetler düşüyor. Sorunun nedeni resmî olarak açıklanmadı; gece yarısı giriş yapamazsan konsolu yeniden başlatıp birkaç dakika sonra tekrar dene.",
+      "category": "Haber",
+      "tags": [
+        "PSN",
+        "PlayStation",
+        "Kesinti",
+        "Outage",
+        "Downdetector"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T20:50:00Z",
+      "checkedAt": "2026-11-18T20:48:54.864Z"
+    },
+    {
+      "id": "web-psn-kod-indirme-takildi",
+      "url": "https://vgtimes.com/gaming-news/175045-ps5-users-report-playstation-network-errors-as-gta-6-downloads-stall.html",
+      "author": "VGTimes",
+      "network": "web",
+      "title": "PS5'te \"servisler meşgul\" hatası: kodlar ve indirmeler takıldı",
+      "summary": "Oyun yalnızca dijital olduğu için herkes PlayStation Store'dan geçmek zorunda; yoğunlukta bazı oyuncular kod etkinleştiremedi, indirmeler durdu. İndirme takılırsa kablolu bağlantıya geç, diğer indirmeleri duraklat, konsolu yeniden başlat. PS5 için 01.002.001 oyun güncellemesi (~602 MB) da yayında.",
+      "category": "Hata",
+      "tags": [
+        "PSN",
+        "indirme",
+        "download",
+        "servisler meşgul",
+        "services busy",
+        "01.002.001"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T19:40:00Z",
+      "checkedAt": "2026-11-18T20:48:54.864Z"
+    },
+    {
+      "id": "web-xbox-indirme-boyutu",
+      "url": "https://outputlag.com/guides/gta-6-not-working-day-one-problems-fixes/",
+      "author": "OutputLag",
+      "network": "web",
+      "title": "Yer kontrolü: Xbox'ta indirme 225,3 GB",
+      "summary": "Kurulum hatalarının en yaygın nedeni yetersiz alan. Xbox indirmesi 225,3 GB; ilk gün yaması için üstüne 50–100 GB boş yer bırakman öneriliyor. Xbox'ta \"İndirme durdu\" hatası önce bir sistem güncellemesi gerektiğini gösterebilir.",
+      "category": "Performans",
+      "tags": [
+        "Xbox",
+        "depolama",
+        "storage",
+        "indirme boyutu",
+        "download size"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T19:00:00Z",
+      "checkedAt": "2026-11-18T20:48:54.864Z"
     }
   ]
 }
