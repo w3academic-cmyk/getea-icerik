@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 9,
-  "publishedAt": "2026-11-18T11:21:42Z",
+  "revision": 10,
+  "publishedAt": "2026-11-18T11:31:39Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -670,6 +670,56 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T10:03:56Z",
       "checkedAt": "2026-11-18T11:21:42Z"
+    },
+    {
+      "id": "x-discussingfilm-puanlar",
+      "url": "https://x.com/DiscussingFilm/status/2123014483484217559",
+      "author": "@DiscussingFilm",
+      "network": "x",
+      "title": "İnceleme puanları tek tek",
+      "summary": "IGN, GameSpot, Game Informer, EDGE, GamesRadar, Push Square, Destructoid ve TechRadar 10/10 verdi; Eurogamer ve Empire 5/5. Metacritic ortalaması 99.",
+      "category": "Haber",
+      "tags": [
+        "İnceleme",
+        "Metacritic"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T11:24:31Z",
+      "checkedAt": "2026-11-18T11:31:39Z"
+    },
+    {
+      "id": "x-genepark-npc",
+      "url": "https://x.com/GenePark/status/2123010535478427924",
+      "author": "@GenePark",
+      "network": "x",
+      "title": "Washington Post: yaklaşık 33.000 benzersiz NPC",
+      "summary": "Washington Post yazarı Gene Park’a göre GTA VI’da yaklaşık 33.000 benzersiz NPC var. Park’a göre oyunun en yenilikçi yanı her kişinin kendine özgü hissettirmesi: NPC’ler konuşmaların ve karşılaşmaların temposunu kendileri belirleyebiliyor.",
+      "category": "Haber",
+      "tags": [
+        "NPC",
+        "WashingtonPost",
+        "İnceleme"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T11:08:49Z",
+      "checkedAt": "2026-11-18T11:31:39Z"
+    },
+    {
+      "id": "x-haskologlu-ps5pro",
+      "url": "https://x.com/haskologlu/status/2123014284636533142",
+      "author": "@haskologlu",
+      "network": "x",
+      "title": "Türkiye’de PS5 Pro fiyatı tartışması",
+      "summary": "İbrahim Haskoloğlu’nun paylaşımına göre GTA VI haftasında Türkiye’de PS5 Pro’nun fiyatı 56 bin TL’den 115 bin TL’ye çıktı ve Ticaret Bakanlığı inceleme başlattı. Fiyatlar satıcıya göre değişebilir, almadan önce karşılaştır.",
+      "category": "Haber",
+      "tags": [
+        "PS5Pro",
+        "Türkiye",
+        "Fiyat"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T11:23:43Z",
+      "checkedAt": "2026-11-18T11:31:39Z"
     }
   ]
 }
