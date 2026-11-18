@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 42,
-  "publishedAt": "2026-11-18T14:13:40Z",
+  "revision": 43,
+  "publishedAt": "2026-11-18T14:18:24Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1737,6 +1737,23 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T14:01:00Z",
       "checkedAt": "2026-11-18T14:13:40Z"
+    },
+    {
+      "id": "x-rosalia-candy",
+      "url": "https://x.com/updaterosalia/status/2123056465145626956",
+      "author": "@updaterosalia",
+      "network": "x",
+      "title": "Radyoda ROSALÍA: “CANDY”",
+      "summary": "Oyundan paylaşılan bir videoya göre ROSALÍA’nın “CANDY” şarkısı GTA VI’ın müzikleri arasında.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "Müzik",
+        "ROSALÍA"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T14:11:20Z",
+      "checkedAt": "2026-11-18T14:18:24Z"
     }
   ]
 }
