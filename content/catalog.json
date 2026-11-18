@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 52,
-  "publishedAt": "2026-11-18T15:19:53Z",
+  "revision": 53,
+  "publishedAt": "2026-11-18T15:24:34Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -2151,6 +2151,40 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T15:10:00Z",
       "checkedAt": "2026-11-18T15:19:53Z"
+    },
+    {
+      "id": "x-charlieintel-hile-rehberi",
+      "url": "https://x.com/charlieINTEL/status/2123072699316764996",
+      "author": "@charlieINTEL",
+      "network": "x",
+      "title": "Hile kodları resmen geri döndü: Dexerto rehberi",
+      "summary": "CharlieIntel’in paylaştığı Dexerto rehberi GTA VI’daki hile kodlarının tam listesini ve nasıl açılacaklarını anlatıyor. Hileler hikâye bittikten sonra açılıyor, açıkken kupa kazanılmıyor ve kayıt yapılamıyor.",
+      "category": "Hile",
+      "tags": [
+        "Hileler",
+        "Dexerto",
+        "Rehber"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-18T15:15:50Z",
+      "checkedAt": "2026-11-18T15:24:34Z"
+    },
+    {
+      "id": "x-honeymounz-lana",
+      "url": "https://x.com/honeymounz/status/2123072195073110420",
+      "author": "@honeymounz",
+      "network": "x",
+      "title": "Radyoda Lana Del Rey: Delta Dawne karakteri",
+      "summary": "Lana Del Rey oyunda “Delta Dawne” adlı bir radyo karakterini seslendiriyor; radyoda “Mud Dog Mike” adlı başka bir sunucu da var. Yeni radyo ses kayıtları paylaşıldı.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "LanaDelRey",
+        "Seslendirme"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T15:13:50Z",
+      "checkedAt": "2026-11-18T15:24:34Z"
     }
   ]
 }
