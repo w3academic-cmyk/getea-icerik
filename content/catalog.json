@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 56,
-  "publishedAt": "2026-11-18T16:17:38Z",
+  "revision": 57,
+  "publishedAt": "2026-11-18T16:37:35Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -2390,6 +2390,109 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T16:02:58Z",
       "checkedAt": "2026-11-18T16:17:38Z"
+    },
+    {
+      "id": "x-piratnation-fahise-yok",
+      "url": "https://x.com/Pirat_Nation/status/2123091062864404834",
+      "author": "@Pirat_Nation",
+      "network": "x",
+      "title": "Rockstar doğruladı: Seks işçisi tutma özelliği yok",
+      "summary": "Paylaşıma göre Rockstar, GTA III’ten beri seride olan seks işçisi tutma özelliğinin GTA VI’da bulunmadığını doğruladı. Sebep olarak Jason ve Lucia’nın ilişkisi ve oyunun hikâyesi gösteriliyor.",
+      "category": "Haber",
+      "tags": [
+        "Rockstar",
+        "Özellik",
+        "Kaldırıldı"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T16:28:49Z",
+      "checkedAt": "2026-11-18T16:37:35Z"
+    },
+    {
+      "id": "x-coldplayxtra-coldplay",
+      "url": "https://x.com/coldplayxtra/status/2123087942310613060",
+      "author": "@coldplayxtra",
+      "network": "x",
+      "title": "Coldplay de oyunun radyosunda",
+      "summary": "Digital Spy’ın haberine göre Coldplay şarkıları GTA VI radyo istasyonlarında yer alıyor.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "Coldplay",
+        "DigitalSpy"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T16:16:25Z",
+      "checkedAt": "2026-11-18T16:37:35Z"
+    },
+    {
+      "id": "x-afrobank-yeni-sarkilar",
+      "url": "https://x.com/kaptainswago/status/2123091417849307425",
+      "author": "@kaptainswago",
+      "network": "x",
+      "title": "AfroBank’ta yeni şarkılar: “Money Constant” ve “Holy Ghost”",
+      "summary": "AfroBank radyosunda DJ Maphorisa, DJ Tunez, Wizkid ve Mavo’nun “Money Constant” şarkısı ile Omah Lay’in “Holy Ghost” şarkısı çalıyor.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "AfroBank",
+        "Wizkid",
+        "OmahLay"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T16:30:13Z",
+      "checkedAt": "2026-11-18T16:37:35Z"
+    },
+    {
+      "id": "x-platcorn-rraenee",
+      "url": "https://x.com/platcornweb/status/2123091464024404286",
+      "author": "@platcornweb",
+      "network": "x",
+      "title": "Çıkış yayınlarında en çok izlenenler: RRaenee 5. sırada",
+      "summary": "Streams Charts’ın 14 platformdan derlediği verilere göre GTA VI çıkış yayınlarında RRaenee, 186,8 bin anlık izleyiciyle dünyanın en çok izlenen 5. yayıncısı oldu. Listenin üst sıralarında iShowSpeed var.",
+      "category": "Haber",
+      "tags": [
+        "Yayıncılar",
+        "StreamsCharts",
+        "İzlenme"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T16:30:24Z",
+      "checkedAt": "2026-11-18T16:37:35Z"
+    },
+    {
+      "id": "x-orhun-series-s",
+      "url": "https://x.com/OrhunKayaalp/status/2123090812468617271",
+      "author": "@OrhunKayaalp",
+      "network": "x",
+      "title": "Orhun Kayaalp GTA VI’ı Xbox Series S’te oynadı",
+      "summary": "Türk YouTuber Orhun Kayaalp, PS5 almasına rağmen GTA VI’ı Xbox Series S’te denedi ve nedenini videosunda anlattı. Series S kullananlar için ilk Türkçe izlenimlerden biri.",
+      "category": "Video",
+      "tags": [
+        "TürkYayıncı",
+        "SeriesS",
+        "Xbox"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T16:27:49Z",
+      "checkedAt": "2026-11-18T16:37:35Z"
+    },
+    {
+      "id": "x-gasteci-saadet",
+      "url": "https://x.com/gasteci31206/status/2123090425758310413",
+      "author": "@gasteci31206",
+      "network": "x",
+      "title": "Saadet Partisi’nden GTA VI temalı video",
+      "summary": "Saadet Partisi, GTA VI temalı “Fon Vurgunu” başlıklı bir video paylaştı. GTA VI’ın çıkışı Türkiye’de siyasette de kendine yer buldu.",
+      "category": "Haber",
+      "tags": [
+        "Türkiye",
+        "Siyaset",
+        "Gündem"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T16:26:17Z",
+      "checkedAt": "2026-11-18T16:37:35Z"
     }
   ]
 }
