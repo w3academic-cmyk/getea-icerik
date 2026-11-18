@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 76,
-  "publishedAt": "2026-11-18T23:37:14.243Z",
+  "revision": 77,
+  "publishedAt": "2026-11-18T23:37:26.195Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3497,6 +3497,27 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T23:44:00Z",
       "checkedAt": "2026-11-18T23:37:14.243Z"
+    },
+    {
+      "id": "web-engadget-izleyici-638",
+      "url": "https://kotaku.com/live-updates-on-gta-6-the-biggest-launch-in-gaming-history-2000758030",
+      "author": "Streams Charts (Kotaku canlı blog)",
+      "network": "web",
+      "title": "Yeni rekor: 6,38 milyon eşzamanlı izleyici",
+      "summary": "Streams Charts'ın ön verilerine göre GTA VI yayınları tüm platformlarda aynı anda 6,38 milyon kişiye ulaştı; bu, bir oyun çıkışı için rekor. Daha önce paylaşılan 5,3 milyon rakamı da böylece aşıldı.",
+      "category": "Haber",
+      "tags": [
+        "rekor",
+        "record",
+        "izleyici",
+        "viewers",
+        "Twitch",
+        "YouTube",
+        "yayın"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T23:41:00Z",
+      "checkedAt": "2026-11-18T23:37:26.195Z"
     }
   ]
 }
