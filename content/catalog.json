@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 22,
-  "publishedAt": "2026-11-18T12:17:01Z",
+  "revision": 23,
+  "publishedAt": "2026-11-18T12:19:00Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1078,6 +1078,41 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T12:17:01Z",
       "checkedAt": "2026-11-18T12:17:01Z"
+    },
+    {
+      "id": "x-powerpyx-hileler",
+      "url": "https://x.com/PowerPyx/status/2123024134527660375",
+      "author": "@PowerPyx",
+      "network": "x",
+      "title": "GTA VI’da 61 hile var, ama hikâyeden sonra",
+      "summary": "Kupa rehberi sitesi PowerPyx’e göre GTA VI’da 61 hile var. Hileler ancak hikâye bittikten sonra ve her birinin açılma koşulu tamamlanınca kullanılabiliyor. Hile açıkken kupa/başarım kazanılamıyor ve oyun kaydedilemiyor. Tam liste, tuş kombinasyonları ve açılma koşulları PowerPyx’te.",
+      "category": "Hile",
+      "tags": [
+        "Hileler",
+        "PowerPyx",
+        "Kupa"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-18T12:02:52Z",
+      "checkedAt": "2026-11-18T12:19:00Z"
+    },
+    {
+      "id": "x-shinobi-df-analiz",
+      "url": "https://x.com/shinobi602/status/2123026073243754771",
+      "author": "@shinobi602",
+      "network": "x",
+      "title": "Digital Foundry: PS5 ve PS5 Pro’da 1440p, Pro’da PSSR farkı büyük",
+      "summary": "Digital Foundry analizine göre GTA VI, şimdiye kadar oyunlarda görülen en detaylı ve inandırıcı şehir. Oyun hem PS5 hem PS5 Pro’da 1440p çözünürlükte çalışıyor ama görüntü belirgin şekilde farklı: PS5 Pro’daki PSSR ölçekleme yerel 4K’ya çok yakın sonuç veriyor.",
+      "category": "Performans",
+      "tags": [
+        "DigitalFoundry",
+        "Çözünürlük",
+        "PS5Pro",
+        "PSSR"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T12:10:34Z",
+      "checkedAt": "2026-11-18T12:19:00Z"
     }
   ]
 }
