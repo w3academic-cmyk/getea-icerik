@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 17,
-  "publishedAt": "2026-11-18T11:55:41Z",
+  "revision": 18,
+  "publishedAt": "2026-11-18T11:59:51Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -916,6 +916,40 @@
         "alt": "GTA VI harita ekranı: karakterin yanında Shower (duş) etiketi",
         "credit": "getea yayını"
       }
+    },
+    {
+      "id": "x-gtasix-ucus",
+      "url": "https://x.com/gtasix_/status/2123019967658614903",
+      "author": "@gtasix_",
+      "network": "x",
+      "title": "GTA VI’da uçuş oynanışı",
+      "summary": "Oyunda uçak kullanımını gösteren bir oynanış videosu paylaşıldı.",
+      "category": "Video",
+      "tags": [
+        "Uçuş",
+        "Uçak",
+        "Oynanış"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T11:46:18Z",
+      "checkedAt": "2026-11-18T11:59:51Z"
+    },
+    {
+      "id": "x-yoxics-ucak-zor",
+      "url": "https://x.com/yoxics/status/2123017882984730971",
+      "author": "@yoxics",
+      "network": "x",
+      "title": "Uçak kullanmak ilk seferde zor",
+      "summary": "Yayıncı JasonTheWeen, GTA VI’da ilk kez uçak kullanırken zorlandı ve “bu tüm zamanların en zor oyunu olabilir” dedi. Uçuş kontrolleri önceki oyunlardan farklı görünüyor; ilk uçuşlarda acele etme.",
+      "category": "İpucu",
+      "tags": [
+        "Uçuş",
+        "Uçak",
+        "Kontroller"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T11:38:01Z",
+      "checkedAt": "2026-11-18T11:59:51Z"
     }
   ]
 }
