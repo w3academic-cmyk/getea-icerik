@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 19,
-  "publishedAt": "2026-11-18T12:02:51Z",
+  "revision": 20,
+  "publishedAt": "2026-11-18T12:09:24Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -976,6 +976,41 @@
         "alt": "GTA VI haritası: Key Lento kasabası, Gambit Bay ve Shoeless Keys",
         "credit": "getea yayını"
       }
+    },
+    {
+      "id": "x-dexerto-df-performans",
+      "url": "https://x.com/Dexerto/status/2123021547858178425",
+      "author": "@Dexerto",
+      "network": "x",
+      "title": "Digital Foundry: PS5 Pro sabit 30, PS5 bazen 20’lerde",
+      "summary": "Dexerto’nun aktardığı Digital Foundry analizine göre GTA VI, PS5 Pro’da 30 FPS’i sarsılmadan koruyor; standart PS5’te ise kare hızı zaman zaman 20’lerin ortasına düşüyor. Digital Foundry konsollar arası karşılaştırma görüntüleri de yayınladı.",
+      "category": "Performans",
+      "tags": [
+        "DigitalFoundry",
+        "FPS",
+        "PS5",
+        "PS5Pro"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T11:52:35Z",
+      "checkedAt": "2026-11-18T12:09:24Z"
+    },
+    {
+      "id": "x-fearedbuck-charlamagne",
+      "url": "https://x.com/FearedBuck/status/2123023506388504671",
+      "author": "@FearedBuck",
+      "network": "x",
+      "title": "Charlamagne Tha God’un oyunda kendi podcast’i var",
+      "summary": "Adin Ross, Charlamagne Tha God’un GTA VI’da kendi podcast’i olduğunu görünce şaşırdı. Oyunun radyo ve podcast içeriklerinde gerçek ünlülere rastlamak mümkün.",
+      "category": "Gizli",
+      "tags": [
+        "Podcast",
+        "Radyo",
+        "Ünlüler"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T12:00:22Z",
+      "checkedAt": "2026-11-18T12:09:24Z"
     }
   ]
 }
