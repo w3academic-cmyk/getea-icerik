@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 11,
-  "publishedAt": "2026-11-18T11:36:12Z",
+  "revision": 12,
+  "publishedAt": "2026-11-18T11:47:27Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -737,6 +737,55 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T07:23:57Z",
       "checkedAt": "2026-11-18T11:36:12Z"
+    },
+    {
+      "id": "x-ign-fotograf-modu",
+      "url": "https://x.com/IGN/status/2123015877062689090",
+      "author": "@IGN",
+      "network": "x",
+      "title": "Çıkışta tam fotoğraf modu var",
+      "summary": "IGN’ye göre GTA VI çıkışta tam teşekküllü bir fotoğraf moduyla geliyor. Manzarayı durdurup kare almak isteyenler için oyunun içinde hazır.",
+      "category": "İpucu",
+      "tags": [
+        "FotoğrafModu",
+        "Özellik"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T11:30:03Z",
+      "checkedAt": "2026-11-18T11:47:27Z"
+    },
+    {
+      "id": "x-genepark-gizlilik",
+      "url": "https://x.com/GenePark/status/2123015807378862314",
+      "author": "@GenePark",
+      "network": "x",
+      "title": "Görevlerde şiddet şart değil, gizlilik güçlü",
+      "summary": "Washington Post’tan Gene Park’a göre görevler artık “oraya git, herkesi vur” değil. Birçok görev gergin sosyal durumları yönetmek üzerine ve şiddetten kaçınmak mümkün. Gizlilik de güçlü: Park, birçok çete merkezini susturuculu silahla sessizce temizlediğini söylüyor.",
+      "category": "İpucu",
+      "tags": [
+        "Gizlilik",
+        "Görevler",
+        "İnceleme"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T11:29:46Z",
+      "checkedAt": "2026-11-18T11:47:27Z"
+    },
+    {
+      "id": "x-bpthaber-mersin",
+      "url": "https://x.com/bpthaber/status/2123016193669812416",
+      "author": "@bpthaber",
+      "network": "x",
+      "title": "Mersin’de bir esnaf GTA VI için dükkânı kapattı",
+      "summary": "BPT’nin paylaşımına göre Mersin’de bir esnaf, GTA VI oynamak için dükkânını bir günlüğüne kapattı.",
+      "category": "Haber",
+      "tags": [
+        "Türkiye",
+        "Mersin"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T11:31:18Z",
+      "checkedAt": "2026-11-18T11:47:27Z"
     }
   ]
 }
