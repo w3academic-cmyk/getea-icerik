@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 21,
-  "publishedAt": "2026-11-18T12:14:15Z",
+  "revision": 22,
+  "publishedAt": "2026-11-18T12:17:01Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1061,6 +1061,23 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T11:52:51Z",
       "checkedAt": "2026-11-18T12:14:15Z"
+    },
+    {
+      "id": "web-stateofleonida",
+      "url": "https://map.stateofleonida.net/",
+      "author": "State of Leonida",
+      "network": "web",
+      "title": "Topluluk haritası: State of Leonida",
+      "summary": "Oyuncu topluluğunun hazırladığı en büyük etkileşimli Leonida haritası. Fragmanlar, resmî ekran görüntüleri ve sızıntılardan yerleri tek tek işaretlemişler; bazı katmanlarda 1.500’den fazla işaret var. Nasıl kullanılır: Soldaki “Markers” bölümünden kategori seç (Landmarks: önemli yerler, Trailer: fragmandan yerler, Screenshots: resmî görsellerden yerler, Leaks: sızıntılar). Haritayı Ctrl’ye basılı tutarak kaydır. “Rockstar Maps” bölümünden GTA V, Vice City veya RDR2 haritasını üstüne koyup boyut karşılaştırabilirsin. Sitede ayrıca bir ekran görüntüsünün haritada nerede çekildiğini tahmin ettiğin bir oyun var. Not: Harita resmî değil ve oyun çıkmadan önce hazırlandı; bazı yerler hatalı olabilir, “Leaks” katmanı spoiler ve doğrulanmamış bilgi içerebilir. Site İngilizce ve Almanca.",
+      "category": "Harita",
+      "tags": [
+        "ToplulukHaritası",
+        "Leonida",
+        "EtkileşimliHarita"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T12:17:01Z",
+      "checkedAt": "2026-11-18T12:17:01Z"
     }
   ]
 }
