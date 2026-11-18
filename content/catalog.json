@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 12,
-  "publishedAt": "2026-11-18T11:47:27Z",
+  "revision": 13,
+  "publishedAt": "2026-11-18T11:52:18Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -786,6 +786,31 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T11:31:18Z",
       "checkedAt": "2026-11-18T11:47:27Z"
+    },
+    {
+      "id": "getea-oyun-ici-harita-ilk",
+      "url": "https://getea.netlify.app/gundem",
+      "author": "getea yayını",
+      "network": "web",
+      "title": "Oyun içi haritadan ilk kare",
+      "summary": "Kendi yayınımızdan: Haritanın güneyindeki deniz “Leonida Straits” (Leonida Boğazı) olarak geçiyor. Ekranda yollarla birbirine bağlı uzun bir ada zinciri görünüyor. Harita ekranında ortala (L3), 2D görünüm (R3), işaret ekle (□) ve hedef belirle (X) seçenekleri var; yani haritanın bir de 3D görünümü bulunuyor. Görev: “Gone Fishing”. Donnie’nin bir sevkiyattan birkaç paket aşırmasına yardım ediyorsun; isteğe bağlı hedef karavandaki parayı geri almak.",
+      "category": "Harita",
+      "tags": [
+        "Harita",
+        "LeonidaStraits",
+        "GoneFishing",
+        "PS5"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-18T11:52:18Z",
+      "checkedAt": "2026-11-18T11:52:18Z",
+      "image": {
+        "src": "https://raw.githubusercontent.com/w3academic-cmyk/getea-icerik/main/content/media/oyun-ici-harita-gone-fishing.webp",
+        "width": 1714,
+        "height": 834,
+        "alt": "GTA VI oyun içi harita ekranı: Leonida Straits kıyısında ada zinciri ve Gone Fishing görevi",
+        "credit": "getea yayını"
+      }
     }
   ]
 }
