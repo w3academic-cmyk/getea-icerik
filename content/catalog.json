@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 40,
-  "publishedAt": "2026-11-18T13:54:38Z",
+  "revision": 41,
+  "publishedAt": "2026-11-18T14:04:11Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1668,6 +1668,40 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T13:42:22Z",
       "checkedAt": "2026-11-18T13:54:38Z"
+    },
+    {
+      "id": "x-notiplay-sam-houser",
+      "url": "https://x.com/NotiPlay_/status/2123052669623218197",
+      "author": "@NotiPlay_",
+      "network": "x",
+      "title": "Sam Houser’dan çıkış mesajı",
+      "summary": "Rockstar Games’in kurucu ortağı Sam Houser, GTA VI’ın çıkışını kutlayan ve stüdyonun seriyle ulaştığı noktayı anlatan bir açıklama yayınladı. Houser, Rockstar’ın oyunların neler başarabileceğine olan inançla kurulduğunu vurguladı.",
+      "category": "Haber",
+      "tags": [
+        "Rockstar",
+        "SamHouser",
+        "Açıklama"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T13:56:15Z",
+      "checkedAt": "2026-11-18T14:04:11Z"
+    },
+    {
+      "id": "x-arianabr-break-free",
+      "url": "https://x.com/arianagrandebr/status/2123052768185266524",
+      "author": "@arianagrandebr",
+      "network": "x",
+      "title": "Radyoda Ariana Grande: “Break Free”",
+      "summary": "Oyundan paylaşılan bir videoya göre Ariana Grande’nin “Break Free” şarkısı GTA VI radyosunda çalıyor.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "Müzik",
+        "ArianaGrande"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T13:56:39Z",
+      "checkedAt": "2026-11-18T14:04:11Z"
     }
   ]
 }
