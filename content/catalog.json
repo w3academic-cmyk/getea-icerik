@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 37,
-  "publishedAt": "2026-11-18T13:38:26Z",
+  "revision": 38,
+  "publishedAt": "2026-11-18T13:43:11Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1615,6 +1615,24 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T13:25:17Z",
       "checkedAt": "2026-11-18T13:38:26Z"
+    },
+    {
+      "id": "x-hypetribe-afrobank",
+      "url": "https://x.com/hypetribeng/status/2123045666242879773",
+      "author": "@hypetribeng",
+      "network": "x",
+      "title": "AfroBank radyosunda Asake: “Joha”",
+      "summary": "Oyunda Afrobeats çalan “AfroBank” adlı bir radyo istasyonu var. Asake’nin “Joha” şarkısı bu istasyonda çalıyor.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "AfroBank",
+        "Asake",
+        "Afrobeats"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T13:28:25Z",
+      "checkedAt": "2026-11-18T13:43:11Z"
     }
   ]
 }
