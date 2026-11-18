@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 28,
-  "publishedAt": "2026-11-18T12:57:54Z",
+  "revision": 29,
+  "publishedAt": "2026-11-18T13:03:51Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1231,6 +1231,23 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T12:51:18Z",
       "checkedAt": "2026-11-18T12:57:54Z"
+    },
+    {
+      "id": "x-katseye-radyo",
+      "url": "https://x.com/NewsKatseye/status/2123036343575961930",
+      "author": "@NewsKatseye",
+      "network": "x",
+      "title": "Radyoda KATSEYE: “Gabriela”",
+      "summary": "KATSEYE’nin “Gabriela” şarkısı GTA VI’daki radyo istasyonlarından birinde çalıyor.",
+      "category": "Gizli",
+      "tags": [
+        "Radyo",
+        "Müzik",
+        "KATSEYE"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T12:51:23Z",
+      "checkedAt": "2026-11-18T13:03:51Z"
     }
   ]
 }
