@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 39,
-  "publishedAt": "2026-11-18T13:49:51Z",
+  "revision": 40,
+  "publishedAt": "2026-11-18T13:54:38Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1650,6 +1650,24 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T13:32:42Z",
       "checkedAt": "2026-11-18T13:49:51Z"
+    },
+    {
+      "id": "x-hypetribe-burna-dj",
+      "url": "https://x.com/hypetribeng/status/2123049176657219983",
+      "author": "@hypetribeng",
+      "network": "x",
+      "title": "AfroBank FM’in sunucusu Burna Boy",
+      "summary": "Afrobeats istasyonu AfroBank FM’in radyo sunucusu (DJ) Burna Boy. İstasyonda Asake’nin “Joha” ve Burna Boy ile Seyi Vibez’in “GIZA” şarkıları da çalıyor.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "AfroBank",
+        "BurnaBoy",
+        "DJ"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T13:42:22Z",
+      "checkedAt": "2026-11-18T13:54:38Z"
     }
   ]
 }
