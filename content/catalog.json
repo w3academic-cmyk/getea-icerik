@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 16,
+  "revision": 17,
   "publishedAt": "2026-11-18T11:55:41Z",
   "locale": "tr-TR",
   "sources": [
@@ -876,7 +876,7 @@
       "network": "web",
       "title": "Harita menüsü: soldaki filtreler",
       "summary": "Harita ekranının solunda dikey bir filtre menüsü var: yön oku, harita/rehber (sarı noktayla yeni içerik işareti), para, spor salonu, araçlar, silahlar, kıyafet ve yemek. Bu filtrelerle haritada yalnızca istediğin türdeki yerleri gösterebiliyorsun. Pembe halkalı silah dükkânı ikonu öne çıkarılmış durumda.",
-      "category": "İpucu",
+      "category": "Harita",
       "tags": [
         "Harita",
         "Filtreler",
@@ -900,7 +900,7 @@
       "network": "web",
       "title": "Haritada “Shower” (duş) noktası",
       "summary": "Karakterin bulunduğu yerin hemen yanında haritada “Shower” yani duş noktası işaretli, mesafe 6 ft gösteriliyor. Duşun ne işe yaradığı henüz kesin değil; GTA VI’da karakterin görünümünün temizlenmesiyle ilgili olabilir. Bulunca güncelleyeceğiz.",
-      "category": "Konum",
+      "category": "Harita",
       "tags": [
         "Duş",
         "Konum",
