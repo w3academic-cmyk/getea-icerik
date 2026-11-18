@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 38,
-  "publishedAt": "2026-11-18T13:43:11Z",
+  "revision": 39,
+  "publishedAt": "2026-11-18T13:49:51Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1633,6 +1633,23 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T13:28:25Z",
       "checkedAt": "2026-11-18T13:43:11Z"
+    },
+    {
+      "id": "x-charlixcx-good-ones",
+      "url": "https://x.com/infocharlixcx/status/2123046741394194888",
+      "author": "@infocharlixcx",
+      "network": "x",
+      "title": "Radyoda Charli xcx: “Good Ones”",
+      "summary": "Charli xcx’in “Good Ones” şarkısı GTA VI radyosunda çalıyor.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "Müzik",
+        "CharliXCX"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T13:32:42Z",
+      "checkedAt": "2026-11-18T13:49:51Z"
     }
   ]
 }
