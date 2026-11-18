@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 49,
-  "publishedAt": "2026-11-18T15:04:37Z",
+  "revision": 50,
+  "publishedAt": "2026-11-18T15:10:21Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1979,6 +1979,74 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T14:35:01Z",
       "checkedAt": "2026-11-18T15:04:37Z"
+    },
+    {
+      "id": "x-statsofminaj-pop",
+      "url": "https://x.com/statsofminaj/status/2123068432253862173",
+      "author": "@statsofminaj",
+      "network": "x",
+      "title": "Radyo Pop’ta Madonna ft. Nicki Minaj: “Give Me All Your Luvin’”",
+      "summary": "Oyundan paylaşılan bir videoya göre “Give Me All Your Luvin’” (ft. Nicki Minaj) Pop radyo istasyonunda çalıyor.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "RadyoPop",
+        "NickiMinaj"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T14:58:53Z",
+      "checkedAt": "2026-11-18T15:10:21Z"
+    },
+    {
+      "id": "x-hypetribe-how-far",
+      "url": "https://x.com/hypetribeng/status/2123068142154875002",
+      "author": "@hypetribeng",
+      "network": "x",
+      "title": "AfroBank’ta “How Far”",
+      "summary": "NO11, Ayjay Bobo ve Monochrome’un “How Far” şarkısı AfroBank radyosunda çalıyor.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "AfroBank",
+        "Afrobeats"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T14:57:44Z",
+      "checkedAt": "2026-11-18T15:10:21Z"
+    },
+    {
+      "id": "x-42ceo-sofaygo",
+      "url": "https://x.com/42CEO_/status/2123068137591738827",
+      "author": "@42CEO_",
+      "network": "x",
+      "title": "Radyoda Sofaygo: “Cashout”",
+      "summary": "Oyundan paylaşılan bir videoya göre Sofaygo’nun “Cashout” şarkısı GTA VI radyosunda çalıyor.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "Rap",
+        "Sofaygo"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T14:57:43Z",
+      "checkedAt": "2026-11-18T15:10:21Z"
+    },
+    {
+      "id": "x-pusholder-trabzonspor",
+      "url": "https://x.com/pusholder/status/2123068763087966474",
+      "author": "@pusholder",
+      "network": "x",
+      "title": "Trabzonspor’dan GTA VI paylaşımı",
+      "summary": "Trabzonspor, GTA VI’ın çıkışı için GTA temalı bir video paylaştı. Türk kulüpleri de GTA VI coşkusuna katıldı.",
+      "category": "Haber",
+      "tags": [
+        "Türkiye",
+        "Trabzonspor",
+        "Kulüpler"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T15:00:12Z",
+      "checkedAt": "2026-11-18T15:10:21Z"
     }
   ]
 }
