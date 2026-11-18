@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 70,
-  "publishedAt": "2026-11-18T21:57:12.768Z",
+  "revision": 71,
+  "publishedAt": "2026-11-18T22:17:17.738Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3309,6 +3309,48 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T22:00:00Z",
       "checkedAt": "2026-11-18T21:57:12.768Z"
+    },
+    {
+      "id": "web-pcgamer-kurtaj-sucunu-kabul",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges/",
+      "author": "PC Gamer",
+      "network": "web",
+      "title": "2022 sızıntısının hacker'ı Arion Kurtaj suçunu kabul etti",
+      "summary": "GTA VI'ın 2022'deki büyük sızıntısının arkasındaki 21 yaşındaki Arion Kurtaj, 16 Kasım'da Londra'daki Woolwich Crown Court'ta Rockstar saldırısı dahil suçlamaları kabul etti. Rockstar mahkemeye saldırının kendisine yaklaşık 5 milyon dolar ve binlerce saatlik iş gücüne mal olduğunu bildirdi. Ceza kararı henüz açıklanmadı.",
+      "category": "Haber",
+      "tags": [
+        "sızıntı",
+        "leak",
+        "hacker",
+        "Arion Kurtaj",
+        "mahkeme",
+        "court",
+        "Rockstar"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T22:20:00Z",
+      "checkedAt": "2026-11-18T22:17:17.738Z"
+    },
+    {
+      "id": "web-dexerto-discord-vice-city",
+      "url": "https://www.dexerto.com/gta/discord-teams-up-with-rockstar-for-vice-city-theme-to-celebrate-gta-6-launch-3428758",
+      "author": "Dexerto",
+      "network": "web",
+      "title": "Discord'a ücretsiz Vice City teması geldi",
+      "summary": "Discord, Rockstar ile birlikte Vice City renk teması, uygulama simgesi ve özel isim stili çıkardı. Masaüstü ve mobilde 13 Aralık'a kadar herkese açık; Nitro (Basic hariç) üyeleri 20 Şubat'a kadar kullanabiliyor. Ayarlar > Görünüm'den açılıyor.",
+      "category": "Haber",
+      "tags": [
+        "Discord",
+        "tema",
+        "theme",
+        "Vice City",
+        "Nitro",
+        "ücretsiz",
+        "free"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T22:22:00Z",
+      "checkedAt": "2026-11-18T22:17:17.738Z"
     }
   ]
 }
