@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 27,
-  "publishedAt": "2026-11-18T12:53:09Z",
+  "revision": 28,
+  "publishedAt": "2026-11-18T12:57:54Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1214,6 +1214,23 @@
       "spoiler": "minor",
       "postedAt": "2026-11-18T12:41:51Z",
       "checkedAt": "2026-11-18T12:53:09Z"
+    },
+    {
+      "id": "x-fearedbuck-nine1nine",
+      "url": "https://x.com/FearedBuck/status/2123036324538314805",
+      "author": "@FearedBuck",
+      "network": "x",
+      "title": "Mekân: NINE1NINE gece kulübü",
+      "summary": "Vice City’de Miami’nin ünlü E11EVEN kulübünden esinlenen “NINE1NINE” adlı bir yetişkin gece kulübü var. Yayıncı Adin Ross mekâna giderken görüntülendi. Video yetişkin içerik barındırıyor.",
+      "category": "Konum",
+      "tags": [
+        "NINE1NINE",
+        "ViceCity",
+        "GeceKulübü"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T12:51:18Z",
+      "checkedAt": "2026-11-18T12:57:54Z"
     }
   ]
 }
