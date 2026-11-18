@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 63,
-  "publishedAt": "2026-11-18T18:37:37Z",
+  "revision": 64,
+  "publishedAt": "2026-11-18T18:57:30Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -2917,6 +2917,57 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T18:20:19Z",
       "checkedAt": "2026-11-18T18:37:37Z"
+    },
+    {
+      "id": "x-watcherguru-psn-coktu",
+      "url": "https://x.com/WatcherGuru/status/2123126958049661262",
+      "author": "@WatcherGuru",
+      "network": "x",
+      "title": "PlayStation Network birçok kullanıcı için çöktü",
+      "summary": "GTA VI’ın dünya genelinde açılmasına saatler kala PlayStation Network birçok kullanıcıda erişilemez durumda. Türkiye’de gece yarısı oynamayı planlıyorsan PS5 14.23 güncellemesini ve oyunu şimdiden indirmiş olduğundan emin ol; PSN durumunu status.playstation.com’dan takip edebilirsin.",
+      "category": "Haber",
+      "tags": [
+        "PSN",
+        "PlayStation",
+        "Kesinti"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T18:51:27Z",
+      "checkedAt": "2026-11-18T18:57:30Z"
+    },
+    {
+      "id": "x-synthpotato-phil-collins",
+      "url": "https://x.com/SynthPotato/status/2123123572105256980",
+      "author": "@SynthPotato",
+      "network": "x",
+      "title": "Radyoda Phil Collins: “In the Air Tonight”",
+      "summary": "Phil Collins’in efsane şarkısı “In the Air Tonight” GTA VI radyosunda çalıyor.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "PhilCollins",
+        "Klasik"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T18:37:59Z",
+      "checkedAt": "2026-11-18T18:57:30Z"
+    },
+    {
+      "id": "x-platcorn-google-trends",
+      "url": "https://x.com/platcornweb/status/2123124139271835820",
+      "author": "@platcornweb",
+      "network": "x",
+      "title": "Türkiye’de Google aramalarında GTA VI ve Kick zirvede",
+      "summary": "Google Trends’in son 24 saatlik verilerine göre Türkiye’de Kick, 200 binden fazla arama ve %700 artışla zirvede; GTA 6 ise 50 binden fazla arama ve %200 artışla onu takip ediyor. Türk oyuncular oyunu yayınlardan da yoğun izliyor.",
+      "category": "Haber",
+      "tags": [
+        "Türkiye",
+        "GoogleTrends",
+        "Kick"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T18:40:15Z",
+      "checkedAt": "2026-11-18T18:57:30Z"
     }
   ]
 }
