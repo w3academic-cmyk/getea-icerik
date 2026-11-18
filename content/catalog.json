@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 48,
-  "publishedAt": "2026-11-18T15:03:28Z",
+  "revision": 49,
+  "publishedAt": "2026-11-18T15:04:37Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1876,6 +1876,109 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T14:52:33Z",
       "checkedAt": "2026-11-18T15:03:28Z"
+    },
+    {
+      "id": "x-countdown-gtaplus",
+      "url": "https://x.com/GTAVI_Countdown/status/2123061358941868450",
+      "author": "@GTAVI_Countdown",
+      "network": "x",
+      "title": "GTA+ üyelerine GTA VI bonusları",
+      "summary": "GTA+ üyeleri ücretsiz eşyaların yanı sıra ek bonuslar alıyor: ’90 Annis Venturas BLVD Elegy widebody spor araba ve Crosstown bölgesinde silah dolabı bulunan bir garaj.",
+      "category": "Haber",
+      "tags": [
+        "GTAPlus",
+        "Bonus",
+        "Araç",
+        "Garaj"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T14:30:47Z",
+      "checkedAt": "2026-11-18T15:04:37Z"
+    },
+    {
+      "id": "x-synthpotato-surus",
+      "url": "https://x.com/SynthPotato/status/2123064707548430682",
+      "author": "@SynthPotato",
+      "network": "x",
+      "title": "Sürüş hissi: GTA V’ten ağır, GTA IV kadar değil",
+      "summary": "Synth Potato’ya göre GTA VI’da araçlar GTA V’e göre daha ağır ve gerçekçi; ama GTA IV’teki kadar hantal değil, “tam kıvamında”. Yollar da belirgin şekilde daha dar; hızlı araçlarla virajlarda erken fren yap.",
+      "category": "İpucu",
+      "tags": [
+        "Sürüş",
+        "Araçlar",
+        "İpucu"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T14:44:05Z",
+      "checkedAt": "2026-11-18T15:04:37Z"
+    },
+    {
+      "id": "x-kanthony-radyo-listesi",
+      "url": "https://x.com/KanthonyThings/status/2123063957858758805",
+      "author": "@KanthonyThings",
+      "network": "x",
+      "title": "Güncel radyo istasyonları listesi",
+      "summary": "Bir oyuncu şimdiye kadar tespit edilen GTA VI radyo istasyonlarını tek listede topladı ve güncelliyor. Bildiklerimiz: AfroBank FM, COCOTEO FM, La Ola, Radyo Pop, The Wipe.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "İstasyonlar",
+        "Liste"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T14:41:06Z",
+      "checkedAt": "2026-11-18T15:04:37Z"
+    },
+    {
+      "id": "x-killakreww-n3on-glitch",
+      "url": "https://x.com/KillaKreww/status/2123062518293664226",
+      "author": "@KillaKreww",
+      "network": "x",
+      "title": "N3on’un bulduğu glitch: jet kazasından sağ çıkmak",
+      "summary": "Yayıncı N3on, savaş jetleri tarafından kovalanırken çaldığı jetle kaza yapıp sağ kurtuldu; bu, oyunda bulunan ilk glitch’lerden biri olarak paylaşıldı. Askerî jet çalmak ve savaş uçaklarının peşine düşmesi de oyunda mümkün.",
+      "category": "Hata",
+      "tags": [
+        "Glitch",
+        "Jet",
+        "N3on"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T14:35:23Z",
+      "checkedAt": "2026-11-18T15:04:37Z"
+    },
+    {
+      "id": "x-drewpavlou-radyo-konuk",
+      "url": "https://x.com/DrewPavlou/status/2123063889818685443",
+      "author": "@DrewPavlou",
+      "network": "x",
+      "title": "Komplo radyosunda tanıdık bir ses (iddia)",
+      "summary": "Oyunda Info Wars tarzı bir komplo teorisi radyo istasyonu var. Bazı oyuncular istasyondaki bir konuğun sesini Nick Fuentes’e benzetiyor; Rockstar böyle bir şey açıklamadı, bir hiciv karakteri olması muhtemel.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "Hiciv",
+        "İddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T14:40:50Z",
+      "checkedAt": "2026-11-18T15:04:37Z"
+    },
+    {
+      "id": "x-saycheese-son-tur",
+      "url": "https://x.com/SaycheeseDGTL/status/2123062425994088865",
+      "author": "@SaycheeseDGTL",
+      "network": "x",
+      "title": "GTA V’te veda: “Son Tur” etkinliği",
+      "summary": "GTA topluluğu bu gece, GTA VI çıkmadan saatler önce Los Santos’ta büyük bir “Last Ride” (son tur) araba buluşması düzenliyor. 13 yıllık GTA V anılarına veda.",
+      "category": "Haber",
+      "tags": [
+        "GTAV",
+        "Topluluk",
+        "Etkinlik"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T14:35:01Z",
+      "checkedAt": "2026-11-18T15:04:37Z"
     }
   ]
 }
