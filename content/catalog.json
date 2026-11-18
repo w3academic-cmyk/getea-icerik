@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 60,
-  "publishedAt": "2026-11-18T17:37:31Z",
+  "revision": 61,
+  "publishedAt": "2026-11-18T17:57:46Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -73,9 +73,35 @@
       "id": "metacritic",
       "name": "Metacritic",
       "url": "https://www.metacritic.com/game/grand-theft-auto-vi/"
+    },
+    {
+      "id": "x-harita-posteri",
+      "name": "GTA 6 Countdown (X)",
+      "url": "https://x.com/GTAVI_Countdown/status/2123112647185006787"
     }
   ],
   "articles": [
+    {
+      "id": "resmi-harita-posteri",
+      "title": "Resmî Leonida harita posteri ortaya çıktı",
+      "summary": "Koleksiyoncu kutusundaki resmî harita posterinin fotoğrafı paylaşıldı.",
+      "body": [
+        "GTA VI koleksiyoncu kutusundan çıkan resmî harita posterinin fotoğrafı sosyal medyada paylaşıldı. Posterde Leonida’nın tamamı görülüyor.",
+        "Rockstar’ın duyurduğu ücretsiz dijital harita henüz resmî sitede yayınlanmadı. Yayınlandığı anda haritamıza ekleyeceğiz.",
+        "Fotoğrafı görmek için kaynağa git."
+      ],
+      "sourceIds": [
+        "x-harita-posteri"
+      ],
+      "category": "Duyurular",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-18T17:57:46Z"
+    },
     {
       "id": "inceleme-puanlari",
       "title": "Metacritic’te 99: tüm zamanların en yüksek puanı",
@@ -2683,6 +2709,41 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T17:13:19Z",
       "checkedAt": "2026-11-18T17:37:31Z"
+    },
+    {
+      "id": "x-countdown-resmi-harita-posteri",
+      "url": "https://x.com/GTAVI_Countdown/status/2123112647185006787",
+      "author": "@GTAVI_Countdown",
+      "network": "x",
+      "title": "Resmî Leonida harita posteri ortaya çıktı",
+      "summary": "Koleksiyoncu kutusundan çıkan resmî GTA VI harita posterinin fotoğrafı paylaşıldı (Reddit kullanıcısı u/Ambitious-Pirate-804). Leonida’nın tamamı, bölgeleri ve adalarıyla birlikte görülüyor. Rockstar’ın ücretsiz dijital indirmesi henüz resmî sitede yok; çıktığında haritamıza ekleyeceğiz.",
+      "category": "Harita",
+      "tags": [
+        "ResmîHarita",
+        "Leonida",
+        "Poster",
+        "Koleksiyoncu"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T17:54:35Z",
+      "checkedAt": "2026-11-18T17:57:46Z"
+    },
+    {
+      "id": "x-pusholder-rastgele-olaylar",
+      "url": "https://x.com/pusholder/status/2123109427465036011",
+      "author": "@pusholder",
+      "network": "x",
+      "title": "5 dakikada rastgele olaylar: uçak düşüşü ve bataklıkta “zombi”",
+      "summary": "Bir yayıncı uyumaya giderken 5 dakika içinde polisin durdurduğu çılgın bir adamı gördü, bir uçağın düştüğüne tanık oldu ve bataklıkta zombiye benzeyen bir yaratıkla karşılaştı. Leonida’da rastgele olaylar çok çeşitli.",
+      "category": "Gizli",
+      "tags": [
+        "RastgeleOlay",
+        "Bataklık",
+        "Gizem"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T17:41:47Z",
+      "checkedAt": "2026-11-18T17:57:46Z"
     }
   ]
 }
