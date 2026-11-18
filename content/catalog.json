@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 69,
-  "publishedAt": "2026-11-18T21:37:05.035Z",
+  "revision": 70,
+  "publishedAt": "2026-11-18T21:57:12.768Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3269,6 +3269,46 @@
       "spoiler": "minor",
       "postedAt": "2026-11-18T21:40:00Z",
       "checkedAt": "2026-11-18T21:37:05.035Z"
+    },
+    {
+      "id": "web-gamerfuzion-birinci-sahis",
+      "url": "https://www.gamerfuzion.com/gta-6-first-person-mode-how-to-l2-r3/",
+      "author": "GamerFuzion",
+      "network": "web",
+      "title": "Tam birinci şahıs modu yok, ama gizli bir FPS görünümü var",
+      "summary": "GTA VI'da tam birinci şahıs modu bulunmuyor. Ancak dururken, dürbünle nişan alırken ya da telefonu kaldırınca sınırlı bir birinci şahıs görünüm açılıyor. PlayStation'da L2'yi basılı tutup R3'e, Xbox'ta LT'yi basılı tutup sağ çubuğa bas. (Rehber sitesi bilgisi, Rockstar doğrulaması yok.)",
+      "category": "İpucu",
+      "tags": [
+        "birinci şahıs",
+        "first person",
+        "FPS",
+        "kamera",
+        "camera",
+        "L2 R3",
+        "kontroller"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T22:05:00Z",
+      "checkedAt": "2026-11-18T21:57:12.768Z"
+    },
+    {
+      "id": "web-pcgamer-100-saat",
+      "url": "https://pcgamer.com/games/grand-theft-auto/100-hours-with-gta-6-a-sprawling-adventure-that-will-be-so-much-better-on-pc",
+      "author": "PC Gamer",
+      "network": "web",
+      "title": "PC Gamer: 100 saat oynadık, PC'de çok daha iyi olacak",
+      "summary": "PC Gamer yazarı oyunu yaklaşık 100 saat oynadı ve devasa bir macera olduğunu, PC sürümünde çok daha iyi olacağını yazdı. Yazar oyunda bir efsanevi yaratık gördüğünü düşünüyor ama bunun gerçekten oyunda olup olmadığını hâlâ doğrulayamadığını söylüyor.",
+      "category": "Haber",
+      "tags": [
+        "PC Gamer",
+        "inceleme",
+        "review",
+        "PC",
+        "100 saat"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T22:00:00Z",
+      "checkedAt": "2026-11-18T21:57:12.768Z"
     }
   ]
 }
