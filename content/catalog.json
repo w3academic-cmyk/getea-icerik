@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 54,
-  "publishedAt": "2026-11-18T15:29:15Z",
+  "revision": 55,
+  "publishedAt": "2026-11-18T15:57:32Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -2202,6 +2202,74 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T15:20:32Z",
       "checkedAt": "2026-11-18T15:29:15Z"
+    },
+    {
+      "id": "x-rap-1500-sarki",
+      "url": "https://x.com/Rap/status/2123080532305080540",
+      "author": "@Rap",
+      "network": "x",
+      "title": "Radyoda 1.500’den fazla şarkı",
+      "summary": "GTA VI’ın oyun içi radyosunda 1.500’den fazla şarkı bulunuyor. Müzikler arasında Travis Scott, SZA, Tame Impala ve The Weeknd gibi yüzlerce sanatçı var.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "Müzik",
+        "Soundtrack"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T15:46:58Z",
+      "checkedAt": "2026-11-18T15:57:32Z"
+    },
+    {
+      "id": "x-pantheressluv-stockyard",
+      "url": "https://x.com/pantheressluv/status/2123080591725695478",
+      "author": "@pantheressluv",
+      "network": "x",
+      "title": "Stockyard FM’in sunucusu PinkPantheress",
+      "summary": "Paylaşıma göre PinkPantheress, oyundaki Stockyard FM radyo istasyonunun resmî sunucusu.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "StockyardFM",
+        "PinkPantheress"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T15:47:12Z",
+      "checkedAt": "2026-11-18T15:57:32Z"
+    },
+    {
+      "id": "x-britneycrave-gimme-more",
+      "url": "https://x.com/britneyscrave/status/2123078843414331423",
+      "author": "@britneyscrave",
+      "network": "x",
+      "title": "İddia: Britney Spears’ın “Gimme More” şarkısı Pop radyosunda",
+      "summary": "Bir hayran hesabına göre Britney Spears’ın “Gimme More” şarkısı oyunun Pop radyosuna eklendi ve Britney oyun için özel bir reklamda yer alacak. Doğrulanmadı.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "BritneySpears",
+        "İddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T15:40:15Z",
+      "checkedAt": "2026-11-18T15:57:32Z"
+    },
+    {
+      "id": "x-oguzhan-ilk-arac",
+      "url": "https://x.com/oguzhanalpdoan/status/2123079215910211793",
+      "author": "@oguzhanalpdoan",
+      "network": "x",
+      "title": "Oğuzhan Alpdoğan ilk araçla haritayı turluyor",
+      "summary": "Türk yayıncı Oğuzhan Alpdoğan, GTA VI’da eline geçen ilk araçla haritada tur attığı bir video paylaştı.",
+      "category": "Video",
+      "tags": [
+        "TürkYayıncı",
+        "Harita",
+        "Sürüş"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T15:41:44Z",
+      "checkedAt": "2026-11-18T15:57:32Z"
     }
   ]
 }
