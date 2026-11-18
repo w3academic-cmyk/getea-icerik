@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 46,
-  "publishedAt": "2026-11-18T14:38:15Z",
+  "revision": 47,
+  "publishedAt": "2026-11-18T14:43:02Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1823,6 +1823,41 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T14:28:18Z",
       "checkedAt": "2026-11-18T14:38:15Z"
+    },
+    {
+      "id": "x-poptime-anitta",
+      "url": "https://x.com/poptime/status/2123062532894290074",
+      "author": "@poptime",
+      "network": "x",
+      "title": "Anitta oyunda: The Wipe’ta “Ask Dr. Nita” programı",
+      "summary": "Brezilyalı şarkıcı Anitta oyunda bir doktoru canlandırıyor ve Barbie Ferreira ile birlikte The Wipe radyo istasyonunda “Ask Dr. Nita” adlı, yetişkinlere yönelik bir soru-cevap programı sunuyor. Programda “Vai dar Caô” şarkısının İngilizce versiyonu “Touch & Go” da çalıyor.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "TheWipe",
+        "Anitta",
+        "Ünlüler"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T14:35:27Z",
+      "checkedAt": "2026-11-18T14:43:02Z"
+    },
+    {
+      "id": "x-discussingfilm-3dk-oynanis",
+      "url": "https://x.com/DiscussingFilm/status/2123062651597312023",
+      "author": "@DiscussingFilm",
+      "network": "x",
+      "title": "Spoiler’sız 3 dakikalık oynanış",
+      "summary": "Digital Foundry kaynaklı, hikâye spoiler’ı içermeyen yaklaşık 3 dakikalık GTA VI oynanış videosu.",
+      "category": "Video",
+      "tags": [
+        "Oynanış",
+        "DigitalFoundry",
+        "SpoilerYok"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T14:35:55Z",
+      "checkedAt": "2026-11-18T14:43:02Z"
     }
   ]
 }
