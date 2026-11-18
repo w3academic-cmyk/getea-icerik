@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 62,
-  "publishedAt": "2026-11-18T18:17:33Z",
+  "revision": 63,
+  "publishedAt": "2026-11-18T18:37:37Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -2830,6 +2830,93 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T18:13:29Z",
       "checkedAt": "2026-11-18T18:17:33Z"
+    },
+    {
+      "id": "x-gtasix-dylan-rourke",
+      "url": "https://x.com/gtasix_/status/2123119561608171969",
+      "author": "@gtasix_",
+      "network": "x",
+      "title": "Jason’ı Dylan Rourke canlandırıyor (resmî)",
+      "summary": "IGN’nin haberine göre Jason Duval’ı oyuncu Dylan Rourke canlandırıyor. Karakterin oyuncusu ilk kez resmî olarak açıklandı.",
+      "category": "Haber",
+      "tags": [
+        "Jason",
+        "DylanRourke",
+        "Oyuncular",
+        "IGN"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T18:22:03Z",
+      "checkedAt": "2026-11-18T18:37:37Z"
+    },
+    {
+      "id": "x-piratnation-ultimate-bolumler",
+      "url": "https://x.com/Pirat_Nation/status/2123119818970693988",
+      "author": "@Pirat_Nation",
+      "network": "x",
+      "title": "Ultimate Edition içerikleri hikâye ilerledikçe açılıyor",
+      "summary": "100 dolarlık Ultimate Edition içeriklerinin hepsi baştan açık değil. 1. bölümde özel mağazalar ve bazı araçlar, 2. bölümde ise ek içeriklerin çoğu açılıyor. Ultimate aldıysan her şeyi hemen göremiyorsan endişelenme.",
+      "category": "İpucu",
+      "tags": [
+        "UltimateEdition",
+        "Bölümler",
+        "İçerik"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T18:23:05Z",
+      "checkedAt": "2026-11-18T18:37:37Z"
+    },
+    {
+      "id": "x-scyan-hatalar",
+      "url": "https://x.com/ScyanYT/status/2123119515525578897",
+      "author": "@ScyanYT",
+      "network": "x",
+      "title": "Oyuncuların karşılaştığı hatalar listesi",
+      "summary": "Bildirilen hatalar: hikâye görevlerinde haritanın içinden düşme, dev gemilerin titremesi, nesnelerin içinden geçme, aracın havaya fırlaması, yan yüzen NPC’ler. Takılırsan son kayda dönmek genelde çözüyor; düzeltme yaması gelirse duyuracağız.",
+      "category": "Hata",
+      "tags": [
+        "Hata",
+        "Glitch",
+        "Liste"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T18:21:52Z",
+      "checkedAt": "2026-11-18T18:37:37Z"
+    },
+    {
+      "id": "x-bpthaber-f16",
+      "url": "https://x.com/bpthaber/status/2123121403545186374",
+      "author": "@bpthaber",
+      "network": "x",
+      "title": "Yolcu uçağı kaçırırsan F-16’lar seni vurur",
+      "summary": "Bir yayıncı yolcu uçağı kaçırdı; belli bir yüksekliğe çıkınca F-16 savaş uçakları gelip uçağı vurarak düşürdü. Uçak kaçırırken alçaktan uçmak daha güvenli olabilir.",
+      "category": "İpucu",
+      "tags": [
+        "Uçak",
+        "F16",
+        "Polis",
+        "Ordu"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T18:29:22Z",
+      "checkedAt": "2026-11-18T18:37:37Z"
+    },
+    {
+      "id": "x-bosunatiklama-samsunspor",
+      "url": "https://x.com/bosunatiklama/status/2123119124897513802",
+      "author": "@bosunatiklama",
+      "network": "x",
+      "title": "Samsunspor’dan GTA VI paylaşımı",
+      "summary": "Samsunspor GTA VI’a göndermeyle paylaşım yaptı: “Miami değil, Samsun. Oyun değil, bizim gerçeğimiz.” Trabzonspor ve Beşiktaş’tan sonra bir Türk kulübü daha akıma katıldı.",
+      "category": "Haber",
+      "tags": [
+        "Türkiye",
+        "Samsunspor",
+        "Kulüpler"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T18:20:19Z",
+      "checkedAt": "2026-11-18T18:37:37Z"
     }
   ]
 }
