@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 18,
-  "publishedAt": "2026-11-18T11:59:51Z",
+  "revision": 19,
+  "publishedAt": "2026-11-18T12:02:51Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -850,12 +850,13 @@
       "url": "https://getea.netlify.app/gundem",
       "author": "getea yayını",
       "network": "web",
-      "title": "3D harita: ada kasabası ve ikonlar",
-      "summary": "Haritanın 3D görünümünde binalar tek tek modellenmiş. Ada boyunca bir otoyol uzanıyor, iki uçtan köprüyle bağlanıyor; kuzeyde helikopter pisti olan yeşil bir alan var. Haritada pembe halkalı silah dükkânı, çapalı bir marina, iki giyim mağazası, tekne ve araç noktaları ile kokteyl simgeli bir mekân görünüyor. Kıyıda iskeleler sıralanıyor, açıkta küçük sığ adalar var.",
+      "title": "3D harita: Key Lento ve ikonlar",
+      "summary": "Key Lento’nun 3D görünümünde binalar tek tek modellenmiş. Ada boyunca bir otoyol uzanıyor, iki uçtan köprüyle bağlanıyor; kuzeyde helikopter pisti olan yeşil bir alan var. Haritada pembe halkalı silah dükkânı, çapalı bir marina, iki giyim mağazası, tekne ve araç noktaları ile kokteyl simgeli bir mekân görünüyor. Kıyıda iskeleler sıralanıyor, açıkta küçük sığ adalar var.",
       "category": "Harita",
       "tags": [
         "Harita",
         "3DHarita",
+        "KeyLento",
         "Dükkânlar"
       ],
       "spoiler": "none",
@@ -950,6 +951,31 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T11:38:01Z",
       "checkedAt": "2026-11-18T11:59:51Z"
+    },
+    {
+      "id": "getea-key-lento-harita",
+      "url": "https://getea.netlify.app/gundem",
+      "author": "getea yayını",
+      "network": "web",
+      "title": "Bölge adları: Key Lento, Gambit Bay, Shoeless Keys",
+      "summary": "Ada kasabasının adı Key Lento. Batısındaki koy Gambit Bay, kuzeydeki adacıklar Shoeless Keys olarak geçiyor. Duraklatma menüsünde dört sekme var: Jason & Lucia, Map, Brief ve Progress (L1/R1 ile geçiliyor). Haritanın koyu lacivert kısmı henüz keşfedilmemiş alanı gösteriyor; turkuaz çizgi GPS rotası, kuzeydoğudaki çerçeveli bölge ise aktif hedef alanı.",
+      "category": "Harita",
+      "tags": [
+        "KeyLento",
+        "GambitBay",
+        "ShoelessKeys",
+        "LeonidaKeys"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T12:02:51Z",
+      "checkedAt": "2026-11-18T12:02:51Z",
+      "image": {
+        "src": "https://raw.githubusercontent.com/w3academic-cmyk/getea-icerik/main/content/media/key-lento-gambit-bay-harita.webp",
+        "width": 1541,
+        "height": 965,
+        "alt": "GTA VI haritası: Key Lento kasabası, Gambit Bay ve Shoeless Keys",
+        "credit": "getea yayını"
+      }
     }
   ]
 }
