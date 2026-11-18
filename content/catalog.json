@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 10,
-  "publishedAt": "2026-11-18T11:31:39Z",
+  "revision": 11,
+  "publishedAt": "2026-11-18T11:36:12Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -720,6 +720,23 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T11:23:43Z",
       "checkedAt": "2026-11-18T11:31:39Z"
+    },
+    {
+      "id": "x-charliebennett-xbox-bolge",
+      "url": "https://x.com/CharIieBennett/status/2122953943177199939",
+      "author": "@CharIieBennett",
+      "network": "x",
+      "title": "Xbox’ta bölgeyi Yeni Zelanda yapıp erken oynamak",
+      "summary": "Paylaşıma göre Xbox’ta konsolun konumunu Yeni Zelanda olarak değiştirince oyun erken açılıyor. “Bölge değiştirdim, ban yedim” diye yayılan bir paylaşımın ise şaka olduğu ortaya çıktı: X topluluk notuna göre bu yöntem uzun süredir kullanılıyor ve ban sebebi değil. PlayStation’da ayrı bir Yeni Zelanda hesabı ve satın alma gerekiyor.",
+      "category": "İpucu",
+      "tags": [
+        "Xbox",
+        "YeniZelanda",
+        "ErkenErişim"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T07:23:57Z",
+      "checkedAt": "2026-11-18T11:36:12Z"
     }
   ]
 }
