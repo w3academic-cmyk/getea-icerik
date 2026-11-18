@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 72,
-  "publishedAt": "2026-11-18T22:17:17.738Z",
+  "revision": 73,
+  "publishedAt": "2026-11-18T22:37:07.168Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3351,6 +3351,26 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T22:22:00Z",
       "checkedAt": "2026-11-18T22:17:17.738Z"
+    },
+    {
+      "id": "web-screenrant-reddit-coktu",
+      "url": "https://screenrant.com/gta-6-has-officially-broken-reddit/",
+      "author": "Screen Rant",
+      "network": "web",
+      "title": "GTA VI Reddit'i de çökertti: r/GTA6'ya erişim sorunlu",
+      "summary": "Açılış yoğunluğu yüzünden r/GTA6 alt forumuna erişim zorlaşıyor; bir moderatör teknik sorunlar çözülene kadar bazı gönderilerin hiç açılmayabileceği uyarısını yaptı. Topluluktan gelenleri biz de toplamaya devam ediyoruz.",
+      "category": "Haber",
+      "tags": [
+        "Reddit",
+        "r/GTA6",
+        "kesinti",
+        "outage",
+        "topluluk",
+        "community"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T22:45:00Z",
+      "checkedAt": "2026-11-18T22:37:07.168Z"
     }
   ]
 }
