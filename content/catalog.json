@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 43,
-  "publishedAt": "2026-11-18T14:18:24Z",
+  "revision": 44,
+  "publishedAt": "2026-11-18T14:23:09Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1754,6 +1754,24 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T14:11:20Z",
       "checkedAt": "2026-11-18T14:18:24Z"
+    },
+    {
+      "id": "x-bbprtv-latin-radyolar",
+      "url": "https://x.com/BBPRTV/status/2123055582936711309",
+      "author": "@BBPRTV",
+      "network": "x",
+      "title": "İki Latin radyosu: COCOTEO FM ve La Ola",
+      "summary": "Paylaşıma göre GTA VI’da iki Latin müzik istasyonu var. COCOTEO FM reggaeton, dembow, bachata ve merengue gibi modern Latin müziği; La Ola ise salsa, Latin pop ve tropikal müzik gibi klasik Latin müziği çalıyor.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "COCOTEOFM",
+        "LaOla",
+        "LatinMüzik"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T14:07:50Z",
+      "checkedAt": "2026-11-18T14:23:09Z"
     }
   ]
 }
