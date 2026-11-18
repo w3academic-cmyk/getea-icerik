@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 58,
-  "publishedAt": "2026-11-18T16:57:34Z",
+  "revision": 59,
+  "publishedAt": "2026-11-18T17:17:31Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -2562,6 +2562,75 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T16:43:23Z",
       "checkedAt": "2026-11-18T16:57:34Z"
+    },
+    {
+      "id": "x-flames-davido",
+      "url": "https://x.com/flames_collins/status/2123098851913458058",
+      "author": "@flames_collins",
+      "network": "x",
+      "title": "Burna Boy AfroBank’ta Davido’nun yeni şarkısından kesit çaldı",
+      "summary": "AfroBank FM’i sunan Burna Boy, radyoda Davido’nun henüz yayınlanmamış yeni şarkısından bir kesit çalıyor.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "AfroBank",
+        "Davido",
+        "BurnaBoy"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T16:59:46Z",
+      "checkedAt": "2026-11-18T17:17:31Z"
+    },
+    {
+      "id": "x-notiplay-gta-siralama",
+      "url": "https://x.com/NotiPlay_/status/2123101295808545091",
+      "author": "@NotiPlay_",
+      "network": "x",
+      "title": "Serinin en yüksek puanlı oyunları: GTA VI zirvede",
+      "summary": "Metacritic’e göre serinin en yüksek puanlı oyunları: GTA VI (99), GTA IV (98), GTA V (97), GTA III (97), GTA: Vice City (95), GTA: San Andreas (95).",
+      "category": "Haber",
+      "tags": [
+        "Metacritic",
+        "Sıralama",
+        "Seri"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T17:09:28Z",
+      "checkedAt": "2026-11-18T17:17:31Z"
+    },
+    {
+      "id": "x-merkezihiphop-carti",
+      "url": "https://x.com/merkezihiphop/status/2123098678525039041",
+      "author": "@merkezihiphop",
+      "network": "x",
+      "title": "Playboi Carti’den GTA VI şarkısı: “AHH YEA”",
+      "summary": "Hiphop Merkezi’nin paylaşımına göre Playboi Carti’nin “AHH YEA” şarkısı GTA VI’ın şarkıları arasında.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "PlayboiCarti",
+        "Rap"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T16:59:04Z",
+      "checkedAt": "2026-11-18T17:17:31Z"
+    },
+    {
+      "id": "x-bosunatiklama-grafik",
+      "url": "https://x.com/bosunatiklama/status/2123100698631942247",
+      "author": "@bosunatiklama",
+      "network": "x",
+      "title": "GTA V ve GTA VI grafik karşılaştırması",
+      "summary": "GTA V ile GTA VI’ın grafik kalitesini yan yana karşılaştıran bir video paylaşıldı.",
+      "category": "Video",
+      "tags": [
+        "Grafik",
+        "Karşılaştırma",
+        "GTAV"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T17:07:06Z",
+      "checkedAt": "2026-11-18T17:17:31Z"
     }
   ]
 }
