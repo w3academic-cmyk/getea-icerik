@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 20,
-  "publishedAt": "2026-11-18T12:09:24Z",
+  "revision": 21,
+  "publishedAt": "2026-11-18T12:14:15Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1011,6 +1011,56 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T12:00:22Z",
       "checkedAt": "2026-11-18T12:09:24Z"
+    },
+    {
+      "id": "x-discussingfilm-df-oynanis",
+      "url": "https://x.com/DiscussingFilm/status/2123025079550271488",
+      "author": "@DiscussingFilm",
+      "network": "x",
+      "title": "Digital Foundry’den yeni oynanış görüntüleri",
+      "summary": "DiscussingFilm, Digital Foundry kaynaklı yeni GTA VI oynanış görüntülerini paylaştı.",
+      "category": "Video",
+      "tags": [
+        "DigitalFoundry",
+        "Oynanış"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T12:06:37Z",
+      "checkedAt": "2026-11-18T12:14:15Z"
+    },
+    {
+      "id": "x-gtasix-ilk-surus",
+      "url": "https://x.com/gtasix_/status/2123024032220000397",
+      "author": "@gtasix_",
+      "network": "x",
+      "title": "GTA VI’da ilk sürüş",
+      "summary": "Oyunda ilk araç sürüşünü gösteren bir video paylaşıldı.",
+      "category": "Video",
+      "tags": [
+        "Sürüş",
+        "Araçlar",
+        "Oynanış"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T12:02:27Z",
+      "checkedAt": "2026-11-18T12:14:15Z"
+    },
+    {
+      "id": "x-paultassi-kiyafet",
+      "url": "https://x.com/PaulTassi/status/2123021614048543184",
+      "author": "@PaulTassi",
+      "network": "x",
+      "title": "Karakterler kıyafetine yorum yapıyor",
+      "summary": "Forbes’tan Paul Tassi’ye göre oyunun en etkileyici yanı küçük anlar: Ana hikâye görevinde bir karakter, rastgele seçtiği kolsuz tişört yüzünden onunla dalga geçmiş. Yani karakterler giydiğin kıyafete tepki verebiliyor.",
+      "category": "Gizli",
+      "tags": [
+        "Detay",
+        "Kıyafet",
+        "Diyalog"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T11:52:51Z",
+      "checkedAt": "2026-11-18T12:14:15Z"
     }
   ]
 }
