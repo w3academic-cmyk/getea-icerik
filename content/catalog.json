@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 41,
-  "publishedAt": "2026-11-18T14:04:11Z",
+  "revision": 42,
+  "publishedAt": "2026-11-18T14:13:40Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1702,6 +1702,41 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T13:56:39Z",
       "checkedAt": "2026-11-18T14:04:11Z"
+    },
+    {
+      "id": "x-cartoons-bigfoot",
+      "url": "https://x.com/CartoonsOTMoon/status/2123054787776180436",
+      "author": "@CartoonsOTMoon",
+      "network": "x",
+      "title": "Koca Ayak (Bigfoot) GTA VI’da göründü",
+      "summary": "Serinin klasik efsanesi Koca Ayak (Bigfoot / Pie Grande), GTA VI’da da ortaya çıktı. Konumu henüz paylaşılmadı; bulunduğunda haritaya ekleyeceğiz.",
+      "category": "Easter Egg",
+      "tags": [
+        "KocaAyak",
+        "Bigfoot",
+        "EasterEgg",
+        "Gizem"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T14:04:40Z",
+      "checkedAt": "2026-11-18T14:13:40Z"
+    },
+    {
+      "id": "x-speed-sempanze",
+      "url": "https://x.com/IShowSpeedHQ/status/2123053865868329038",
+      "author": "@IShowSpeedHQ",
+      "network": "x",
+      "title": "Kafeste tutulan şempanze",
+      "summary": "IShowSpeed, oyunda bir kafese kilitlenmiş şempanze buldu ve buna çok kızdı. Haritada nerede olduğu henüz belli değil.",
+      "category": "Easter Egg",
+      "tags": [
+        "Şempanze",
+        "EasterEgg",
+        "Hayvanlar"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T14:01:00Z",
+      "checkedAt": "2026-11-18T14:13:40Z"
     }
   ]
 }
