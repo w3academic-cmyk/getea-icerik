@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 53,
-  "publishedAt": "2026-11-18T15:24:34Z",
+  "revision": 54,
+  "publishedAt": "2026-11-18T15:29:15Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -2185,6 +2185,23 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T15:13:50Z",
       "checkedAt": "2026-11-18T15:24:34Z"
+    },
+    {
+      "id": "x-polymarket-taketwo",
+      "url": "https://x.com/Polymarket/status/2123073879233245253",
+      "author": "@Polymarket",
+      "network": "x",
+      "title": "Take-Two hisseleri %8,4’e kadar yükseldi",
+      "summary": "GTA VI’ın tüm zamanların en yüksek puanlı oyunu olmasının ardından Rockstar’ın sahibi Take-Two’nun hisseleri gün içinde %8,4’e kadar yükseldi.",
+      "category": "Haber",
+      "tags": [
+        "TakeTwo",
+        "Borsa",
+        "Metacritic"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T15:20:32Z",
+      "checkedAt": "2026-11-18T15:29:15Z"
     }
   ]
 }
