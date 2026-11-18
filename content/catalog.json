@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 7,
-  "publishedAt": "2026-11-18T11:08:15Z",
+  "revision": 8,
+  "publishedAt": "2026-11-18T11:19:01Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -68,9 +68,35 @@
       "id": "ps-support-fw",
       "name": "PlayStation Support (X)",
       "url": "https://x.com/PS_Support_US/status/2122863683881619685"
+    },
+    {
+      "id": "metacritic",
+      "name": "Metacritic",
+      "url": "https://www.metacritic.com/game/grand-theft-auto-vi/"
     }
   ],
   "articles": [
+    {
+      "id": "inceleme-puanlari",
+      "title": "Metacritic’te 99: tüm zamanların en yüksek puanı",
+      "summary": "GTA VI, 115 eleştirmen incelemesiyle Metacritic’te 99 aldı. İncelemelerin hepsi olumlu.",
+      "body": [
+        "Metacritic’te GTA VI’ın PS5 puanı 115 eleştirmen incelemesine göre 99. İncelemelerin yüzde 100’ü olumlu, karışık ya da olumsuz inceleme yok.",
+        "Bu puanla oyun, Metacritic tarihinin en yüksek puanlı oyunu The Legend of Zelda: Ocarina of Time ile aynı seviyede. Seri için önceki rekor GTA IV’ün 98’iydi.",
+        "Guardian ve TrueGaming tam puan verdi. Kullanıcı puanları henüz açılmadı."
+      ],
+      "sourceIds": [
+        "metacritic"
+      ],
+      "category": "Duyurular",
+      "kind": "official",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-18T11:19:01Z"
+    },
     {
       "id": "ps5-yazilim-14-23",
       "title": "PS5’te oynamadan önce 14.23 güncellemesi şart",
@@ -126,27 +152,6 @@
       "sourceIds": [
         "pcguide-nz",
         "vice-nz"
-      ],
-      "category": "Duyurular",
-      "kind": "community",
-      "platforms": [
-        "PS5",
-        "Xbox Series"
-      ],
-      "spoiler": "none",
-      "checkedAt": "2026-11-18T14:20:00Z"
-    },
-    {
-      "id": "inceleme-puanlari",
-      "title": "İnceleme puanları: şu an ne biliniyor?",
-      "summary": "Resmî eleştirmen puanları henüz yok. Dolaşan ilk puanlar gayriresmî.",
-      "body": [
-        "Metacritic’te görülen 6,5 kullanıcı puanı yalnızca beş oya dayanıyordu ve puan bombası olduğu düşünülüyor. PlayStation Store’daki ilk değerlendirmelerin kaynağı da belirsiz.",
-        "Rockstar inceleme ambargosunu resmî olarak açıklamadı. Eleştirmen puanları yayınlanınca burada Türkçe özetleyeceğiz.",
-        "Karşılaştırma için: GTA V ve Red Dead Redemption 2 Metacritic’te 97, GTA IV 98 almıştı."
-      ],
-      "sourceIds": [
-        "opencritic-scores"
       ],
       "category": "Duyurular",
       "kind": "community",
@@ -600,6 +605,55 @@
       "spoiler": "none",
       "postedAt": "2026-11-17T18:16:26Z",
       "checkedAt": "2026-11-18T11:08:15Z"
+    },
+    {
+      "id": "x-discussingfilm-99",
+      "url": "https://x.com/DiscussingFilm/status/2123009239949943232",
+      "author": "@DiscussingFilm",
+      "network": "x",
+      "title": "Metacritic 99: tüm zamanların zirvesi",
+      "summary": "GTA VI, Metacritic’te 99 ile tüm zamanların en yüksek puanlı oyunu oldu ve Ocarina of Time ile aynı seviyeye çıktı.",
+      "category": "Haber",
+      "tags": [
+        "Metacritic",
+        "İnceleme",
+        "99"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T11:03:41Z",
+      "checkedAt": "2026-11-18T11:19:01Z"
+    },
+    {
+      "id": "x-twitch-izle",
+      "url": "https://x.com/Twitch/status/2123009853564314062",
+      "author": "@Twitch",
+      "network": "x",
+      "title": "Twitch’te GTA VI yayınları başladı",
+      "summary": "Twitch duyurdu: Yeni Zelanda’da olmayanlar artık GTA VI’ı Twitch yayınlarından izleyebilir. Hikâyeyi kendin keşfetmek istiyorsan yayınlarda spoiler riski var.",
+      "category": "Video",
+      "tags": [
+        "Twitch",
+        "CanlıYayın"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-18T11:06:07Z",
+      "checkedAt": "2026-11-18T11:19:01Z"
+    },
+    {
+      "id": "x-gta6intel-intro",
+      "url": "https://x.com/GTA6Intel/status/2123009428832313381",
+      "author": "@GTA6Intel",
+      "network": "x",
+      "title": "GTA VI’ın açılış sahnesi paylaşıldı",
+      "summary": "Oyunun açılış (intro) sahnesinden bir kesit paylaşıldı. Hikâyenin ilk anlarını içeriyor.",
+      "category": "Video",
+      "tags": [
+        "Intro",
+        "İlkBakış"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-18T11:04:26Z",
+      "checkedAt": "2026-11-18T11:19:01Z"
     }
   ]
 }
