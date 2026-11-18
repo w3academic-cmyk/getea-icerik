@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 51,
-  "publishedAt": "2026-11-18T15:15:06Z",
+  "revision": 52,
+  "publishedAt": "2026-11-18T15:19:53Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -2081,6 +2081,76 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T15:06:49Z",
       "checkedAt": "2026-11-18T15:15:06Z"
+    },
+    {
+      "id": "x-gameroll-sa-foto",
+      "url": "https://x.com/GameRoll_/status/2123073231733035327",
+      "author": "@GameRoll_",
+      "network": "x",
+      "title": "GTA San Andreas DE’deki ünlü fotoğraf GTA VI çıktı",
+      "summary": "GTA San Andreas: Definitive Edition’da görülen ve yıllardır tartışılan ünlü fotoğrafın aslında GTA VI’dan bir yer olduğu ortaya çıktı. Konum, harita projesi Discord’unda Jared adlı bir oyuncu tarafından oyunda bulundu.",
+      "category": "Easter Egg",
+      "tags": [
+        "EasterEgg",
+        "SanAndreas",
+        "Fotoğraf",
+        "Gizem"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T15:17:57Z",
+      "checkedAt": "2026-11-18T15:19:53Z"
+    },
+    {
+      "id": "x-internethof-manuel-kayit",
+      "url": "https://x.com/InternetH0F/status/2123071565411607000",
+      "author": "@InternetH0F",
+      "network": "x",
+      "title": "Görevi farklı oynamak için manuel kayıt al",
+      "summary": "GTA VI’da görevler tekrar oynanamadığı için, bir görevi farklı bir yolla denemek istiyorsan görevden önce manuel kayıt alıp o kayda geri dönmen gerekiyor. Önemli kararlardan önce mutlaka kayıt al.",
+      "category": "İpucu",
+      "tags": [
+        "Kayıt",
+        "Görevler",
+        "İpucu",
+        "Save"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T15:11:20Z",
+      "checkedAt": "2026-11-18T15:19:53Z"
+    },
+    {
+      "id": "x-rileytaugor-rip",
+      "url": "https://x.com/RileyTaugor/status/2123072725031723337",
+      "author": "@RileyTaugor",
+      "network": "x",
+      "title": "Radyo sunucusundan XXXTentacion’a anma",
+      "summary": "XXXTentacion ve Kodak Black’in “Roll in Peace” şarkısı çaldıktan sonra radyo sunucusu “Rest in Peace” diyerek anıyor.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "XXXTentacion",
+        "Rap"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T15:15:57Z",
+      "checkedAt": "2026-11-18T15:19:53Z"
+    },
+    {
+      "id": "x-gtasix-kedi",
+      "url": "https://x.com/gtasix_/status/2123071228390842498",
+      "author": "@gtasix_",
+      "network": "x",
+      "title": "Çaldığın arabanın arka koltuğunda kedi olabilir",
+      "summary": "Jason, arka koltuğunda kedi olan bir arabayı çaldı; sürerken kedi üstüne atladı. Araçlarda hayvan bulunması gibi küçük detaylar dikkat çekiyor.",
+      "category": "Özellik",
+      "tags": [
+        "Detay",
+        "Hayvanlar",
+        "Araçlar"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T15:10:00Z",
+      "checkedAt": "2026-11-18T15:19:53Z"
     }
   ]
 }
