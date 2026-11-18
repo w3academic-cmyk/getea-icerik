@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 61,
-  "publishedAt": "2026-11-18T17:57:46Z",
+  "revision": 62,
+  "publishedAt": "2026-11-18T18:17:33Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -2744,6 +2744,92 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T17:41:47Z",
       "checkedAt": "2026-11-18T17:57:46Z"
+    },
+    {
+      "id": "x-metro-vcrr",
+      "url": "https://x.com/Moses_KnowsBall/status/2123116274507296807",
+      "author": "@Moses_KnowsBall",
+      "network": "x",
+      "title": "Metro Boomin VCRR radyosunda konuşuyor",
+      "summary": "Yapımcı Metro Boomin, oyundaki rap istasyonu VCRR’de (Vice City Rap Radio) konuşmacı olarak yer alıyor.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "VCRR",
+        "MetroBoomin"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T18:09:00Z",
+      "checkedAt": "2026-11-18T18:17:33Z"
+    },
+    {
+      "id": "x-ackermlv-camp-fatal",
+      "url": "https://x.com/ACKERMLV/status/2123114081481605172",
+      "author": "@ACKERMLV",
+      "network": "x",
+      "title": "Ürkütücü telefon: “Camp Fatal” easter egg’i",
+      "summary": "Yayıncı ewron oynarken ürkütücü bir easter egg’le karşılaştı: Telefonda “hello? is this the whole camp fatal?” diyen gizemli bir arama. Korku filmlerine gönderme gibi görünüyor.",
+      "category": "Easter Egg",
+      "tags": [
+        "EasterEgg",
+        "Gizem",
+        "Korku"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T18:00:17Z",
+      "checkedAt": "2026-11-18T18:17:33Z"
+    },
+    {
+      "id": "x-dexerto-twitch-3m",
+      "url": "https://x.com/Dexerto/status/2123114122061423045",
+      "author": "@Dexerto",
+      "network": "x",
+      "title": "Twitch’te 3 milyon izleyici",
+      "summary": "GTA VI şu anda Twitch’te 2,9 milyon kişi tarafından izleniyor; zirvede 3 milyonu aştı.",
+      "category": "Haber",
+      "tags": [
+        "Twitch",
+        "İzlenme",
+        "Rekor"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T18:00:26Z",
+      "checkedAt": "2026-11-18T18:17:33Z"
+    },
+    {
+      "id": "x-demodetv-speedrun",
+      "url": "https://x.com/DemodeTV/status/2123116336238989362",
+      "author": "@DemodeTV",
+      "network": "x",
+      "title": "Önderizo bu gece hikâye modunu speedrun ile bitirecek",
+      "summary": "Türk yayıncı Önderizo, GTA VI’ın Türkiye’de açıldığı 00.00’da hikâye modunu speedrun şeklinde bitirmeye başlayacak. Yayın Kick’te DemodeTV kanalında.",
+      "category": "Haber",
+      "tags": [
+        "Türkiye",
+        "Speedrun",
+        "Önderizo",
+        "Kick"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T18:09:14Z",
+      "checkedAt": "2026-11-18T18:17:33Z"
+    },
+    {
+      "id": "x-pusholder-ucak-kacirma",
+      "url": "https://x.com/pusholder/status/2123117404356055119",
+      "author": "@pusholder",
+      "network": "x",
+      "title": "Yayıncı uçak kaçırınca neler oldu?",
+      "summary": "Bir yayıncının GTA VI’da uçak kaçırdığında yaşadıklarını gösteren video paylaşıldı.",
+      "category": "Video",
+      "tags": [
+        "Uçak",
+        "Video",
+        "Kaos"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T18:13:29Z",
+      "checkedAt": "2026-11-18T18:17:33Z"
     }
   ]
 }
