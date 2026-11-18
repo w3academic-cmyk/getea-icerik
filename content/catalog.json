@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 35,
-  "publishedAt": "2026-11-18T13:33:42Z",
+  "revision": 36,
+  "publishedAt": "2026-11-18T13:34:35Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -745,7 +745,7 @@
       "network": "x",
       "title": "Çıkışta tam fotoğraf modu var",
       "summary": "IGN’ye göre GTA VI çıkışta tam teşekküllü bir fotoğraf moduyla geliyor. Manzarayı durdurup kare almak isteyenler için oyunun içinde hazır.",
-      "category": "İpucu",
+      "category": "Özellik",
       "tags": [
         "FotoğrafModu",
         "Özellik"
@@ -1002,7 +1002,7 @@
       "network": "x",
       "title": "Charlamagne Tha God’un oyunda kendi podcast’i var",
       "summary": "Adin Ross, Charlamagne Tha God’un GTA VI’da kendi podcast’i olduğunu görünce şaşırdı. Oyunun radyo ve podcast içeriklerinde gerçek ünlülere rastlamak mümkün.",
-      "category": "Gizli",
+      "category": "Radyo",
       "tags": [
         "Podcast",
         "Radyo",
@@ -1052,7 +1052,7 @@
       "network": "x",
       "title": "Karakterler kıyafetine yorum yapıyor",
       "summary": "Forbes’tan Paul Tassi’ye göre oyunun en etkileyici yanı küçük anlar: Ana hikâye görevinde bir karakter, rastgele seçtiği kolsuz tişört yüzünden onunla dalga geçmiş. Yani karakterler giydiğin kıyafete tepki verebiliyor.",
-      "category": "Gizli",
+      "category": "Özellik",
       "tags": [
         "Detay",
         "Kıyafet",
@@ -1239,7 +1239,7 @@
       "network": "x",
       "title": "Radyoda KATSEYE: “Gabriela”",
       "summary": "KATSEYE’nin “Gabriela” şarkısı GTA VI’daki radyo istasyonlarından birinde çalıyor.",
-      "category": "Gizli",
+      "category": "Radyo",
       "tags": [
         "Radyo",
         "Müzik",
@@ -1355,7 +1355,7 @@
       "network": "x",
       "title": "Radyoda Drake: şimdiye kadar bulunan 3 şarkı",
       "summary": "Oyunun radyosunda şimdiye kadar bulunan Drake şarkıları: “Hold On, We’re Going Home”, “Nonstop” ve “NOKIA”.",
-      "category": "Gizli",
+      "category": "Radyo",
       "tags": [
         "Radyo",
         "Müzik",
@@ -1486,7 +1486,7 @@
       "network": "x",
       "title": "Kontrolleri “Classic” yap: koşmak yeniden X tuşunda",
       "summary": "Ayarlardan kontrol şemasını “Classic” olarak değiştirmek öneriliyor. Böylece koşma yeniden X tuşuna geliyor ve kontroller diğer Rockstar oyunlarına çok daha yakın oluyor. Kontrollere alışamadıysan ilk deneyeceğin ayar bu.",
-      "category": "İpucu",
+      "category": "Ayarlar",
       "tags": [
         "Kontroller",
         "Ayarlar",
@@ -1503,7 +1503,7 @@
       "network": "x",
       "title": "Evini tadilat yapabiliyorsun",
       "summary": "Bir yayıncı GTA VI’daki ilk 45 dakikasını evine tadilat yaparak geçirdi. Oyunda evi düzenleme ve yenileme seçenekleri var.",
-      "category": "Gizli",
+      "category": "Özellik",
       "tags": [
         "Ev",
         "Tadilat",
@@ -1520,7 +1520,7 @@
       "network": "x",
       "title": "Jason telefonla selfie ve video çekebiliyor",
       "summary": "Oyunda karakterler telefonla selfie çekip video kaydedebiliyor. Jason’ın telefon kamerasını kullandığı bir video paylaşıldı.",
-      "category": "Video",
+      "category": "Özellik",
       "tags": [
         "Telefon",
         "Selfie",
@@ -1537,7 +1537,7 @@
       "network": "x",
       "title": "Radyoda Burna Boy ve Seyi Vibez: “GIZA”",
       "summary": "Burna Boy ve Seyi Vibez’in “GIZA” şarkısı oyun içi radyoda çalıyor.",
-      "category": "Gizli",
+      "category": "Radyo",
       "tags": [
         "Radyo",
         "Müzik",
@@ -1554,7 +1554,7 @@
       "network": "x",
       "title": "İşaretsiz gizli yan görevler: defterle ipucu avı",
       "summary": "Bloomberg’den Jason Schreier’e göre GTA VI’da hiçbir hedef işareti veya haritada noktası olmayan, detaylı yan görevler var. Bunları çözmek için etrafı dikkatle izleyip ipuçlarını bulman ve oyundaki defterini kullanman gerekiyor. Gizem ve dedektiflik sevenler için.",
-      "category": "Gizli",
+      "category": "Gizli Görev",
       "tags": [
         "GizliGörev",
         "YanGörev",
@@ -1572,7 +1572,7 @@
       "network": "x",
       "title": "Oyunun yeni şarkısı: “Blood In Your Eyes”",
       "summary": "IShowSpeed, GTA VI yayınına oyunun yeni şarkısı “Blood In Your Eyes” ile dans ederek başladı.",
-      "category": "Gizli",
+      "category": "Radyo",
       "tags": [
         "Müzik",
         "Radyo",
