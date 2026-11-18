@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 50,
-  "publishedAt": "2026-11-18T15:10:21Z",
+  "revision": 51,
+  "publishedAt": "2026-11-18T15:15:06Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -2047,6 +2047,40 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T15:00:12Z",
       "checkedAt": "2026-11-18T15:10:21Z"
+    },
+    {
+      "id": "x-speed-scooter-tutuklama",
+      "url": "https://x.com/IShowSpeedHQ/status/2123069465545810305",
+      "author": "@IShowSpeedHQ",
+      "network": "x",
+      "title": "Yaşlı bir kadının scooter’ını çalıp tutuklandı",
+      "summary": "IShowSpeed, yaşlı bir kadının engelli scooter’ını çaldıktan sonra oyunda ilk kez tutuklandı. Oyunda tutuklanma sistemi var; polise yakalanınca kovalamaca tutuklamayla bitebiliyor.",
+      "category": "Özellik",
+      "tags": [
+        "Tutuklanma",
+        "Polis",
+        "Scooter"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T15:02:59Z",
+      "checkedAt": "2026-11-18T15:15:06Z"
+    },
+    {
+      "id": "x-userbjk-kapak",
+      "url": "https://x.com/user_besiktas/status/2123070427509710862",
+      "author": "@user_besiktas",
+      "network": "x",
+      "title": "Beşiktaşlı futbolcular GTA VI kapağında",
+      "summary": "Beşiktaş taraftar hesabı, bazı Beşiktaşlı futbolcuları GTA VI kapak resmi tarzında hazırladı. Trabzonspor’un ardından Türk futbol camiası da GTA VI akımına katıldı.",
+      "category": "Haber",
+      "tags": [
+        "Türkiye",
+        "Beşiktaş",
+        "Kapak"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T15:06:49Z",
+      "checkedAt": "2026-11-18T15:15:06Z"
     }
   ]
 }
