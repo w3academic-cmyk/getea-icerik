@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 26,
-  "publishedAt": "2026-11-18T12:48:31Z",
+  "revision": 27,
+  "publishedAt": "2026-11-18T12:53:09Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1198,6 +1198,22 @@
       "spoiler": "minor",
       "postedAt": "2026-11-18T12:33:19Z",
       "checkedAt": "2026-11-18T12:48:31Z"
+    },
+    {
+      "id": "x-countdown-24-ekran",
+      "url": "https://x.com/GTAVI_Countdown/status/2123033944509895164",
+      "author": "@GTAVI_Countdown",
+      "network": "x",
+      "title": "İncelemelerde 24 yeni ekran görüntüsü",
+      "summary": "Yayınlanan incelemelerle birlikte GTA VI’dan 24 yeni ekran görüntüsü ortaya çıktı; GTA 6 Countdown hepsini tek paylaşımda topladı.",
+      "category": "Video",
+      "tags": [
+        "EkranGörüntüsü",
+        "İnceleme"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-18T12:41:51Z",
+      "checkedAt": "2026-11-18T12:53:09Z"
     }
   ]
 }
