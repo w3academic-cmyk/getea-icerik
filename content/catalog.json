@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 36,
-  "publishedAt": "2026-11-18T13:34:35Z",
+  "revision": 37,
+  "publishedAt": "2026-11-18T13:38:26Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1581,6 +1581,40 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T13:24:57Z",
       "checkedAt": "2026-11-18T13:33:42Z"
+    },
+    {
+      "id": "x-updatecharts-jisoo",
+      "url": "https://x.com/updatecharts/status/2123043554981289992",
+      "author": "@updatecharts",
+      "network": "x",
+      "title": "Radyo Pop’ta JISOO: “earthquake”",
+      "summary": "JISOO’nun “earthquake” şarkısı oyundaki Pop radyo istasyonunda çalıyor.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "Müzik",
+        "JISOO",
+        "RadyoPop"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T13:20:02Z",
+      "checkedAt": "2026-11-18T13:38:26Z"
+    },
+    {
+      "id": "x-yoxics-ilk-hata",
+      "url": "https://x.com/yoxics/status/2123044874991865956",
+      "author": "@yoxics",
+      "network": "x",
+      "title": "JasonTheWeen ilk hataları buldu",
+      "summary": "Yayıncı JasonTheWeen oynarken oyunda ilk görsel hata ve glitch’lerle karşılaştı. Çıkış gününde küçük hatalar normal; bir düzeltme yaması gelirse burada duyuracağız.",
+      "category": "Hata",
+      "tags": [
+        "Hata",
+        "Glitch"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T13:25:17Z",
+      "checkedAt": "2026-11-18T13:38:26Z"
     }
   ]
 }
