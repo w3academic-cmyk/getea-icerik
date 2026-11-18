@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 44,
-  "publishedAt": "2026-11-18T14:23:09Z",
+  "revision": 45,
+  "publishedAt": "2026-11-18T14:32:29Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1772,6 +1772,40 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T14:07:50Z",
       "checkedAt": "2026-11-18T14:23:09Z"
+    },
+    {
+      "id": "x-willyrex-askeri-us",
+      "url": "https://x.com/WillyrexYT/status/2123059613520081338",
+      "author": "@WillyrexYT",
+      "network": "x",
+      "title": "Askerî üsse ilk başarılı giriş",
+      "summary": "İspanyol yayıncı Willyrex, oyundaki askerî üsse ilk başarılı girişini videoya aldı; tam video YouTube kanalında. Üs, GTA V’teki Fort Zancudo gibi korunan bir bölge; içeri girmek kolay değil.",
+      "category": "Konum",
+      "tags": [
+        "AskeriÜs",
+        "Konum",
+        "Gizli"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T14:23:51Z",
+      "checkedAt": "2026-11-18T14:32:29Z"
+    },
+    {
+      "id": "x-notiplay-kopek-jetski",
+      "url": "https://x.com/NotiPlay_/status/2123059783431246246",
+      "author": "@NotiPlay_",
+      "network": "x",
+      "title": "Köpeğini jet skiyle gezdirebiliyorsun",
+      "summary": "GTA VI’da köpeğini yanına alıp jet skiyle gezintiye çıkabiliyorsun.",
+      "category": "Özellik",
+      "tags": [
+        "Köpek",
+        "JetSki",
+        "Evcilhayvan"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T14:24:31Z",
+      "checkedAt": "2026-11-18T14:32:29Z"
     }
   ]
 }
