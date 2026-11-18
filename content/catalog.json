@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 59,
-  "publishedAt": "2026-11-18T17:17:31Z",
+  "revision": 60,
+  "publishedAt": "2026-11-18T17:37:31Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -2631,6 +2631,58 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T17:07:06Z",
       "checkedAt": "2026-11-18T17:17:31Z"
+    },
+    {
+      "id": "x-gtabase-gorev-listesi",
+      "url": "https://x.com/GTABase/status/2123103520316363076",
+      "author": "@GTABase",
+      "network": "x",
+      "title": "Spoiler’sız tam hikâye görev listesi",
+      "summary": "GTABase, GTA VI’ın tüm hikâye görevlerinin spoiler içermeyen listesini yayınladı. Hangi görevleri bitirdiğini takip etmek için kullanabilirsin.",
+      "category": "Görev",
+      "tags": [
+        "Görevler",
+        "Liste",
+        "GTABase",
+        "Rehber"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T17:18:19Z",
+      "checkedAt": "2026-11-18T17:37:31Z"
+    },
+    {
+      "id": "x-bosunatiklama-turkce-dublaj",
+      "url": "https://x.com/bosunatiklama/status/2123103670229143841",
+      "author": "@bosunatiklama",
+      "network": "x",
+      "title": "Tamer Yeşildağ’dan GTA VI için Türkçe dublaj programı",
+      "summary": "Tamer Yeşildağ, GTA VI için geliştirdiği Türkçe dublaj programını gösterdi. Oyunda resmî Türkçe dil desteği bulunmadığı için Türk oyuncuların en çok beklediği projelerden biri.",
+      "category": "Türkçe",
+      "tags": [
+        "TürkçeDublaj",
+        "Türkçe",
+        "Yerelleştirme"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T17:18:54Z",
+      "checkedAt": "2026-11-18T17:37:31Z"
+    },
+    {
+      "id": "x-metroboominfp-gunna",
+      "url": "https://x.com/Moses_KnowsBall/status/2123102264214925397",
+      "author": "@Moses_KnowsBall",
+      "network": "x",
+      "title": "Radyoda Gunna: “Count Up” yeni verse’le",
+      "summary": "Gunna’nın “Count Up” şarkısı GTA VI radyosunda yeni bir verse’le çalıyor.",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "Gunna",
+        "Rap"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T17:13:19Z",
+      "checkedAt": "2026-11-18T17:37:31Z"
     }
   ]
 }
