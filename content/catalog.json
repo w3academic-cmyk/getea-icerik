@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 24,
-  "publishedAt": "2026-11-18T12:24:24Z",
+  "revision": 25,
+  "publishedAt": "2026-11-18T12:33:58Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -834,16 +834,16 @@
       "url": "https://x.com/FearedBuck/status/2123019118286696487",
       "author": "@FearedBuck",
       "network": "x",
-      "title": "İddia: görevler tekrar oynanamıyor",
-      "summary": "FearBuck’ın aktardığı habere göre GTA V’in aksine GTA VI’da görevleri tekrar oynama seçeneği yok. Henüz doğrulanmadı; görevlerde isteğe bağlı hedefleri ilk seferde kaçırmamak için dikkatli ol.",
+      "title": "Görevler tekrar oynanamıyor (doğrulandı)",
+      "summary": "GTA V’in aksine GTA VI’da tamamlanan hikâye görevleri menüden tekrar oynanamıyor; Rockstar bunu doğruladı. İsteğe bağlı hedefleri ilk seferde kaçırmamaya dikkat et.",
       "category": "Haber",
       "tags": [
         "Görevler",
-        "İddia"
+        "Doğrulandı"
       ],
       "spoiler": "none",
       "postedAt": "2026-11-18T11:42:56Z",
-      "checkedAt": "2026-11-18T11:53:47Z"
+      "checkedAt": "2026-11-18T12:33:58Z"
     },
     {
       "id": "getea-3d-harita-ada",
@@ -1130,6 +1130,58 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T12:12:39Z",
       "checkedAt": "2026-11-18T12:24:24Z"
+    },
+    {
+      "id": "x-piratnation-gorev-tekrar",
+      "url": "https://x.com/Pirat_Nation/status/2123025602684875013",
+      "author": "@Pirat_Nation",
+      "network": "x",
+      "title": "Rockstar doğruladı: görev tekrarı yok, sebebi dallanan hikâye",
+      "summary": "Rockstar, tamamlanan hikâye görevlerinin menüden tekrar oynanamayacağını doğruladı. IGN’ye göre sebep dallanan hikâye: Önceki kararların sonraki görevlerin nasıl geçtiğini değiştirebiliyor. Kararlarını düşünerek ver.",
+      "category": "Haber",
+      "tags": [
+        "Görevler",
+        "Kararlar",
+        "Doğrulandı"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T12:08:42Z",
+      "checkedAt": "2026-11-18T12:33:58Z"
+    },
+    {
+      "id": "x-extas1s-xbox-teknik",
+      "url": "https://x.com/eXtas1stv/status/2123021580225667182",
+      "author": "@eXtas1stv",
+      "network": "x",
+      "title": "Xbox teknik detayları: Series S’te FSR 4",
+      "summary": "Rockstar’ın açıkladığı çözünürlükler: Xbox Series X ve PS5 1440p’den 4K’ya Rockstar’ın kendi TAA yöntemiyle çıkıyor. Xbox Series S ise 720p’den 1080p’ye FSR 4 ile ölçekleniyor. Series S dahil tüm konsollarda ışın izlemeli genel aydınlatma var.",
+      "category": "Performans",
+      "tags": [
+        "Xbox",
+        "SeriesS",
+        "FSR4",
+        "Çözünürlük"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T11:52:43Z",
+      "checkedAt": "2026-11-18T12:33:58Z"
+    },
+    {
+      "id": "x-movistar-izlenme-rekoru",
+      "url": "https://x.com/MovistareSports/status/2123023462415421621",
+      "author": "@MovistareSports",
+      "network": "x",
+      "title": "Yayın izlenme rekoru: 5,3 milyon eşzamanlı izleyici",
+      "summary": "Streams Charts’ın ilk verilerine göre GTA VI yayınları farklı platformlarda toplam 5,3 milyonun üzerinde eşzamanlı izleyiciye ulaştı ve yayın izlenme rekorlarını kırdı.",
+      "category": "Haber",
+      "tags": [
+        "Twitch",
+        "Rekor",
+        "İzlenme"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T12:00:11Z",
+      "checkedAt": "2026-11-18T12:33:58Z"
     }
   ]
 }
