@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 23,
-  "publishedAt": "2026-11-18T12:19:00Z",
+  "revision": 24,
+  "publishedAt": "2026-11-18T12:24:24Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -79,9 +79,9 @@
     {
       "id": "inceleme-puanlari",
       "title": "Metacritic’te 99: tüm zamanların en yüksek puanı",
-      "summary": "GTA VI, 115 eleştirmen incelemesiyle Metacritic’te 99 aldı. İncelemelerin hepsi olumlu.",
+      "summary": "GTA VI, 164 eleştirmen incelemesiyle Metacritic’te 99 aldı ve “Must-Play” rozeti kazandı.",
       "body": [
-        "Metacritic’te GTA VI’ın PS5 puanı 115 eleştirmen incelemesine göre 99. İncelemelerin yüzde 100’ü olumlu, karışık ya da olumsuz inceleme yok.",
+        "Metacritic’in resmî hesabına göre ilk 164 eleştirmen incelemesiyle GTA VI’ın Metascore’u 99 ve oyun “Metacritic Must-Play” rozeti aldı. İlk saatlerde incelemelerin hepsi olumluydu.",
         "Bu puanla oyun, Metacritic tarihinin en yüksek puanlı oyunu The Legend of Zelda: Ocarina of Time ile aynı seviyede. Seri için önceki rekor GTA IV’ün 98’iydi.",
         "Guardian ve TrueGaming tam puan verdi. Kullanıcı puanları henüz açılmadı."
       ],
@@ -95,7 +95,7 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-18T11:19:01Z"
+      "checkedAt": "2026-11-18T12:24:24Z"
     },
     {
       "id": "ps5-yazilim-14-23",
@@ -1113,6 +1113,23 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T12:10:34Z",
       "checkedAt": "2026-11-18T12:19:00Z"
+    },
+    {
+      "id": "x-metacritic-mustplay",
+      "url": "https://x.com/metacritic/status/2123026598316347463",
+      "author": "@metacritic",
+      "network": "x",
+      "title": "Resmî: 164 incelemeyle Metascore 99, Must-Play",
+      "summary": "Metacritic’in resmî hesabı duyurdu: İlk 164 eleştirmen incelemesiyle GTA VI’ın Metascore’u 99 ve oyun “Must-Play” rozeti aldı. GameSpot’tan Tamoor Hussain: “GTA 7’ye kadar geçilemeyecek bir açık dünya oyunu.”",
+      "category": "Haber",
+      "tags": [
+        "Metacritic",
+        "MustPlay",
+        "İnceleme"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T12:12:39Z",
+      "checkedAt": "2026-11-18T12:24:24Z"
     }
   ]
 }
