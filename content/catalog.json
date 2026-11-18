@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 31,
-  "publishedAt": "2026-11-18T13:18:43Z",
+  "revision": 32,
+  "publishedAt": "2026-11-18T13:22:30Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1364,6 +1364,87 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T12:39:58Z",
       "checkedAt": "2026-11-18T13:18:43Z"
+    },
+    {
+      "id": "getea-altin-dublon-1",
+      "url": "https://getea.fun/",
+      "author": "getea yayını",
+      "network": "web",
+      "title": "GTA 6 Altın Dublon 1: Kayanın önü (Gold Doubloons)",
+      "summary": "Denize dalma görevinde ilk altın dublon (Gold Doubloons), deniz tabanındaki büyük katmanlı kayanın hemen önünde, kumun üzerinde. Metal dedektörünü (metal detector) elinde tutup sinyali kaybetmeden yaklaş (“Swim closer while maintaining the signal”); dublonun yeri sarı sandık ikonuyla görünür, alınca ekranda “+ Gold Doubloons” yazar. Oksijen çubuğunu (O₂) takip et.",
+      "category": "Koleksiyon",
+      "tags": [
+        "AltınDublon",
+        "GoldDoubloons",
+        "Koleksiyon",
+        "DenizeDalma",
+        "MetalDedektörü",
+        "Hazine"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T13:22:30Z",
+      "checkedAt": "2026-11-18T13:22:30Z",
+      "image": {
+        "src": "https://raw.githubusercontent.com/w3academic-cmyk/getea-icerik/main/content/media/altin-dublon-1-kaya-onu.webp",
+        "width": 1388,
+        "height": 666,
+        "alt": "GTA 6 denize dalma görevi: büyük kayanın önünde altın dublon toplandı",
+        "credit": "getea yayını"
+      }
+    },
+    {
+      "id": "getea-altin-dublon-2",
+      "url": "https://getea.fun/",
+      "author": "getea yayını",
+      "network": "web",
+      "title": "GTA 6 Altın Dublon 2: Batık enkazın yanı (Gold Doubloons)",
+      "summary": "Denize dalma görevinde ikinci altın dublon (Gold Doubloons), kumlu tabanda yatan batık enkaz parçasının (eski bir sandalye ya da kasa kalıntısı) hemen önünde; çevrede şişeler ve küçük mercanlar var. Metal dedektörünü (metal detector) elinde tutup sinyali kaybetmeden yaklaş (“Swim closer while maintaining the signal”); dublonun yeri sarı sandık ikonuyla görünür, alınca ekranda “+ Gold Doubloons” yazar. Oksijen çubuğunu (O₂) takip et.",
+      "category": "Koleksiyon",
+      "tags": [
+        "AltınDublon",
+        "GoldDoubloons",
+        "Koleksiyon",
+        "DenizeDalma",
+        "MetalDedektörü",
+        "Hazine"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T13:22:30Z",
+      "checkedAt": "2026-11-18T13:22:30Z",
+      "image": {
+        "src": "https://raw.githubusercontent.com/w3academic-cmyk/getea-icerik/main/content/media/altin-dublon-2-batik-enkaz.webp",
+        "width": 1575,
+        "height": 804,
+        "alt": "GTA 6 denize dalma görevi: batık enkazın önünde altın dublon işareti",
+        "credit": "getea yayını"
+      }
+    },
+    {
+      "id": "getea-altin-dublon-3",
+      "url": "https://getea.fun/",
+      "author": "getea yayını",
+      "network": "web",
+      "title": "GTA 6 Altın Dublon 3: Tüp süngerlerin yanı (Gold Doubloons)",
+      "summary": "Denize dalma görevinde üçüncü altın dublon (Gold Doubloons), sol taraftaki tüp şeklindeki süngerlerin ve mercanların yanındaki açık kumlu alanda. Görevin bu bölümünde diyaloglar başlıyor, ilerideki ızgaraya (grate) kadar devam ediliyor. Metal dedektörünü (metal detector) elinde tutup sinyali kaybetmeden yaklaş (“Swim closer while maintaining the signal”); dublonun yeri sarı sandık ikonuyla görünür, alınca ekranda “+ Gold Doubloons” yazar. Oksijen çubuğunu (O₂) takip et.",
+      "category": "Koleksiyon",
+      "tags": [
+        "AltınDublon",
+        "GoldDoubloons",
+        "Koleksiyon",
+        "DenizeDalma",
+        "MetalDedektörü",
+        "Hazine"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T13:22:30Z",
+      "checkedAt": "2026-11-18T13:22:30Z",
+      "image": {
+        "src": "https://raw.githubusercontent.com/w3academic-cmyk/getea-icerik/main/content/media/altin-dublon-3-sunger-mercan.webp",
+        "width": 1617,
+        "height": 820,
+        "alt": "GTA 6 denize dalma görevi: tüp süngerlerin yanında altın dublon işareti",
+        "credit": "getea yayını"
+      }
     }
   ]
 }
