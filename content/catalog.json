@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 75,
-  "publishedAt": "2026-11-18T23:17:04.580Z",
+  "revision": 76,
+  "publishedAt": "2026-11-18T23:37:14.243Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3414,6 +3414,89 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T23:25:00Z",
       "checkedAt": "2026-11-18T23:17:04.580Z"
+    },
+    {
+      "id": "web-engadget-corap-kedi",
+      "url": "https://www.engadget.com/2320788/gta-vi-launch-day-live-blog/",
+      "author": "Engadget",
+      "network": "web",
+      "title": "Küçük detaylar: terlikle çorap giyilmiyor, arabanın kedisi sinirleniyor",
+      "summary": "Engadget'in canlı blogundaki oyuncu keşiflerine göre Jason terliğin altına çorap giyemiyor. Birinin arabasını çalarsan arka koltuktaki kedi de bundan hiç memnun kalmıyor.",
+      "category": "Gizli",
+      "tags": [
+        "detay",
+        "detail",
+        "kıyafet",
+        "clothing",
+        "kedi",
+        "cat",
+        "araba çalma"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T23:40:00Z",
+      "checkedAt": "2026-11-18T23:37:14.243Z"
+    },
+    {
+      "id": "web-kotaku-yakit-testi",
+      "url": "https://kotaku.com/tag/gta-6",
+      "author": "Kotaku",
+      "network": "web",
+      "title": "Depo ne kadar gidiyor? Eski kamyonette 29, Banshee'de 18,5 dakika",
+      "summary": "Kotaku'nun testine göre dolu depo eski bir pikapta 29 dakika, Banshee spor arabada ise 18,5 dakika sürüyor. Uzun yolculuklarda benzin istasyonlarını aklında tut.",
+      "category": "İpucu",
+      "tags": [
+        "yakıt",
+        "fuel",
+        "benzin",
+        "gas",
+        "Banshee",
+        "araç",
+        "vehicle"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T23:42:00Z",
+      "checkedAt": "2026-11-18T23:37:14.243Z"
+    },
+    {
+      "id": "web-kotaku-kutu-kod-sorunu",
+      "url": "https://kotaku.com/some-gta-6-box-copies-reported-to-have-download-code-issues-2000756883",
+      "author": "Kotaku",
+      "network": "web",
+      "title": "Bazı kutulu kopyalarda indirme kodu sorunu",
+      "summary": "Bazı oyuncular, mağazadan aldıkları kutulu GTA VI kopyalarının içindeki indirme kodunun önceden kullanılmış olduğunu ya da hiç olmadığını bildiriyor. Böyle bir durumla karşılaşırsan satın aldığın mağazaya fişinle başvur.",
+      "category": "Hata",
+      "tags": [
+        "kutulu",
+        "box copy",
+        "indirme kodu",
+        "download code",
+        "kod",
+        "mağaza"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T23:43:00Z",
+      "checkedAt": "2026-11-18T23:37:14.243Z"
+    },
+    {
+      "id": "web-kotaku-harita-gelecek",
+      "url": "https://kotaku.com/gta-6s-map-contains-areas-that-could-be-used-in-the-future-says-rockstar-2000756338",
+      "author": "Kotaku",
+      "network": "web",
+      "title": "Rockstar: Haritada “gelecekte” kullanılacak bölgeler var",
+      "summary": "Rockstar, Leonida haritasında ileride kullanılabilecek alanlar bulunduğunu söyledi. Bu, ilerideki genişleme ya da güncellemelere işaret ediyor olabilir.",
+      "category": "Harita",
+      "tags": [
+        "harita",
+        "map",
+        "gelecek",
+        "future",
+        "genişleme",
+        "expansion",
+        "DLC"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T23:44:00Z",
+      "checkedAt": "2026-11-18T23:37:14.243Z"
     }
   ]
 }
