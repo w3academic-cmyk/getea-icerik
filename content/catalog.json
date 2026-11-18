@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 15,
+  "revision": 16,
   "publishedAt": "2026-11-18T11:55:41Z",
   "locale": "tr-TR",
   "sources": [
@@ -793,7 +793,7 @@
       "author": "getea yayını",
       "network": "web",
       "title": "Oyun içi haritadan ilk kare",
-      "summary": "Kendi yayınımızdan: Haritanın güneyindeki deniz “Leonida Straits” (Leonida Boğazı) olarak geçiyor. Ekranda yollarla birbirine bağlı uzun bir ada zinciri görünüyor. Harita ekranında ortala (L3), 2D görünüm (R3), işaret ekle (□) ve hedef belirle (X) seçenekleri var; yani haritanın bir de 3D görünümü bulunuyor. Görev: “Gone Fishing”. Donnie’nin bir sevkiyattan birkaç paket aşırmasına yardım ediyorsun; isteğe bağlı hedef karavandaki parayı geri almak.",
+      "summary": "Haritanın güneyindeki deniz “Leonida Straits” (Leonida Boğazı) olarak geçiyor. Ekranda yollarla birbirine bağlı uzun bir ada zinciri görünüyor. Harita ekranında ortala (L3), 2D görünüm (R3), işaret ekle (□) ve hedef belirle (X) seçenekleri var; yani haritanın bir de 3D görünümü bulunuyor. Görev: “Gone Fishing”. Donnie’nin bir sevkiyattan birkaç paket aşırmasına yardım ediyorsun; isteğe bağlı hedef karavandaki parayı geri almak.",
       "category": "Harita",
       "tags": [
         "Harita",
@@ -851,7 +851,7 @@
       "author": "getea yayını",
       "network": "web",
       "title": "3D harita: ada kasabası ve ikonlar",
-      "summary": "Kendi yayınımızdan. Haritanın 3D görünümünde binalar tek tek modellenmiş. Ada boyunca bir otoyol uzanıyor, iki uçtan köprüyle bağlanıyor; kuzeyde helikopter pisti olan yeşil bir alan var. Haritada pembe halkalı silah dükkânı, çapalı bir marina, iki giyim mağazası, tekne ve araç noktaları ile kokteyl simgeli bir mekân görünüyor. Kıyıda iskeleler sıralanıyor, açıkta küçük sığ adalar var.",
+      "summary": "Haritanın 3D görünümünde binalar tek tek modellenmiş. Ada boyunca bir otoyol uzanıyor, iki uçtan köprüyle bağlanıyor; kuzeyde helikopter pisti olan yeşil bir alan var. Haritada pembe halkalı silah dükkânı, çapalı bir marina, iki giyim mağazası, tekne ve araç noktaları ile kokteyl simgeli bir mekân görünüyor. Kıyıda iskeleler sıralanıyor, açıkta küçük sığ adalar var.",
       "category": "Harita",
       "tags": [
         "Harita",
@@ -875,7 +875,7 @@
       "author": "getea yayını",
       "network": "web",
       "title": "Harita menüsü: soldaki filtreler",
-      "summary": "Kendi yayınımızdan. Harita ekranının solunda dikey bir filtre menüsü var: yön oku, harita/rehber (sarı noktayla yeni içerik işareti), para, spor salonu, araçlar, silahlar, kıyafet ve yemek. Bu filtrelerle haritada yalnızca istediğin türdeki yerleri gösterebiliyorsun. Pembe halkalı silah dükkânı ikonu öne çıkarılmış durumda.",
+      "summary": "Harita ekranının solunda dikey bir filtre menüsü var: yön oku, harita/rehber (sarı noktayla yeni içerik işareti), para, spor salonu, araçlar, silahlar, kıyafet ve yemek. Bu filtrelerle haritada yalnızca istediğin türdeki yerleri gösterebiliyorsun. Pembe halkalı silah dükkânı ikonu öne çıkarılmış durumda.",
       "category": "İpucu",
       "tags": [
         "Harita",
@@ -899,7 +899,7 @@
       "author": "getea yayını",
       "network": "web",
       "title": "Haritada “Shower” (duş) noktası",
-      "summary": "Kendi yayınımızdan. Karakterin bulunduğu yerin hemen yanında haritada “Shower” yani duş noktası işaretli, mesafe 6 ft gösteriliyor. Duşun ne işe yaradığı henüz kesin değil; GTA VI’da karakterin görünümünün temizlenmesiyle ilgili olabilir. Bulunca güncelleyeceğiz.",
+      "summary": "Karakterin bulunduğu yerin hemen yanında haritada “Shower” yani duş noktası işaretli, mesafe 6 ft gösteriliyor. Duşun ne işe yaradığı henüz kesin değil; GTA VI’da karakterin görünümünün temizlenmesiyle ilgili olabilir. Bulunca güncelleyeceğiz.",
       "category": "Konum",
       "tags": [
         "Duş",
