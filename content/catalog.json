@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 68,
-  "publishedAt": "2026-11-18T21:32:38.480Z",
+  "revision": 69,
+  "publishedAt": "2026-11-18T21:37:05.035Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3247,6 +3247,28 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T21:30:00Z",
       "checkedAt": "2026-11-18T21:32:38.480Z"
+    },
+    {
+      "id": "web-gamespot-yumurta-kulesi",
+      "url": "https://www.gamespot.com/articles/gta-6-has-a-hilarious-riff-on-easter-eggs/",
+      "author": "GameSpot",
+      "network": "web",
+      "title": "Kulenin tepesindeki boyalı yumurtalar: gerçek bir “easter egg”",
+      "summary": "Bir oyuncu Vice City'deki yüksek bir kuleye yaklaşık yedi dakikada tırmanıp tepede boyalı yumurtaların olduğu bir yuva buldu. Yumurtalardan birini kuleden aşağı atınca kısa ve komik bir ara sahne oynuyor; Rockstar'ın “easter egg” kavramıyla dalga geçtiği yorumu yapılıyor.",
+      "category": "Easter Egg",
+      "tags": [
+        "easter egg",
+        "yumurta",
+        "egg",
+        "kule",
+        "tower",
+        "Vice City",
+        "ara sahne",
+        "cutscene"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-18T21:40:00Z",
+      "checkedAt": "2026-11-18T21:37:05.035Z"
     }
   ]
 }
