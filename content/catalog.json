@@ -1,0 +1,605 @@
+{
+  "schemaVersion": 1,
+  "revision": 7,
+  "publishedAt": "2026-11-18T11:08:15Z",
+  "locale": "tr-TR",
+  "sources": [
+    {
+      "id": "rockstar-release",
+      "name": "Rockstar Games Destek",
+      "url": "https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s?pubDate=20261117"
+    },
+    {
+      "id": "sony",
+      "name": "PlayStation Destek",
+      "url": "https://www.playstation.com/en-nz/support/games/gta-vi-support/"
+    },
+    {
+      "id": "rockstar",
+      "name": "Rockstar Games",
+      "url": "https://www.rockstargames.com/VI"
+    },
+    {
+      "id": "preload",
+      "name": "Rockstar Games Destek",
+      "url": "https://support.rockstargames.com/articles/7nPqOA2uCbpEQHXx7KVrYd/grand-theft-auto-vi-pre-load-faq"
+    },
+    {
+      "id": "pushsquare-map",
+      "name": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-file-size-confirmed-to-be-212gb-physical-map-available-but-not-in-boxed-copies"
+    },
+    {
+      "id": "forbes-release",
+      "name": "Forbes",
+      "url": "https://www.forbes.com/sites/erikkain/2026/11/16/gta-6-release-date-time-ps5-xbox-series-x-download-size-day-one-update/"
+    },
+    {
+      "id": "g2a-fps",
+      "name": "G2A News",
+      "url": "https://www.g2a.com/news/gta-6-news/will-gta-6-run-at-60-fps/"
+    },
+    {
+      "id": "tomsguide-pro",
+      "name": "Tom’s Guide",
+      "url": "https://www.tomsguide.com/gaming/i-want-gta-6-on-ps5-pro-more-than-anything-heres-why"
+    },
+    {
+      "id": "opencritic-scores",
+      "name": "OpenCritic",
+      "url": "https://opencritic.com/news/39490/gta-6-first-review-scores-appear-to-have-surfaced"
+    },
+    {
+      "id": "pcguide-nz",
+      "name": "PC Guide",
+      "url": "https://www.pcguide.com/news/when-does-the-gta-6-nz-trick-go-live-heres-how-to-play-early-but-it-comes-with-a-warning/"
+    },
+    {
+      "id": "vice-nz",
+      "name": "VICE",
+      "url": "https://www.vice.com/en/article/gta-6-new-zealand-trick/"
+    },
+    {
+      "id": "ign-fw1423",
+      "name": "IGN (X)",
+      "url": "https://x.com/IGN/status/2122961878162772362"
+    },
+    {
+      "id": "ps-support-fw",
+      "name": "PlayStation Support (X)",
+      "url": "https://x.com/PS_Support_US/status/2122863683881619685"
+    }
+  ],
+  "articles": [
+    {
+      "id": "ps5-yazilim-14-23",
+      "title": "PS5’te oynamadan önce 14.23 güncellemesi şart",
+      "summary": "Sony, GTA VI’ı oynamak için PS5 sistem yazılımı 14.23’ün gerektiğini doğruladı.",
+      "body": [
+        "PlayStation Destek, GTA VI’ı oynamadan önce yeni PS5 sistem yazılımı güncellemesinin yüklenmesi gerektiğini duyurdu ve güncellemeyi 19 Kasım gece yarısından önce indirmeyi önerdi. Rockstar Games bu paylaşımı yeniden paylaştı. IGN’ye göre gereken sürüm 14.23.",
+        "Türkiye’de oyun 19 Kasım 00.00’da açılıyor. Gece yarısı beklememek için konsolunu şimdiden güncelle: Ayarlar → Sistem → Sistem Yazılımı → Sistem Yazılımı Güncellemesi.",
+        "Xbox için böyle bir zorunluluk açıklanmadı."
+      ],
+      "sourceIds": [
+        "ps-support-fw",
+        "ign-fw1423"
+      ],
+      "category": "Duyurular",
+      "kind": "official",
+      "platforms": [
+        "PS5"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-18T11:08:15Z"
+    },
+    {
+      "id": "fps-30-hedefi",
+      "title": "Konsollarda hedef 30 FPS, PS5 Pro dahil",
+      "summary": "Rockstar, GTA VI için tüm güncel konsollarda 30 FPS hedefini açıkladı.",
+      "body": [
+        "Rockstar 10 Kasım’da GTA VI’ın PS5, PS5 Pro ve Xbox Series X|S’te 30 FPS hedefiyle çalışacağını duyurdu. Çıkışta 60 FPS performans modu duyurulmadı.",
+        "PS5 Pro’nun farkı kare hızı değil görüntü kalitesi: PSSR ile ölçekleme ve Pro’ya özel ışın izlemeli gölgeler.",
+        "İleride daha yüksek kare hızı modu gelip gelmeyeceği açıklanmadı. Veri madenciliğinden çıkan 40 FPS iddiaları doğrulanmadı."
+      ],
+      "sourceIds": [
+        "g2a-fps",
+        "tomsguide-pro"
+      ],
+      "category": "Duyurular",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-18T14:20:00Z"
+    },
+    {
+      "id": "yeni-zelanda-hilesi",
+      "title": "“Yeni Zelanda hilesi” ne, risk var mı?",
+      "summary": "Bazı oyuncular erken oynamak için Yeni Zelanda hesabı açıyor. Önce riskleri oku.",
+      "body": [
+        "Oyun her bölgede yerel saatle 19 Kasım 00.00’da açılıyor ve ilk açılan yer Yeni Zelanda. Türkiye saatiyle bu, 18 Kasım 14.00’a denk geliyor.",
+        "Bazı oyuncular erken oynamak için yeni bir Yeni Zelanda PlayStation hesabı açıp oyunu oranın mağazasından satın alıyor. Bu, Türkiye hesabında aldığın oyunu erken açmaz; ayrı hesap ve ayrı satın alma gerekir.",
+        "Haber siteleri bu yöntemi önermiyor ve hesap riskleri doğrulanmış değil. Kendi hesabın için karar vermeden önce kaynakları oku."
+      ],
+      "sourceIds": [
+        "pcguide-nz",
+        "vice-nz"
+      ],
+      "category": "Duyurular",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-18T14:20:00Z"
+    },
+    {
+      "id": "inceleme-puanlari",
+      "title": "İnceleme puanları: şu an ne biliniyor?",
+      "summary": "Resmî eleştirmen puanları henüz yok. Dolaşan ilk puanlar gayriresmî.",
+      "body": [
+        "Metacritic’te görülen 6,5 kullanıcı puanı yalnızca beş oya dayanıyordu ve puan bombası olduğu düşünülüyor. PlayStation Store’daki ilk değerlendirmelerin kaynağı da belirsiz.",
+        "Rockstar inceleme ambargosunu resmî olarak açıklamadı. Eleştirmen puanları yayınlanınca burada Türkçe özetleyeceğiz.",
+        "Karşılaştırma için: GTA V ve Red Dead Redemption 2 Metacritic’te 97, GTA IV 98 almıştı."
+      ],
+      "sourceIds": [
+        "opencritic-scores"
+      ],
+      "category": "Duyurular",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-18T14:20:00Z"
+    },
+    {
+      "id": "resmi-harita-indirme",
+      "title": "Resmî Leonida haritası 19 Kasım’da ücretsiz",
+      "summary": "Rockstar, yazdırılabilir haritayı ve kapak posterini çıkış günü dijital olarak sunacak.",
+      "body": [
+        "Rockstar’ın duyurusuna göre GTA VI’ın resmî sitesine çıkış günü, 19 Kasım 2026’da yazdırılabilir bir Leonida haritası ve kapak posteri ücretsiz indirme olarak eklenecek.",
+        "Kutulu kopyalarda harita yok. Çift taraflı basılı poster, çıkıştan kısa süre sonra Rockstar Store’da satışa çıkacak.",
+        "Bu, oyun içi etkileşimli bir harita değil, yazdırılabilir bir sayfa. Harita yayımlanınca getea’da kullanım koşullarına uygun şekilde göstereceğiz."
+      ],
+      "sourceIds": [
+        "pushsquare-map",
+        "rockstar"
+      ],
+      "category": "Duyurular",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-18T13:30:00Z"
+    },
+    {
+      "id": "cikis-saati",
+      "title": "GTA VI ne zaman açılıyor?",
+      "summary": "Bölgesel çıkış saatini doğru okuyalım.",
+      "body": [
+        "Rockstar, PS5 ve Xbox Series X|S için 19 Kasım 2026 yerel saat 00.00 bilgisini veriyor.",
+        "Yeni Zelanda ana karasındaki açılış, Türkiye’de 18 Kasım 14.00’a denk geliyor. Bu, Türkiye hesabındaki oyunun da aynı anda açılacağı anlamına gelmez.",
+        "Türkiye için açıklanan yerel saat 19 Kasım 00.00. Konsolundaki satın alım sayfasında görünen geri sayımı esas al. Bölgeye göre erişimin başlamasını ayrıca doğrulamak gerekir."
+      ],
+      "sourceIds": [
+        "rockstar-release"
+      ],
+      "category": "Duyurular",
+      "kind": "official",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-18T10:29:00Z"
+    },
+    {
+      "id": "platformlar",
+      "title": "Hangi platformlarda oynanıyor?",
+      "summary": "Duyurulan sürümler ve platform tercihin.",
+      "body": [
+        "Resmî GTA VI sayfasında PlayStation 5 ve Xbox Series X|S listeleniyor.",
+        "Bu kaynak PC çıkış tarihi vermiyor. PS4, Xbox One veya PC için burada doğrulanmış bir çıkış tarihi yayımlamıyoruz.",
+        "getea’da üst bölümden platformunu seçebilirsin. Platforma özel içerikleri buna göre filtreliyoruz."
+      ],
+      "sourceIds": [
+        "rockstar"
+      ],
+      "category": "Başlangıç",
+      "kind": "official",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-18T10:29:00Z"
+    },
+    {
+      "id": "turkce",
+      "title": "Oyunda Türkçe var mı?",
+      "summary": "Türkçe rehber ile oyunun dil desteği farklıdır.",
+      "body": [
+        "PlayStation’ın GTA VI destek tablosunda Türkçe bulunmuyor. Bu kontrol PS5 destek sayfasına dayanıyor.",
+        "getea Türkçe bir yardımcı rehberdir; oyunun menülerini veya altyazılarını değiştirmez.",
+        "Kişi, bölge ve görev adlarını oyunda bulabilmen için özgün adlarını koruyacağız; doğrulanmış açıklamalarını Türkçe yazacağız."
+      ],
+      "sourceIds": [
+        "sony"
+      ],
+      "category": "Başlangıç",
+      "kind": "official",
+      "platforms": [
+        "PS5"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-18T10:29:00Z"
+    },
+    {
+      "id": "onyukleme",
+      "title": "PS5: indirmeyi ve boş alanı kontrol et",
+      "summary": "Oyuna girmeden önce iki kısa kontrol.",
+      "body": [
+        "PlayStation destek sayfası 212 GB boş alan istiyor. Güncellemeler için konsolundaki güncel alan uyarısını da kontrol et.",
+        "Oyun kütüphanende GTA VI’yı aç; indirme durumunu ve geri sayımı kontrol et. Sistem yazılımının güncel olduğundan emin ol."
+      ],
+      "sourceIds": [
+        "sony"
+      ],
+      "category": "Kurulum",
+      "kind": "official",
+      "platforms": [
+        "PS5"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-18T10:29:00Z"
+    },
+    {
+      "id": "indirme-sorunu",
+      "title": "İndirme takıldıysa nereden başlamalı?",
+      "summary": "Önce bağlantı ve depolama durumuna bak.",
+      "body": [
+        "PS5’te internet bağlantısı, boş alan ve oyunu satın alan hesaba giriş durumunu kontrol et.",
+        "PlayStation, takılan indirmede duraklatıp devam ettirmeyi öneriyor. Hata sürerse kaynak sayfadaki sorun giderme adımlarını izle.",
+        "Xbox için Rockstar’ın ön yükleme yardım sayfasındaki Xbox destek bağlantısını kullan."
+      ],
+      "sourceIds": [
+        "sony",
+        "preload"
+      ],
+      "category": "Kurulum",
+      "kind": "official",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-18T10:29:00Z"
+    },
+    {
+      "id": "notlar",
+      "title": "Keşif defterini nasıl kullanırsın?",
+      "summary": "Kaydet, buldum ve kişisel not arasındaki fark.",
+      "body": [
+        "Kaydet, bir konumu favorilerine ekler. Buldum, kişisel keşif ilerlemeni işaretler; aynı düğmeyle geri alabilirsin.",
+        "Notların ve taslakların bu tarayıcıda saklanır. Başka telefona otomatik aktarılmaz.",
+        "Kaydedilenler bölümünde yedek alabilir ve daha sonra geri yükleyebilirsin. Tarayıcı verisini silmeden önce yedek al."
+      ],
+      "sourceIds": [],
+      "category": "getea kullanımı",
+      "kind": "editorial",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-18T10:29:00Z"
+    },
+    {
+      "id": "dogrulama",
+      "title": "Bir bilgi ne zaman doğrulanmış sayılır?",
+      "summary": "Kaynak, sürüm ve açık belirsizlik.",
+      "body": [
+        "Resmî duyurularda yayımlayıcının bağlantısını ve kontrol tarihini gösteriyoruz. Bu etiket, açıklamanın o tarihteki kaynağını belirtir.",
+        "Oyun içi keşiflerde konum, platform, oyun sürümü ve ekran görüntüsü ya da video zaman damgası gerekiyor. Tek bir iddiayı kanıt olmadan kesin bilgi olarak yayımlamıyoruz.",
+        "Hikâye ayrıntıları içeren içerikler ayrı spoiler uyarısıyla açılacak."
+      ],
+      "sourceIds": [],
+      "category": "getea kullanımı",
+      "kind": "editorial",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-18T10:29:00Z"
+    },
+    {
+      "id": "harita-durumu",
+      "title": "Gerçek harita ne zaman eklenecek?",
+      "summary": "Harita ile üzerindeki keşif verisi ayrı hazırlanır.",
+      "body": [
+        "Bu beta sürümünde doğrulanmış oyun haritası henüz yok. Deneme haritası gerçek GTA VI coğrafyası değildir.",
+        "Kullanılabilir bir harita kaynağı ve sabit koordinat sistemi doğrulandığında gerçek harita katmanı eklenecek. Konumlar kanıtlarıyla ayrı ayrı kontrol edilecek.",
+        "Deneme kayıtların gerçek oyun ilerlemesine sayılmayacak."
+      ],
+      "sourceIds": [],
+      "category": "getea kullanımı",
+      "kind": "editorial",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-18T10:29:00Z"
+    }
+  ],
+  "map": null,
+  "places": [],
+  "glossary": [
+    {
+      "original": "Vice City",
+      "turkish": "Vice City",
+      "note": "Özel ad korunur."
+    },
+    {
+      "original": "Leonida",
+      "turkish": "Leonida",
+      "note": "Özel ad korunur."
+    },
+    {
+      "original": "Pre-load",
+      "turkish": "Ön yükleme",
+      "note": "Çıkıştan önce indirme; oynanabilirlik anlamına gelmez."
+    },
+    {
+      "original": "Collectible",
+      "turkish": "Koleksiyon nesnesi",
+      "note": "Genel arayüz terimi; doğrulanmış nesne listesi değildir."
+    },
+    {
+      "original": "Spoiler",
+      "turkish": "Hikâye ayrıntısı",
+      "note": "İçeriği açmadan önce uyarı gösterilir."
+    }
+  ],
+  "posts": [
+    {
+      "id": "1news-indirme-yarisi",
+      "url": "https://www.1news.co.nz/2026/11/18/gta-6-how-to-beat-the-download-rush-and-why-gamers-abroad-envy-kiwis/",
+      "author": "1News",
+      "network": "web",
+      "title": "Yeni Zelanda’da indirme yarışı",
+      "summary": "Yeni Zelanda’da önümüzdeki iki haftada yaklaşık 140 bin oyuncunun oyunu indirmesi bekleniyor. Oyun 212 GB. Ön yüklemenin açıldığı günden beri ülkede 40-50 bin indirme yapılmış. Haber, indirme yoğunluğundan kaçınma önerileri de veriyor.",
+      "category": "Haber",
+      "tags": [
+        "YeniZelanda",
+        "ÖnYükleme",
+        "212GB"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T00:00:00Z",
+      "checkedAt": "2026-11-18T13:30:00Z"
+    },
+    {
+      "id": "forbes-cikis-saatleri",
+      "url": "https://www.forbes.com/sites/erikkain/2026/11/16/gta-6-release-date-time-ps5-xbox-series-x-download-size-day-one-update/",
+      "author": "Forbes · Erik Kain",
+      "network": "web",
+      "title": "Çıkış saatleri bölge bölge açılıyor",
+      "summary": "GTA VI, PS5 ve Xbox Series X|S’te 19 Kasım yerel saatle 00.00’da açılıyor. Yani dünya genelinde aynı anda değil, saat dilimine göre sırayla açılıyor. Ön yükleme cihaza göre 212 GB’a kadar yer istiyor.",
+      "category": "Haber",
+      "tags": [
+        "ÇıkışSaati",
+        "PS5",
+        "Xbox"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-16T00:00:00Z",
+      "checkedAt": "2026-11-18T13:30:00Z"
+    },
+    {
+      "id": "x-gtasixinfo-harita",
+      "url": "https://x.com/GTASixInfo/status/2117634175406903606",
+      "author": "@GTASixInfo",
+      "network": "x",
+      "title": "Resmî Leonida haritası çıkış günü ücretsiz",
+      "summary": "Rockstar, resmî Leonida haritasını ve kapak görselini 19 Kasım’da ücretsiz dijital indirme olarak yayınlayacak. Çift taraflı basılı poster çıkıştan kısa süre sonra 0,99 dolara ya da Rockstar Store’daki herhangi bir alışverişe hediye olarak gelecek.",
+      "category": "Harita",
+      "tags": [
+        "Harita",
+        "Leonida",
+        "Poster"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-03T15:05:05Z",
+      "checkedAt": "2026-11-18T14:20:00Z"
+    },
+    {
+      "id": "x-gtaseries-yayin",
+      "url": "https://x.com/GTASeries/status/2122995684391432613",
+      "author": "@GTASeries",
+      "network": "x",
+      "title": "Yeni Zelanda açılışı canlı yayında",
+      "summary": "GTA Series Videos, Yeni Zelanda açılışını @Welsh_Turkey ile YouTube ve Twitch’te 11.00 UTC’den (TR 14.00) itibaren canlı yayınlıyor. Yayın önümüzdeki günlerde de sürecek, Twitch Drops açık.",
+      "category": "Video",
+      "tags": [
+        "CanlıYayın",
+        "Twitch",
+        "YouTube"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-18T10:09:49Z",
+      "checkedAt": "2026-11-18T14:45:00Z"
+    },
+    {
+      "id": "x-countdown-spoiler",
+      "url": "https://x.com/GTAVI_Countdown/status/2122113980348956978",
+      "author": "@GTAVI_Countdown",
+      "network": "x",
+      "title": "Hikâye spoilerlarından nasıl kaçınılır?",
+      "summary": "Yeni Zelanda hesaplarıyla oynayanlar yüzünden spoilerlar erkenden yayılacak. Öneriler: YouTube ana sayfasını açma, küçük resimler spoiler dolu olacak. Yorumlara bakma, anahtar kelimeleri sessize al.",
+      "category": "İpucu",
+      "tags": [
+        "Spoiler",
+        "İpucu"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-15T23:46:14Z",
+      "checkedAt": "2026-11-18T14:45:00Z"
+    },
+    {
+      "id": "x-countdown-sira",
+      "url": "https://x.com/GTAVI_Countdown/status/2122963024436744283",
+      "author": "@GTAVI_Countdown",
+      "network": "x",
+      "title": "Açılış bölge bölge sürüyor",
+      "summary": "Oyun Yeni Zelanda’dan başlayarak her bölgede yerel gece yarısı açılıyor. Paylaşımda bölgelerin açılış sırası var. Türkiye için yerel saat 19 Kasım 00.00.",
+      "category": "Haber",
+      "tags": [
+        "ÇıkışSaati",
+        "Bölgeler"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T08:00:02Z",
+      "checkedAt": "2026-11-18T14:45:00Z"
+    },
+    {
+      "id": "x-keighley-acilis",
+      "url": "https://x.com/geoffkeighley/status/2122961878779658722",
+      "author": "@geoffkeighley",
+      "network": "x",
+      "title": "Geoff Keighley: küresel çıkış Yeni Zelanda’dan başlıyor",
+      "summary": "Geoff Keighley, açılıştan 3 saat önce GTA VI’ın küresel çıkışının Yeni Zelanda’dan başlayacağını duyurdu.",
+      "category": "Haber",
+      "tags": [
+        "Çıkış",
+        "YeniZelanda"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T07:55:29Z",
+      "checkedAt": "2026-11-18T14:45:00Z"
+    },
+    {
+      "id": "x-ign-fw1423",
+      "url": "https://x.com/IGN/status/2122961878162772362",
+      "author": "@IGN",
+      "network": "x",
+      "title": "PS5 sistem yazılımı 14.23 zorunlu",
+      "summary": "Sony, yeni yayınlanan PS5 sistem yazılımı 14.23’ün GTA VI’ı oynamadan önce gerekli olduğunu doğruladı. Paylaşımı Rockstar Games de öne çıkardı.",
+      "category": "Haber",
+      "tags": [
+        "PS5",
+        "Güncelleme",
+        "14.23"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T07:55:29Z",
+      "checkedAt": "2026-11-18T11:07:34Z"
+    },
+    {
+      "id": "x-manfightdragon-fw",
+      "url": "https://x.com/manfightdragon/status/2122851456873304452",
+      "author": "@manfightdragon",
+      "network": "x",
+      "title": "Sony eski yazılıma PSN erişimini hemen kesti",
+      "summary": "Lance McDonald’a göre Sony bu kez alışılmış 14 günlük geçiş süresini tanımadı, 14.23’ten eski yazılımların PSN erişimini hemen kapattı. Güncellemeyenler oyun açılınca oynayamayacak. McDonald, sebebin 14.22’de bulunan bir açık olduğunu düşünüyor.",
+      "category": "Haber",
+      "tags": [
+        "PS5",
+        "Güncelleme",
+        "PSN"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T00:36:42Z",
+      "checkedAt": "2026-11-18T11:07:34Z"
+    },
+    {
+      "id": "x-rap-saatler",
+      "url": "https://x.com/Rap/status/2122998884708364664",
+      "author": "@Rap",
+      "network": "x",
+      "title": "Hangi ülke ne zaman oynuyor?",
+      "summary": "RapTV açılış saatlerini ET (ABD Doğu) saatiyle sıraladı: Yeni Zelanda 06.00, Avustralya 08.00, Japonya ve Güney Kore 10.00, Hindistan 13.30, BAE 15.00. Türkiye ve Suudi Arabistan 16.00 ET, yani Türkiye saatiyle 19 Kasım 00.00.",
+      "category": "Haber",
+      "tags": [
+        "ÇıkışSaati",
+        "Türkiye"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T10:22:32Z",
+      "checkedAt": "2026-11-18T11:07:34Z"
+    },
+    {
+      "id": "x-leonidapulse-ambargo",
+      "url": "https://x.com/LeonidaPulseVI/status/2122872638234059036",
+      "author": "@LeonidaPulseVI",
+      "network": "x",
+      "title": "İnceleme ambargosu 11.00 UTC’de kalkıyor (iddia)",
+      "summary": "Insider Gaming’e dayanan paylaşıma göre inceleme ambargosu, oyunun Yeni Zelanda’da açıldığı saatte, 18 Kasım 11.00 UTC’de (TR 14.00) dünya genelinde kalkıyor. Rockstar doğrulamadı.",
+      "category": "Haber",
+      "tags": [
+        "İnceleme",
+        "Ambargo"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T02:00:52Z",
+      "checkedAt": "2026-11-18T11:07:34Z"
+    },
+    {
+      "id": "x-xqcdaily-erken",
+      "url": "https://x.com/xQc_dailyy/status/2122995324130345353",
+      "author": "@xQc_dailyy",
+      "network": "x",
+      "title": "xQc, Yeni Zelanda yöntemiyle erken yayında",
+      "summary": "xQc, Yeni Zelanda yöntemiyle oyunu sabah 6’da açıp yayına başladı. Yayıncılara, sohbetten spoiler yememek için oyunu bir an önce oynamalarını öneriyor. Yayın sohbetinde spoiler riski yüksek.",
+      "category": "Video",
+      "tags": [
+        "xQc",
+        "CanlıYayın"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-18T10:08:23Z",
+      "checkedAt": "2026-11-18T11:07:34Z"
+    },
+    {
+      "id": "x-pssupport-fw",
+      "url": "https://x.com/PS_Support_US/status/2122863683881619685",
+      "author": "@PS_Support_US",
+      "network": "x",
+      "title": "Resmî: PS5 güncellemesi gece yarısından önce",
+      "summary": "PlayStation Destek: GTA VI’ı oynamadan önce yeni PS5 sistem yazılımı güncellemesi gerekiyor. Açılışta hazır olmak için güncellemeyi 19 Kasım gece yarısından önce indir. Rockstar Games paylaşımı yeniden paylaştı.",
+      "category": "Haber",
+      "tags": [
+        "PS5",
+        "Resmî",
+        "Güncelleme"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T01:25:17Z",
+      "checkedAt": "2026-11-18T11:08:15Z"
+    },
+    {
+      "id": "x-miamiheat-vicecity",
+      "url": "https://x.com/MiamiHEAT/status/2122755760577024318",
+      "author": "@MiamiHEAT",
+      "network": "x",
+      "title": "Miami Heat’ten bir gecelik Vice City parkesi",
+      "summary": "Miami Heat, Milwaukee Bucks maçı için bir geceliğine Vice City temalı parke tanıttı. Rockstar Games paylaşımı yeniden paylaştı.",
+      "category": "Haber",
+      "tags": [
+        "ViceCity",
+        "NBA"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-17T18:16:26Z",
+      "checkedAt": "2026-11-18T11:08:15Z"
+    }
+  ]
+}
