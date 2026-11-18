@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 32,
-  "publishedAt": "2026-11-18T13:22:30Z",
+  "revision": 33,
+  "publishedAt": "2026-11-18T13:24:11Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1445,6 +1445,39 @@
         "alt": "GTA 6 denize dalma görevi: tüp süngerlerin yanında altın dublon işareti",
         "credit": "getea yayını"
       }
+    },
+    {
+      "id": "x-killakreww-aranma",
+      "url": "https://x.com/KillaKreww/status/2123030298157834556",
+      "author": "@KillaKreww",
+      "network": "x",
+      "title": "Aranma sistemi: 3 yıldız ve polis takibi",
+      "summary": "Adin Ross’un yayınında aranma sistemi görüldü: Para için NPC’lere ve polislere saldırınca 3 yıldız aranma seviyesine çıktı ve polis kovalamacası başladı. Erken saatlerde dikkat çekmemek daha kolay.",
+      "category": "İpucu",
+      "tags": [
+        "AranmaSistemi",
+        "Polis",
+        "Yıldız"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T12:27:21Z",
+      "checkedAt": "2026-11-18T13:24:11Z"
+    },
+    {
+      "id": "x-adnaan-dus-hatasi",
+      "url": "https://x.com/AdnaanJnr/status/2123023741412352302",
+      "author": "@AdnaanJnr",
+      "network": "x",
+      "title": "Hata: Duşu açınca ekran boşalıyor",
+      "summary": "Bir oyuncu, duşu açtığında sahnenin boş görüntüye dönüştüğünü paylaştı. Duş noktasını kullanırken aynı şeyle karşılaşırsan sahneyi atlamak veya son kayda dönmek deneyebilirsin.",
+      "category": "Hata",
+      "tags": [
+        "Hata",
+        "Duş"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T12:01:18Z",
+      "checkedAt": "2026-11-18T13:24:11Z"
     }
   ]
 }
