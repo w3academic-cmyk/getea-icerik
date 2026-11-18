@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 66,
-  "publishedAt": "2026-11-18T20:50:48.943Z",
+  "revision": 67,
+  "publishedAt": "2026-11-18T20:57:44.724Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3164,6 +3164,67 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T20:15:00Z",
       "checkedAt": "2026-11-18T20:50:48.943Z"
+    },
+    {
+      "id": "x-hypetribe-do-i",
+      "url": "https://x.com/hypetribeng/status/2123157911547634004",
+      "author": "@hypetribeng",
+      "network": "x",
+      "title": "AfroBank'ta Phyno ve Burna Boy: “Do I”",
+      "summary": "Oyunun AfroBank radyosunda Phyno ve Burna Boy'un “Do I” şarkısı çalıyor. Liste uzadıkça istasyonların şarkılarını buraya eklemeye devam ediyoruz.",
+      "category": "Radyo",
+      "tags": [
+        "AfroBank",
+        "radyo",
+        "radio",
+        "Phyno",
+        "Burna Boy",
+        "şarkı",
+        "song"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T20:54:00Z",
+      "checkedAt": "2026-11-18T20:57:44.724Z"
+    },
+    {
+      "id": "x-bpthaber-turkce-seslendirme",
+      "url": "https://x.com/bpthaber/status/2123156707706855611",
+      "author": "@bpthaber",
+      "network": "x",
+      "title": "Oyunda Türkçe konuşan karakterler var",
+      "summary": "Oyuncular bazı sahnelerde Türkçe seslendirme olduğunu fark etti; NPC'lerin ağzından “Kurşun yedim!” gibi Türkçe repliklerin duyulduğu bir video paylaşıldı. Yanında başka Türkçe repliklerle karşılaşırsan bize yaz.",
+      "category": "Türkçe",
+      "tags": [
+        "Türkçe",
+        "Turkish",
+        "seslendirme",
+        "voice lines",
+        "NPC",
+        "easter egg"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T20:49:00Z",
+      "checkedAt": "2026-11-18T20:57:44.724Z"
+    },
+    {
+      "id": "x-bosunatiklama-gercekci-siddet",
+      "url": "https://x.com/bosunatiklama/status/2123155051921220012",
+      "author": "@bosunatiklama",
+      "network": "x",
+      "title": "Beklenenden gerçekçi şiddet: vurulan karakterler kanlar içinde",
+      "summary": "Paylaşılan bir oynanış videosunda başından vurulan karakterlerin kanlar içinde kaldığı görülüyor. Tepki çekme ihtimali nedeniyle bu kadar gerçekçi şiddet sahneleri beklenmiyordu.",
+      "category": "Haber",
+      "tags": [
+        "şiddet",
+        "violence",
+        "kan",
+        "blood",
+        "gerçekçilik",
+        "realism"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T20:43:00Z",
+      "checkedAt": "2026-11-18T20:57:44.724Z"
     }
   ]
 }
