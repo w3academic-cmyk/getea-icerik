@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 73,
-  "publishedAt": "2026-11-18T22:37:07.168Z",
+  "revision": 74,
+  "publishedAt": "2026-11-18T22:57:00.568Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3371,6 +3371,26 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T22:45:00Z",
       "checkedAt": "2026-11-18T22:37:07.168Z"
+    },
+    {
+      "id": "web-vice-online-yok",
+      "url": "https://www.vice.com/en/article/gta-6-online-release-date/",
+      "author": "VICE",
+      "network": "web",
+      "title": "Online mod yok: GTA VI şimdilik yalnızca tek oyunculu",
+      "summary": "GTA VI tek oyunculu olarak çıktı; GTA Online benzeri çok oyunculu modun tarihi ya da dönemi Rockstar ve Take-Two tarafından henüz açıklanmadı. Bazı Türk haber siteleri 2027 diyor, ama bu resmî değil.",
+      "category": "Haber",
+      "tags": [
+        "online",
+        "GTA Online",
+        "çok oyunculu",
+        "multiplayer",
+        "tek oyunculu",
+        "single player"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T23:05:00Z",
+      "checkedAt": "2026-11-18T22:57:00.568Z"
     }
   ]
 }
