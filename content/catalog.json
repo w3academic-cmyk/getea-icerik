@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 67,
-  "publishedAt": "2026-11-18T20:57:44.724Z",
+  "revision": 68,
+  "publishedAt": "2026-11-18T21:32:38.480Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3225,6 +3225,28 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T20:43:00Z",
       "checkedAt": "2026-11-18T20:57:44.724Z"
+    },
+    {
+      "id": "web-ps5-lisans-hatasi",
+      "url": "https://www.haberler.com/haber/gta-6-coktu-mu-gta-giris-sorunu-nedir-oyun-neden-20439955-haberi/",
+      "author": "Haberler.com",
+      "network": "web",
+      "title": "PS5'te kilit simgesi ya da lisans hatası mı? Ne yapmalı",
+      "summary": "Türkiye'de oyun 19 Kasım 00.00'da açıldı. Hâlâ kilit simgesi ya da lisans hatası görüyorsan: PSN'den çıkıp yeniden gir, Ayarlar > Kullanıcılar ve Hesaplar > Diğer > Lisansları Geri Yükle'yi çalıştır, konsolu yeniden başlat. Hesap ya da konsol bölgesini değiştirdiysen lisans uyuşmazlığı çıkabilir. Rockstar'dan sunucu arızası açıklaması yok; durumu status.playstation.com'dan takip et.",
+      "category": "Hata",
+      "tags": [
+        "PS5",
+        "lisans",
+        "license",
+        "kilit",
+        "lock icon",
+        "Lisansları Geri Yükle",
+        "restore licenses",
+        "Türkiye"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T21:30:00Z",
+      "checkedAt": "2026-11-18T21:32:38.480Z"
     }
   ]
 }
