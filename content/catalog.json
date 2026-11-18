@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 13,
-  "publishedAt": "2026-11-18T11:52:18Z",
+  "revision": 14,
+  "publishedAt": "2026-11-18T11:53:47Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -811,6 +811,39 @@
         "alt": "GTA VI oyun içi harita ekranı: Leonida Straits kıyısında ada zinciri ve Gone Fishing görevi",
         "credit": "getea yayını"
       }
+    },
+    {
+      "id": "x-tomhenderson-kupalar",
+      "url": "https://x.com/_Tom_Henderson_/status/2123017174331588907",
+      "author": "@_Tom_Henderson_",
+      "network": "x",
+      "title": "Tüm kupa ve başarım listesi yayınlandı",
+      "summary": "Insider Gaming’den Tom Henderson, GTA VI’ın tam kupa (PS5) ve başarım (Xbox) listesini ve nasıl alınacaklarını paylaştı. Kupa adları ve açıklamaları hikâyeden ipuçları içerebilir.",
+      "category": "İpucu",
+      "tags": [
+        "Kupa",
+        "Başarım",
+        "Rehber"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-18T11:35:12Z",
+      "checkedAt": "2026-11-18T11:53:47Z"
+    },
+    {
+      "id": "x-fearedbuck-gorev-tekrar",
+      "url": "https://x.com/FearedBuck/status/2123019118286696487",
+      "author": "@FearedBuck",
+      "network": "x",
+      "title": "İddia: görevler tekrar oynanamıyor",
+      "summary": "FearBuck’ın aktardığı habere göre GTA V’in aksine GTA VI’da görevleri tekrar oynama seçeneği yok. Henüz doğrulanmadı; görevlerde isteğe bağlı hedefleri ilk seferde kaçırmamak için dikkatli ol.",
+      "category": "Haber",
+      "tags": [
+        "Görevler",
+        "İddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T11:42:56Z",
+      "checkedAt": "2026-11-18T11:53:47Z"
     }
   ]
 }
