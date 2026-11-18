@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 57,
-  "publishedAt": "2026-11-18T16:37:35Z",
+  "revision": 58,
+  "publishedAt": "2026-11-18T16:57:34Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -2493,6 +2493,75 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T16:26:17Z",
       "checkedAt": "2026-11-18T16:37:35Z"
+    },
+    {
+      "id": "x-rap-travis-scott",
+      "url": "https://x.com/Rap/status/2123097232358437129",
+      "author": "@Rap",
+      "network": "x",
+      "title": "Radyoda Travis Scott: şimdiye kadar 6 şarkı",
+      "summary": "Oyunun radyosunda bulunan Travis Scott şarkıları: “RHYNO”, “SICKO MODE” (Drake ile), “STARGAZING”, “CIRCUS MAXIMUS”, “Gasss” (Nemzzz ile) ve “Type Sh*t” (Future ve Playboi Carti ile).",
+      "category": "Radyo",
+      "tags": [
+        "Radyo",
+        "TravisScott",
+        "Rap"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T16:53:20Z",
+      "checkedAt": "2026-11-18T16:57:34Z"
+    },
+    {
+      "id": "x-culturecrave-15-kayit",
+      "url": "https://x.com/CultureCrave/status/2123096850555425034",
+      "author": "@CultureCrave",
+      "network": "x",
+      "title": "15 manuel kayıt yuvası var",
+      "summary": "GTA VI’da 15 manuel kayıt yuvası bulunuyor. Bitirilen hikâye görevleri tekrar oynanamadığı için bir görevi yeniden yaşamanın tek yolu önceki bir manuel kayda dönmek; önemli görevlerden önce ayrı yuvalara kayıt al.",
+      "category": "İpucu",
+      "tags": [
+        "Kayıt",
+        "Save",
+        "İpucu"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T16:51:49Z",
+      "checkedAt": "2026-11-18T16:57:34Z"
+    },
+    {
+      "id": "x-anittapress-pavlovich",
+      "url": "https://x.com/AnittaPress/status/2123096003121230094",
+      "author": "@AnittaPress",
+      "network": "x",
+      "title": "Rockstar’ın müzik direktörü Anitta’yı anlattı",
+      "summary": "Rockstar’ın müzik başkan yardımcısı Ivan Pavlovich, VOXEL’e verdiği röportajda Anitta’nın oyundaki rolünü ve dahil olma sürecini anlattı.",
+      "category": "Haber",
+      "tags": [
+        "Rockstar",
+        "Müzik",
+        "Anitta",
+        "Röportaj"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T16:48:27Z",
+      "checkedAt": "2026-11-18T16:57:34Z"
+    },
+    {
+      "id": "x-haskologlu-pahalilik",
+      "url": "https://x.com/haskologlu/status/2123094731378806988",
+      "author": "@haskologlu",
+      "network": "x",
+      "title": "Türkiye’de birçok kişi GTA VI’ı yayından izliyor",
+      "summary": "İbrahim Haskoloğlu, GTA VI’ı neden yayıncılardan izlediklerini takipçilerine sordu; konsol ve oyun fiyatları Türkiye’de çok konuşuluyor. Yayınlarda Elraenn, RRaenee ve Cordiseps gibi Türk yayıncılar öne çıkıyor.",
+      "category": "Haber",
+      "tags": [
+        "Türkiye",
+        "Fiyat",
+        "Yayıncılar"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T16:43:23Z",
+      "checkedAt": "2026-11-18T16:57:34Z"
     }
   ]
 }
