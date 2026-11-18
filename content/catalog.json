@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 71,
+  "revision": 72,
   "publishedAt": "2026-11-18T22:17:17.738Z",
   "locale": "tr-TR",
   "sources": [
@@ -3337,7 +3337,7 @@
       "author": "Dexerto",
       "network": "web",
       "title": "Discord'a ücretsiz Vice City teması geldi",
-      "summary": "Discord, Rockstar ile birlikte Vice City renk teması, uygulama simgesi ve özel isim stili çıkardı. Masaüstü ve mobilde 13 Aralık'a kadar herkese açık; Nitro (Basic hariç) üyeleri 20 Şubat'a kadar kullanabiliyor. Ayarlar > Görünüm'den açılıyor.",
+      "summary": "Discord, Rockstar ile birlikte Vice City renk teması, uygulama simgesi ve özel isim stili çıkardı. Masaüstü ve mobilde 13 Aralık'a kadar herkese açık; Nitro (Basic hariç) üyeleri 20 Şubat'a kadar kullanabiliyor.",
       "category": "Haber",
       "tags": [
         "Discord",
