@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 47,
-  "publishedAt": "2026-11-18T14:43:02Z",
+  "revision": 48,
+  "publishedAt": "2026-11-18T15:03:28Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1858,6 +1858,24 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T14:35:55Z",
       "checkedAt": "2026-11-18T14:43:02Z"
+    },
+    {
+      "id": "x-ordinarygamers-sifre-kirildi",
+      "url": "https://x.com/OrdinaryGamers/status/2123066838007656695",
+      "author": "@OrdinaryGamers",
+      "network": "x",
+      "title": "İddia: GTA VI oyun dosyalarının şifresi kırıldı",
+      "summary": "YouTuber Mutahar (OrdinaryGamers), GTA VI’ın şifresi çözülmüş oyun paketlerinin dolaşmaya başladığını paylaştı; kaynak, bunları iki kişinin kendisine gösterdiğini söyleyen başka bir hesap. Doğrulanmış değil. Hatırlatma: Sony daha önce bir yazılım açığı nedeniyle PS5 14.23 güncellemesini zorunlu kılmıştı. Korsan dosyalar hesap yasağı ve zararlı yazılım riski taşır; getea korsan bağlantı paylaşmaz.",
+      "category": "Haber",
+      "tags": [
+        "Korsan",
+        "Güvenlik",
+        "İddia",
+        "PS5"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T14:52:33Z",
+      "checkedAt": "2026-11-18T15:03:28Z"
     }
   ]
 }
