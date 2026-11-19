@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 99,
-  "publishedAt": "2026-11-19T06:57:11.624Z",
+  "revision": 100,
+  "publishedAt": "2026-11-19T07:37:12.288Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -4086,6 +4086,51 @@
       "spoiler": "minor",
       "postedAt": "2026-11-19T07:10:00Z",
       "checkedAt": "2026-11-19T06:57:11.624Z"
+    },
+    {
+      "id": "web-windowsforum-cokme-ilerleme",
+      "url": "https://windowsforum.com/news/gta-6-crash-and-lost-progress-reports-on-ps5-and-xbox-manual-save-tips.453135/",
+      "author": "WindowsForum",
+      "network": "web",
+      "title": "Çökme ve ilerleme kaybı şikâyetleri: ne yapmalı?",
+      "summary": "Bazı PS5 ve Xbox oyuncuları oyunun donup çöktüğünü ve saatlerce ilerleme kaybettiğini bildiriyor; Rockstar henüz bilinen bir sorun ya da düzeltme açıklamadı. Oyuncuların paylaştığı çözümler: sistem yazılımını güncelle, ilk gün yamasının kurulu olduğunu kontrol et, konsolu dinlenme modu yerine tamamen kapat, sık sık elle kayıt al. PS5'te kayıt yüklerken donma için Güvenli Mod'dan “Veritabanını Yeniden Oluştur” işe yarayabilir (oyunlar ve kayıtlar silinmez; “PS5'i Sıfırla”yı seçme).",
+      "category": "Hata",
+      "tags": [
+        "çökme",
+        "crash",
+        "donma",
+        "freeze",
+        "kayıt",
+        "save",
+        "ilerleme kaybı",
+        "Rebuild Database",
+        "PS5",
+        "Xbox"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T07:50:00Z",
+      "checkedAt": "2026-11-19T07:37:12.288Z"
+    },
+    {
+      "id": "web-businessupturn-agri-kesici-gorev",
+      "url": "https://businessupturn.com/technology/gaming/gta-6-not-working-on-ps5-four-fixes-players-say-solved-launch-crashes-and-psn-errors/",
+      "author": "Business Upturn",
+      "network": "web",
+      "title": "Bölüm 2'de ağrı kesici görevi takılıyor olabilir",
+      "summary": "Bazı oyuncular Bölüm 2'deki bir ağrı kesici hedefinin ilerlemediğini, son otomatik kaydı yüklemenin de işe yaramadığını bildiriyor. Daha eski bir elle kayda dönmek gerekebilir; bu yüzden görev öncesi elle kayıt almak iyi fikir. (Oyuncu bildirimi, Rockstar doğrulaması yok.)",
+      "category": "Hata",
+      "tags": [
+        "görev hatası",
+        "mission bug",
+        "Bölüm 2",
+        "Chapter 2",
+        "ağrı kesici",
+        "painkiller",
+        "kayıt"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-19T07:51:00Z",
+      "checkedAt": "2026-11-19T07:37:12.288Z"
     }
   ]
 }
