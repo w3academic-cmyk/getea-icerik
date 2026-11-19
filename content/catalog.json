@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 110,
-  "publishedAt": "2026-11-19T15:18:05.861Z",
+  "revision": 111,
+  "publishedAt": "2026-11-19T15:18:42.552Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -78,6 +78,11 @@
       "id": "x-harita-posteri",
       "name": "GTA 6 Countdown (X)",
       "url": "https://x.com/GTAVI_Countdown/status/2123112647185006787"
+    },
+    {
+      "id": "rockstar-harita",
+      "name": "Rockstar Games · Resmî Leonida haritası",
+      "url": "https://www.rockstargames.com/VI/media"
     }
   ],
   "articles": [
@@ -371,8 +376,2826 @@
       "checkedAt": "2026-11-18T10:29:00Z"
     }
   ],
-  "map": null,
-  "places": [],
+  "map": {
+    "id": "leonida-resmi-v1",
+    "title": "Resmî Leonida haritası",
+    "image": "https://raw.githubusercontent.com/w3academic-cmyk/getea-icerik/main/content/media/leonida-resmi-harita.jpg",
+    "width": 2805,
+    "height": 3840,
+    "sourceId": "rockstar-harita",
+    "rights": "Harita görseli Rockstar Games’e aittir; resmî sitesinde ücretsiz indirilebilir olarak yayınlanmıştır.",
+    "coordinateSystem": "Görsel üzerinde 0–1 arası normalize x (soldan sağa) ve y (yukarıdan aşağıya)."
+  },
+  "places": [
+    {
+      "id": "live-zephyr-islands",
+      "title": "Zephyr Islands",
+      "originalName": "Zephyr Islands",
+      "category": "Manzara",
+      "x": 0.249,
+      "y": 0.255,
+      "description": "Zephyr Islands: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-okchiloha-bay",
+      "title": "Okchiloha Bay",
+      "originalName": "Okchiloha Bay",
+      "category": "Manzara",
+      "x": 0.436,
+      "y": 0.13,
+      "description": "Okchiloha Bay: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-bonanza",
+      "title": "Bonanza",
+      "originalName": "Bonanza",
+      "category": "Konum",
+      "x": 0.482,
+      "y": 0.143,
+      "description": "Bonanza: Rockstar’ın resmî Leonida haritasında yer alan şehir.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-featherstone-islands",
+      "title": "Featherstone Islands",
+      "originalName": "Featherstone Islands",
+      "category": "Manzara",
+      "x": 0.38,
+      "y": 0.158,
+      "description": "Featherstone Islands: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-macalister-gold-mine",
+      "title": "MacAlister Gold Mine",
+      "originalName": "MacAlister Gold Mine",
+      "category": "Konum",
+      "x": 0.47,
+      "y": 0.17,
+      "description": "MacAlister Gold Mine: Rockstar’ın resmî Leonida haritasında yer alan işletme.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-saint-attaway-islands",
+      "title": "Saint Attaway Islands",
+      "originalName": "Saint Attaway Islands",
+      "category": "Manzara",
+      "x": 0.528,
+      "y": 0.133,
+      "description": "Saint Attaway Islands: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-moreau",
+      "title": "Moreau",
+      "originalName": "Moreau",
+      "category": "Konum",
+      "x": 0.515,
+      "y": 0.167,
+      "description": "Moreau: Rockstar’ın resmî Leonida haritasında yer alan şehir.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-lummox-county",
+      "title": "Lummox County",
+      "originalName": "Lummox County",
+      "category": "Konum",
+      "x": 0.497,
+      "y": 0.202,
+      "description": "Lummox County: Rockstar’ın resmî Leonida haritasında yer alan ilçe (county).",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-mount-kalaga-national-park",
+      "title": "Mount Kalaga National Park",
+      "originalName": "Mount Kalaga National Park",
+      "category": "Manzara",
+      "x": 0.497,
+      "y": 0.228,
+      "description": "Mount Kalaga National Park: Rockstar’ın resmî Leonida haritasında yer alan park.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-grayson",
+      "title": "Grayson",
+      "originalName": "Grayson",
+      "category": "Konum",
+      "x": 0.38,
+      "y": 0.219,
+      "description": "Grayson: Rockstar’ın resmî Leonida haritasında yer alan şehir.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-south-west-lummox-county",
+      "title": "South West Lummox County",
+      "originalName": "South West Lummox County",
+      "category": "Konum",
+      "x": 0.3815,
+      "y": 0.241,
+      "description": "South West Lummox County: Rockstar’ın resmî Leonida haritasında yer alan bölge.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-san-malo-bay",
+      "title": "San Malo Bay",
+      "originalName": "San Malo Bay",
+      "category": "Manzara",
+      "x": 0.331,
+      "y": 0.216,
+      "description": "San Malo Bay: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-hyde-island",
+      "title": "Hyde Island",
+      "originalName": "Hyde Island",
+      "category": "Manzara",
+      "x": 0.575,
+      "y": 0.115,
+      "description": "Hyde Island: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-partridge-bay",
+      "title": "Partridge Bay",
+      "originalName": "Partridge Bay",
+      "category": "Manzara",
+      "x": 0.631,
+      "y": 0.117,
+      "description": "Partridge Bay: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-moreau-river",
+      "title": "Moreau River",
+      "originalName": "Moreau River",
+      "category": "Manzara",
+      "x": 0.561,
+      "y": 0.146,
+      "description": "Moreau River: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-frampton-islands",
+      "title": "Frampton Islands",
+      "originalName": "Frampton Islands",
+      "category": "Manzara",
+      "x": 0.644,
+      "y": 0.147,
+      "description": "Frampton Islands: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-east-lummox-county",
+      "title": "East Lummox County",
+      "originalName": "East Lummox County",
+      "category": "Konum",
+      "x": 0.637,
+      "y": 0.178,
+      "description": "East Lummox County: Rockstar’ın resmî Leonida haritasında yer alan bölge.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-tallaloko-lakeside-resort",
+      "title": "Tallaloko Lakeside Resort",
+      "originalName": "Tallaloko Lakeside Resort",
+      "category": "Konum",
+      "x": 0.603,
+      "y": 0.185,
+      "description": "Tallaloko Lakeside Resort: Rockstar’ın resmî Leonida haritasında yer alan işletme.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-lake-tallaloko",
+      "title": "Lake Tallaloko",
+      "originalName": "Lake Tallaloko",
+      "category": "Manzara",
+      "x": 0.631,
+      "y": 0.206,
+      "description": "Lake Tallaloko: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-millport",
+      "title": "Millport",
+      "originalName": "Millport",
+      "category": "Konum",
+      "x": 0.659,
+      "y": 0.231,
+      "description": "Millport: Rockstar’ın resmî Leonida haritasında yer alan şehir.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-millport-basin",
+      "title": "Millport Basin",
+      "originalName": "Millport Basin",
+      "category": "Manzara",
+      "x": 0.76,
+      "y": 0.228,
+      "description": "Millport Basin: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-north-leonard-county",
+      "title": "North Leonard County",
+      "originalName": "North Leonard County",
+      "category": "Konum",
+      "x": 0.5975,
+      "y": 0.254,
+      "description": "North Leonard County: Rockstar’ın resmî Leonida haritasında yer alan bölge.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-richard-barebone",
+      "title": "Richard Barebone",
+      "originalName": "Richard Barebone",
+      "category": "Konum",
+      "x": 0.716,
+      "y": 0.264,
+      "description": "Richard Barebone: Rockstar’ın resmî Leonida haritasında yer alan yer.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-little-hardin-island",
+      "title": "Little Hardin Island",
+      "originalName": "Little Hardin Island",
+      "category": "Manzara",
+      "x": 0.775,
+      "y": 0.249,
+      "description": "Little Hardin Island: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-draper-island",
+      "title": "Draper Island",
+      "originalName": "Draper Island",
+      "category": "Manzara",
+      "x": 0.243,
+      "y": 0.3,
+      "description": "Draper Island: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-draper-bay",
+      "title": "Draper Bay",
+      "originalName": "Draper Bay",
+      "category": "Manzara",
+      "x": 0.253,
+      "y": 0.344,
+      "description": "Draper Bay: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-wild-hog-point",
+      "title": "Wild Hog Point",
+      "originalName": "Wild Hog Point",
+      "category": "Manzara",
+      "x": 0.243,
+      "y": 0.389,
+      "description": "Wild Hog Point: Rockstar’ın resmî Leonida haritasında yer alan simge yapı.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-wild-hog-airfield",
+      "title": "Wild Hog Airfield",
+      "originalName": "Wild Hog Airfield",
+      "category": "Konum",
+      "x": 0.263,
+      "y": 0.376,
+      "description": "Wild Hog Airfield: Rockstar’ın resmî Leonida haritasında yer alan havaalanı ya da pist.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-sandbars",
+      "title": "Sandbars",
+      "originalName": "Sandbars",
+      "category": "Manzara",
+      "x": 0.142,
+      "y": 0.405,
+      "description": "Sandbars: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-borrachero-sound",
+      "title": "Borrachero Sound",
+      "originalName": "Borrachero Sound",
+      "category": "Manzara",
+      "x": 0.226,
+      "y": 0.41,
+      "description": "Borrachero Sound: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-crude-islands",
+      "title": "Crude Islands",
+      "originalName": "Crude Islands",
+      "category": "Manzara",
+      "x": 0.188,
+      "y": 0.437,
+      "description": "Crude Islands: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-capri-sound",
+      "title": "Capri Sound",
+      "originalName": "Capri Sound",
+      "category": "Manzara",
+      "x": 0.217,
+      "y": 0.5065,
+      "description": "Capri Sound: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-father-scrumpy-s-red-apple-orchard",
+      "title": "Father Scrumpy's Red Apple Orchard",
+      "originalName": "Father Scrumpy's Red Apple Orchard",
+      "category": "Konum",
+      "x": 0.344,
+      "y": 0.29,
+      "description": "Father Scrumpy's Red Apple Orchard: Rockstar’ın resmî Leonida haritasında yer alan çiftlik.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-manifest-canyon",
+      "title": "Manifest Canyon",
+      "originalName": "Manifest Canyon",
+      "category": "Manzara",
+      "x": 0.384,
+      "y": 0.295,
+      "description": "Manifest Canyon: Rockstar’ın resmî Leonida haritasında yer alan simge yapı.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-north-kelly-county",
+      "title": "North Kelly County",
+      "originalName": "North Kelly County",
+      "category": "Konum",
+      "x": 0.487,
+      "y": 0.28,
+      "description": "North Kelly County: Rockstar’ın resmî Leonida haritasında yer alan ilçe (county).",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-thrillbilly-mud-club",
+      "title": "Thrillbilly Mud Club",
+      "originalName": "Thrillbilly Mud Club",
+      "category": "Spor",
+      "x": 0.475,
+      "y": 0.314,
+      "description": "Thrillbilly Mud Club: Rockstar’ın resmî Leonida haritasında yer alan spor ve yarış alanı.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-frogswater",
+      "title": "Frogswater",
+      "originalName": "Frogswater",
+      "category": "Konum",
+      "x": 0.437,
+      "y": 0.344,
+      "description": "Frogswater: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-port-gellhorn",
+      "title": "Port Gellhorn",
+      "originalName": "Port Gellhorn",
+      "category": "Konum",
+      "x": 0.291,
+      "y": 0.357,
+      "description": "Port Gellhorn: Rockstar’ın resmî Leonida haritasında yer alan şehir.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-howe-dairy",
+      "title": "Howe Dairy",
+      "originalName": "Howe Dairy",
+      "category": "Konum",
+      "x": 0.43,
+      "y": 0.377,
+      "description": "Howe Dairy: Rockstar’ın resmî Leonida haritasında yer alan çiftlik.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-tucker-s-citrus-farms",
+      "title": "Tucker's Citrus Farms",
+      "originalName": "Tucker's Citrus Farms",
+      "category": "Konum",
+      "x": 0.47,
+      "y": 0.383,
+      "description": "Tucker's Citrus Farms: Rockstar’ın resmî Leonida haritasında yer alan çiftlik.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-kelly-county",
+      "title": "Kelly County",
+      "originalName": "Kelly County",
+      "category": "Konum",
+      "x": 0.419,
+      "y": 0.395,
+      "description": "Kelly County: Rockstar’ın resmî Leonida haritasında yer alan ilçe (county).",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-emerald-springs",
+      "title": "Emerald Springs",
+      "originalName": "Emerald Springs",
+      "category": "Konum",
+      "x": 0.455,
+      "y": 0.42,
+      "description": "Emerald Springs: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-gellhorn-raceway",
+      "title": "Gellhorn Raceway",
+      "originalName": "Gellhorn Raceway",
+      "category": "Spor",
+      "x": 0.294,
+      "y": 0.434,
+      "description": "Gellhorn Raceway: Rockstar’ın resmî Leonida haritasında yer alan spor ve yarış alanı.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-gellhorn",
+      "title": "Gellhorn",
+      "originalName": "Gellhorn",
+      "category": "Konum",
+      "x": 0.346,
+      "y": 0.447,
+      "description": "Gellhorn: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-emerald-river",
+      "title": "Emerald River",
+      "originalName": "Emerald River",
+      "category": "Manzara",
+      "x": 0.443,
+      "y": 0.439,
+      "description": "Emerald River: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-leonida-state-prison",
+      "title": "Leonida State Prison",
+      "originalName": "Leonida State Prison",
+      "category": "Konum",
+      "x": 0.397,
+      "y": 0.458,
+      "description": "Leonida State Prison: Rockstar’ın resmî Leonida haritasında yer alan hapishane.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-burnt-creek",
+      "title": "Burnt Creek",
+      "originalName": "Burnt Creek",
+      "category": "Manzara",
+      "x": 0.352,
+      "y": 0.472,
+      "description": "Burnt Creek: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-buckskin-swamp",
+      "title": "Buckskin Swamp",
+      "originalName": "Buckskin Swamp",
+      "category": "Manzara",
+      "x": 0.477,
+      "y": 0.472,
+      "description": "Buckskin Swamp: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-south-kelly-county",
+      "title": "South Kelly County",
+      "originalName": "South Kelly County",
+      "category": "Konum",
+      "x": 0.3915,
+      "y": 0.505,
+      "description": "South Kelly County: Rockstar’ın resmî Leonida haritasında yer alan ilçe (county).",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-richard-barebone-state-park",
+      "title": "Richard Barebone State Park",
+      "originalName": "Richard Barebone State Park",
+      "category": "Manzara",
+      "x": 0.714,
+      "y": 0.265,
+      "description": "Richard Barebone State Park: Rockstar’ın resmî Leonida haritasında yer alan park.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-mount-hailes-country-club",
+      "title": "Mount Hailes Country Club",
+      "originalName": "Mount Hailes Country Club",
+      "category": "Spor",
+      "x": 0.662,
+      "y": 0.273,
+      "description": "Mount Hailes Country Club: Rockstar’ın resmî Leonida haritasında yer alan spor ve yarış alanı.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-ambrosia-raceway-park",
+      "title": "Ambrosia Raceway Park",
+      "originalName": "Ambrosia Raceway Park",
+      "category": "Spor",
+      "x": 0.538,
+      "y": 0.306,
+      "description": "Ambrosia Raceway Park: Rockstar’ın resmî Leonida haritasında yer alan spor ve yarış alanı.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-lake-leonida",
+      "title": "Lake Leonida",
+      "originalName": "Lake Leonida",
+      "category": "Manzara",
+      "x": 0.604,
+      "y": 0.313,
+      "description": "Lake Leonida: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-sabal-palms",
+      "title": "Sabal Palms",
+      "originalName": "Sabal Palms",
+      "category": "Konum",
+      "x": 0.703,
+      "y": 0.323,
+      "description": "Sabal Palms: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-waning-sands",
+      "title": "Waning Sands",
+      "originalName": "Waning Sands",
+      "category": "Konum",
+      "x": 0.739,
+      "y": 0.323,
+      "description": "Waning Sands: Rockstar’ın resmî Leonida haritasında yer alan şehir.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-ambrosia-rodeo-association",
+      "title": "Ambrosia Rodeo Association",
+      "originalName": "Ambrosia Rodeo Association",
+      "category": "Spor",
+      "x": 0.527,
+      "y": 0.33,
+      "description": "Ambrosia Rodeo Association: Rockstar’ın resmî Leonida haritasında yer alan spor ve yarış alanı.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-evergreen-mall-of-waning-sands",
+      "title": "Evergreen Mall of Waning Sands",
+      "originalName": "Evergreen Mall of Waning Sands",
+      "category": "Konum",
+      "x": 0.72,
+      "y": 0.345,
+      "description": "Evergreen Mall of Waning Sands: Rockstar’ın resmî Leonida haritasında yer alan işletme.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-ambrosia",
+      "title": "Ambrosia",
+      "originalName": "Ambrosia",
+      "category": "Konum",
+      "x": 0.553,
+      "y": 0.357,
+      "description": "Ambrosia: Rockstar’ın resmî Leonida haritasında yer alan şehir.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-leonard-county",
+      "title": "Leonard County",
+      "originalName": "Leonard County",
+      "category": "Konum",
+      "x": 0.691,
+      "y": 0.359,
+      "description": "Leonard County: Rockstar’ın resmî Leonida haritasında yer alan ilçe (county).",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-allied-crystal",
+      "title": "Allied Crystal",
+      "originalName": "Allied Crystal",
+      "category": "Konum",
+      "x": 0.547,
+      "y": 0.373,
+      "description": "Allied Crystal: Rockstar’ın resmî Leonida haritasında yer alan işletme.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-chateau-cellerica",
+      "title": "Chateau Cellerica",
+      "originalName": "Chateau Cellerica",
+      "category": "Manzara",
+      "x": 0.631,
+      "y": 0.381,
+      "description": "Chateau Cellerica: Rockstar’ın resmî Leonida haritasında yer alan simge yapı.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-belville",
+      "title": "Belville",
+      "originalName": "Belville",
+      "category": "Konum",
+      "x": 0.656,
+      "y": 0.396,
+      "description": "Belville: Rockstar’ın resmî Leonida haritasında yer alan şehir.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-cellerica",
+      "title": "Cellerica",
+      "originalName": "Cellerica",
+      "category": "Konum",
+      "x": 0.651,
+      "y": 0.407,
+      "description": "Cellerica: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-south-leonard-county",
+      "title": "South Leonard County",
+      "originalName": "South Leonard County",
+      "category": "Konum",
+      "x": 0.606,
+      "y": 0.433,
+      "description": "South Leonard County: Rockstar’ın resmî Leonida haritasında yer alan ilçe (county).",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-decor-district",
+      "title": "Decor District",
+      "originalName": "Decor District",
+      "category": "Konum",
+      "x": 0.725,
+      "y": 0.433,
+      "description": "Decor District: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-stockyard",
+      "title": "Stockyard",
+      "originalName": "Stockyard",
+      "category": "Konum",
+      "x": 0.722,
+      "y": 0.449,
+      "description": "Stockyard: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-la-perle",
+      "title": "La Perle",
+      "originalName": "La Perle",
+      "category": "Konum",
+      "x": 0.678,
+      "y": 0.464,
+      "description": "La Perle: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-bayside",
+      "title": "Bayside",
+      "originalName": "Bayside",
+      "category": "Konum",
+      "x": 0.717,
+      "y": 0.472,
+      "description": "Bayside: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-fleeca-field",
+      "title": "Fleeca Field",
+      "originalName": "Fleeca Field",
+      "category": "Spor",
+      "x": 0.6345,
+      "y": 0.4875,
+      "description": "Fleeca Field: Rockstar’ın resmî Leonida haritasında yer alan spor ve yarış alanı.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-tisha-wocka-flea-market",
+      "title": "Tisha-Wocka Flea Market",
+      "originalName": "Tisha-Wocka Flea Market",
+      "category": "Konum",
+      "x": 0.552,
+      "y": 0.501,
+      "description": "Tisha-Wocka Flea Market: Rockstar’ın resmî Leonida haritasında yer alan işletme.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-balsero",
+      "title": "Balsero",
+      "originalName": "Balsero",
+      "category": "Konum",
+      "x": 0.585,
+      "y": 0.4995,
+      "description": "Balsero: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-rockridge",
+      "title": "Rockridge",
+      "originalName": "Rockridge",
+      "category": "Konum",
+      "x": 0.6515,
+      "y": 0.497,
+      "description": "Rockridge: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-crosstown",
+      "title": "Crosstown",
+      "originalName": "Crosstown",
+      "category": "Konum",
+      "x": 0.6965,
+      "y": 0.496,
+      "description": "Crosstown: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-flam",
+      "title": "FLAM",
+      "originalName": "FLAM",
+      "category": "Konum",
+      "x": 0.7175,
+      "y": 0.504,
+      "description": "FLAM: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-atlantic-ocean",
+      "title": "Atlantic Ocean",
+      "originalName": "Atlantic Ocean",
+      "category": "Manzara",
+      "x": 0.874,
+      "y": 0.318,
+      "description": "Atlantic Ocean: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-vinewood-beach",
+      "title": "Vinewood Beach",
+      "originalName": "Vinewood Beach",
+      "category": "Manzara",
+      "x": 0.79,
+      "y": 0.335,
+      "description": "Vinewood Beach: Rockstar’ın resmî Leonida haritasında yer alan plaj.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-leaf-links",
+      "title": "Leaf Links",
+      "originalName": "Leaf Links",
+      "category": "Spor",
+      "x": 0.78,
+      "y": 0.418,
+      "description": "Leaf Links: Rockstar’ın resmî Leonida haritasında yer alan spor ve yarış alanı.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-washington-island",
+      "title": "Washington Island",
+      "originalName": "Washington Island",
+      "category": "Manzara",
+      "x": 0.83,
+      "y": 0.433,
+      "description": "Washington Island: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-penmarch-isle",
+      "title": "Penmarch Isle",
+      "originalName": "Penmarch Isle",
+      "category": "Manzara",
+      "x": 0.799,
+      "y": 0.443,
+      "description": "Penmarch Isle: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-washington-beach",
+      "title": "Washington Beach",
+      "originalName": "Washington Beach",
+      "category": "Manzara",
+      "x": 0.866,
+      "y": 0.444,
+      "description": "Washington Beach: Rockstar’ın resmî Leonida haritasında yer alan plaj.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-oldby-island",
+      "title": "Oldby Island",
+      "originalName": "Oldby Island",
+      "category": "Manzara",
+      "x": 0.836,
+      "y": 0.457,
+      "description": "Oldby Island: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-rialto-islands",
+      "title": "Rialto Islands",
+      "originalName": "Rialto Islands",
+      "category": "Manzara",
+      "x": 0.766,
+      "y": 0.467,
+      "description": "Rialto Islands: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-casanova-island",
+      "title": "Casanova Island",
+      "originalName": "Casanova Island",
+      "category": "Manzara",
+      "x": 0.796,
+      "y": 0.473,
+      "description": "Casanova Island: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-catalan-island",
+      "title": "Catalan Island",
+      "originalName": "Catalan Island",
+      "category": "Manzara",
+      "x": 0.747,
+      "y": 0.481,
+      "description": "Catalan Island: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-vespucci-island",
+      "title": "Vespucci Island",
+      "originalName": "Vespucci Island",
+      "category": "Manzara",
+      "x": 0.7725,
+      "y": 0.4865,
+      "description": "Vespucci Island: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-salton-memorial-island",
+      "title": "Salton Memorial Island",
+      "originalName": "Salton Memorial Island",
+      "category": "Manzara",
+      "x": 0.7805,
+      "y": 0.497,
+      "description": "Salton Memorial Island: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-vice-beach",
+      "title": "Vice Beach",
+      "originalName": "Vice Beach",
+      "category": "Konum",
+      "x": 0.8495,
+      "y": 0.489,
+      "description": "Vice Beach: Rockstar’ın resmî Leonida haritasında yer alan şehir.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-starfish-island",
+      "title": "Starfish Island",
+      "originalName": "Starfish Island",
+      "category": "Manzara",
+      "x": 0.783,
+      "y": 0.5125,
+      "description": "Starfish Island: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-belpoint",
+      "title": "Belpoint",
+      "originalName": "Belpoint",
+      "category": "Manzara",
+      "x": 0.175,
+      "y": 0.549,
+      "description": "Belpoint: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-gulf-of-leonida",
+      "title": "Gulf Of Leonida",
+      "originalName": "Gulf Of Leonida",
+      "category": "Manzara",
+      "x": 0.13,
+      "y": 0.639,
+      "description": "Gulf Of Leonida: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-west-vice-dale-county",
+      "title": "West Vice-Dale County",
+      "originalName": "West Vice-Dale County",
+      "category": "Konum",
+      "x": 0.455,
+      "y": 0.535,
+      "description": "West Vice-Dale County: Rockstar’ın resmî Leonida haritasında yer alan ilçe (county).",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-capri",
+      "title": "Capri",
+      "originalName": "Capri",
+      "category": "Konum",
+      "x": 0.287,
+      "y": 0.527,
+      "description": "Capri: Rockstar’ın resmî Leonida haritasında yer alan şehir.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-tortoise-lake",
+      "title": "Tortoise Lake",
+      "originalName": "Tortoise Lake",
+      "category": "Manzara",
+      "x": 0.311,
+      "y": 0.52,
+      "description": "Tortoise Lake: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-nehrling-river",
+      "title": "Nehrling River",
+      "originalName": "Nehrling River",
+      "category": "Manzara",
+      "x": 0.38,
+      "y": 0.554,
+      "description": "Nehrling River: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-three-toe-lake",
+      "title": "Three Toe Lake",
+      "originalName": "Three Toe Lake",
+      "category": "Manzara",
+      "x": 0.479,
+      "y": 0.555,
+      "description": "Three Toe Lake: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-breakwater-quarry",
+      "title": "Breakwater Quarry",
+      "originalName": "Breakwater Quarry",
+      "category": "Manzara",
+      "x": 0.432,
+      "y": 0.583,
+      "description": "Breakwater Quarry: Rockstar’ın resmî Leonida haritasında yer alan simge yapı.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-bobcat-bight",
+      "title": "Bobcat Bight",
+      "originalName": "Bobcat Bight",
+      "category": "Manzara",
+      "x": 0.276,
+      "y": 0.592,
+      "description": "Bobcat Bight: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-sahara-network-data-center",
+      "title": "Sahara Network Data Center",
+      "originalName": "Sahara Network Data Center",
+      "category": "Konum",
+      "x": 0.469,
+      "y": 0.62,
+      "description": "Sahara Network Data Center: Rockstar’ın resmî Leonida haritasında yer alan işletme.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-big-pine",
+      "title": "Big Pine",
+      "originalName": "Big Pine",
+      "category": "Konum",
+      "x": 0.393,
+      "y": 0.622,
+      "description": "Big Pine: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-tola-bay",
+      "title": "Tola Bay",
+      "originalName": "Tola Bay",
+      "category": "Manzara",
+      "x": 0.344,
+      "y": 0.629,
+      "description": "Tola Bay: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-bobcat-key",
+      "title": "Bobcat Key",
+      "originalName": "Bobcat Key",
+      "category": "Manzara",
+      "x": 0.327,
+      "y": 0.642,
+      "description": "Bobcat Key: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-henry-j-edwards-airport",
+      "title": "Henry J Edwards Airport",
+      "originalName": "Henry J Edwards Airport",
+      "category": "Konum",
+      "x": 0.364,
+      "y": 0.656,
+      "description": "Henry J Edwards Airport: Rockstar’ın resmî Leonida haritasında yer alan havaalanı ya da pist.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-grassrivers",
+      "title": "Grassrivers",
+      "originalName": "Grassrivers",
+      "category": "Konum",
+      "x": 0.45,
+      "y": 0.663,
+      "description": "Grassrivers: Rockstar’ın resmî Leonida haritasında yer alan şehir.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-paradise-rv-park",
+      "title": "Paradise RV Park",
+      "originalName": "Paradise RV Park",
+      "category": "Manzara",
+      "x": 0.47,
+      "y": 0.679,
+      "description": "Paradise RV Park: Rockstar’ın resmî Leonida haritasında yer alan simge yapı.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-watson-bay",
+      "title": "Watson Bay",
+      "originalName": "Watson Bay",
+      "category": "Konum",
+      "x": 0.431,
+      "y": 0.703,
+      "description": "Watson Bay: Rockstar’ın resmî Leonida haritasında yer alan şehir.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-pelican-river",
+      "title": "Pelican River",
+      "originalName": "Pelican River",
+      "category": "Manzara",
+      "x": 0.466,
+      "y": 0.698,
+      "description": "Pelican River: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-gullet-marsh",
+      "title": "Gullet Marsh",
+      "originalName": "Gullet Marsh",
+      "category": "Manzara",
+      "x": 0.497,
+      "y": 0.713,
+      "description": "Gullet Marsh: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-mariana-county",
+      "title": "Mariana County",
+      "originalName": "Mariana County",
+      "category": "Konum",
+      "x": 0.411,
+      "y": 0.73,
+      "description": "Mariana County: Rockstar’ın resmî Leonida haritasında yer alan ilçe (county).",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-leonida-bay",
+      "title": "Leonida Bay",
+      "originalName": "Leonida Bay",
+      "category": "Manzara",
+      "x": 0.3635,
+      "y": 0.7595,
+      "description": "Leonida Bay: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-wetman-bay",
+      "title": "Wetman Bay",
+      "originalName": "Wetman Bay",
+      "category": "Manzara",
+      "x": 0.455,
+      "y": 0.752,
+      "description": "Wetman Bay: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-sahara-arena",
+      "title": "Sahara Arena",
+      "originalName": "Sahara Arena",
+      "category": "Spor",
+      "x": 0.721,
+      "y": 0.515,
+      "description": "Sahara Arena: Rockstar’ın resmî Leonida haritasında yer alan spor ve yarış alanı.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-vice-city",
+      "title": "Vice City",
+      "originalName": "Vice City",
+      "category": "Konum",
+      "x": 0.67,
+      "y": 0.52,
+      "description": "Vice City: Rockstar’ın resmî Leonida haritasında yer alan şehir.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-little-cuba",
+      "title": "Little Cuba",
+      "originalName": "Little Cuba",
+      "category": "Konum",
+      "x": 0.66,
+      "y": 0.533,
+      "description": "Little Cuba: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-downtown",
+      "title": "Downtown",
+      "originalName": "Downtown",
+      "category": "Konum",
+      "x": 0.701,
+      "y": 0.535,
+      "description": "Downtown: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-waxman",
+      "title": "Waxman",
+      "originalName": "Waxman",
+      "category": "Manzara",
+      "x": 0.757,
+      "y": 0.533,
+      "description": "Waxman: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-salton",
+      "title": "Salton",
+      "originalName": "Salton",
+      "category": "Konum",
+      "x": 0.621,
+      "y": 0.54,
+      "description": "Salton: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-vcia",
+      "title": "VCIA",
+      "originalName": "VCIA",
+      "category": "Konum",
+      "x": 0.565,
+      "y": 0.57,
+      "description": "VCIA: Rockstar’ın resmî Leonida haritasında yer alan havaalanı ya da pist.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-vice-city-international-airport",
+      "title": "Vice City International Airport",
+      "originalName": "Vice City International Airport",
+      "category": "Konum",
+      "x": 0.564,
+      "y": 0.578,
+      "description": "Vice City International Airport: Rockstar’ın resmî Leonida haritasında yer alan havaalanı ya da pist.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-vice-dale-county",
+      "title": "Vice-Dale County",
+      "originalName": "Vice-Dale County",
+      "category": "Konum",
+      "x": 0.706,
+      "y": 0.574,
+      "description": "Vice-Dale County: Rockstar’ın resmî Leonida haritasında yer alan ilçe (county).",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-tequesta",
+      "title": "Tequesta",
+      "originalName": "Tequesta",
+      "category": "Konum",
+      "x": 0.672,
+      "y": 0.595,
+      "description": "Tequesta: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-tequesta-retreat",
+      "title": "Tequesta Retreat",
+      "originalName": "Tequesta Retreat",
+      "category": "Konum",
+      "x": 0.727,
+      "y": 0.592,
+      "description": "Tequesta Retreat: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-vice-city-oceanarium",
+      "title": "Vice City Oceanarium",
+      "originalName": "Vice City Oceanarium",
+      "category": "Manzara",
+      "x": 0.737,
+      "y": 0.613,
+      "description": "Vice City Oceanarium: Rockstar’ın resmî Leonida haritasında yer alan simge yapı.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-courtland-park",
+      "title": "Courtland Park",
+      "originalName": "Courtland Park",
+      "category": "Manzara",
+      "x": 0.714,
+      "y": 0.628,
+      "description": "Courtland Park: Rockstar’ın resmî Leonida haritasında yer alan park.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-catalan-key",
+      "title": "Catalan Key",
+      "originalName": "Catalan Key",
+      "category": "Manzara",
+      "x": 0.724,
+      "y": 0.642,
+      "description": "Catalan Key: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-peacock-bay",
+      "title": "Peacock Bay",
+      "originalName": "Peacock Bay",
+      "category": "Konum",
+      "x": 0.664,
+      "y": 0.639,
+      "description": "Peacock Bay: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-bluegrass",
+      "title": "Bluegrass",
+      "originalName": "Bluegrass",
+      "category": "Konum",
+      "x": 0.559,
+      "y": 0.632,
+      "description": "Bluegrass: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-southside",
+      "title": "Southside",
+      "originalName": "Southside",
+      "category": "Konum",
+      "x": 0.624,
+      "y": 0.649,
+      "description": "Southside: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-peacock-estates",
+      "title": "Peacock Estates",
+      "originalName": "Peacock Estates",
+      "category": "Konum",
+      "x": 0.659,
+      "y": 0.659,
+      "description": "Peacock Estates: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-hamlet-correctional-institution",
+      "title": "Hamlet Correctional Institution",
+      "originalName": "Hamlet Correctional Institution",
+      "category": "Konum",
+      "x": 0.55,
+      "y": 0.672,
+      "description": "Hamlet Correctional Institution: Rockstar’ın resmî Leonida haritasında yer alan hapishane.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-south-vice-dale",
+      "title": "South Vice-Dale",
+      "originalName": "South Vice-Dale",
+      "category": "Konum",
+      "x": 0.62,
+      "y": 0.677,
+      "description": "South Vice-Dale: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-hamlet",
+      "title": "Hamlet",
+      "originalName": "Hamlet",
+      "category": "Konum",
+      "x": 0.56,
+      "y": 0.685,
+      "description": "Hamlet: Rockstar’ın resmî Leonida haritasında yer alan şehir.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-boone-speedway",
+      "title": "Boone Speedway",
+      "originalName": "Boone Speedway",
+      "category": "Spor",
+      "x": 0.547,
+      "y": 0.697,
+      "description": "Boone Speedway: Rockstar’ın resmî Leonida haritasında yer alan spor ve yarış alanı.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-t-h-power-station",
+      "title": "T.H. Power Station",
+      "originalName": "T.H. Power Station",
+      "category": "Manzara",
+      "x": 0.629,
+      "y": 0.711,
+      "description": "T.H. Power Station: Rockstar’ın resmî Leonida haritasında yer alan simge yapı.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-peregrine-bay",
+      "title": "Peregrine Bay",
+      "originalName": "Peregrine Bay",
+      "category": "Manzara",
+      "x": 0.6395,
+      "y": 0.738,
+      "description": "Peregrine Bay: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-corsair-key",
+      "title": "Corsair Key",
+      "originalName": "Corsair Key",
+      "category": "Manzara",
+      "x": 0.684,
+      "y": 0.739,
+      "description": "Corsair Key: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-pelican-valley",
+      "title": "Pelican Valley",
+      "originalName": "Pelican Valley",
+      "category": "Konum",
+      "x": 0.52,
+      "y": 0.732,
+      "description": "Pelican Valley: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-shoeless-keys",
+      "title": "Shoeless Keys",
+      "originalName": "Shoeless Keys",
+      "category": "Manzara",
+      "x": 0.602,
+      "y": 0.756,
+      "description": "Shoeless Keys: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-ocean-beach",
+      "title": "Ocean Beach",
+      "originalName": "Ocean Beach",
+      "category": "Manzara",
+      "x": 0.857,
+      "y": 0.526,
+      "description": "Ocean Beach: Rockstar’ın resmî Leonida haritasında yer alan plaj.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-waxman-island",
+      "title": "Waxman Island",
+      "originalName": "Waxman Island",
+      "category": "Manzara",
+      "x": 0.766,
+      "y": 0.533,
+      "description": "Waxman Island: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-port-vice-city",
+      "title": "Port Vice City",
+      "originalName": "Port Vice City",
+      "category": "Konum",
+      "x": 0.8,
+      "y": 0.556,
+      "description": "Port Vice City: Rockstar’ın resmî Leonida haritasında yer alan semt.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-catalan-bay",
+      "title": "Catalan Bay",
+      "originalName": "Catalan Bay",
+      "category": "Manzara",
+      "x": 0.827,
+      "y": 0.577,
+      "description": "Catalan Bay: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-dalton-island",
+      "title": "Dalton Island",
+      "originalName": "Dalton Island",
+      "category": "Manzara",
+      "x": 0.86,
+      "y": 0.595,
+      "description": "Dalton Island: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-gloriana-key",
+      "title": "Gloriana Key",
+      "originalName": "Gloriana Key",
+      "category": "Manzara",
+      "x": 0.795,
+      "y": 0.625,
+      "description": "Gloriana Key: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-riquezas-keys",
+      "title": "Riquezas Keys",
+      "originalName": "Riquezas Keys",
+      "category": "Manzara",
+      "x": 0.2,
+      "y": 0.829,
+      "description": "Riquezas Keys: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-goose-key",
+      "title": "Goose Key",
+      "originalName": "Goose Key",
+      "category": "Manzara",
+      "x": 0.268,
+      "y": 0.845,
+      "description": "Goose Key: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-mile-zero-air-station",
+      "title": "Mile Zero Air Station",
+      "originalName": "Mile Zero Air Station",
+      "category": "Konum",
+      "x": 0.265,
+      "y": 0.871,
+      "description": "Mile Zero Air Station: Rockstar’ın resmî Leonida haritasında yer alan havaalanı ya da pist.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-southwind",
+      "title": "Southwind",
+      "originalName": "Southwind",
+      "category": "Manzara",
+      "x": 0.307,
+      "y": 0.857,
+      "description": "Southwind: Rockstar’ın resmî Leonida haritasında yer alan simge yapı.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-permit-keys",
+      "title": "Permit Keys",
+      "originalName": "Permit Keys",
+      "category": "Manzara",
+      "x": 0.37,
+      "y": 0.841,
+      "description": "Permit Keys: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-maroon-key",
+      "title": "Maroon Key",
+      "originalName": "Maroon Key",
+      "category": "Manzara",
+      "x": 0.443,
+      "y": 0.853,
+      "description": "Maroon Key: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-abismo-key",
+      "title": "Abismo Key",
+      "originalName": "Abismo Key",
+      "category": "Manzara",
+      "x": 0.446,
+      "y": 0.896,
+      "description": "Abismo Key: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-leonida-straits",
+      "title": "Leonida Straits",
+      "originalName": "Leonida Straits",
+      "category": "Manzara",
+      "x": 0.298,
+      "y": 0.936,
+      "description": "Leonida Straits: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-wetmore-bay",
+      "title": "Wetmore Bay",
+      "originalName": "Wetmore Bay",
+      "category": "Manzara",
+      "x": 0.455,
+      "y": 0.752,
+      "description": "Wetmore Bay: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-cottonmouth-lake",
+      "title": "Cottonmouth Lake",
+      "originalName": "Cottonmouth Lake",
+      "category": "Manzara",
+      "x": 0.5,
+      "y": 0.768,
+      "description": "Cottonmouth Lake: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-key-lento",
+      "title": "Key Lento",
+      "originalName": "Key Lento",
+      "category": "Manzara",
+      "x": 0.555,
+      "y": 0.835,
+      "description": "Key Lento: Rockstar’ın resmî Leonida haritasında yer alan ada.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-gambit-bay",
+      "title": "Gambit Bay",
+      "originalName": "Gambit Bay",
+      "category": "Manzara",
+      "x": 0.565,
+      "y": 0.787,
+      "description": "Gambit Bay: Rockstar’ın resmî Leonida haritasında yer alan su yolu, körfez ya da göl.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-valley",
+      "title": "Valley",
+      "originalName": "Valley",
+      "category": "Konum",
+      "x": 0.527,
+      "y": 0.74,
+      "description": "Valley: Rockstar’ın resmî Leonida haritasında yer alan bölge.",
+      "sourceIds": [
+        "rockstar-harita"
+      ],
+      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    }
+  ],
   "glossary": [
     {
       "original": "Vice City",
