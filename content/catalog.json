@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 121,
+  "revision": 122,
   "publishedAt": "2026-11-19T16:43:40.825Z",
   "locale": "tr-TR",
   "sources": [
@@ -568,7 +568,7 @@
       "sourceIds": [
         "sony"
       ],
-      "category": "Kurulum",
+      "category": "Başlangıç › Kurulum ve indirme",
       "kind": "official",
       "platforms": [
         "PS5"
@@ -589,7 +589,7 @@
         "sony",
         "preload"
       ],
-      "category": "Kurulum",
+      "category": "Başlangıç › Kurulum ve indirme",
       "kind": "official",
       "platforms": [
         "PS5",
@@ -608,7 +608,7 @@
         "Kaydedilenler bölümünde yedek alabilir ve daha sonra geri yükleyebilirsin. Tarayıcı verisini silmeden önce yedek al."
       ],
       "sourceIds": [],
-      "category": "getea kullanımı",
+      "category": "getea Kullanımı",
       "kind": "editorial",
       "platforms": [
         "PS5",
@@ -627,7 +627,7 @@
         "Hikâye ayrıntıları içeren içerikler ayrı spoiler uyarısıyla açılacak."
       ],
       "sourceIds": [],
-      "category": "getea kullanımı",
+      "category": "getea Kullanımı",
       "kind": "editorial",
       "platforms": [
         "PS5",
@@ -646,7 +646,7 @@
         "Deneme kayıtların gerçek oyun ilerlemesine sayılmayacak."
       ],
       "sourceIds": [],
-      "category": "getea kullanımı",
+      "category": "getea Kullanımı",
       "kind": "editorial",
       "platforms": [
         "PS5",
