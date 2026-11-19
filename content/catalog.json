@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 80,
-  "publishedAt": "2026-11-19T01:17:16.504Z",
+  "revision": 81,
+  "publishedAt": "2026-11-19T01:37:17.890Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3608,6 +3608,68 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T01:25:00Z",
       "checkedAt": "2026-11-19T01:17:16.504Z"
+    },
+    {
+      "id": "web-kotaku-weird-al-dj",
+      "url": "https://kotaku.com/yes-thats-weird-al-hosting-a-radio-station-in-gta-6-2000758140",
+      "author": "Kotaku",
+      "network": "web",
+      "title": "Evet, o ses Weird Al: GTA VI'da radyo DJ'i",
+      "summary": "Parodi şarkılarıyla ünlü müzisyen “Weird Al” Yankovic oyunda bir radyo istasyonunun DJ'i. Kotaku yazarı bunu oyunda doğruladı.",
+      "category": "Radyo",
+      "tags": [
+        "Weird Al",
+        "Yankovic",
+        "DJ",
+        "radyo",
+        "radio",
+        "ünlüler"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T01:45:00Z",
+      "checkedAt": "2026-11-19T01:37:17.890Z"
+    },
+    {
+      "id": "web-culturedvultures-vault-radio",
+      "url": "https://culturedvultures.com/gta-6-how-to-unlock-vault-radio/",
+      "author": "Cultured Vultures",
+      "network": "web",
+      "title": "Kilitli istasyon: Vault Radio nasıl açılıyor?",
+      "summary": "GTA VI'da başta kilitli gelen bir radyo istasyonu var: Vault Radio. Nasıl açıldığını Cultured Vultures rehberinde adım adım anlatıyor; kesin yöntemi kaynaktan kontrol et.",
+      "category": "Radyo",
+      "tags": [
+        "Vault Radio",
+        "kilitli",
+        "unlock",
+        "radyo",
+        "radio",
+        "gizli istasyon",
+        "secret station"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-19T01:46:00Z",
+      "checkedAt": "2026-11-19T01:37:17.890Z"
+    },
+    {
+      "id": "web-timenews-protopsalti",
+      "url": "https://time.news/alkistis-protopsalti-song-appears-on-gta-6-radio-station/",
+      "author": "Time News",
+      "network": "web",
+      "title": "İddia: Kaleidoscope FM'de Yunan şarkıcı Alkistis Protopsalti",
+      "summary": "xQc'nin erken erişim yayınında Kaleidoscope FM istasyonunda Alkistis Protopsalti'nin bir şarkısının çaldığı fark edildi. Rockstar resmî şarkı listesinde doğrulamadı; sosyal medyada yayılsa da iddia olarak kalıyor.",
+      "category": "Radyo",
+      "tags": [
+        "İddia",
+        "Kaleidoscope FM",
+        "Alkistis Protopsalti",
+        "Yunan",
+        "Greek",
+        "radyo",
+        "radio"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T01:47:00Z",
+      "checkedAt": "2026-11-19T01:37:17.890Z"
     }
   ]
 }
