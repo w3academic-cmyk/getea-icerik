@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 91,
-  "publishedAt": "2026-11-19T03:57:11.221Z",
+  "revision": 92,
+  "publishedAt": "2026-11-19T04:17:22.080Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3886,6 +3886,48 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T04:06:00Z",
       "checkedAt": "2026-11-19T03:57:11.221Z"
+    },
+    {
+      "id": "web-notebookcheck-mikro-odeme-yok",
+      "url": "https://www.notebookcheck.net/GTA-6-has-no-microtransactions-and-no-generative-AI-Rockstar-says.1383537.0.html",
+      "author": "Notebookcheck",
+      "network": "web",
+      "title": "Rockstar: Hikâye modunda mikro ödeme yok, üretken yapay zekâ yok",
+      "summary": "Rockstar, GTA VI'ın tek oyunculu modunda mikro ödeme bulunmadığını ve oyunun yapımında üretken yapay zekâ kullanılmadığını doğruladı. Online modun nasıl olacağı ise henüz açıklanmadı.",
+      "category": "Haber",
+      "tags": [
+        "mikro ödeme",
+        "microtransactions",
+        "yapay zekâ",
+        "generative AI",
+        "Rockstar",
+        "tek oyunculu"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T04:25:00Z",
+      "checkedAt": "2026-11-19T04:17:22.080Z"
+    },
+    {
+      "id": "web-gtaboom-garaj-tescil",
+      "url": "https://www.gtaboom.com/gta-6-safehouses-garages-and-personal-storage-d312",
+      "author": "GTABoom",
+      "network": "web",
+      "title": "Çaldığın araba hemen senin olmuyor: tescil ücreti ve garaj gerekiyor",
+      "summary": "Rehberlere göre bir aracı ele geçirince otomatik olarak senin olmuyor; saklamak için tescil ücreti ödemen ve sınırlı garaj yeri satın alman gerekiyor. Basın önizlemelerinde başlangıç garajında 3 araçlık yer vardı. Garaj fiyatları ve sayısı henüz kesin değil. Ultimate Edition'a özel Paradise Garage'da silah dolabı ve çalıntı mal deposu bulunuyor.",
+      "category": "Araç",
+      "tags": [
+        "garaj",
+        "garage",
+        "tescil",
+        "registration",
+        "araç",
+        "vehicle",
+        "Paradise Garage",
+        "Ultimate Edition"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T04:26:00Z",
+      "checkedAt": "2026-11-19T04:17:22.080Z"
     }
   ]
 }
