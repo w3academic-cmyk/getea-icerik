@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 131,
-  "publishedAt": "2026-11-19T20:54:12.626Z",
+  "revision": 132,
+  "publishedAt": "2026-11-19T21:14:24.032Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -21131,6 +21131,26 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T20:22:32Z",
       "checkedAt": "2026-11-19T20:54:12.626Z"
+    },
+    {
+      "id": "x-optijogos-xbox-sizinti",
+      "url": "https://x.com/OptiJogos/status/2123518212541460832",
+      "author": "@OptiJogos",
+      "network": "x",
+      "title": "İddia: Xbox sürümünün dosyaları sızdırıldı, ama çalışmıyor",
+      "summary": "Cyberleak adlı grubun GTA VI’ın Xbox sürümüne ait dosyaları sızdırdığı iddia ediliyor; ancak oyunu çalıştıracak çalıştırılabilir dosya paylaşılmadığı için oynanamıyor. Doğrulanmadı. Bu tür dosyalar korsan ve zararlı yazılım riski taşır; bağlantı vermiyoruz.",
+      "category": "Haber",
+      "tags": [
+        "İddia",
+        "sızıntı",
+        "leak",
+        "Xbox",
+        "korsan",
+        "güvenlik"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T20:46:09Z",
+      "checkedAt": "2026-11-19T21:14:24.032Z"
     }
   ]
 }
