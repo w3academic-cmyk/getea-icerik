@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 117,
-  "publishedAt": "2026-11-19T15:57:15.225Z",
+  "revision": 118,
+  "publishedAt": "2026-11-19T16:15:24.354Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -17226,6 +17226,47 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T15:50:50Z",
       "checkedAt": "2026-11-19T15:57:15.225Z"
+    },
+    {
+      "id": "x-discussingfilm-internet-rekor",
+      "url": "https://x.com/DiscussingFilm/status/2123447160138014781",
+      "author": "@DiscussingFilm",
+      "network": "x",
+      "title": "Çıkış, tüm zamanların internet trafiği rekorunu kırdı",
+      "summary": "Variety’nin haberine göre GTA VI’ın çıkışı saniyede 33,03 terabit ile şimdiye kadarki en yüksek internet kullanımı rekorunu kırdı.",
+      "category": "Haber",
+      "tags": [
+        "rekor",
+        "record",
+        "internet trafiği",
+        "bandwidth",
+        "indirme"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T16:03:49Z",
+      "checkedAt": "2026-11-19T16:15:24.354Z"
+    },
+    {
+      "id": "x-frenchrapus-ayarlar",
+      "url": "https://x.com/FrenchRapUS/status/2123445057453740365",
+      "author": "@FrenchRapUS",
+      "network": "x",
+      "title": "Başlangıçta değiştirmen önerilen ayarlar",
+      "summary": "Paylaşılan öneri listesi: sokak adları açık; mesafe metrik, ağırlık kilogram, saat 24 saat, sıcaklık Celsius; TV oyun modu açık; hareket bulanıklığı 0; nişan hassasiyeti 9–10; kamera sarsıntısı kapalı; nişan ivmesi en yüksek; el bombası yörüngesi her zaman; kontrol şeması klasik.",
+      "category": "Ayarlar",
+      "tags": [
+        "ayarlar",
+        "settings",
+        "hareket bulanıklığı",
+        "motion blur",
+        "nişan hassasiyeti",
+        "aim sensitivity",
+        "metrik",
+        "kontroller"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T15:55:28Z",
+      "checkedAt": "2026-11-19T16:15:24.354Z"
     }
   ]
 }
