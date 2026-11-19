@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 87,
-  "publishedAt": "2026-11-19T03:17:14.310Z",
+  "revision": 88,
+  "publishedAt": "2026-11-19T03:17:41.785Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3779,6 +3779,27 @@
       "spoiler": "minor",
       "postedAt": "2026-11-19T03:05:00Z",
       "checkedAt": "2026-11-19T02:57:13.289Z"
+    },
+    {
+      "id": "web-outputlag-xbox-ag-hatasi",
+      "url": "https://timesaver.gg/blog/gta-6-server-status",
+      "author": "Timesaver.gg",
+      "network": "web",
+      "title": "Xbox'ta “Geçici ağ sorunu” hatası mı? Ev Xbox'ı ayarla",
+      "summary": "Bazı Xbox oyuncuları oyunu açarken “Temporary network problem” (geçici ağ sorunu) hatası alıyor. Önerilen çözüm: konsolu Ayarlar'dan “Ev Xbox'ım” (Home Xbox) olarak ayarlamak. Otomatik güncellemelerin açık ve konsolun uyku modunda olması da yardımcı oluyor. (Resmî kaynak değil, rehber sitesi önerisi.) Xbox Live'da büyük bir kesinti bildirilmedi.",
+      "category": "Hata",
+      "tags": [
+        "Xbox",
+        "ağ hatası",
+        "network error",
+        "Home Xbox",
+        "Ev Xbox",
+        "lisans",
+        "license"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T03:25:00Z",
+      "checkedAt": "2026-11-19T03:17:41.785Z"
     }
   ]
 }
