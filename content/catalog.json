@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 112,
-  "publishedAt": "2026-11-19T15:24:35.466Z",
+  "revision": 113,
+  "publishedAt": "2026-11-19T15:29:44.461Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -10301,6 +10301,49 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T15:05:43Z",
       "checkedAt": "2026-11-19T15:18:05.861Z"
+    },
+    {
+      "id": "x-ghbsmith-kayit-uyarisi",
+      "url": "https://x.com/GHBSmith/status/2123257458424779210",
+      "author": "@GHBSmith",
+      "network": "x",
+      "title": "Kaydedip çıkmadan önce dikkat: sahip olmadığın eşyalar siliniyor",
+      "summary": "Oyunu kaydedip kapattığında, elde edip sahiplenmediğin araçlar, silahlar ve kıyafetler siliniyor; sahiplenmediğin araçlardaki ganimet çantaları da gidiyor. Yükleyince genellikle evde başlıyorsun; otomatik kaydı yüklemek seni önceki konumuna daha yakın başlatıyor.",
+      "category": "İpucu",
+      "tags": [
+        "kayıt",
+        "save",
+        "araç",
+        "vehicle",
+        "ganimet çantası",
+        "stash bag",
+        "otomatik kayıt"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T03:30:00Z",
+      "checkedAt": "2026-11-19T15:29:44.461Z"
+    },
+    {
+      "id": "x-zephryss-bagaj-kiyafet",
+      "url": "https://x.com/TheRealZephryss/status/2123274671026286793",
+      "author": "@TheRealZephryss",
+      "network": "x",
+      "title": "Bagajda yedek kıyafet taşı, polisi atlat",
+      "summary": "Kişisel aracının bagajında farklı kıyafetler saklayabiliyorsun; aranırken kıyafet değiştirmek polisin dikkatini dağıtmaya yardım ediyor. Erken oyunda batıklarda su altı ganimeti de kolay para kazandırıyor.",
+      "category": "İpucu",
+      "tags": [
+        "kıyafet",
+        "outfit",
+        "bagaj",
+        "trunk",
+        "polis",
+        "police",
+        "Heat",
+        "batık"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T04:38:24Z",
+      "checkedAt": "2026-11-19T15:29:44.461Z"
     }
   ]
 }
