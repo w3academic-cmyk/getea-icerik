@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 111,
-  "publishedAt": "2026-11-19T15:18:42.552Z",
+  "revision": 112,
+  "publishedAt": "2026-11-19T15:24:35.466Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -83,6 +83,11 @@
       "id": "rockstar-harita",
       "name": "Rockstar Games · Resmî Leonida haritası",
       "url": "https://www.rockstargames.com/VI/media"
+    },
+    {
+      "id": "topluluk-rehberleri",
+      "name": "Oyuncu ve rehber paylaşımları",
+      "url": "https://getea.fun/gundem"
     }
   ],
   "articles": [
@@ -398,7 +403,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -416,7 +421,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -434,7 +439,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -452,7 +457,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -470,7 +475,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -488,7 +493,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -506,7 +511,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -524,7 +529,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -542,7 +547,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -560,7 +565,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -578,7 +583,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -596,7 +601,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -614,7 +619,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -632,7 +637,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -650,7 +655,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -668,7 +673,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -686,7 +691,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -704,7 +709,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -722,7 +727,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -740,7 +745,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -758,7 +763,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -776,7 +781,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -794,7 +799,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -812,7 +817,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -830,7 +835,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -848,7 +853,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -866,7 +871,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -884,7 +889,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -902,7 +907,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -920,7 +925,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -938,7 +943,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -956,7 +961,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -974,7 +979,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -992,7 +997,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1010,7 +1015,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1028,7 +1033,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1046,7 +1051,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1064,7 +1069,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1082,7 +1087,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1100,7 +1105,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1118,7 +1123,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1136,7 +1141,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1154,7 +1159,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1172,7 +1177,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1190,7 +1195,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1208,7 +1213,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1226,7 +1231,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1244,7 +1249,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1262,7 +1267,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1280,7 +1285,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1298,7 +1303,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1316,7 +1321,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1334,7 +1339,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1352,7 +1357,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1370,7 +1375,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1388,7 +1393,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1406,7 +1411,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1424,7 +1429,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1442,7 +1447,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1460,7 +1465,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1478,7 +1483,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1496,7 +1501,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1514,7 +1519,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1532,7 +1537,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1550,7 +1555,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1568,7 +1573,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1586,7 +1591,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1604,7 +1609,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1622,7 +1627,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1640,7 +1645,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1658,7 +1663,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1676,7 +1681,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1694,7 +1699,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1712,7 +1717,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1730,7 +1735,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1748,7 +1753,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1766,7 +1771,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1784,7 +1789,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1802,7 +1807,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1820,7 +1825,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1838,7 +1843,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1856,7 +1861,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1874,7 +1879,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1892,7 +1897,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1910,7 +1915,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1928,7 +1933,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1946,7 +1951,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1964,7 +1969,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -1982,7 +1987,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2000,7 +2005,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2018,7 +2023,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2036,7 +2041,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2054,7 +2059,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2072,7 +2077,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2090,7 +2095,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2108,7 +2113,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2126,7 +2131,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2144,7 +2149,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2162,7 +2167,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2180,7 +2185,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2198,7 +2203,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2216,7 +2221,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2234,7 +2239,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2252,7 +2257,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2270,7 +2275,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2288,7 +2293,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2306,7 +2311,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2324,7 +2329,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2342,7 +2347,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2360,7 +2365,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2378,7 +2383,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2396,7 +2401,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2414,7 +2419,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2432,7 +2437,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2450,7 +2455,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2468,7 +2473,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2486,7 +2491,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2504,7 +2509,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2522,7 +2527,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2540,7 +2545,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2558,7 +2563,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2576,7 +2581,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2594,7 +2599,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2612,7 +2617,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2630,7 +2635,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2648,7 +2653,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2666,7 +2671,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2684,7 +2689,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2702,7 +2707,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2720,7 +2725,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2738,7 +2743,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2756,7 +2761,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2774,7 +2779,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2792,7 +2797,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2810,7 +2815,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2828,7 +2833,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2846,7 +2851,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2864,7 +2869,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2882,7 +2887,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2900,7 +2905,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2918,7 +2923,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2936,7 +2941,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2954,7 +2959,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2972,7 +2977,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -2990,7 +2995,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -3008,7 +3013,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -3026,7 +3031,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -3044,7 +3049,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -3062,7 +3067,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -3080,7 +3085,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -3098,7 +3103,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -3116,7 +3121,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -3134,7 +3139,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -3152,7 +3157,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -3170,7 +3175,7 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
@@ -3188,7 +3193,2744 @@
       "sourceIds": [
         "rockstar-harita"
       ],
-      "checkedAt": "2026-11-19T15:18:42.552Z",
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-alt-n-dublon-x10-nuestra-senora-del-ocio-bat-g",
+      "title": "Altın Dublon x10: Nuestra Senora del Ocio batığı",
+      "category": "Koleksiyon",
+      "x": 0.5642,
+      "y": 0.8371,
+      "description": "Key Lento'nun doğusunda, Kenton'ın dükkânının kuzeydoğusunda, küçük açık deniz adasının ötesindeki batıktır (Island Dreams görevindeki batık). Batığın doğusundaki alçak kayaların yanındaki kumu metal dedektörle tara. Haritadaki işaret yaklaşık konumdur: Key Lento yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-nuestra-senora-de-la-noche-bat-g-hazineleri-7",
+      "title": "Nuestra Senora de la Noche batığı hazineleri (7)",
+      "category": "Koleksiyon",
+      "x": 0.3072,
+      "y": 0.9381,
+      "description": "Leonida Straits'te, Key Lento'nun ucunun güneydoğusunda yer alır. Abismo Key'deki arama dairesini değil, adaya yakın olanı kullan ve batığın kenarlarında dal. İçinde Stained Doubloon da var. Haritadaki işaret yaklaşık konumdur: Leonida Straits yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-nuestra-senora-de-la-etica-laxa-bat-g-hazineleri-5",
+      "title": "Nuestra Senora de la Etica Laxa batığı hazineleri (5)",
+      "category": "Koleksiyon",
+      "x": 0.4552,
+      "y": 0.8981,
+      "description": "Abismo Key açıklarındaki güney arama dairesindedir, La Noche'den daha güneyde. Hazineler geminin gövdesinin içinde ve çevresinde; Battered Doubloon ve Golden Chalice de bunların arasında. Haritadaki işaret yaklaşık konumdur: Abismo Key yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-urca-de-cinco-torres-bat-g-hazineleri-6",
+      "title": "Urca de Cinco Torres batığı hazineleri (6)",
+      "category": "Koleksiyon",
+      "x": 0.5595,
+      "y": 0.8412,
+      "description": "Key Lento'nun güneydoğusu açıklarında, açık deniz ada zincirindeki küçük kanca biçimli adanın hemen doğusunda. Rusty Doubloon ve Ancient Ceremonial Mask burada çıkıyor. Haritadaki işaret yaklaşık konumdur: Key Lento yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-nuestra-senora-lujuriosa-bat-g-hazineleri-6",
+      "title": "Nuestra Senora Lujuriosa batığı hazineleri (6)",
+      "category": "Koleksiyon",
+      "x": 0.5522,
+      "y": 0.8417,
+      "description": "Key Lento açıklarındaki ada zincirinde, kanca biçimli ada ile güneydeki daha uzun ada arasında, kanca adanın güneybatısında. Shiny Doubloon ve Golden Llama burada. Haritadaki işaret yaklaşık konumdur: Key Lento yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-urca-de-santa-sierra-bat-g-hazineleri-6",
+      "title": "Urca de Santa Sierra batığı hazineleri (6)",
+      "category": "Koleksiyon",
+      "x": 0.5465,
+      "y": 0.8383,
+      "description": "Key Lento'dan daha açıkta, küçük ada zincirinin yanındaki iki batığın doğusunda. Worn Doubloon, Brass Spyglass ve Santa Sierra Bell burada bulunuyor. Haritadaki işaret yaklaşık konumdur: Key Lento yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-kenton-n-hazine-tezga-h-island-dreams-boat-charters",
+      "title": "Kenton'ın hazine tezgâhı (Island Dreams Boat Charters)",
+      "category": "Mağaza",
+      "x": 0.5458,
+      "y": 0.8329,
+      "description": "Key Lento'da Island Dreams Boat Charters içindeki tezgâhta dublonları ve batık hazinelerini satabilirsin. Hazine avlarını açan kişi de Kenton. Haritadaki işaret yaklaşık konumdur: Key Lento yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-meteor-parc-as-belville-garaj",
+      "title": "Meteor parçası: Belville garajı",
+      "category": "Koleksiyon",
+      "x": 0.6652,
+      "y": 0.3981,
+      "description": "Belville'in kuzey kenarının orta kısmında, soldan ikinci evin garajında yatağın altında. Aynı garajda Illuminaughty Purple kartı da var. Haritadaki işaret yaklaşık konumdur: Belville yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-meteor-parc-as-killtelligence-provisions-alt-ndaki-kule-mount-kalaga",
+      "title": "Meteor parçası: Killtelligence Provisions altındaki kule (Mount Kalaga)",
+      "category": "Koleksiyon",
+      "x": 0.5062,
+      "y": 0.2301,
+      "description": "Mount Kalaga'da Killtelligence Provisions'ın güneydoğusundaki zirve kulesinin altındaki kayaların arasında. Kulenin dibinde base jump ve meditasyon noktası da var. Haritadaki işaret yaklaşık konumdur: Mount Kalaga National Park yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-5-meteor-parc-as-selkie-hole-emerald-springs",
+      "title": "5 meteor parçası: Selkie Hole (Emerald Springs)",
+      "category": "Koleksiyon",
+      "x": 0.4642,
+      "y": 0.4221,
+      "description": "Emerald Springs'in batı kenarındaki Selkie Hole dalış noktasının su altı tünellerinde. Üçüncü parçadan sonra bir mağarada yüzeye çık ve ortadaki çukura dal; tarayıcıyı (scanner) kullan. Haritadaki işaret yaklaşık konumdur: Emerald Springs yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-meteor-parc-as-belpoint-island-iskelesi",
+      "title": "Meteor parçası: Belpoint Island iskelesi",
+      "category": "Koleksiyon",
+      "x": 0.1842,
+      "y": 0.5511,
+      "description": "Capri'nin batısındaki Belpoint Island'ın kuzey tarafındaki iskelenin altında. Haritadaki işaret yaklaşık konumdur: Belpoint yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-i-ki-meteor-sos-adas-bobcat-key",
+      "title": "İki meteor: SOS adası (Bobcat Key)",
+      "category": "Koleksiyon",
+      "x": 0.3362,
+      "y": 0.6441,
+      "description": "Leonida Bay'in batısındaki, Bobcat Key'in güneyinde kalan ıssız adada. Biri SOS tabelasının üzerinde, diğeri karşı kumsalda; geceleri parlıyorlar. Haritadaki işaret yaklaşık konumdur: Bobcat Key yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-meteor-parc-alar-sandbars-adalar",
+      "title": "Meteor parçaları: Sandbars adaları",
+      "category": "Koleksiyon",
+      "x": 0.1512,
+      "y": 0.4071,
+      "description": "Belpoint Island'ın kuzeyindeki Sandbars adalarında birkaç tane var: en güneydeki adanın kuzey kumsalı, kuzeydeki en büyük adanın iskelesinin altı, en doğudaki adanın kuzey ucu ve en alttaki küçük adanın güney ucu. Haritadaki işaret yaklaşık konumdur: Sandbars yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-meteor-zephyr-islands",
+      "title": "Meteor: Zephyr Islands",
+      "category": "Koleksiyon",
+      "x": 0.2582,
+      "y": 0.2571,
+      "description": "Zephyr Islands'ın en büyük adasının kuzeydoğu kıyısında, karaya oturmuş bir lüks teknenin yakınında. Haritadaki işaret yaklaşık konumdur: Zephyr Islands yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-meteor-meerwunder-bat-g-featherstone-islands",
+      "title": "Meteor: Meerwunder batığı (Featherstone Islands)",
+      "category": "Koleksiyon",
+      "x": 0.3892,
+      "y": 0.1601,
+      "description": "Güneydoğudaki Featherstone adasının kuzey tarafındaki dev Meerwunder batığının devrilmiş direğinin altında. Haritadaki işaret yaklaşık konumdur: Featherstone Islands yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-meteorlar-saint-attaway-islands",
+      "title": "Meteorlar: Saint Attaway Islands",
+      "category": "Koleksiyon",
+      "x": 0.5372,
+      "y": 0.1351,
+      "description": "Biri Saint Attaway Islands'ın batısındaki küçük adada, diğeri güneydoğu adanın en büyük kayalığındaki ağaçların yakınında (devrilmiş ağaçlara tırmanman gerekiyor). Haritadaki işaret yaklaşık konumdur: Saint Attaway Islands yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-meteor-parc-as-hyde-island",
+      "title": "Meteor parçası: Hyde Island",
+      "category": "Koleksiyon",
+      "x": 0.5842,
+      "y": 0.1171,
+      "description": "Hyde Island'ın batı koyundaki küçük bir iskelenin kuzeyinde, bir köprünün altında. Haritadaki işaret yaklaşık konumdur: Hyde Island yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-meteor-parc-alar-frampton-islands",
+      "title": "Meteor parçaları: Frampton Islands",
+      "category": "Koleksiyon",
+      "x": 0.6532,
+      "y": 0.1491,
+      "description": "İkisi büyük Frampton adasının batı kıyısında (biri uçurumun yanında), diğer ikisi güneydoğudaki adaların güneydoğu uçlarında. Haritadaki işaret yaklaşık konumdur: Frampton Islands yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-meteor-parc-as-east-lummox-ku-tu-g-u",
+      "title": "Meteor parçası: East Lummox kütüğü",
+      "category": "Koleksiyon",
+      "x": 0.6462,
+      "y": 0.1801,
+      "description": "Haritada East Lummox County yazısındaki M harfinin kuzeyindeki minik bir adada, bir kütüğün üzerinde. Haritadaki işaret yaklaşık konumdur: East Lummox County yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-meteor-parc-as-sands-of-time-waning-sands",
+      "title": "Meteor parçası: Sands of Time (Waning Sands)",
+      "category": "Koleksiyon",
+      "x": 0.7482,
+      "y": 0.3251,
+      "description": "Sahilin ortasındaki girilebilir büyük bina Sands of Time'da, bilardo masasının ilerisindeki alt kat ofisinde bir masanın üstünde. Haritadaki işaret yaklaşık konumdur: Waning Sands yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-meteor-parc-as-leonida-bay-feneri",
+      "title": "Meteor parçası: Leonida Bay feneri",
+      "category": "Koleksiyon",
+      "x": 0.3727,
+      "y": 0.7616,
+      "description": "Leonida Bay'deki küçük adada, fenerin altında. Haritadaki işaret yaklaşık konumdur: Leonida Bay yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-lionel-taber-kart-spiderweb-coquette-garaj-kodu",
+      "title": "Lionel Taber kartı + Spiderweb Coquette garaj kodu",
+      "category": "Koleksiyon",
+      "x": 0.5505,
+      "y": 0.8288,
+      "description": "Key Lento'nun güneydoğusundaki parti evinde. Garaj tuş takımına 092319 kodunu girersen eşsiz bir Invetero Spiderweb Coquette açılır. Haritadaki işaret yaklaşık konumdur: Key Lento yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-thelma-kart-delight-dancers",
+      "title": "Thelma kartı (Delight Dancers)",
+      "category": "Koleksiyon",
+      "x": 0.5578,
+      "y": 0.8283,
+      "description": "Key Lento'daki merkez kulenin tepesinin bir kat altındaki kontrol odasında. Haritadaki işaret yaklaşık konumdur: Key Lento yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-marquise-bernard-kart",
+      "title": "Marquise Bernard kartı",
+      "category": "Koleksiyon",
+      "x": 0.5635,
+      "y": 0.8317,
+      "description": "Key Lento'da Kenton'ın dükkânının arkasında bir varilin üzerinde. Haritadaki işaret yaklaşık konumdur: Key Lento yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-d-angelou-miles-kart",
+      "title": "D'Angelou Miles kartı",
+      "category": "Koleksiyon",
+      "x": 0.5687,
+      "y": 0.8381,
+      "description": "Key Lento'da The Rusty Anchor'ın hemen güneyindeki dikdörtgen, girilebilir binanın içinde bir kutuda. Haritadaki işaret yaklaşık konumdur: Key Lento yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-funny-bones-orange-kart-su-kulesi-port-gellhorn",
+      "title": "Funny Bones Orange kartı: su kulesi (Port Gellhorn)",
+      "category": "Koleksiyon",
+      "x": 0.3002,
+      "y": 0.3591,
+      "description": "Port Gellhorn'un kuzeyindeki su kulesinin tepesinde. Haritadaki işaret yaklaşık konumdur: Port Gellhorn yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-right-wing-vs-left-wing-red-kart-lunapark",
+      "title": "Right Wing vs Left Wing Red kartı: lunapark",
+      "category": "Koleksiyon",
+      "x": 0.2955,
+      "y": 0.3632,
+      "description": "Port Gellhorn'daki terk edilmiş Gellhorn Funfair'de bir çarpışan arabanın üzerinde. Dönme dolap ise bir Waink taramasıdır. Haritadaki işaret yaklaşık konumdur: Port Gellhorn yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-reggie-pierce-kart-drive-in-c-at-s",
+      "title": "Reggie Pierce kartı: drive-in çatısı",
+      "category": "Koleksiyon",
+      "x": 0.2882,
+      "y": 0.3637,
+      "description": "Port Gellhorn'da Pay 'N' Spray'in kuzeyindeki açık hava sinemasının çatısında. Lexi Campbell Gold kartı da depo odasında. Haritadaki işaret yaklaşık konumdur: Port Gellhorn yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-charlie-spears-kart-gellhorn-speedway",
+      "title": "Charlie Spears kartı: Gellhorn Speedway",
+      "category": "Koleksiyon",
+      "x": 0.2825,
+      "y": 0.3603,
+      "description": "Port Gellhorn'da Gellhorn Speedway yakınındaki helikopter pistinin yanındaki yasak bölge binasında, üst kattaki depo odasında kilitli bir kutuda. Haritadaki işaret yaklaşık konumdur: Port Gellhorn yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-shovel-kart-wild-hog-point",
+      "title": "Shovel kartı: Wild Hog Point",
+      "category": "Koleksiyon",
+      "x": 0.2818,
+      "y": 0.3549,
+      "description": "Port Gellhorn civarında Wild Hog Point'in ucundaki karavanda. Haritadaki işaret yaklaşık konumdur: Port Gellhorn yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-blood-smith-kart-manifest-canyon-ag-ac-evi",
+      "title": "Blood Smith kartı: Manifest Canyon ağaç evi",
+      "category": "Koleksiyon",
+      "x": 0.3932,
+      "y": 0.2971,
+      "description": "Manifest Canyon'ın güney-ortasında, ince nehrin altında, Top Fun Drones Port Gellhorn'un güneydoğusunda ağaç evi benzeri yapının tepesinde. Haritadaki işaret yaklaşık konumdur: Manifest Canyon yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-cad-lar-bayram-evi-waink-taramas-cocaine-flamingo",
+      "title": "Cadılar Bayramı evi (Waink taraması) + Cocaine Flamingo",
+      "category": "Koleksiyon",
+      "x": 0.2962,
+      "y": 0.5291,
+      "description": "Capri'de Tortoise Lake'in güneyindeki altı sokaklık ızgaranın ortasında. Bir aracı taramak sana bir kaplama (livery) verir; bahçede de bir Cocaine Flamingo var. Haritadaki işaret yaklaşık konumdur: Capri yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-leon-correo-gold-kart-capri-malika-nesi",
+      "title": "Leon Correo Gold kartı: Capri malikânesi",
+      "category": "Koleksiyon",
+      "x": 0.2915,
+      "y": 0.5332,
+      "description": "Capri'nin güneydoğusunda, güney yolun kuzey tarafındaki helikopter pistinden sonra gelen ikinci girilebilir evde, üst katta. Haritadaki işaret yaklaşık konumdur: Capri yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-love-dunks-kart-dynamic-fitness",
+      "title": "Love Dunks kartı: Dynamic Fitness",
+      "category": "Koleksiyon",
+      "x": 0.6792,
+      "y": 0.5221,
+      "description": "Vice City'de Dynamic Fitness spor salonunun arkasında, Perkins Deli'nin karşısında. Haritadaki işaret yaklaşık konumdur: Vice City yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-tracy-kart-su-ve-kanalizasyon-tesisi",
+      "title": "Tracy kartı: su ve kanalizasyon tesisi",
+      "category": "Koleksiyon",
+      "x": 0.6302,
+      "y": 0.5421,
+      "description": "East Salton'daki su ve kanalizasyon tesisinin en üst katında, çatı erişiminin yanında. Haritadaki işaret yaklaşık konumdur: Salton yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-remy-herbert-kart-little-cuba",
+      "title": "Remy Herbert kartı: Little Cuba",
+      "category": "Koleksiyon",
+      "x": 0.6692,
+      "y": 0.5351,
+      "description": "Little Cuba'da Fast Cash rehinci dükkânının arkasındaki üst kat dairesinde. Haritadaki işaret yaklaşık konumdur: Little Cuba yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-illuminaughty-blue-kart-hamlet-daireleri",
+      "title": "Illuminaughty Blue kartı: Hamlet daireleri",
+      "category": "Koleksiyon",
+      "x": 0.5692,
+      "y": 0.6871,
+      "description": "Hamlet hapishanesinin güneyindeki en soldaki sıranın üst kat dairesinde, buzdolabının içinde. Yakındaki zemin kat tuvaletinde de Bombazo dergisi var. Haritadaki işaret yaklaşık konumdur: Hamlet yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-xavier-gomez-kart-boone-speedway-oto-y-kama",
+      "title": "Xavier Gomez kartı: Boone Speedway oto yıkama",
+      "category": "Koleksiyon",
+      "x": 0.5645,
+      "y": 0.6912,
+      "description": "Hamlet'te Boone Speedway'in kuzeydoğusundaki oto yıkama ofisinde. Haritadaki işaret yaklaşık konumdur: Hamlet yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-nathan-alford-kart-kasa-kod-62412",
+      "title": "Nathan Alford kartı + kasa (kod 62412)",
+      "category": "Koleksiyon",
+      "x": 0.6605,
+      "y": 0.4022,
+      "description": "Belville'in kuzeybatısında, Biker Hideout'un güneyindeki terk edilmiş çamaşırhanede; çatıdaki delikten gir. Güçlendirilmiş kasanın (safe) kodu 62412. Haritadaki işaret yaklaşık konumdur: Belville yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-leroy-rook-gold-kart-celerica-kampu-su",
+      "title": "Leroy Rook Gold kartı: Celerica kampüsü",
+      "category": "Koleksiyon",
+      "x": 0.6532,
+      "y": 0.4027,
+      "description": "Belville'de Celerica kampüsünün biraz güneydoğusundaki bir evin yatak odasındaki kasada (safe). Haritadaki işaret yaklaşık konumdur: Belville yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-do-vme-dergisi-mount-kalaga-go-zetleme-kulesi",
+      "title": "Dövme dergisi: Mount Kalaga gözetleme kulesi",
+      "category": "Koleksiyon",
+      "x": 0.5015,
+      "y": 0.2342,
+      "description": "Mount Kalaga'daki Firewatch kulesinin tepesinde. Haritadaki işaret yaklaşık konumdur: Mount Kalaga National Park yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-i-mparatorluk-i-spanyol-harabeleri-waink-taramas",
+      "title": "İmparatorluk İspanyol Harabeleri (Waink taraması)",
+      "category": "Koleksiyon",
+      "x": 0.4942,
+      "y": 0.2347,
+      "description": "Mount Kalaga National Park'taki güneybatı zirvesinin tepesinde. Haritadaki işaret yaklaşık konumdur: Mount Kalaga National Park yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-fosilles-mis-i-zler-waink-noktas-ve-bas-s-z-ceset",
+      "title": "Fosilleşmiş İzler (Waink noktası) ve başsız ceset",
+      "category": "Koleksiyon",
+      "x": 0.5242,
+      "y": 0.1691,
+      "description": "Moreau'nun güneydoğusunda, Taco Bomb West Kalaga'nın kuzeybatısında nehrin kenarında. Başsız ceset ise bunun kuzeyinde, bir tren köprüsünün altında yatıyor. Haritadaki işaret yaklaşık konumdur: Moreau yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-lawton-co-ka-g-t-fabrikas-harabesi-waink-noktas",
+      "title": "Lawton Co. Kâğıt Fabrikası harabesi (Waink noktası)",
+      "category": "Koleksiyon",
+      "x": 0.5195,
+      "y": 0.1732,
+      "description": "Moreau civarında, 247 Gas West Kalaga'nın hemen kuzeyindeki harabe. Haritadaki işaret yaklaşık konumdur: Moreau yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-laki-maivia-kart-karavan-kasas-kod-44017",
+      "title": "Laki Maivia kartı + karavan kasası (kod 44017)",
+      "category": "Koleksiyon",
+      "x": 0.5092,
+      "y": 0.7701,
+      "description": "Cottonmouth Lake'in güneyindeki kumlu adada bir karavanın içindeki kasada (safe). Kod 44017, kartpostal duvarında yazıyor. Haritadaki işaret yaklaşık konumdur: Cottonmouth Lake yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-noflusher-c-iftlig-i-waink-taramas",
+      "title": "Noflusher Çiftliği (Waink taraması)",
+      "category": "Koleksiyon",
+      "x": 0.4642,
+      "y": 0.7541,
+      "description": "Wetman Bay'in orta adasında, Fishing Stacks karakolunun doğusunda. Haritadaki işaret yaklaşık konumdur: Wetman Bay yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-terk-edilmis-casus-gemisi-nipper-tabancas",
+      "title": "Terk edilmiş casus gemisi + Nipper tabancası",
+      "category": "Gizli",
+      "x": 0.3792,
+      "y": 0.8431,
+      "description": "Permit Keys'in güneydoğu adasının güney ucunda. İçinde bir Nipper tabancası ve bir Old Note var. Haritadaki işaret yaklaşık konumdur: Permit Keys yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-liberty-city-yo-n-tabelas-waink-taramas",
+      "title": "Liberty City yön tabelası (Waink taraması)",
+      "category": "Easter Egg",
+      "x": 0.3745,
+      "y": 0.8472,
+      "description": "Permit Keys'in büyük orta adasının kumlu kuzeyinde ağaçların arasına gizlenmiş, Liberty City'yi gösteren tabela. Beach Party Site bunun kuzeydoğusunda. Haritadaki işaret yaklaşık konumdur: Permit Keys yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-meerwunder-bat-g-waink-ilginc-lig-i",
+      "title": "Meerwunder batığı (Waink ilginçliği)",
+      "category": "Gizli",
+      "x": 0.3845,
+      "y": 0.1642,
+      "description": "Güneydoğudaki Featherstone adasının kuzey tarafındaki dev gemi batığı. Yakındaki kumsalda üç Cocaine Flamingo ve kontrol odasında Monali$a kartı var. Haritadaki işaret yaklaşık konumdur: Featherstone Islands yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-riquezas-keys-radome-waink-noktas",
+      "title": "Riquezas Keys Radome (Waink noktası)",
+      "category": "Gizli",
+      "x": 0.2092,
+      "y": 0.8311,
+      "description": "Büyük güneybatı adasındaki iri kubbe. Kuzey gözetleme kulesinde Noah Marcus kartı, bir binanın içinde de Cocaine Flamingo var. Haritadaki işaret yaklaşık konumdur: Riquezas Keys yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-kimlig-i-belirsiz-bina-s-g-nag-waink-taramas",
+      "title": "Kimliği Belirsiz Bina sığınağı (Waink taraması)",
+      "category": "Gizli",
+      "x": 0.7842,
+      "y": 0.2511,
+      "description": "Little Hardin Island'ın güneyindeki küçük kumlu adada, çitle çevrili sığınak girişi. Haritadaki işaret yaklaşık konumdur: Little Hardin Island yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-bobcat-key-deneysel-kubbe-waink-taramas",
+      "title": "Bobcat Key Deneysel Kubbe (Waink taraması)",
+      "category": "Gizli",
+      "x": 0.3315,
+      "y": 0.6482,
+      "description": "Bobcat Key'in güneyindeki kara çıkıntısının eğriliğinde, suyun içinde; bölge adındaki B harfinin neredeyse tam güneyinde. Haritadaki işaret yaklaşık konumdur: Bobcat Key yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-utility-markings-ro-gar-kapag-waink-taramas",
+      "title": "Utility Markings rögar kapağı (Waink taraması)",
+      "category": "Gizli",
+      "x": 0.8752,
+      "y": 0.4461,
+      "description": "Washington Beach'te helikopter pistli kuzeyden ikinci binanın önündeki rögar kapağı. Cal seni bu işaretler hakkında bir sohbete ekler. Haritadaki işaret yaklaşık konumdur: Washington Beach yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-dominic-brizzolato-kart-vice-city-oceanarium",
+      "title": "Dominic Brizzolato kartı: Vice City Oceanarium",
+      "category": "Koleksiyon",
+      "x": 0.7332,
+      "y": 0.6441,
+      "description": "Catalan Key'in kuzeydoğusundaki Vice City Oceanarium'da, kubbenin altındaki köpekbalığı ağzı sergisinde kaplumbağanın yanında. Haritadaki işaret yaklaşık konumdur: Catalan Key yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-blanco-an-t-waink-heykeli",
+      "title": "Blanco Anıtı (Waink heykeli)",
+      "category": "Koleksiyon",
+      "x": 0.7897,
+      "y": 0.4991,
+      "description": "Starfish Island'ın üstündeki Salton Memorial Island'da. Haritadaki işaret yaklaşık konumdur: Salton Memorial Island yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-jesina-gold-kart-vespucci-malika-nesi",
+      "title": "Jesina Gold kartı: Vespucci malikânesi",
+      "category": "Koleksiyon",
+      "x": 0.7817,
+      "y": 0.4886,
+      "description": "Vespucci Island'ın güneybatı kenarındaki malikânede, köpeğin olduğu üst kat odasında. Haritadaki işaret yaklaşık konumdur: Vespucci Island yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-makeek-river-kart-patlay-c-l-kasa",
+      "title": "Makeek River kartı + patlayıcılı kasa",
+      "category": "Para",
+      "x": 0.8587,
+      "y": 0.4911,
+      "description": "Vice Beach adasının güney ucundaki garajda. Paletleri bir araçla kenara it ve kasayı (safe) patlayıcıyla aç. Haritadaki işaret yaklaşık konumdur: Vice Beach yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-judas-sterling-kart-terk-edilmis-stadyum-c-at-s",
+      "title": "Judas Sterling kartı: terk edilmiş stadyum çatısı",
+      "category": "Koleksiyon",
+      "x": 0.8042,
+      "y": 0.6271,
+      "description": "Gloriana Key'in güneyindeki terk edilmiş stadyumun çatısında. Haritadaki işaret yaklaşık konumdur: Gloriana Key yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-cocaine-flamingo-key-lento-tuhaf-evi",
+      "title": "Cocaine Flamingo: Key Lento tuhaf evi",
+      "category": "Koleksiyon",
+      "x": 0.5617,
+      "y": 0.8443,
+      "description": "Key Lento'nun ortasındaki tuhaf evin bahçesinde. Haritadaki işaret yaklaşık konumdur: Key Lento yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-cocaine-flamingo-x3-featherstone-islands",
+      "title": "Cocaine Flamingo x3: Featherstone Islands",
+      "category": "Koleksiyon",
+      "x": 0.3772,
+      "y": 0.1647,
+      "description": "Kuzeydeki Featherstone adasının en kuzey ucunda, güneydoğu kıyısında ve güney kıyısında. Haritadaki işaret yaklaşık konumdur: Featherstone Islands yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-cocaine-flamingo-abismo-key",
+      "title": "Cocaine Flamingo: Abismo Key",
+      "category": "Koleksiyon",
+      "x": 0.4505,
+      "y": 0.9022,
+      "description": "Abismo Key'in güneydoğu kıyısında. Haritadaki işaret yaklaşık konumdur: Abismo Key yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-st-lucia-feneri-waink-taramas-kartlar",
+      "title": "St Lucia Feneri (Waink taraması) + kartlar",
+      "category": "Koleksiyon",
+      "x": 0.7795,
+      "y": 0.2552,
+      "description": "Little Hardin Island'ın kuzeyindeki fener. Garth Buxton kartı güneybatı iskelesinde, Ri Ri Luckett Gold kartı ise güney kumsalında. Haritadaki işaret yaklaşık konumdur: Little Hardin Island yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-sniper-of-la-perle-posteri-1-3",
+      "title": "Sniper of La Perle posteri #1-3",
+      "category": "Koleksiyon",
+      "x": 0.6872,
+      "y": 0.4661,
+      "description": "La Perle'de Unique Playlist posterleri: Aunt Zola's Soul Food'da kasiyerin yanında, TWA Ponya Tattoo'nun girişindeki masada ve Drip Drops'ta tezgâhın üstünde. Haritadaki işaret yaklaşık konumdur: La Perle yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-sniper-of-la-perle-posteri-4-jack-of-hearts",
+      "title": "Sniper of La Perle posteri #4: Jack of Hearts",
+      "category": "Koleksiyon",
+      "x": 0.7057,
+      "y": 0.4981,
+      "description": "Crosstown'daki Jack of Hearts kulübünün ikinci katında, doğudaki kayıt kabininde bir sandığın üzerinde. Haritadaki işaret yaklaşık konumdur: Crosstown yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-the-vault-radio-posteri",
+      "title": "The Vault Radio posteri",
+      "category": "Koleksiyon",
+      "x": 0.7102,
+      "y": 0.5371,
+      "description": "Downtown Vice City'deki The Vault gece kulübünün girişinin içinde kırmızı poster. Haritadaki işaret yaklaşık konumdur: Downtown yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-marabunta-grande-hobo-shotgun",
+      "title": "Marabunta Grande Hobo Shotgun",
+      "category": "Silah",
+      "x": 0.5572,
+      "y": 0.6917,
+      "description": "Hamlet'in güneyinde, otoyolun yanındaki işaretsiz endüstriyel depo binasında silah kasasında (çığlıkların geldiği yere git). Masada ve sarı alet çantasında nakit de var. Haritadaki işaret yaklaşık konumdur: Hamlet yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-depo-ganimeti-type-9-smg-duke-556-kalinga-50",
+      "title": "Depo ganimeti: Type 9 SMG, Duke 556, Kalinga 50",
+      "category": "Silah",
+      "x": 0.7152,
+      "y": 0.5761,
+      "description": "Hamlet'in güneyindeki Jason'ın evinden yaklaşık 3 mil uzakta bir depo. SMG girişin yanında, tüfek bir cesedin yakınında, tabanca ofiste; kasada nakit/kokain ve Leroy Rook kartı var (toplam yaklaşık 13.000 dolar). Haritadaki işaret yaklaşık konumdur: Vice-Dale County yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-kingfisher-w-22-small-game-rifle",
+      "title": "Kingfisher W-22 Small Game Rifle",
+      "category": "Silah",
+      "x": 0.4592,
+      "y": 0.6651,
+      "description": "Kingfisher yerleşkesinde (Donnie'nin soygun işi) suya en yakın binadaki masanın üstünde silah sandığında. Oraya tekneyle yaklaş. Haritadaki işaret yaklaşık konumdur: Grassrivers yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-kingfisher-laird-350-sniper-kaplanl-motel",
+      "title": "Kingfisher Laird 350 Sniper (kaplanlı motel)",
+      "category": "Silah",
+      "x": 0.5515,
+      "y": 0.6883,
+      "description": "Hamlet'in güneyindeki harap motelde, bir adama saldıran kaplanın olduğu yerde. Silah kasası ile 1.000 doların üzerinde nakit ve yaklaşık 640 dolarlık kokain içeren kasa (safe) var. Haritadaki işaret yaklaşık konumdur: Hamlet yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-patriarch-drx-tabancas-su-alt",
+      "title": "Patriarch DRX tabancası (su altı)",
+      "category": "Silah",
+      "x": 0.4885,
+      "y": 0.2313,
+      "description": "Kalaga Reservoir'ın güneyinde, su altında bir araba enkazının yakınında. Haritadaki işaret yaklaşık konumdur: Mount Kalaga National Park yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-gorse-425-shotgun-kac-akc-teknesi",
+      "title": "Gorse 425 Shotgun: kaçakçı teknesi",
+      "category": "Silah",
+      "x": 0.3672,
+      "y": 0.8477,
+      "description": "Permit Keys'in en kuzeydeki adasında, terk edilmiş bir kaçakçı teknesinin yakınında. Haritadaki işaret yaklaşık konumdur: Permit Keys yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-gun-nut-sms-1-sniper",
+      "title": "Gun Nut SMS 1 Sniper",
+      "category": "Silah",
+      "x": 0.5507,
+      "y": 0.845,
+      "description": "Key Lento'nun güneyindeki bir evin içinde; önce zorla girmen gerekiyor. Haritadaki işaret yaklaşık konumdur: Key Lento yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-kingfishers-akulus-tabancas-sunrise-rv-park",
+      "title": "Kingfishers Akulus tabancası: Sunrise RV Park",
+      "category": "Silah",
+      "x": 0.4545,
+      "y": 0.6692,
+      "description": "Cottonmouth Lake'in kuzeyinde, Wetman Bay'in doğusundaki Sunrise RV Park'ta çete operasyonu; beş haneli bir uyuşturucu stoku var. (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Grassrivers yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-gutterball-moreland-850-kingpin-bowling-alley",
+      "title": "Gutterball Moreland 850: Kingpin Bowling Alley",
+      "category": "Silah",
+      "x": 0.2865,
+      "y": 0.3508,
+      "description": "Port Gellhorn'un güneyinde, Moses'ın chop shop'una yakın terk edilmiş bowling salonunda Kolt & Associates operasyonu; 25.000 dolara kadar mal var. (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Port Gellhorn yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-scrapper-vf5c-firebug-dominator-la-cascara-motel",
+      "title": "Scrapper VF5C + Firebug Dominator: La Cascara Motel",
+      "category": "Silah",
+      "x": 0.2938,
+      "y": 0.3503,
+      "description": "Port Gellhorn'un batı kenarında, Draper Island'a giden demiryolu köprüsünün güneyinde; 50.000 dolara kadar ganimet ve bir kasa var, güvenlik yoğun. (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Port Gellhorn yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-alt-n-kaplama-ak-nova-auto-junkyard",
+      "title": "Altın kaplama AK: Nova Auto Junkyard",
+      "category": "Silah",
+      "x": 0.5508,
+      "y": 0.6829,
+      "description": "Hamlet'te Layin' Ink dövme salonunun hemen doğusundaki otoyol virajının yanında M7 operasyonu; Marabunta Grande KZ-59 ve Teniente Manana da burada. (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Hamlet yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-ride-free-h-l-38-monarch-avarus-biker-hideout",
+      "title": "Ride Free H&L .38 + Monarch Avarus: Biker Hideout",
+      "category": "Silah",
+      "x": 0.5622,
+      "y": 0.3591,
+      "description": "Ambrosia'nın doğusunda, Lake Leonida'nın güney ucunun hemen güneyindeki bar. Arka bölüme veya terasa girersen çete düşman oluyor. (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Ambrosia yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-guardia-brothers-fra-casa-guardia",
+      "title": "Guardia Brothers FRA: Casa Guardia",
+      "category": "Silah",
+      "x": 0.6645,
+      "y": 0.5392,
+      "description": "Little Cuba'nın kuzeydoğusunda, büyük bir otoyol kavşağının yanında suya bakan bölgede; genelde 20.000 dolar üzeri ve bir Nightlife Schafter çıkıyor. (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Little Cuba yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-ammu-nation-silah-du-kka-n-big-shots-hamlet",
+      "title": "Ammu-Nation silah dükkânı: Big Shots (Hamlet)",
+      "category": "Silah",
+      "x": 0.5555,
+      "y": 0.6788,
+      "description": "Vice-Dale County'deki Hamlet'te, genişletilmiş envanterli (keskin nişancı tüfekleri, LMG'ler, bomba/roketatarlar) bir Ammu-Nation. Haritadaki işaret yaklaşık konumdur: Hamlet yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-ammu-nation-silah-du-kka-n-woodhatch-capri",
+      "title": "Ammu-Nation silah dükkânı: Woodhatch (Capri)",
+      "category": "Silah",
+      "x": 0.2842,
+      "y": 0.5337,
+      "description": "Mariana County'deki Capri'de genişletilmiş envanterli bir Ammu-Nation. Haritadaki işaret yaklaşık konumdur: Capri yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-ammu-nation-silah-du-kka-n-phil-s-ammu-nation-vice-city",
+      "title": "Ammu-Nation silah dükkânı: Phil's Ammu-Nation (Vice City)",
+      "category": "Silah",
+      "x": 0.6745,
+      "y": 0.5262,
+      "description": "Vice-Dale County'de, Vice City'de genişletilmiş envanterli bir Ammu-Nation. Haritadaki işaret yaklaşık konumdur: Vice City yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-ammu-nation-silah-du-kka-n-black-eagle-vice-city",
+      "title": "Ammu-Nation silah dükkânı: Black Eagle (Vice City)",
+      "category": "Silah",
+      "x": 0.6672,
+      "y": 0.5267,
+      "description": "Vice City'nin kuzeybatısında genişletilmiş envanterli bir Ammu-Nation. Haritadaki işaret yaklaşık konumdur: Vice City yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-ammu-nation-silah-du-kka-n-iron-oak-vice-city",
+      "title": "Ammu-Nation silah dükkânı: Iron & Oak (Vice City)",
+      "category": "Silah",
+      "x": 0.6615,
+      "y": 0.5233,
+      "description": "Vice-Dale County'de, Vice City'de genişletilmiş envanterli bir Ammu-Nation. Haritadaki işaret yaklaşık konumdur: Vice City yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-ammu-nation-silah-du-kka-n-prestige-firearms-ocean-beach",
+      "title": "Ammu-Nation silah dükkânı: Prestige Firearms (Ocean Beach)",
+      "category": "Silah",
+      "x": 0.8662,
+      "y": 0.5281,
+      "description": "Vice City'deki Ocean Beach'te genişletilmiş envanterli bir Ammu-Nation. Haritadaki işaret yaklaşık konumdur: Ocean Beach yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-ammu-nation-silah-du-kka-n-hamlet-traders-hamlet",
+      "title": "Ammu-Nation silah dükkânı: Hamlet Traders (Hamlet)",
+      "category": "Silah",
+      "x": 0.5628,
+      "y": 0.6783,
+      "description": "Vice-Dale County'deki Hamlet'te standart envanterli silah dükkânı. Haritadaki işaret yaklaşık konumdur: Hamlet yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-ammu-nation-silah-rehinci-pawn-gun-crosstown",
+      "title": "Ammu-Nation silah/rehinci: Pawn & Gun Crosstown",
+      "category": "Silah",
+      "x": 0.701,
+      "y": 0.5022,
+      "description": "Vice City'deki Crosstown'da standart envanterli silah ve rehin dükkânı. Haritadaki işaret yaklaşık konumdur: Crosstown yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-ammu-nation-silah-rehinci-pawn-gun-port-gellhorn",
+      "title": "Ammu-Nation silah/rehinci: Pawn & Gun Port Gellhorn",
+      "category": "Silah",
+      "x": 0.2995,
+      "y": 0.3537,
+      "description": "Kelly County'deki Port Gellhorn'da standart envanterli silah ve rehin dükkânı. Haritadaki işaret yaklaşık konumdur: Port Gellhorn yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-ammu-nation-silah-du-kka-n-gellhorn-outfitters",
+      "title": "Ammu-Nation silah dükkânı: Gellhorn Outfitters",
+      "category": "Silah",
+      "x": 0.3047,
+      "y": 0.3601,
+      "description": "Kelly County'deki Port Gellhorn'da standart envanterli silah dükkânı. Haritadaki işaret yaklaşık konumdur: Port Gellhorn yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-bravado-banshee-randy-s-wish-list",
+      "title": "Bravado Banshee (Randy's Wish List)",
+      "category": "Araç",
+      "x": 0.2785,
+      "y": 0.5303,
+      "description": "Capri'de East Buckley Dr üzerindeki Sweetbay Inn'in önünde, gece 3 civarında park halinde. Clone Key ile çalabilirsin. Haritadaki işaret yaklaşık konumdur: Capri yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-pegassi-tempesta-randy-s-wish-list",
+      "title": "Pegassi Tempesta (Randy's Wish List)",
+      "category": "Araç",
+      "x": 0.6608,
+      "y": 0.5179,
+      "description": "Vice City'de NE 3rd St üzerinde, saat 13:00 civarında bir haciz (repo) rastgele olayı sırasında. Sahibini tehdit et ve aracı çekicinin üzerinden indir. Haritadaki işaret yaklaşık konumdur: Vice City yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-pegassi-infernus-randy-s-wish-list",
+      "title": "Pegassi Infernus (Randy's Wish List)",
+      "category": "Araç",
+      "x": 0.6937,
+      "y": 0.5027,
+      "description": "Crosstown'da NW 9th St üzerindeki Polis Merkezi otoparkının 7. katında. Çatıdaki stunt jump ile kaç; araçta takip cihazı (tracker) var. Haritadaki işaret yaklaşık konumdur: Crosstown yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-pegassi-vitello-randy-s-wish-list",
+      "title": "Pegassi Vitello (Randy's Wish List)",
+      "category": "Araç",
+      "x": 0.7435,
+      "y": 0.3292,
+      "description": "Belville'in doğusunda Flamingo Pkwy üzerindeki lüks villada, evin sağındaki en yakın garajda. Kaçmak için kapıya patlayıcı yerleştir. Haritadaki işaret yaklaşık konumdur: Waning Sands yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-bravado-gauntlet-hellfire-randy-s-wish-list",
+      "title": "Bravado Gauntlet Hellfire (Randy's Wish List)",
+      "category": "Araç",
+      "x": 0.5685,
+      "y": 0.6817,
+      "description": "Hamlet'te Boone Speedway'in doğusunda, Galerina St üzerindeki M7 hurdalığının arkasında. Haritadaki işaret yaklaşık konumdur: Hamlet yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-mamba-gt-dale-mamba-go-revi",
+      "title": "Mamba GT (¡Dale Mamba! görevi)",
+      "category": "Araç",
+      "x": 0.7892,
+      "y": 0.4201,
+      "description": "Vice Beach'teki Leaf Links'te bir malikânede; anahtar, havuzun arkasındaki ana binada kanepenin arkasındaki masada bir kasenin içinde. Haritadaki işaret yaklaşık konumdur: Leaf Links yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "minor",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-ascot-paragon-randy-s-wish-list",
+      "title": "Ascot Paragon (Randy's Wish List)",
+      "category": "Araç",
+      "x": 0.8615,
+      "y": 0.5322,
+      "description": "Ocean Beach'te Shore Dr üzerindeki The Banana Hole Main Bar'ın önünde, akşam 6 civarında. Araçta takip cihazı (tracker) var. Haritadaki işaret yaklaşık konumdur: Ocean Beach yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-piccia-furia-randy-s-wish-list",
+      "title": "Piccia Furia (Randy's Wish List)",
+      "category": "Araç",
+      "x": 0.6732,
+      "y": 0.6411,
+      "description": "Peacock Estates'te Palladia Ln üzerindeki malikânede; soldaki yoldan git, çiti atla ve garaj kapısından gir. Haritadaki işaret yaklaşık konumdur: Peacock Bay yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-pegassi-toros-randy-s-wish-list",
+      "title": "Pegassi Toros (Randy's Wish List)",
+      "category": "Araç",
+      "x": 0.7362,
+      "y": 0.5941,
+      "description": "Tequesta Retreat'te Bayside Dr üzerindeki Pegassi Residences'ın önünde, akşam 6:30 civarında. Haritadaki işaret yaklaşık konumdur: Tequesta Retreat yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-pfister-growler-randy-s-wish-list",
+      "title": "Pfister Growler (Randy's Wish List)",
+      "category": "Araç",
+      "x": 0.8542,
+      "y": 0.5327,
+      "description": "Ocean Beach'te Fig St üzerindeki çok katlı otoparkta, akşam 5 civarında. Haritadaki işaret yaklaşık konumdur: Ocean Beach yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-black-moth-camacho-palmer-fishing-warehouse",
+      "title": "Black Moth Camacho: Palmer Fishing Warehouse",
+      "category": "Araç",
+      "x": 0.3242,
+      "y": 0.6487,
+      "description": "Bobcat Key'in güney ucunda, La Polilla Negra'nın Palmer Fishing Warehouse'unun bitişik garajında. (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Bobcat Key yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-shining-sea-squalo-teknesi-brooks-boatworks",
+      "title": "Shining Sea Squalo teknesi: Brooks Boatworks",
+      "category": "Araç",
+      "x": 0.2977,
+      "y": 0.3663,
+      "description": "Port Gellhorn'da La Cascara Motel'in kuzeyinde, Draper Island yol köprüsünün ilerisinde kıyıdaki Brooks Boatworks'te demirli; Smuggler Caracara da burada. (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Port Gellhorn yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-devil-s-rope-gauntlet-hog-stars-garage",
+      "title": "Devil's Rope Gauntlet: Hog Stars Garage",
+      "category": "Araç",
+      "x": 0.5575,
+      "y": 0.3632,
+      "description": "Lake Leonida'nın güneybatısında, Irons Building Supply'ın hemen doğusundaki Hog Stars Garage'da. (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Ambrosia yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-searing-zombie-bobber-farm-mix-meth-laboratuvar",
+      "title": "Searing Zombie Bobber: Farm Mix meth laboratuvarı",
+      "category": "Araç",
+      "x": 0.7002,
+      "y": 0.3611,
+      "description": "Belville'in ana kuzey çıkışının hemen kuzeyindeki meth laboratuvarında; 30.000 dolara kadar ganimet. (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Leonard County yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-vapid-brimstone-golfer",
+      "title": "Vapid Brimstone Golfer",
+      "category": "Araç",
+      "x": 0.7845,
+      "y": 0.4242,
+      "description": "Leaf Links'te Washington Island'dan köprüyü geçince soldaki evin garajında; bahçede iki basketbol potası var. Haritadaki işaret yaklaşık konumdur: Leaf Links yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-70-vapid-riata-wyman-klasig-i",
+      "title": "'70 Vapid Riata (Wyman klasiği)",
+      "category": "Araç",
+      "x": 0.6112,
+      "y": 0.7581,
+      "description": "Shoeless Keys'te Grassrivers Cafe & Deli'nin kuzeyindeki terk edilmiş benzin istasyonunun arkasında. Haritadaki işaret yaklaşık konumdur: Shoeless Keys yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-reynolds-kit-car-wyman-klasig-i",
+      "title": "Reynolds kit car (Wyman klasiği)",
+      "category": "Araç",
+      "x": 0.2778,
+      "y": 0.5249,
+      "description": "Capri'nin kuzeybatı parmağındaki bir garajda. Haritadaki işaret yaklaşık konumdur: Capri yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-raita-junker-wyman-klasig-i",
+      "title": "Raita junker (Wyman klasiği)",
+      "category": "Araç",
+      "x": 0.5423,
+      "y": 0.8399,
+      "description": "Key Lento'nun kuzey-ortasında. Haritadaki işaret yaklaşık konumdur: Key Lento yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-imponte-soaring-phoenix",
+      "title": "Imponte Soaring Phoenix",
+      "category": "Araç",
+      "x": 0.4402,
+      "y": 0.7051,
+      "description": "Watson Bay'in kuzey ucunda, kuzeye giden köprünün altında, nehrin üzerindeki garajda; Elias Delgado Silver kartının yanında. Haritadaki işaret yaklaşık konumdur: Watson Bay yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-shitzu-squalo-teknesi-ultimate-edition",
+      "title": "Shitzu Squalo teknesi (Ultimate Edition)",
+      "category": "Araç",
+      "x": 0.8705,
+      "y": 0.4502,
+      "description": "Chapter 4'ten itibaren Washington Beach Canal'da demirli (harita menüsü > Personal). Haritadaki işaret yaklaşık konumdur: Washington Beach yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-ganado-retro-build-ultimate-edition",
+      "title": "Ganado retro build (Ultimate Edition)",
+      "category": "Araç",
+      "x": 0.5413,
+      "y": 0.8319,
+      "description": "Key Lento'daki Coastal Auto Care modifiye dükkânından ücretsiz alınır. Haritadaki işaret yaklaşık konumdur: Key Lento yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-95-grotti-cheetah-ultimate-edition",
+      "title": "'95 Grotti Cheetah (Ultimate Edition)",
+      "category": "Araç",
+      "x": 0.7315,
+      "y": 0.5982,
+      "description": "Chapter 5'te Tequesta Retreat'teki Pegassi Residences binasından edinilir. Haritadaki işaret yaklaşık konumdur: Tequesta Retreat yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "minor",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-exotic-animals-front-havaland-rma-kasa",
+      "title": "Exotic Animals Front havalandırma + kasa",
+      "category": "Para",
+      "x": 0.5483,
+      "y": 0.8257,
+      "description": "Key Lento'da içki dükkânının arkasındaki avluda (Shirley'nin rom isteği). Jeneratörün yanındaki havalandırmada 1.300 dolar, arka odadaki kasada (safe) 900 dolar var. Haritadaki işaret yaklaşık konumdur: Key Lento yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-parlor-apartments-kasas-san4san",
+      "title": "Parlor Apartments kasası (San4San)",
+      "category": "Para",
+      "x": 0.6607,
+      "y": 0.4991,
+      "description": "La Perle'nin güneyinde, Northbrook Drive A otobüs durağının karşısındaki V biçimli apartmanlarda; nakit, kasa (safe) ve Gorse 425 var. (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Rockridge yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-kolt-associates-stash-house",
+      "title": "Kolt & Associates Stash House",
+      "category": "Para",
+      "x": 0.2867,
+      "y": 0.367,
+      "description": "Port Gellhorn'un kuzeyinde, Brooks Boatworks'ün birkaç sokak doğusundaki harap yerleşim bölgesinde; 6.000-11.000 dolarlık mal. (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Port Gellhorn yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-irons-building-supply-ambrosia",
+      "title": "Irons Building Supply (Ambrosia)",
+      "category": "Para",
+      "x": 0.5502,
+      "y": 0.3637,
+      "description": "Lake Leonida'nın güneybatısında; 10.000 doların üzerinde satılabilir ekipman ve KVGA-12 var. (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Ambrosia yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-saber-shipping-yard-uyus-turucu-deposu",
+      "title": "Saber Shipping Yard uyuşturucu deposu",
+      "category": "Para",
+      "x": 0.6572,
+      "y": 0.5397,
+      "description": "Little Cuba'nın batısında nehir kıyısında, ağır korunan depo; Guardian ES18 ve Cherry Bomb Chino var. (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Little Cuba yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-weed-grow-yerles-kesi-m7",
+      "title": "Weed Grow yerleşkesi (M7)",
+      "category": "Para",
+      "x": 0.5062,
+      "y": 0.2041,
+      "description": "Uzak kuzeyde, Lake Tallaloko'nun doğusundaki binalar; Marabunta Grande Type 9 ve Verdant Buccaneer var. (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Lummox County yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-kamar-devon-community-center",
+      "title": "Kamar Devon Community Center",
+      "category": "Para",
+      "x": 0.6332,
+      "y": 0.6511,
+      "description": "Southside'ın kuzey ucunda, Illegal Goods Store deposunun karşısında, güneyde; PTT Youngin$ K17 burada. (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Southside yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-skunk-ape-bigfoot-kars-las-mas-cottonmouth-lake",
+      "title": "Skunk Ape (Bigfoot) karşılaşması: Cottonmouth Lake",
+      "category": "Easter Egg",
+      "x": 0.5045,
+      "y": 0.7742,
+      "description": "Hamlet'in güneyindeki Cottonmouth Lake'in güneydoğu tarafında, ormanlık bir toprak yoldan git; tuhaf bir ağaca ulaşınca incele ve bayıl. Haritadaki işaret yaklaşık konumdur: Cottonmouth Lake yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-skunk-ape-watson-bay-dog-us-noktas",
+      "title": "Skunk Ape: Watson Bay doğuş noktası",
+      "category": "Easter Egg",
+      "x": 0.4355,
+      "y": 0.7092,
+      "description": "Watson Bay'in güneyinde, dairesel toprak yolla çevrili küçük bir adanın yakınında. Hırıltıları takip ederek çamurlu tarlalardan geç. Haritadaki işaret yaklaşık konumdur: Watson Bay yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-skunk-ape-heykeli-pelican-valley",
+      "title": "Skunk Ape heykeli: Pelican Valley",
+      "category": "Easter Egg",
+      "x": 0.5292,
+      "y": 0.7341,
+      "description": "İkinci heykel; kısa bir ara sahne var. Kirk'ün 'Skunk Apeology 101' görevi, Boone Speedway'in batısındaki bataklıkta başlıyor. (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Pelican Valley yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-ufo-kac-r-lmas-the-truth-is-out-there",
+      "title": "UFO kaçırılması ('The Truth Is Out There')",
+      "category": "Easter Egg",
+      "x": 0.2783,
+      "y": 0.3619,
+      "description": "Port Gellhorn'un doğusunda, Starlet Motel yakınındaki ıssız toprak yolda, gece 2'den sonra. Terk edilmiş arabadan çıkan mavi ışığı takip et, uçan daireye ulaş; 3 gün sonra uyanırsın. (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Port Gellhorn yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-rad-dads-redemption-tour-afis-i-red-dead-go-ndermesi",
+      "title": "Rad Dads Redemption Tour afişi (Red Dead göndermesi)",
+      "category": "Easter Egg",
+      "x": 0.5593,
+      "y": 0.825,
+      "description": "Key Lento'da Three Sheets içki dükkânının önündeki ilan panosunda. (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Key Lento yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-dexter-morgan-n-dairesi",
+      "title": "Dexter Morgan'ın dairesi",
+      "category": "Easter Egg",
+      "x": 0.6655,
+      "y": 0.5138,
+      "description": "Vice City'de Dexter'ın binasını taklit eden apartman kompleksi (açık mavi sütunlar, beyaz korkuluklar); oyunun başından itibaren ulaşılabilir. (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Vice City yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-nes-eli-kanis-festive-poodle-es-siz-ko-pek-taramas",
+      "title": "Neşeli Kaniş (Festive Poodle) - eşsiz köpek taraması",
+      "category": "Easter Egg",
+      "x": 0.5677,
+      "y": 0.8301,
+      "description": "Key Lento'da kuzey sahil sırasındaki Noel temalı evin bahçesinde. Haritadaki işaret yaklaşık konumdur: Key Lento yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-bret-in-av-whitetail-geyik-destesi",
+      "title": "Bret'in avı: Whitetail geyik destesi",
+      "category": "Aktivite",
+      "x": 0.4878,
+      "y": 0.2259,
+      "description": "Mount Kalaga National Park ve Abandoned Concrete Plant'te Whitetail Buck ve Doe avla (Bret Vogel'in desteleri, Chapter 2'den itibaren). Haritadaki işaret yaklaşık konumdur: Mount Kalaga National Park yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-bret-in-av-cane-toad-nutria-monitor-destesi",
+      "title": "Bret'in avı: Cane toad/nutria/monitor destesi",
+      "category": "Aktivite",
+      "x": 0.4862,
+      "y": 0.4741,
+      "description": "West ve East Buckskin Swamp ile Pelican Valley'de avlanır. Haritadaki işaret yaklaşık konumdur: Buckskin Swamp yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-venus-fitness-spor-salonu",
+      "title": "Venus Fitness spor salonu",
+      "category": "Aktivite",
+      "x": 0.854,
+      "y": 0.4952,
+      "description": "Vice Beach'in güneydoğusunda; üyelik 600 dolar. Jason'ın evinin altında ücretsiz bir yumruk torbası da var. Haritadaki işaret yaklaşık konumdur: Vice Beach yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-boone-speedway-yar-s-pisti",
+      "title": "Boone Speedway yarış pisti",
+      "category": "Aktivite",
+      "x": 0.5737,
+      "y": 0.6881,
+      "description": "Hamlet'teki yarış pisti. Üç pistte 10 yarış kazanmak Repair Vehicle hilesini açıyor. (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Hamlet yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-gellhorn-international-raceway",
+      "title": "Gellhorn International Raceway",
+      "category": "Aktivite",
+      "x": 0.2773,
+      "y": 0.3539,
+      "description": "Port Gellhorn'daki yarış pisti (aynı zamanda bir stunt jump da var). (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Port Gellhorn yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-thrillbilly-mud-club-2",
+      "title": "Thrillbilly Mud Club",
+      "category": "Aktivite",
+      "x": 0.4282,
+      "y": 0.3971,
+      "description": "Kelly County'de Route 32 üzerinde çamur yarışları; Wyman'ın Dominator buggy'si Chapter 2'de burada açılıyor. (Oyuncu paylaşımı, doğrulanmadı.) Haritadaki işaret yaklaşık konumdur: Kelly County yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-delights-striptiz-kulu-bu",
+      "title": "Delights striptiz kulübü",
+      "category": "Aktivite",
+      "x": 0.2843,
+      "y": 0.3477,
+      "description": "Port Gellhorn'daki striptiz kulübü; bir localde Harley kartı var, batısında da June Warehouse çete operasyonu bulunuyor. Haritadaki işaret yaklaşık konumdur: Port Gellhorn yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-jutting-cliff-meditasyon-noktas",
+      "title": "Jutting Cliff meditasyon noktası",
+      "category": "Aktivite",
+      "x": 0.4925,
+      "y": 0.2218,
+      "description": "Kalaga Reservoir'ın kuzeyinde, Animal Crackers (Redshaw'ın yarışı) yakınındaki uçurumda. Haritadaki işaret yaklaşık konumdur: Mount Kalaga National Park yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-vinewood-beach-meditasyon-noktas",
+      "title": "Vinewood Beach meditasyon noktası",
+      "category": "Aktivite",
+      "x": 0.7992,
+      "y": 0.3371,
+      "description": "Vinewood Beach boyunca kuzeye doğru yaklaşık üçte iki yolda. Haritadaki işaret yaklaşık konumdur: Vinewood Beach yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-stunt-jump-key-lento-alt-ko-pru-su",
+      "title": "Stunt jump: Key Lento alt köprüsü",
+      "category": "Aktivite",
+      "x": 0.5733,
+      "y": 0.8391,
+      "description": "Abismo Key ile Key Lento arasındaki alt köprü (PowerPyx: Key Lento Bridge West/East). Haritadaki işaret yaklaşık konumdur: Key Lento yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-stunt-jump-mile-zero-air-station-southeast",
+      "title": "Stunt jump: Mile Zero Air Station Southeast",
+      "category": "Aktivite",
+      "x": 0.4202,
+      "y": 0.7321,
+      "description": "Mariana County'de Mile Zero Air Station'ın güneydoğusundaki isimli stunt jump. Haritadaki işaret yaklaşık konumdur: Mariana County yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-stunt-jump-apollo-aggregates-south",
+      "title": "Stunt jump: Apollo Aggregates South",
+      "category": "Aktivite",
+      "x": 0.7105,
+      "y": 0.5802,
+      "description": "Vice-Dale County'de Apollo Aggregates'in güneyindeki isimli stunt jump. Haritadaki işaret yaklaşık konumdur: Vice-Dale County yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-stunt-jump-vcia-storage-facility",
+      "title": "Stunt jump: VCIA Storage Facility",
+      "category": "Aktivite",
+      "x": 0.5742,
+      "y": 0.5721,
+      "description": "VCIA depo tesisindeki isimli stunt jump. Haritadaki işaret yaklaşık konumdur: VCIA yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-stunt-jump-lake-leonida-lock-south",
+      "title": "Stunt jump: Lake Leonida Lock South",
+      "category": "Aktivite",
+      "x": 0.6132,
+      "y": 0.3151,
+      "description": "Leonard County'de güney kilitteki (lock) isimli stunt jump. Haritadaki işaret yaklaşık konumdur: Lake Leonida yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-stunt-jump-starlet-motel-construction",
+      "title": "Stunt jump: Starlet Motel Construction",
+      "category": "Aktivite",
+      "x": 0.2953,
+      "y": 0.347,
+      "description": "Kelly County'de Starlet Motel'in yanındaki inşaat sahası. Haritadaki işaret yaklaşık konumdur: Port Gellhorn yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-stunt-jump-north-moreau-broken-bridge",
+      "title": "Stunt jump: North Moreau Broken Bridge",
+      "category": "Aktivite",
+      "x": 0.5122,
+      "y": 0.1737,
+      "description": "Lummox County'de Moreau'nun kuzeyindeki yıkık köprü. Haritadaki işaret yaklaşık konumdur: Moreau yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-stunt-jump-richard-barebone-state-park-otoyolu",
+      "title": "Stunt jump: Richard Barebone State Park otoyolu",
+      "category": "Aktivite",
+      "x": 0.7232,
+      "y": 0.2671,
+      "description": "Richard Barebone State Park'ın orta noktası çevresindeki otoyol (Richard Barebone Overpass South). Haritadaki işaret yaklaşık konumdur: Richard Barebone State Park yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-leonida-keys-gu-venli-ev-safehouse",
+      "title": "Leonida Keys güvenli ev (safehouse)",
+      "category": "Mülk",
+      "x": 0.5639,
+      "y": 0.8474,
+      "description": "Key Lento'da Brian Heder'a ait Jason'ın evi; oyunun başından itibaren (Chapter 1) kullanılabilir. Haritadaki işaret yaklaşık konumdur: Key Lento yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-starlet-motel-gu-venli-ev-safehouse",
+      "title": "Starlet Motel güvenli ev (safehouse)",
+      "category": "Mülk",
+      "x": 0.3037,
+      "y": 0.3521,
+      "description": "Port Gellhorn'da; Chapter 2'nin başında açılır. Haritadaki işaret yaklaşık konumdur: Port Gellhorn yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "minor",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-bayside-gu-venli-ev-safehouse",
+      "title": "Bayside güvenli ev (safehouse)",
+      "category": "Mülk",
+      "x": 0.7262,
+      "y": 0.4741,
+      "description": "Vice City'de Catalan Boulevard üzerinde; Chapter 3 'Welcome to Vice City' ile açılır. Haritadaki işaret yaklaşık konumdur: Bayside yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "minor",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-ocean-beach-gu-venli-ev-safehouse",
+      "title": "Ocean Beach güvenli ev (safehouse)",
+      "category": "Mülk",
+      "x": 0.8485,
+      "y": 0.5293,
+      "description": "Ocean Beach'te; Chapter 4 'Ocean Beach' ile açılır. Haritadaki işaret yaklaşık konumdur: Ocean Beach yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "minor",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-mitchell-auto-center-garaj",
+      "title": "Mitchell Auto Center garajı",
+      "category": "Mülk",
+      "x": 0.4235,
+      "y": 0.4012,
+      "description": "Kelly County'de Historic Route 628 üzerinde; Vice City Real Estate uygulaması üzerinden 4.000 dolar. Haritadaki işaret yaklaşık konumdur: Kelly County yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-persistence-road-garaj",
+      "title": "Persistence Road Garajı",
+      "category": "Mülk",
+      "x": 0.6475,
+      "y": 0.3993,
+      "description": "Belville'de; Vice City Real Estate uygulaması üzerinden 7.600 dolar. Haritadaki işaret yaklaşık konumdur: Belville yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-7th-avenue-garaj",
+      "title": "7th Avenue Garajı",
+      "category": "Mülk",
+      "x": 0.6255,
+      "y": 0.5462,
+      "description": "Salton'da; Vice City Real Estate uygulaması üzerinden 12.000 dolar. Haritadaki işaret yaklaşık konumdur: Salton yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-store-n-bolt-garaj",
+      "title": "Store n' Bolt garajı",
+      "category": "Mülk",
+      "x": 0.5445,
+      "y": 0.3603,
+      "description": "Ambrosia'da; Vice City Real Estate uygulaması üzerinden 16.800 dolar. Haritadaki işaret yaklaşık konumdur: Ambrosia yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-wyatt-motors-garaj",
+      "title": "Wyatt Motors garajı",
+      "category": "Mülk",
+      "x": 0.5438,
+      "y": 0.3549,
+      "description": "Ambrosia'da, Allied Crystal'de; fiyatı 21.600 dolar. Haritadaki işaret yaklaşık konumdur: Ambrosia yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-vela-rota-driver-garaj",
+      "title": "Vela Rota Driver Garajı",
+      "category": "Mülk",
+      "x": 0.2825,
+      "y": 0.5208,
+      "description": "Capri'de; fiyatı 24.000 dolar. Haritadaki işaret yaklaşık konumdur: Capri yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-bonita-court-garaj",
+      "title": "Bonita Court Garajı",
+      "category": "Mülk",
+      "x": 0.8467,
+      "y": 0.4957,
+      "description": "Vice Beach'te; fiyatı 34.000 dolar. Haritadaki işaret yaklaşık konumdur: Vice Beach yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-atlantic-court-garaj",
+      "title": "Atlantic Court Garajı",
+      "category": "Mülk",
+      "x": 0.8478,
+      "y": 0.5239,
+      "description": "Ocean Beach'te; fiyatı 40.000 dolar. Haritadaki işaret yaklaşık konumdur: Ocean Beach yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-pegassi-residences-garaj",
+      "title": "Pegassi Residences Garajı",
+      "category": "Mülk",
+      "x": 0.7242,
+      "y": 0.5987,
+      "description": "Tequesta Retreat'te, Chapter 5 'Operation Savage Glory' sonrasında açılan 3 araçlık, katlı garaj. Haritadaki işaret yaklaşık konumdur: Tequesta Retreat yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "minor",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-paradise-garaj",
+      "title": "Paradise Garajı",
+      "category": "Mülk",
+      "x": 0.4282,
+      "y": 0.7097,
+      "description": "Watson Bay'de; Ultimate Edition'a özel garaj. Haritadaki işaret yaklaşık konumdur: Watson Bay yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-shore-court-garaj",
+      "title": "Shore Court Garajı",
+      "category": "Mülk",
+      "x": 0.8525,
+      "y": 0.5198,
+      "description": "Ocean Beach'te Shore Drive üzerinde; ön sipariş (pre-order) bonusu. Haritadaki işaret yaklaşık konumdur: Ocean Beach yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-coastal-auto-care-modifiye-du-kka-n",
+      "title": "Coastal Auto Care modifiye dükkânı",
+      "category": "Mağaza",
+      "x": 0.5493,
+      "y": 0.8484,
+      "description": "Key Lento'daki modifiye dükkânı. Ultimate Edition'daki Ganado retro build burada ücretsiz. Haritadaki işaret yaklaşık konumdur: Key Lento yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-wonder-whale-hediyelik-es-ya-du-kka-n",
+      "title": "Wonder Whale hediyelik eşya dükkânı",
+      "category": "Mağaza",
+      "x": 0.538,
+      "y": 0.8415,
+      "description": "Key Lento'da Goodtime Gear Vice City ürünleri satan dükkân. Haritadaki işaret yaklaşık konumdur: Key Lento yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-sara-s-unisex-salon",
+      "title": "Sara's Unisex Salon",
+      "category": "Mağaza",
+      "x": 0.5667,
+      "y": 0.6943,
+      "description": "Hamlet'te saç ve güzellik salonu; Vice City keşfedildikten sonra kullanılabilir. Haritadaki işaret yaklaşık konumdur: Hamlet yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-electric-fang-do-vme-salonu",
+      "title": "Electric Fang Dövme Salonu",
+      "category": "Mağaza",
+      "x": 0.7312,
+      "y": 0.4511,
+      "description": "Vice City'deki Stockyard bölgesinde dövme salonu. Haritadaki işaret yaklaşık konumdur: Stockyard yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-rideout-customs-arac-modifiye-du-kka-n",
+      "title": "Rideout Customs araç modifiye dükkânı",
+      "category": "Mağaza",
+      "x": 0.688,
+      "y": 0.4993,
+      "description": "Crosstown'da araç modifiye dükkânı. Haritadaki işaret yaklaşık konumdur: Crosstown yakını.",
+      "sourceIds": [
+        "topluluk-rehberleri"
+      ],
+      "checkedAt": "2026-11-19T15:24:35.466Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
