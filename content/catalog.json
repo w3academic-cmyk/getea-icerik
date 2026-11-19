@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 94,
-  "publishedAt": "2026-11-19T04:37:16.423Z",
+  "revision": 95,
+  "publishedAt": "2026-11-19T05:37:08.181Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3973,6 +3973,30 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T04:46:00Z",
       "checkedAt": "2026-11-19T04:37:16.423Z"
+    },
+    {
+      "id": "web-altchar-yan-aktiviteler",
+      "url": "https://www.altchar.com/game-news/gta-6-side-activities-and-mini-games-everything-confirmed-so-far-a7Bxd8l86IF8",
+      "author": "AltChar",
+      "network": "web",
+      "title": "Yan aktiviteler: balık, av, spor salonu ve fazlası",
+      "summary": "Rockstar'ın resmî olarak doğruladıkları: Mount Kalaga'da avcılık, göl ve kıyılarda balıkçılık, kano ve arazi parkurları. Fragman ve ekran görüntülerinde ayrıca basketbol, bilardo, mini golf, tenis, dalış, hava botu, jet ski, kafes dövüşü ve sahilde ağırlık çalışma görülüyor. Yan aktiviteler ana hikâyeyi bitirmek için zorunlu değil.",
+      "category": "Spor",
+      "tags": [
+        "aktiviteler",
+        "activities",
+        "balık tutma",
+        "fishing",
+        "avcılık",
+        "hunting",
+        "spor salonu",
+        "gym",
+        "basketbol",
+        "Mount Kalaga"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T05:50:00Z",
+      "checkedAt": "2026-11-19T05:37:08.181Z"
     }
   ]
 }
