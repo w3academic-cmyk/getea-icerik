@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 122,
-  "publishedAt": "2026-11-19T16:43:40.825Z",
+  "revision": 123,
+  "publishedAt": "2026-11-19T16:54:12.025Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -19649,6 +19649,43 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T16:21:30Z",
       "checkedAt": "2026-11-19T16:34:28.446Z"
+    },
+    {
+      "id": "x-ign-jenerik-spoiler",
+      "url": "https://x.com/IGN/status/2123443383603507405",
+      "author": "@IGN",
+      "network": "x",
+      "title": "Dikkat: Jenerik listesinde büyük bir spoiler var",
+      "summary": "IGN, Rockstar’ın yayınladığı tam jenerik listesinde hikâyeye dair büyük bir spoilerin açıkça göründüğünü uyarıyor. Hikâyeyi bitirmediysen jenerik sayfasına bakmamanı öneriyoruz.",
+      "category": "Haber",
+      "tags": [
+        "jenerik",
+        "credits",
+        "spoiler",
+        "uyarı"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T15:48:48Z",
+      "checkedAt": "2026-11-19T16:54:12.025Z"
+    },
+    {
+      "id": "x-kalshi-album-tahmini",
+      "url": "https://x.com/Kalshi_Music/status/2123094283163169118",
+      "author": "@Kalshi_Music",
+      "network": "x",
+      "title": "“Grand Theft Auto VI: The Album” ilk hafta 200 bin satış tahmini",
+      "summary": "Oyunun resmî albümü “Grand Theft Auto VI: The Album”ın ilk haftada 200 binden fazla albüm eşdeğeri satması bekleniyor. Albümde Drake’in de şarkısı olduğu konuşuluyor.",
+      "category": "Radyo",
+      "tags": [
+        "The Album",
+        "albüm",
+        "soundtrack",
+        "Drake",
+        "müzik"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-18T16:41:36Z",
+      "checkedAt": "2026-11-19T16:54:12.025Z"
     }
   ]
 }
