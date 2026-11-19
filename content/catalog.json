@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 90,
+  "revision": 91,
   "publishedAt": "2026-11-19T03:57:11.221Z",
   "locale": "tr-TR",
   "sources": [
@@ -3852,7 +3852,7 @@
       "author": "VICE",
       "network": "web",
       "title": "Metacritic sahte GTA VI yorumlarını sildi, kullanıcı puanlamasını kapattı",
-      "summary": "Metacritic, oyun çıkmadan yazılan sahte GTA VI kullanıcı yorumlarını kaldırdı ve yeni kullanıcı puanlarını geçici olarak engelledi. Eleştirmen puanı 99'da duruyor.",
+      "summary": "Metacritic sahte GTA VI kullanıcı yorumlarını kaldırdı ve yeni kullanıcı puanlarını engelledi. Eleştirmen puanı 99'da duruyor.",
       "category": "Haber",
       "tags": [
         "Metacritic",
