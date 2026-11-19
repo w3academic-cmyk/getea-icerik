@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 96,
-  "publishedAt": "2026-11-19T05:57:13.983Z",
+  "revision": 97,
+  "publishedAt": "2026-11-19T06:17:12.490Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -4019,6 +4019,29 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T06:10:00Z",
       "checkedAt": "2026-11-19T05:57:13.983Z"
+    },
+    {
+      "id": "web-kotaku-60fps-yok",
+      "url": "https://kotaku.com/gta-6-wont-get-a-60-fps-mode-even-on-ps5-pro-because-its-not-powerful-enough-2000755979",
+      "author": "Kotaku",
+      "network": "web",
+      "title": "Rockstar: PS5 Pro'da bile 60 FPS modu gelmeyecek",
+      "summary": "Rockstar'ın teknoloji prodüksiyon direktörü Marc Chambers, Kotaku'ya PS5 Pro'nun işlemcisinin oyunun karmaşık simülasyonunu daha yüksek kare hızında çalıştıracak kadar güçlü olmadığını söyledi. Hiçbir çıkış konsoluna 60 ya da 40 FPS modu gelmeyecek. PS5 Pro'nun ek gücü ışın izlemeli gölgeler ve PSSR ile görüntü kalitesine harcanıyor.",
+      "category": "Performans",
+      "tags": [
+        "60 FPS",
+        "30 FPS",
+        "kare hızı",
+        "frame rate",
+        "PS5 Pro",
+        "PSSR",
+        "ışın izleme",
+        "ray tracing",
+        "Marc Chambers"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T06:30:00Z",
+      "checkedAt": "2026-11-19T06:17:12.490Z"
     }
   ]
 }
