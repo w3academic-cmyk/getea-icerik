@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 138,
-  "publishedAt": "2026-11-19T22:34:12.632Z",
+  "revision": 139,
+  "publishedAt": "2026-11-19T22:54:13.562Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -21798,6 +21798,44 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T22:18:56Z",
       "checkedAt": "2026-11-19T22:34:12.632Z"
+    },
+    {
+      "id": "x-notiplay-25-istasyon",
+      "url": "https://x.com/NotiPlay_/status/2123546926800875997",
+      "author": "@NotiPlay_",
+      "network": "x",
+      "title": "Serinin en büyük radyosu: 25 istasyon, 840’tan fazla şarkı",
+      "summary": "Paylaşıma göre GTA VI’da 25 radyo istasyonu ve 840’ı aşkın şarkı var. Kaynaklar istasyon sayısında farklı rakamlar veriyor (bazı rehberler 20–21 diyor); kesin liste netleştikçe güncelleyeceğiz.",
+      "category": "Radyo",
+      "tags": [
+        "radyo",
+        "radio",
+        "istasyon",
+        "şarkı sayısı",
+        "soundtrack"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T22:40:15Z",
+      "checkedAt": "2026-11-19T22:54:13.562Z"
+    },
+    {
+      "id": "x-countdown-kapak-kizi",
+      "url": "https://x.com/GTAVI_Countdown/status/2123546142545711584",
+      "author": "@GTAVI_Countdown",
+      "network": "x",
+      "title": "Kapaktaki kadın: model Sabii Garcia",
+      "summary": "New York’ta yaşayan Dominikli model Sabii Garcia, GTA VI kapağındaki kadın olduğunu doğruladı; Rockstar’ın oyuncu seçimi direktörü Cali Elizabeth Moore da rolü teyit etti.",
+      "category": "Haber",
+      "tags": [
+        "Sabii Garcia",
+        "kapak",
+        "cover",
+        "model",
+        "oyuncular"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T22:37:08Z",
+      "checkedAt": "2026-11-19T22:54:13.562Z"
     }
   ]
 }
