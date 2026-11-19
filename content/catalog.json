@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 109,
-  "publishedAt": "2026-11-19T15:11:59.676Z",
+  "revision": 110,
+  "publishedAt": "2026-11-19T15:18:05.861Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -4698,6 +4698,44 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T10:50:44Z",
       "checkedAt": "2026-11-19T15:05:53.532Z"
+    },
+    {
+      "id": "x-igta-oyuncular-dogrulandi",
+      "url": "https://x.com/iGrandTheftAuto/status/2123428749920399484",
+      "author": "@iGrandTheftAuto",
+      "network": "x",
+      "title": "Jason ve Lucia’nın oyuncuları rollerini doğruladı",
+      "summary": "Dylan Rourke (Jason Duval) ve Manni L. Perez (Lucia Caminos) Instagram’da ortak paylaşım yaparak GTA VI’daki rollerini doğruladı; ikisi de profil fotoğraflarını karakterleriyle değiştirdi ve Brooklyn’deki GTA VI duvar resminin önünde poz verdi.",
+      "category": "Haber",
+      "tags": [
+        "Dylan Rourke",
+        "Manni L. Perez",
+        "Jason",
+        "Lucia",
+        "oyuncular",
+        "actors"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T14:50:40Z",
+      "checkedAt": "2026-11-19T15:18:05.861Z"
+    },
+    {
+      "id": "x-politicsuk-no10",
+      "url": "https://x.com/PolitlcsUK/status/2123432541063643516",
+      "author": "@PolitlcsUK",
+      "network": "x",
+      "title": "İngiltere Başbakanlığı Rockstar’ı tebrik etti",
+      "summary": "Downing Street (No 10), GTA VI’ın çıkışı için Rockstar Games’i kutladı ve stüdyoyu “Edinburgh’da yapılmış bir İngiliz başarı hikâyesi” olarak andı.",
+      "category": "Haber",
+      "tags": [
+        "İngiltere",
+        "Downing Street",
+        "Rockstar North",
+        "Edinburgh"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T15:05:43Z",
+      "checkedAt": "2026-11-19T15:18:05.861Z"
     }
   ]
 }
