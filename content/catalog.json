@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 97,
-  "publishedAt": "2026-11-19T06:17:12.490Z",
+  "revision": 98,
+  "publishedAt": "2026-11-19T06:37:09.133Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -4042,6 +4042,28 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T06:30:00Z",
       "checkedAt": "2026-11-19T06:17:12.490Z"
+    },
+    {
+      "id": "web-thesixthaxis-vintage-vice-city",
+      "url": "https://www.thesixthaxis.com/2026/06/24/gta-6-ultimate-edition-pre-order-bonus-and-vintage-vice-city-pack-revealed/",
+      "author": "TheSixthAxis",
+      "network": "web",
+      "title": "Son gün: Vintage Vice City Paketi bugünkü dijital alımlarda",
+      "summary": "Hem Standart hem Ultimate sürümde gelen Vintage Vice City Paketi: '55 Vapid Stanier sedan, Shore Court garajı, Jason'a pastel takım elbise, Lucia'ya kırmızı payetli mini elbise ve bukle saç, Tommy Vercetti'nin palmiyeli gömleğinden ilham alan silah deseni. Kaynaklar dijital alımlar için son tarih olarak 19 ya da 20 Kasım diyor; kesin tarihi Rockstar'ın sitesinden kontrol et. Kutulu kopyalarda stoklarla sınırlı.",
+      "category": "Kıyafet",
+      "tags": [
+        "Vintage Vice City",
+        "ön sipariş bonusu",
+        "pre-order bonus",
+        "Stanier",
+        "Shore Court",
+        "kıyafet",
+        "outfit",
+        "Tommy Vercetti"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T06:50:00Z",
+      "checkedAt": "2026-11-19T06:37:09.133Z"
     }
   ]
 }
