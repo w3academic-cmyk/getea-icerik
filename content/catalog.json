@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 92,
-  "publishedAt": "2026-11-19T04:17:22.080Z",
+  "revision": 93,
+  "publishedAt": "2026-11-19T04:37:16.423Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3928,6 +3928,49 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T04:26:00Z",
       "checkedAt": "2026-11-19T04:17:22.080Z"
+    },
+    {
+      "id": "web-gtaintel-telefon-uygulamalari",
+      "url": "https://www.gtaintel.com/news/gta-6-phone-social-media-system",
+      "author": "GTA Intel",
+      "network": "web",
+      "title": "Telefon artık gerçek bir nesne: Waink, RydeMe, Snapmatic",
+      "summary": "Jason ve Lucia telefonu elle çıkarıyor, kamera ellerine yaklaşıyor. Snapmatic'te gezinebiliyorsun ama paylaşım yapamıyorsun, çünkü ikili kaçak ve dijital iz bırakmak istemiyor. Waink ile park hâlindeki araçları çalmadan önce tarayabiliyorsun; RydeMe ve Scooter Bros ulaşım için. Jason ile Lucia'nın mesajlaşmaları hikâyede önemli. (Bazı uygulama ayrıntıları tek bir önizlemeden geliyor.)",
+      "category": "Özellik",
+      "tags": [
+        "telefon",
+        "phone",
+        "uygulama",
+        "apps",
+        "Waink",
+        "RydeMe",
+        "Scooter Bros",
+        "Snapmatic",
+        "sosyal medya"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T04:45:00Z",
+      "checkedAt": "2026-11-19T04:37:16.423Z"
+    },
+    {
+      "id": "web-notebookcheck-karakter-degistirme",
+      "url": "https://www.notebookcheck.net/Here-s-how-GTA-6-s-character-switching-will-work.1380168.0.html",
+      "author": "Notebookcheck",
+      "network": "web",
+      "title": "Jason ↔ Lucia geçişi: her an serbest değil",
+      "summary": "Rockstar'dan Rob Nelson'ın Famitsu röportajına göre karakter değiştirme hikâyedeki ilerlemeye bağlı, istediğin her an geçemiyorsun. Uygun anlarda ikiliyi birlikte ya da ayrı ayrı oynayabiliyorsun; araç kovalamacasında sürücüden yolcu koltuğuna geçip takipçilere ateş edebiliyorsun.",
+      "category": "Özellik",
+      "tags": [
+        "karakter değiştirme",
+        "character switching",
+        "Jason",
+        "Lucia",
+        "Rob Nelson",
+        "Famitsu"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T04:46:00Z",
+      "checkedAt": "2026-11-19T04:37:16.423Z"
     }
   ]
 }
