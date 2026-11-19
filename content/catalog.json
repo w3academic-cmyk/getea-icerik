@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 103,
-  "publishedAt": "2026-11-19T08:17:09.327Z",
+  "revision": 104,
+  "publishedAt": "2026-11-19T08:37:07.914Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -4174,6 +4174,27 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T08:30:00Z",
       "checkedAt": "2026-11-19T08:17:09.327Z"
+    },
+    {
+      "id": "web-miaminewtimes-20-mekan",
+      "url": "https://www.miaminewtimes.com/arts/interactive-map-20-miami-landmarks-in-gta-6-and-where-to-find-them-22206001",
+      "author": "Miami New Times",
+      "network": "web",
+      "title": "Gerçek Miami'nin 20 simgesi Vice City'de nerede?",
+      "summary": "Miami New Times, oyundaki Vice City'de karşılığı bulunan 20 gerçek Miami simgesini etkileşimli bir haritada topladı. Örneğin Ocean Drive'daki Hotel Boardwalk, gerçek Hotel Breakwater'dan esinlenmiş. Gerçek şehri tanıyanlar için karşılaştırmalı keşif rehberi.",
+      "category": "Konum",
+      "tags": [
+        "Miami",
+        "Vice City",
+        "Ocean Drive",
+        "gerçek mekânlar",
+        "real landmarks",
+        "Hotel Boardwalk",
+        "harita"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T08:50:00Z",
+      "checkedAt": "2026-11-19T08:37:07.914Z"
     }
   ]
 }
