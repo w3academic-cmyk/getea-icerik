@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 88,
-  "publishedAt": "2026-11-19T03:17:41.785Z",
+  "revision": 89,
+  "publishedAt": "2026-11-19T03:37:40.497Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3800,6 +3800,51 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T03:25:00Z",
       "checkedAt": "2026-11-19T03:17:41.785Z"
+    },
+    {
+      "id": "web-gtaboom-radyo-djleri",
+      "url": "https://www.gtaboom.com/bad-bunny-lana-del-rey-and-slayer-are-the-gta-6-radio-hosts-ddfd",
+      "author": "GTABoom",
+      "network": "web",
+      "title": "Radyo DJ'leri: Bad Bunny, Lana Del Rey, Morgan Wallen, Slayer",
+      "summary": "Açıklanan ünlü radyo sunucuları: Back Country Radio'da Morgan Wallen (MW) ve Lana Del Rey (Delta Dawne), eşi Jeremy Dufrene “bataklık meteoroloğu” Mud Dog Mike. Flash FM'de Robyn ve Alex Consani. Cocoteo FM'de Bad Bunny (El Martillo) ve RaiNao (La Gata). The Chamber 106.6'da Slayer'dan Kerry King ve Tom Araya. Dirty South Classics'te Trick Daddy ve Trina.",
+      "category": "Radyo",
+      "tags": [
+        "radyo",
+        "radio",
+        "DJ",
+        "Bad Bunny",
+        "Lana Del Rey",
+        "Morgan Wallen",
+        "Slayer",
+        "Flash FM",
+        "Cocoteo FM",
+        "Back Country Radio"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T03:45:00Z",
+      "checkedAt": "2026-11-19T03:37:40.497Z"
+    },
+    {
+      "id": "web-yahoo-halkias-jt-iddia",
+      "url": "https://tech.yahoo.com/gaming/articles/stavros-halkias-revealed-surprising-gta-221027482.html",
+      "author": "Yahoo Tech",
+      "network": "web",
+      "title": "İddia: WKTT'de Stavros Halkias, Vice City Rap Radio'da JT",
+      "summary": "Hayranlar komedyen Stavros Halkias'ın WKTT Talk Radio'yu sunduğunu düşünüyor. Dolaşan bir ses kaydı da rapçi JT'nin Vice City Rap Radio'da DJ JT olarak yer aldığını gösteriyor olabilir. İkisini de Rockstar doğrulamadı.",
+      "category": "Radyo",
+      "tags": [
+        "İddia",
+        "WKTT",
+        "Stavros Halkias",
+        "JT",
+        "Vice City Rap Radio",
+        "radyo",
+        "radio"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T03:46:00Z",
+      "checkedAt": "2026-11-19T03:37:40.497Z"
     }
   ]
 }
