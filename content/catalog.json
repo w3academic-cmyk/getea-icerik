@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 125,
-  "publishedAt": "2026-11-19T17:15:50.455Z",
+  "revision": 126,
+  "publishedAt": "2026-11-19T17:34:13.125Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -20171,6 +20171,45 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T16:34:14Z",
       "checkedAt": "2026-11-19T17:14:24.928Z"
+    },
+    {
+      "id": "x-dexerto-cool-dog-ada",
+      "url": "https://x.com/Dexerto/status/2123464708082565224",
+      "author": "@Dexerto",
+      "network": "x",
+      "title": "Kurtarıcı köpek seni köpek adasına götürüyor: 1.218 $ hazine",
+      "summary": "Denizde mahsur kalınca jet skiyle gelen “Cool Dog” seni köpeklerle dolu bir adaya götürüyor; orada top oynayıp toprağı kazarak 1.218 dolar bulabiliyorsun.",
+      "category": "Easter Egg",
+      "tags": [
+        "Cool Dog",
+        "köpek",
+        "jet ski",
+        "ada",
+        "hazine",
+        "easter egg"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T17:13:33Z",
+      "checkedAt": "2026-11-19T17:34:13.125Z"
+    },
+    {
+      "id": "x-cheetah-maleek-rivers",
+      "url": "https://x.com/cheetah/status/2123463146111377459",
+      "author": "@cheetah",
+      "network": "x",
+      "title": "Tyreek Hill oyunda: Vice City Manatees’ten Maleek Rivers",
+      "summary": "NFL yıldızı Tyreek Hill, GTA VI’da Vice City Manatees takımının oyuncusu Maleek Rivers olarak yer aldığını duyurdu.",
+      "category": "Haber",
+      "tags": [
+        "Tyreek Hill",
+        "Maleek Rivers",
+        "Vice City Manatees",
+        "NFL",
+        "cameo"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T17:07:20Z",
+      "checkedAt": "2026-11-19T17:34:13.125Z"
     }
   ]
 }
