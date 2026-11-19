@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 123,
-  "publishedAt": "2026-11-19T16:54:12.025Z",
+  "revision": 124,
+  "publishedAt": "2026-11-19T17:14:24.928Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -19686,6 +19686,83 @@
       "spoiler": "none",
       "postedAt": "2026-11-18T16:41:36Z",
       "checkedAt": "2026-11-19T16:54:12.025Z"
+    },
+    {
+      "id": "x-djosource-nights-coming",
+      "url": "https://x.com/djosource/status/2123462995305210196",
+      "author": "@djosource",
+      "network": "x",
+      "title": "Djo ve Justice’ten oyuna özel şarkı: “The Night’s Coming”",
+      "summary": "Djo (Joe Keery), Justice ile birlikte GTA VI için “The Night’s Coming” adlı yeni bir şarkı yaptı; Djo’nun başka bir sanatçıyla ilk resmî ortak çalışması.",
+      "category": "Radyo",
+      "tags": [
+        "Djo",
+        "Joe Keery",
+        "Justice",
+        "The Night’s Coming",
+        "şarkı",
+        "soundtrack"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T17:06:44Z",
+      "checkedAt": "2026-11-19T17:14:24.928Z"
+    },
+    {
+      "id": "x-countdown-raul-cal",
+      "url": "https://x.com/GTAVI_Countdown/status/2123459689694560570",
+      "author": "@GTAVI_Countdown",
+      "network": "x",
+      "title": "Raul ve Cal’in oyuncuları resmîleşti",
+      "summary": "Manny Perez (Raul Bautista) ve Bobby Moynihan (Cal Hampton), GTA VI’daki rollerini resmî olarak doğruladı.",
+      "category": "Haber",
+      "tags": [
+        "Manny Perez",
+        "Raul Bautista",
+        "Bobby Moynihan",
+        "Cal Hampton",
+        "oyuncular",
+        "cast"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T16:53:36Z",
+      "checkedAt": "2026-11-19T17:14:24.928Z"
+    },
+    {
+      "id": "x-bosunatiklama-odyssey",
+      "url": "https://x.com/bosunatiklama/status/2123455829701804311",
+      "author": "@bosunatiklama",
+      "network": "x",
+      "title": "GTA VI’ın hasılatı The Odyssey’i geçti",
+      "summary": "Tahmini 1,84 milyar dolarlık geliriyle GTA VI, 1,8 milyar dolar hasılat yapan The Odyssey filmini geçti.",
+      "category": "Haber",
+      "tags": [
+        "hasılat",
+        "gelir",
+        "The Odyssey",
+        "rekor"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T16:38:16Z",
+      "checkedAt": "2026-11-19T17:14:24.928Z"
+    },
+    {
+      "id": "x-joanna-hausmann-yazar",
+      "url": "https://x.com/Joannahausmann/status/2123454813325430987",
+      "author": "@Joannahausmann",
+      "network": "x",
+      "title": "Oyunun radyo ve medya metinlerini yazanlardan Joanna Hausmann konuştu",
+      "summary": "Joanna Hausmann, son yıllarda GTA VI’ın oyun içi medyası, radyosu ve podcast’leri için metin yazdığını ve kayıt seanslarına destek verdiğini açıkladı.",
+      "category": "Radyo",
+      "tags": [
+        "Joanna Hausmann",
+        "yazar",
+        "radyo",
+        "podcast",
+        "ekip"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T16:34:14Z",
+      "checkedAt": "2026-11-19T17:14:24.928Z"
     }
   ]
 }
