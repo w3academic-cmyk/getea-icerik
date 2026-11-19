@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 100,
-  "publishedAt": "2026-11-19T07:37:12.288Z",
+  "revision": 101,
+  "publishedAt": "2026-11-19T07:57:12.088Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -4131,6 +4131,29 @@
       "spoiler": "minor",
       "postedAt": "2026-11-19T07:51:00Z",
       "checkedAt": "2026-11-19T07:37:12.288Z"
+    },
+    {
+      "id": "web-ofzen-hata-takipcisi",
+      "url": "https://www.ofzenandcomputing.com/gta-6-bugs-tracker-all-bugs-weve-spotted-so-far/",
+      "author": "Of Zen and Computing",
+      "network": "web",
+      "title": "Şimdiye kadar görülen küçük hatalar: duvara yürüyen yayalar, havada süzülen nesne",
+      "summary": "Oyuncuların bildirdiği hatalar çoğunlukla küçük: duvara doğru yürüyen yayalar, Jason ile Lucia arasında geçiş yaptıktan sonra havada süzülen bir nesne, kıyafetlerde kısa süreli doku yüklenme gecikmesi. Kare hızı düşüşleri için Rockstar henüz bir açıklama yapmadı. Rockstar Destek'te GTA VI için yayınlanmış yama notu ya da bilinen sorun listesi yok.",
+      "category": "Hata",
+      "tags": [
+        "hata",
+        "bug",
+        "glitch",
+        "NPC",
+        "pop-in",
+        "kare hızı",
+        "frame rate",
+        "yama",
+        "patch"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T08:10:00Z",
+      "checkedAt": "2026-11-19T07:57:12.088Z"
     }
   ]
 }
