@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 79,
-  "publishedAt": "2026-11-19T00:17:06.050Z",
+  "revision": 80,
+  "publishedAt": "2026-11-19T01:17:16.504Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3586,6 +3586,28 @@
       "spoiler": "minor",
       "postedAt": "2026-11-19T00:25:00Z",
       "checkedAt": "2026-11-19T00:17:06.050Z"
+    },
+    {
+      "id": "web-esportsgg-eager-beaver",
+      "url": "https://esports.gg/news/grand-theft-auto-6/gta-6-eager-beaver-and-furry-psa-leave-timthetatman-cackling/",
+      "author": "esports.gg",
+      "network": "web",
+      "title": "TV'deki “Eager Beaver” reklamı ve furry kamu spotu yayıncıyı kırdı geçirdi",
+      "summary": "Yayıncı TimTheTatman, oyundaki televizyonda çıkan, imalarla dolu bir market reklamı olan “Eager Beaver” ile furry'leri hedef alan parodi kamu spotunu izlerken gülmekten kırıldı. Rockstar'ın klasik hiciv tarzı oyun içi reklamlar ve TV yayınları geri dönmüş.",
+      "category": "Easter Egg",
+      "tags": [
+        "TV",
+        "reklam",
+        "commercial",
+        "Eager Beaver",
+        "hiciv",
+        "satire",
+        "TimTheTatman",
+        "yayıncı"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T01:25:00Z",
+      "checkedAt": "2026-11-19T01:17:16.504Z"
     }
   ]
 }
