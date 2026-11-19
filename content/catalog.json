@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 135,
-  "publishedAt": "2026-11-19T21:54:20.638Z",
+  "revision": 136,
+  "publishedAt": "2026-11-19T22:14:17.080Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -21415,6 +21415,63 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T21:30:22Z",
       "checkedAt": "2026-11-19T21:54:20.638Z"
+    },
+    {
+      "id": "x-poptime-misafir-hesap",
+      "url": "https://x.com/poptime/status/2123536397936238751",
+      "author": "@poptime",
+      "network": "x",
+      "title": "Uyarı: PS5 misafir hesabıyla oynama, ilerleme siliniyor",
+      "summary": "Yayıncı Cellbit, PS5’te misafir (guest) modunda oynadığı için yaklaşık 3 günlük GTA VI ilerlemesinin tamamını kaybetti. Kendi PSN hesabınla giriş yapıp oyna; misafir oturumunun kayıtları korunmuyor.",
+      "category": "Hata",
+      "tags": [
+        "PS5",
+        "misafir modu",
+        "guest mode",
+        "kayıt",
+        "save",
+        "ilerleme kaybı"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T21:58:25Z",
+      "checkedAt": "2026-11-19T22:14:17.080Z"
+    },
+    {
+      "id": "x-dexerto-polis-uyari",
+      "url": "https://x.com/Dexerto/status/2123536854792159566",
+      "author": "@Dexerto",
+      "network": "x",
+      "title": "ABD’de polis teşkilatlarından uyarı: “Biz NPC değiliz”",
+      "summary": "ABD’deki bazı polis teşkilatları, oyuncuların GTA VI’daki suçları gerçek hayatta taklit edebileceği endişesiyle “memurlar NPC değildir” uyarısında bulundu.",
+      "category": "Haber",
+      "tags": [
+        "polis",
+        "police",
+        "uyarı",
+        "ABD",
+        "NPC"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T22:00:14Z",
+      "checkedAt": "2026-11-19T22:14:17.080Z"
+    },
+    {
+      "id": "x-fearedbuck-n3on-parodi",
+      "url": "https://x.com/FearedBuck/status/2123533807869681964",
+      "author": "@FearedBuck",
+      "network": "x",
+      "title": "Oyunda yayıncı N3ON’un parodisi var",
+      "summary": "Yayıncı N3ON, GTA VI’da kendisine gönderme yapan bir yayıncı parodisini görünce bundan memnun kaldı.",
+      "category": "Easter Egg",
+      "tags": [
+        "N3ON",
+        "yayıncı",
+        "parodi",
+        "easter egg"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T21:48:07Z",
+      "checkedAt": "2026-11-19T22:14:17.080Z"
     }
   ]
 }
