@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 78,
-  "publishedAt": "2026-11-18T23:57:12.036Z",
+  "revision": 79,
+  "publishedAt": "2026-11-19T00:17:06.050Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3562,6 +3562,30 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T00:06:00Z",
       "checkedAt": "2026-11-18T23:57:12.036Z"
+    },
+    {
+      "id": "web-libertycity-baslangic-ipuclari",
+      "url": "https://libertycity.net/guides/gta-6/10478-gta-6-beginners-guide-what-to-do-first.html",
+      "author": "LibertyCity.net",
+      "network": "web",
+      "title": "İlk saatler için ipuçları: parayı zulala, kum saatine dikkat",
+      "summary": "Rehber sitelerinin derlediği başlangıç ipuçları: Üstündeki nakit ölünce ya da tutuklanınca kalıcı olarak gidiyor; Jason'ın yatak odasındaki döşeme tahtasının altındaki zulaya sakla. Haritada kum saati simgeli yan görevler süreli. İlk ana görevler karakter değiştirme, silah çarkı ve harita gibi temel sistemleri açıyor, o yüzden atlama. Bazı dükkânlar ve görevler saate bağlı; evde uyuyarak zamanı ilerletebilirsin. (Rockstar doğrulaması yok.)",
+      "category": "İpucu",
+      "tags": [
+        "başlangıç",
+        "beginner",
+        "nakit",
+        "cash",
+        "zula",
+        "stash",
+        "kum saati",
+        "hourglass",
+        "görev",
+        "mission"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-19T00:25:00Z",
+      "checkedAt": "2026-11-19T00:17:06.050Z"
     }
   ]
 }
