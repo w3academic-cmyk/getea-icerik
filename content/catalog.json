@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 113,
-  "publishedAt": "2026-11-19T15:29:44.461Z",
+  "revision": 114,
+  "publishedAt": "2026-11-19T15:37:14.197Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -10344,6 +10344,100 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T04:38:24Z",
       "checkedAt": "2026-11-19T15:29:44.461Z"
+    },
+    {
+      "id": "x-watcherguru-en-yuksek-puan",
+      "url": "https://x.com/WatcherGuru/status/2123437792063525151",
+      "author": "@WatcherGuru",
+      "network": "x",
+      "title": "Tüm zamanların en yüksek puanlı oyunu",
+      "summary": "GTA VI, eleştirmen puanlarında tüm zamanların en yüksek puanlı video oyunu rekorunu kırdı.",
+      "category": "Haber",
+      "tags": [
+        "rekor",
+        "record",
+        "Metacritic",
+        "puan",
+        "review score"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T15:26:35Z",
+      "checkedAt": "2026-11-19T15:37:14.197Z"
+    },
+    {
+      "id": "x-weekndbr-my-only-vice",
+      "url": "https://x.com/SiteTheWeekndBR/status/2123436477379908051",
+      "author": "@SiteTheWeekndBR",
+      "network": "x",
+      "title": "The Weeknd ve Justice’ten oyuna özel şarkı: “My Only Vice”",
+      "summary": "The Weeknd, Justice ile birlikte yaptığı yepyeni “My Only Vice” şarkısıyla GTA VI müzik listesinde yer alıyor.",
+      "category": "Radyo",
+      "tags": [
+        "The Weeknd",
+        "Justice",
+        "My Only Vice",
+        "şarkı",
+        "soundtrack",
+        "radyo"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T15:21:22Z",
+      "checkedAt": "2026-11-19T15:37:14.197Z"
+    },
+    {
+      "id": "x-gameroll-bobby-moynihan",
+      "url": "https://x.com/GameRoll_/status/2123436747614748689",
+      "author": "@GameRoll_",
+      "network": "x",
+      "title": "Bobby Moynihan, Cal Hampton rolünü doğruladı",
+      "summary": "SNL’den tanınan Bobby Moynihan, GTA VI’da Cal Hampton’ı seslendirdiğini doğruladı; karakter 1. bölümün öne çıkan isimlerinden.",
+      "category": "Haber",
+      "tags": [
+        "Bobby Moynihan",
+        "Cal Hampton",
+        "oyuncular",
+        "cast"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-19T15:22:26Z",
+      "checkedAt": "2026-11-19T15:37:14.197Z"
+    },
+    {
+      "id": "x-dexerto-furry-chase",
+      "url": "https://x.com/Dexerto/status/2123433971547611172",
+      "author": "@Dexerto",
+      "network": "x",
+      "title": "Yan görev: furry Chase’e yardım et, 15.000 $ ya da özel SMG kap",
+      "summary": "Oyunda furry’ler yasak olsa da onlara yardım edebiliyorsun: Chase adlı bir furry, yardımın karşılığında 15.000 dolar nakit ya da özel bir SMG teklif ediyor.",
+      "category": "Görev",
+      "tags": [
+        "yan görev",
+        "side mission",
+        "furry",
+        "Chase",
+        "SMG",
+        "para"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T15:11:24Z",
+      "checkedAt": "2026-11-19T15:37:14.197Z"
+    },
+    {
+      "id": "x-alertes-paris-belediye",
+      "url": "https://x.com/AlertesInfos/status/2123438490318672028",
+      "author": "@AlertesInfos",
+      "network": "x",
+      "title": "Paris Belediye Başkanı GTA VI’ı kutladı",
+      "summary": "Paris Belediye Başkanı Emmanuel Grégoire, gece yarısı Instagram’da oyunun geri sayımı önünde “Let’s Go!!!!” diyerek GTA VI’ın çıkışını kutladı.",
+      "category": "Haber",
+      "tags": [
+        "Paris",
+        "belediye",
+        "ünlüler"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T15:29:22Z",
+      "checkedAt": "2026-11-19T15:37:14.197Z"
     }
   ]
 }
