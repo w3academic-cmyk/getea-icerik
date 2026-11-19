@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 116,
-  "publishedAt": "2026-11-19T15:50:38.659Z",
+  "revision": 117,
+  "publishedAt": "2026-11-19T15:57:15.225Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -17170,6 +17170,62 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T15:29:22Z",
       "checkedAt": "2026-11-19T15:37:14.197Z"
+    },
+    {
+      "id": "x-dexerto-dexter-daire",
+      "url": "https://x.com/Dexerto/status/2123441903358071282",
+      "author": "@Dexerto",
+      "network": "x",
+      "title": "Dexter Morgan’ın dairesi Vice City’de",
+      "summary": "Oyuncular, Dexter dizisinin karakteri Dexter Morgan’a gönderme yapan bir daire buldu. Onun “Slice of Life” teknesini çalabiliyor, çatıda aletlerini bulabiliyorsun. Haritada Vice City rozetinde listeleniyor.",
+      "category": "Easter Egg",
+      "tags": [
+        "Dexter",
+        "Slice of Life",
+        "easter egg",
+        "Vice City",
+        "tekne"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T15:42:56Z",
+      "checkedAt": "2026-11-19T15:57:15.225Z"
+    },
+    {
+      "id": "x-platcorn-tren-durdurma",
+      "url": "https://x.com/platcornweb/status/2123438959648817223",
+      "author": "@platcornweb",
+      "network": "x",
+      "title": "GTA V’te durdurulamayan tren GTA VI’da durdurulabiliyor",
+      "summary": "Yayıncı Cavs, GTA V’te durdurulamayan treni GTA VI’da önüne engel koyarak durdurmayı başardı.",
+      "category": "Gizli",
+      "tags": [
+        "tren",
+        "train",
+        "fizik",
+        "Cavs",
+        "GTA V"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T15:31:14Z",
+      "checkedAt": "2026-11-19T15:57:15.225Z"
+    },
+    {
+      "id": "x-kaggy-alejandro-saab",
+      "url": "https://x.com/KaggyFilms/status/2123443891806609526",
+      "author": "@KaggyFilms",
+      "network": "x",
+      "title": "Seslendirme kadrosunda Alejandro Saab",
+      "summary": "Seslendirme sanatçısı Alejandro Saab, oyunda zengin bir karakteri ve sokaktaki ek sesleri seslendirdiğini açıkladı.",
+      "category": "Haber",
+      "tags": [
+        "Alejandro Saab",
+        "seslendirme",
+        "voice actor",
+        "cast"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T15:50:50Z",
+      "checkedAt": "2026-11-19T15:57:15.225Z"
     }
   ]
 }
