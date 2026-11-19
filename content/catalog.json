@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 83,
+  "revision": 84,
   "publishedAt": "2026-11-19T02:17:11.994Z",
   "locale": "tr-TR",
   "sources": [
@@ -3699,7 +3699,7 @@
       "author": "Gaming.net",
       "network": "web",
       "title": "Yeni “Heat” sistemi: polis kıyafetini, aracını, kameraları hatırlıyor",
-      "summary": "Rehberlere göre yeni Heat (ısı) sistemi kıyafetini, silahını, aracını ve hatta güvenlik kamerası (CCTV) görüntülerini takip ediyor. Yani maske takmak ve olay yerinden hızlı çıkmak eski oyunlara göre çok daha önemli; aranırken kıyafet ya da araç değiştirmek işe yarayabilir.",
+      "summary": "Rehberlere göre yeni Heat (ısı) sistemi kıyafetini, silahını, aracını ve hatta güvenlik kamerası (CCTV) görüntülerini takip ediyor. Yani maske takmak ve olay yerinden hızlı çıkmak eski oyunlara göre çok daha önemli.",
       "category": "İpucu",
       "tags": [
         "Heat",
