@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 95,
-  "publishedAt": "2026-11-19T05:37:08.181Z",
+  "revision": 96,
+  "publishedAt": "2026-11-19T05:57:13.983Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3997,6 +3997,28 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T05:50:00Z",
       "checkedAt": "2026-11-19T05:37:08.181Z"
+    },
+    {
+      "id": "web-benzinga-sensortower-on-siparis",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63373009/gta-6-preorders-2",
+      "author": "Benzinga / Sensor Tower",
+      "network": "web",
+      "title": "Tahmin: 17 milyon ön sipariş, 1,65 milyar dolar",
+      "summary": "Sensor Tower tahminlerine göre GTA VI yaklaşık 17,07 milyon ön sipariş ve 1,65 milyar dolar gelire ulaştı. Rakamlar kaynağa göre değişiyor ve resmî değil. Kırılması beklenen rekor GTA V'e ait: ilk gün 815,7 milyon dolar, ilk 24 saatte 11,21 milyon kopya. Take-Two resmî satış rakamını henüz açıklamadı.",
+      "category": "Haber",
+      "tags": [
+        "satış",
+        "sales",
+        "ön sipariş",
+        "pre-order",
+        "Sensor Tower",
+        "rekor",
+        "record",
+        "Take-Two"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T06:10:00Z",
+      "checkedAt": "2026-11-19T05:57:13.983Z"
     }
   ]
 }
