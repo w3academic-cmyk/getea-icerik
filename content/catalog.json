@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 85,
-  "publishedAt": "2026-11-19T02:37:16.919Z",
+  "revision": 86,
+  "publishedAt": "2026-11-19T02:57:13.289Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3756,6 +3756,29 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T02:45:00Z",
       "checkedAt": "2026-11-19T02:37:16.919Z"
+    },
+    {
+      "id": "web-gtavispot-easter-egg-listesi",
+      "url": "https://gtavispot.com/map/easter-eggs/",
+      "author": "GTAVISpot",
+      "network": "web",
+      "title": "İddia: Scarface dairesi, Kalaga UFO'su, Vercetti tablosu",
+      "summary": "Bir hayran rehberi şu easter egg'leri listeliyor: Ocean Beach'teki bir motelde Scarface'e gönderme yapan elektrikli testereli daire, Mount Kalaga'da UFO, bataklıkta Skunk Ape, bir yerde Vercetti malikânesi tablosu ve su altında, eşsiz bir uzaylı eseri koleksiyonu veren düşmüş uçan daire. Henüz güvenilir kaynaklarca doğrulanmadı; bulursan bize yaz.",
+      "category": "Easter Egg",
+      "tags": [
+        "İddia",
+        "easter egg",
+        "Scarface",
+        "UFO",
+        "Mount Kalaga",
+        "Vercetti",
+        "uzaylı",
+        "alien artifact",
+        "koleksiyon"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-19T03:05:00Z",
+      "checkedAt": "2026-11-19T02:57:13.289Z"
     }
   ]
 }
