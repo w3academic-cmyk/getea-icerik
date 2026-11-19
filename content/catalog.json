@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 93,
+  "revision": 94,
   "publishedAt": "2026-11-19T04:37:16.423Z",
   "locale": "tr-TR",
   "sources": [
@@ -3093,7 +3093,7 @@
       "author": "@Andy_VGC (VGC)",
       "network": "x",
       "title": "2021'deki gizli ipucu doğru çıktı: o ev oyunda",
-      "summary": "Oyuncular, yıllardır konuşulan 'GTA 6 evi'ni oyunda buldu. Bu, oyunun ilk görüntüsünün aslında 2021'de bir easter egg içinde saklandığını gösteriyor olabilir.",
+      "summary": "Oyuncular, yıllardır konuşulan 'GTA 6 evi'ni oyunda buldu. Bu, oyunun ilk görüntüsünün aslında 2021'de bir easter egg içinde saklandığını gösteriyor olabilir. Haritalama topluluğuna göre ev Belville banliyösünde ve garajında bir komplo teorisyeninin saklandığı bir oda var.",
       "category": "Easter Egg",
       "tags": [
         "easter egg",
@@ -3101,11 +3101,13 @@
         "ev",
         "house",
         "gizli",
-        "secret"
+        "secret",
+        "Belville",
+        "garaj"
       ],
       "spoiler": "none",
       "postedAt": "2026-11-18T19:33:00Z",
-      "checkedAt": "2026-11-18T20:50:48.943Z"
+      "checkedAt": "2026-11-19T05:17:13.485Z"
     },
     {
       "id": "x-rackhamnz-bolge-ban",
