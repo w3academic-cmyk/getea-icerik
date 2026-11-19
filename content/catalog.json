@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 130,
-  "publishedAt": "2026-11-19T20:34:12.583Z",
+  "revision": 131,
+  "publishedAt": "2026-11-19T20:54:12.626Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -21094,6 +21094,43 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T20:07:32Z",
       "checkedAt": "2026-11-19T20:34:12.583Z"
+    },
+    {
+      "id": "x-yoxics-mrbeast-erken",
+      "url": "https://x.com/yoxics/status/2123512091093135681",
+      "author": "@yoxics",
+      "network": "x",
+      "title": "İddia: MrBeast’e erken erişim verildi, 100 saati bitirdi",
+      "summary": "Paylaşılan bir açıklamaya göre MrBeast’e GTA VI’a erken erişim verildi ve hikâyede 100 saati tamamlayan ilk içerik üreticisi oldu. Rockstar’dan doğrulama yok.",
+      "category": "Haber",
+      "tags": [
+        "İddia",
+        "MrBeast",
+        "erken erişim",
+        "early access",
+        "içerik üreticisi"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T20:21:50Z",
+      "checkedAt": "2026-11-19T20:54:12.626Z"
+    },
+    {
+      "id": "x-goodasssub-bound2",
+      "url": "https://x.com/GoodAssSub/status/2123512267551408620",
+      "author": "@GoodAssSub",
+      "network": "x",
+      "title": "Kanye West’in “Bound 2”sine gönderme",
+      "summary": "Yeni bulunan bir görselde Kanye West’in “Bound 2” klibine gönderme yapıldığı görülüyor.",
+      "category": "Easter Egg",
+      "tags": [
+        "Bound 2",
+        "Kanye West",
+        "gönderme",
+        "easter egg"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T20:22:32Z",
+      "checkedAt": "2026-11-19T20:54:12.626Z"
     }
   ]
 }
