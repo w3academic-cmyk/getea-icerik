@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 98,
-  "publishedAt": "2026-11-19T06:37:09.133Z",
+  "revision": 99,
+  "publishedAt": "2026-11-19T06:57:11.624Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -4064,6 +4064,28 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T06:50:00Z",
       "checkedAt": "2026-11-19T06:37:09.133Z"
+    },
+    {
+      "id": "web-gtaintel-soygun-turleri",
+      "url": "https://gtaintel.com/news/gta-6-heists-robberies-explained",
+      "author": "GTA Intel",
+      "network": "web",
+      "title": "Soygunlar: önce küçük işler, sonra büyük vurgunlar",
+      "summary": "Haberlere göre Jason ve Lucia oyunun başında büyük suçlara giremiyor; küçük işlerle başlıyorsun. Gösterilen bir market soygununda Lucia aşağıda güvenliği silah zoruyla tutarken Jason yukarıda kasayı boşaltıyor; ikinci bir güvenlik karşı koyarsa iş kızışıyor. Profesyonel banka soyguncusu Raul Bautista ikiliyi kaçış şoförü olarak ekibine alıyor. (Ödeme miktarları ve “hangi soygunu önce yap” önerileri doğrulanmadığı için eklemedik.)",
+      "category": "Görev",
+      "tags": [
+        "soygun",
+        "heist",
+        "robbery",
+        "Raul Bautista",
+        "kasa",
+        "safe",
+        "Jason",
+        "Lucia"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-19T07:10:00Z",
+      "checkedAt": "2026-11-19T06:57:11.624Z"
     }
   ]
 }
