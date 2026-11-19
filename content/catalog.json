@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 129,
-  "publishedAt": "2026-11-19T20:14:11.586Z",
+  "revision": 130,
+  "publishedAt": "2026-11-19T20:34:12.583Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -21053,6 +21053,47 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T20:01:04Z",
       "checkedAt": "2026-11-19T20:14:11.586Z"
+    },
+    {
+      "id": "x-millzaa-yengec-tesisi",
+      "url": "https://x.com/Millzaatv_/status/2123510884253204885",
+      "author": "@Millzaatv_",
+      "network": "x",
+      "title": "Gizli yengeç araştırma tesisi: bulmacayı çöz, 10 bin $ ve efsanevi SMG",
+      "summary": "Bir yayıncı GTA VI’da gizli bir yengeç araştırma tesisi buldu; içerideki bulmacayı çözünce 10.000 doları aşan ganimet ve efsanevi bir SMG çıkıyor. Yeri videoda gösteriliyor.",
+      "category": "Gizli",
+      "tags": [
+        "yengeç tesisi",
+        "crab research",
+        "bulmaca",
+        "puzzle",
+        "SMG",
+        "ganimet",
+        "loot"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T20:17:02Z",
+      "checkedAt": "2026-11-19T20:34:12.583Z"
+    },
+    {
+      "id": "x-detonated-eclipse-vespucci",
+      "url": "https://x.com/DETONATEDcom/status/2123508494988984477",
+      "author": "@DETONATEDcom",
+      "network": "x",
+      "title": "Paul Walker’ın ’95 Eclipse’i: Vespucci Island’daki garajda",
+      "summary": "Hızlı ve Öfkeli’deki ’95 Eclipse’e gönderme yapan araba, Vespucci Island’daki bir garajda duruyor; garaja girip arabayı kullanabiliyorsun.",
+      "category": "Araç",
+      "tags": [
+        "Paul Walker",
+        "Eclipse",
+        "Vespucci Island",
+        "garaj",
+        "Hızlı ve Öfkeli",
+        "easter egg"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T20:07:32Z",
+      "checkedAt": "2026-11-19T20:34:12.583Z"
     }
   ]
 }
