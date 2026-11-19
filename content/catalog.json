@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 82,
-  "publishedAt": "2026-11-19T01:57:33.969Z",
+  "revision": 83,
+  "publishedAt": "2026-11-19T02:17:11.994Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3692,6 +3692,50 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T02:05:00Z",
       "checkedAt": "2026-11-19T01:57:33.969Z"
+    },
+    {
+      "id": "web-gamingnet-heat-sistemi",
+      "url": "https://www.gaming.net/grand-theft-auto-6-day-one-tips/",
+      "author": "Gaming.net",
+      "network": "web",
+      "title": "Yeni “Heat” sistemi: polis kıyafetini, aracını, kameraları hatırlıyor",
+      "summary": "Rehberlere göre yeni Heat (ısı) sistemi kıyafetini, silahını, aracını ve hatta güvenlik kamerası (CCTV) görüntülerini takip ediyor. Yani maske takmak ve olay yerinden hızlı çıkmak eski oyunlara göre çok daha önemli; aranırken kıyafet ya da araç değiştirmek işe yarayabilir.",
+      "category": "İpucu",
+      "tags": [
+        "Heat",
+        "aranma",
+        "wanted",
+        "polis",
+        "police",
+        "CCTV",
+        "maske",
+        "mask",
+        "kıyafet"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T02:25:00Z",
+      "checkedAt": "2026-11-19T02:17:11.994Z"
+    },
+    {
+      "id": "web-notebookcheck-once-ne-yapacaklar",
+      "url": "https://www.notebookcheck.net/Story-can-wait-Here-s-what-fans-want-to-do-first-after-GTA-6-launches.1347907.0.html",
+      "author": "Notebookcheck",
+      "network": "web",
+      "title": "“Hikâye bekleyebilir”: oyuncular önce ne yapıyor?",
+      "summary": "Reddit'teki oyuncuların çoğu ilk iş hikâyeye değil, yan aktivitelere ve keşfe dalmayı planlıyor. “Hikâyeyi oyna” listede şaşırtıcı derecede aşağıda kaldı.",
+      "category": "Haber",
+      "tags": [
+        "Reddit",
+        "topluluk",
+        "community",
+        "keşif",
+        "exploration",
+        "hikâye",
+        "story"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T02:26:00Z",
+      "checkedAt": "2026-11-19T02:17:11.994Z"
     }
   ]
 }
