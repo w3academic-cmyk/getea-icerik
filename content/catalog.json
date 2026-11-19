@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 108,
-  "publishedAt": "2026-11-19T15:05:53.532Z",
+  "revision": 109,
+  "publishedAt": "2026-11-19T15:11:59.676Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -4222,7 +4222,7 @@
       "url": "https://x.com/DiscussingFilm/status/2123425661087777172",
       "author": "@DiscussingFilm",
       "network": "x",
-      "title": "RESMÎ: Rockstar Leonida haritasını yayınladı",
+      "title": "RESMÎ: Leonida haritası (tam boy)",
       "summary": "Rockstar, GTA VI’ın resmî Leonida haritasını ve kapak posterini yazdırılabilir formatta ücretsiz yayınladı. İndirmek için rockstargames.com/VI/media sayfasındaki “Leonida Map & Cover Art Poster” bölümüne git. Çift taraflı basılı poster Rockstar Store’da 1 dolara ya da herhangi bir alışverişe hediye.",
       "category": "Harita",
       "tags": [
@@ -4232,11 +4232,21 @@
         "poster",
         "indir",
         "download",
-        "Rockstar"
+        "Rockstar",
+        "GTA 6 harita",
+        "GTA 6 Türkçe harita",
+        "Vice City haritası"
       ],
       "spoiler": "none",
       "postedAt": "2026-11-19T14:38:23Z",
-      "checkedAt": "2026-11-19T15:04:40.479Z"
+      "checkedAt": "2026-11-19T15:04:40.479Z",
+      "image": {
+        "src": "https://raw.githubusercontent.com/w3academic-cmyk/getea-icerik/main/content/media/leonida-resmi-harita.jpg",
+        "width": 2805,
+        "height": 3840,
+        "alt": "GTA VI resmî Leonida haritası: Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia ve Mount Kalaga bölgeleri",
+        "credit": "Rockstar Games (resmî harita)"
+      }
     },
     {
       "id": "x-dexerto-19-milyon",
