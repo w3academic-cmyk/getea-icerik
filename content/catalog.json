@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 101,
-  "publishedAt": "2026-11-19T07:57:12.088Z",
+  "revision": 102,
+  "publishedAt": "2026-11-19T08:17:09.327Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -4154,6 +4154,26 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T08:10:00Z",
       "checkedAt": "2026-11-19T07:57:12.088Z"
+    },
+    {
+      "id": "web-turkgun-ps-kafeler",
+      "url": "https://www.turkgun.com/bilim-teknoloji/gta-6-turkiyede-erisime-acildi-oyuncular-gece-yarisi-playstation-kafelere-akin-etti/417819",
+      "author": "Türkgün",
+      "network": "web",
+      "title": "Türkiye'de gece yarısı PlayStation kafelere akın",
+      "summary": "GTA VI Türkiye'de 19 Kasım 00.00'da açıldı; oyun salonları ve PlayStation kafeler doldu taştı. Çorum'da bir işletmeci oyunu oynamak için iş yerini bir günlüğüne kapattı. Oyuncular grafikleri ve gerçekçiliği övdü; Hatay'daki oyuncular ise Türkçe dil desteğinin olmamasını eksiklik olarak gördü. (Türkçe rehber ve harita için getea buradayız.)",
+      "category": "Türkçe",
+      "tags": [
+        "Türkiye",
+        "PlayStation kafe",
+        "oyun salonu",
+        "Türkçe dil desteği",
+        "Turkish language",
+        "çıkış gecesi"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T08:30:00Z",
+      "checkedAt": "2026-11-19T08:17:09.327Z"
     }
   ]
 }
