@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 120,
-  "publishedAt": "2026-11-19T16:34:28.446Z",
+  "revision": 121,
+  "publishedAt": "2026-11-19T16:43:40.825Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -88,6 +88,281 @@
       "id": "topluluk-rehberleri",
       "name": "Oyuncu ve rehber paylaşımları",
       "url": "https://getea.fun/gundem"
+    },
+    {
+      "id": "kaynak-powerpyx-com-11f607",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-money-guide-how-to-get-money-fast/"
+    },
+    {
+      "id": "kaynak-pushsquare-com-0abbe0",
+      "name": "Push Square",
+      "url": "https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know"
+    },
+    {
+      "id": "kaynak-kotaku-com-d86b42",
+      "name": "Kotaku",
+      "url": "https://kotaku.com/32-spoiler-free-tips-as-you-hop-into-grand-theft-auto-6-2000758016"
+    },
+    {
+      "id": "kaynak-powerpyx-com-f2329a",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-how-to-switch-between-playing-as-lucia-jason/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-07e772",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-how-to-save/"
+    },
+    {
+      "id": "kaynak-pcgamer-com-b3ec06",
+      "name": "PC Gamer",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-guide/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-2475d0",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-wiki-strategy-guide/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-49649c",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-tips-tricks/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-85cbc8",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-game-length-how-long-is-the-story/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-96e5c9",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-all-stunt-jump-locations/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-d181e9",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-how-to-fast-travel/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-f45c98",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-how-long-is-1-day-in-game-time/"
+    },
+    {
+      "id": "kaynak-gamerant-com-adaa63",
+      "name": "Game Rant",
+      "url": "https://gamerant.com/gta-6-how-scuba-diving-works-sunken-underwater-treasure/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-63fd47",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-01c233",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-how-to-get-new-personal-car/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-499e40",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-all-fence-locations-how-to-fence-stolen-goods/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-bc0d4f",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-collectible-guide-progress-database/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-b32e62",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-all-bank-jobs-locations-bank-vaults/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-ac8a47",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-all-illegal-gang-operations-locations/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-f5ae8d",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-how-to-get-ultimate-edition-rewards/"
+    },
+    {
+      "id": "kaynak-gtabase-com-9fe70d",
+      "name": "GTABase",
+      "url": "https://www.gtabase.com/articles/gta-6/gta-6-wanted-level-explained-police-system-guide"
+    },
+    {
+      "id": "kaynak-powerpyx-com-8b2fd1",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-how-to-increase-character-stats-health-cardio-focus/"
+    },
+    {
+      "id": "kaynak-pushsquare-com-006907",
+      "name": "Push Square",
+      "url": "https://www.pushsquare.com/reviews/ps5/grand-theft-auto-6"
+    },
+    {
+      "id": "kaynak-powerpyx-com-0463f0",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-how-to-equip-body-armor/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-57e355",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-how-to-get-parachute/"
+    },
+    {
+      "id": "kaynak-beebom-com-5e7893",
+      "name": "Beebom",
+      "url": "https://beebom.com/gta-6-wasted-busted-what-happens-after-death/"
+    },
+    {
+      "id": "kaynak-insider-gaming-com-9600ea",
+      "name": "Insider Gaming",
+      "url": "https://insider-gaming.com/gta-6-full-weapons-guide-types-and-how-to-buy/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-bd421c",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-criminal-profile-explained/"
+    },
+    {
+      "id": "kaynak-allthings-how-e7bc94",
+      "name": "All Things How",
+      "url": "https://allthings.how/gta-6-how-the-weight-muscle-and-exhaustion-system-works/"
+    },
+    {
+      "id": "kaynak-gtabase-com-baf6e2",
+      "name": "GTABase",
+      "url": "https://www.gtabase.com/gta-6/characters/"
+    },
+    {
+      "id": "kaynak-gamerant-com-8571e9",
+      "name": "Game Rant",
+      "url": "https://gamerant.com/gta-6-cast-list-voice-actors-grand-theft-auto-6/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-444bb3",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-helicopter-plane-locations/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-b09fb7",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions"
+    },
+    {
+      "id": "kaynak-powerpyx-com-f8e175",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-how-to-hand-items-to-your-partner/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-ae18c4",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-how-to-get-key-cloner/"
+    },
+    {
+      "id": "kaynak-gtaboom-com-bfe24c",
+      "name": "GTA BOOM",
+      "url": "https://www.gtaboom.com/gta-6-phone-apps-fb38"
+    },
+    {
+      "id": "kaynak-gamerant-com-cc22dc",
+      "name": "Game Rant",
+      "url": "https://gamerant.com/gta-6-how-weapons-work/"
+    },
+    {
+      "id": "kaynak-pushsquare-com-3ca39d",
+      "name": "Push Square",
+      "url": "https://www.pushsquare.com/guides/gta-6-brets-hunting-target-deck-locations"
+    },
+    {
+      "id": "kaynak-pushsquare-com-0a5399",
+      "name": "Push Square",
+      "url": "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations"
+    },
+    {
+      "id": "kaynak-powerpyx-com-898d1f",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-all-meditation-spot-locations/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-3746b2",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-all-waink-scan-locations/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-3b92a1",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-all-collectible-card-sets-locations/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-96cb0e",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-627c09",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-all-golf-course-locations/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-a1c53e",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-all-unique-race-locations-racing-activities/"
+    },
+    {
+      "id": "kaynak-powerpyx-com-66701c",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-all-unique-playlist-collectible-locations/"
+    },
+    {
+      "id": "kaynak-gamerant-com-6a3c87",
+      "name": "Game Rant",
+      "url": "https://gamerant.com/gta-6-all-songs-artists-radio-stations/"
+    },
+    {
+      "id": "kaynak-gtabase-com-f2079b",
+      "name": "GTABase",
+      "url": "https://www.gtabase.com/gta-6/radio-stations/"
+    },
+    {
+      "id": "kaynak-gameinformer-com-6d16dc",
+      "name": "Game Informer",
+      "url": "https://gameinformer.com/2026/11/10/grand-theft-auto-vi-will-run-at-30-fps-on-all-consoles-but-ps5-pro-will-feature-improved"
+    },
+    {
+      "id": "kaynak-beebom-com-ea830c",
+      "name": "Beebom",
+      "url": "https://beebom.com/gta-6-performance-mode/"
+    },
+    {
+      "id": "kaynak-pushsquare-com-d2663b",
+      "name": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-requires-new-ps5-firmware-update-to-play"
+    },
+    {
+      "id": "kaynak-pushsquare-com-d4405c",
+      "name": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/11/psn-down-sporadically-for-some-as-gta-6-launches-around-the-world"
+    },
+    {
+      "id": "kaynak-gamerant-com-5d1d5c",
+      "name": "Game Rant",
+      "url": "https://gamerant.com/gta-6-slow-download-speed-fix/"
+    },
+    {
+      "id": "kaynak-pushsquare-com-c88474",
+      "name": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/11/psa-gta-6-does-not-have-online-multiplayer-at-launch"
+    },
+    {
+      "id": "kaynak-pcgamer-com-d9a801",
+      "name": "PC Gamer",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-online-multiplayer/"
     }
   ],
   "articles": [
@@ -379,6 +654,2094 @@
       ],
       "spoiler": "none",
       "checkedAt": "2026-11-18T10:29:00Z"
+    },
+    {
+      "id": "rehber-ilk-saatler-oncelikler",
+      "title": "GTA 6'da ilk saatler: Neye odaklanmalısın?",
+      "summary": "Bölüm 1'de para biriktirmek yerine hikâyeyi ilerletmek, parayı bankaya yatırmak ve haritayı yavaş keşfetmek en çok önerilen başlangıç stratejisi.",
+      "body": [
+        "PowerPyx'e göre Bölüm 1'de (Chapter 1) para kasmak anlamsız: bölüm bittiğinde o parayı kaybediyorsun. Bu yüzden önce ana hikâyeyi ilerlet.",
+        "Cebindeki nakit (wallet) Wasted ya da Busted olduğunda kaybolur. BuckMe uygulaması Bölüm 1'de açılınca parayı ATM'den yatır; telefonda BuckMe > ATM Finder en yakın ATM'yi işaretler.",
+        "Kotaku acele etmemeni öneriyor: oyunun içeriğinin büyük kısmı koşturarak oynayınca gözden kaçıyor. Bağırış veya siren duyarsan Odak (Focus) moduyla kaynağını bul; bunlar rastgele olaylar (random events) olabilir.",
+        "İlk bölümde sadece Jason'ı oynarsın; Lucia'ya serbestçe geçiş Bölüm 2'deki 'Coffee Break' görevinden sonra açılıyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-11f607",
+        "kaynak-pushsquare-com-0abbe0",
+        "kaynak-kotaku-com-d86b42",
+        "kaynak-powerpyx-com-f2329a"
+      ],
+      "category": "Başlangıç › İlk saatler",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-kayit-sistemi-save-autosave",
+      "title": "Kayıt sistemi: 15 manuel slot ve tek otomatik kayıt",
+      "summary": "GTA 6'da 15 manuel kayıt yuvası ve tek bir otomatik kayıt (autosave) yuvası var. Görev tekrarı olmadığı için her bölümün başında ve sonunda manuel kayıt almak kritik.",
+      "body": [
+        "Manuel kayıt: serbest dolaşımda pause menüsünü aç (PS5'te Options, Xbox'ta Menu), Game > Save Game. Görev sırasında kayıt genelde gri (kapalı) olur.",
+        "Toplam 15 manuel slot var. PowerPyx, 5 bölümün her birinin başı ve sonu için birer kayıt (10 slot) tutmayı, kalan 5 slotu hikâye sonrası için kullanmayı öneriyor.",
+        "Tek bir otomatik kayıt yuvası var ve eski bir manuel kaydı yüklemek bu autosave'in üzerine yazar. Yani yanlış kaydı yüklersen en güncel ilerlemeni silebilirsin.",
+        "Çıkışta görev tekrarı (mission replay) yok; eski bölümlere dönmenin tek yolu manuel kayıt. Her görevden sonra slotları dönüşümlü kullanmak iyi bir alışkanlık."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-07e772",
+        "kaynak-pcgamer-com-b3ec06",
+        "kaynak-powerpyx-com-2475d0"
+      ],
+      "category": "Başlangıç › Kayıt sistemi",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-ayarlar-zorluk-erisilebilirlik",
+      "title": "Zorluk yok ama iki gizli kolaylık ayarı var",
+      "summary": "Oyunda klasik zorluk seçimi yok; bunun yerine Ayarlar > Oynanış altında 'Accessible Combat' ve 'Reduced Vehicle Damage' seçenekleri oyunu kolaylaştırıyor.",
+      "body": [
+        "PowerPyx'e göre oyunda zorluk ayarı (difficulty) yok.",
+        "Options > Settings > Gameplay listesinin en altındaki 24 ve 25 numaralı seçenekler: Accessible Combat (aldığın hasar azalır, düşmanlar daha çok hasar alır) ve Reduced Vehicle Damage (aracın çarpışma ve çatışmada daha az hasar alır).",
+        "Push Square'e göre bu ayarlar hikâyeyi değiştirmiyor ve kupaları (trophy) kapatmıyor. PowerPyx ise dengeyi ciddi değiştirdikleri için sadece zorlandığın görevlerde ya da hikâye sonrası koleksiyon toplarken açmanı öneriyor.",
+        "Geceler çok karanlık: Settings > Display > Brightness Calibration ile parlaklığı ayarla. UI ayarlarında tüm bildirimleri açarsan koleksiyonları ve suç profilindeki değişimleri takip etmek kolaylaşır."
+      ],
+      "sourceIds": [
+        "kaynak-pushsquare-com-0abbe0",
+        "kaynak-powerpyx-com-49649c",
+        "kaynak-powerpyx-com-85cbc8"
+      ],
+      "category": "Başlangıç › Ayarlar önerileri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-kontroller-klasik-sema",
+      "title": "Kontroller: GTA 5 alışkanlığın varsa 'Classic' şemayı seç",
+      "summary": "Varsayılan şemada koşma L3'te, zıplama X'te. GTA 5/GTA Online düzenini istiyorsan kontrol şemasını 'Classic' yapabilirsin; Odak modu ise iki analog çubuğa birlikte basınca açılıyor.",
+      "body": [
+        "Options > Settings > Control Scheme bölümünden Default yerine Classic'i seçersen GTA 5 / GTA Online'a yakın tuş düzenine geçersin.",
+        "Odak modu (Focus): L3 + R3'e birlikte bas. Silah elindeyken zamanı kısa süreliğine yavaşlatır; yaralayıcı (öldürmeyen) bölgeler sarı gösterilir.",
+        "Yön tuşu Aşağı'yı basılı tut: yakındaki dükkânlar, görevler ve ilgi noktaları listelenir, R3 ile GPS rotası kurarsın. Yön tuşu Yukarı'yı basılı tutmak arabayı WAiNK ile tarar.",
+        "Araçtayken sol/sağa dokunarak sinyal verebilirsin, NPC sürücüler buna tepki veriyor. Sol yön tuşunu basılı tutunca farlar ve bagaj gibi araç özellikleri menüsü açılır; Daire (Circle) basılı tutunca direksiyonun arkasına eğilip saklanırsın."
+      ],
+      "sourceIds": [
+        "kaynak-pushsquare-com-0abbe0",
+        "kaynak-kotaku-com-d86b42",
+        "kaynak-powerpyx-com-49649c"
+      ],
+      "category": "Başlangıç › Kontroller",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-harita-gorev-isaretleri",
+      "title": "Harita rehberi: Görev renkleri, filtreler ve 5 bölge",
+      "summary": "Ana görevler pembe baloncukta siyah harf, opsiyonel görevler siyah baloncukta pembe harf. Leonida beş büyük bölgeye (county) ayrılıyor ve sisi uçakla açmak yaklaşık 2-3 saat sürüyor.",
+      "body": [
+        "İşaretler: ana görevler pembe baloncuk/siyah harf, opsiyonel görevler siyah baloncuk/pembe harf, mor ikonlar daha küçük yan işler.",
+        "Haritayı Touch Pad ile aç, Sağ ile dizine (index) git; zorunlu görevler önce, opsiyoneller sonra listelenir. X ile waypoint koyarsın. Haritada Aşağı ve Sağ ile kategori filtreleri seçilebilir.",
+        "PowerPyx bölgeleri Mariana County, Vice-Dale County, Leonard County, Kelly County ve Lummox County olarak listeliyor. Vice City, Vice-Dale County içinde.",
+        "Haritanın sisini açmak (unfog) için bir uçak bul ve dolaş; PowerPyx bunun crop duster ile 2-3 saat sürdüğünü söylüyor. Jet daha hızlı ama 4 yıldız aranma getiriyor ve yakıtı daha çabuk bitiyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-49649c",
+        "kaynak-pushsquare-com-0abbe0",
+        "kaynak-powerpyx-com-96e5c9",
+        "kaynak-powerpyx-com-85cbc8"
+      ],
+      "category": "Başlangıç › Harita ve arayüz",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-hizli-seyahat-taksi-rydeme",
+      "title": "Hızlı seyahat (fast travel): Taksi ve RydeMe ile 100 dolara ışınlan",
+      "summary": "Paradise Taxi'yi telefondan çağırıp ya da Bölüm 2'de açılan RydeMe uygulamasıyla araç çağırıp 100 dolar ödeyerek yolculuğu atlayabilirsin.",
+      "body": [
+        "Paradise Taxi: telefon rehberinden ara, haritada hedef seç (keşfedilmemiş bölgeler de olur), bin ve 100 dolarlık hızlı seyahat ücretini öde. PowerPyx'in sayfası taksinin hem 'baştan beri' hem de ilk görev 'Gone Fishing' sonrası açıldığını yazıyor; yani en geç ilk görevden sonra elinde.",
+        "RydeMe (Bölüm 2): telefonda RydeMe > Book Ryde. Önce aktif bir waypoint lazım. Araca bin, L2/LT ile şoföre odaklan ve Üçgen/Y'yi basılı tutarak 100 dolara yolculuğu atla.",
+        "Ücret konusunda kaynaklar küçük bir fark gösteriyor: PowerPyx taksi atlama ücretinin mesafeden bağımsız sabit 100 dolar olduğunu, RydeMe yolculuk ücretinin ise mesafeyle arttığını yazıyor; Push Square de uzun yolculukların daha pahalı olduğunu söylüyor.",
+        "İpucu: Oyunun başında taksiyle Key Lento'daki uçağa gidip haritanın sisini erken açabilirsin."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-d181e9",
+        "kaynak-pushsquare-com-0abbe0",
+        "kaynak-kotaku-com-d86b42",
+        "kaynak-powerpyx-com-49649c"
+      ],
+      "category": "Başlangıç › Hızlı seyahat",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-oyun-ici-zaman-uyku",
+      "title": "Bir oyun günü kaç dakika? Uyku ve zaman atlatma",
+      "summary": "GTA 6'da bir oyun günü gerçek zamanda 2 saat 24 dakika sürüyor. Uyumak geceyi atlatır ama yemek yemeden ve spor yapmadan sürekli uyumak statlarını düşürür.",
+      "body": [
+        "PowerPyx ölçümüne göre bir oyun dakikası 6 saniye, bir oyun saati 6 dakika; tam gün 144 gerçek dakika.",
+        "Geceler çok karanlık olduğu için PowerPyx evde sabaha kadar uyumayı öneriyor.",
+        "Uyarı: Yemeden ve antrenman yapmadan art arda uyumak statlarını hızla bozuyor. Ayrıca yeni görevleri tetiklemek için sürekli uyumak genelde işe yaramıyor; başka aktiviteler yapman gerekiyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-f45c98",
+        "kaynak-powerpyx-com-49649c"
+      ],
+      "category": "Başlangıç › Zaman ve uyku",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-erken-oyun-para-yollari",
+      "title": "Erken oyunda para kazanma: Bölüm bölüm en iyi yöntemler",
+      "summary": "Bölüm 1'de çete operasyonları, yarışlar ve Kenton'ın hazine dalışları; Bölüm 2'de Moses'a araba satışı; Bölüm 3'te kuyumcu soygunları ve Randy'nin süper arabaları öne çıkıyor.",
+      "body": [
+        "Bölüm 1: PowerPyx'e göre bu bölümde biriktirdiğin parayı bölüm sonunda kaybediyorsun, o yüzden ihtiyaç kadar kazan. Seçenekler: sarı ikonlu çete operasyonları (39 nokta), yarışlar ve dükkân soygunları (stick-up). Stick-up'lar az para veriyor.",
+        "Kotaku batık gemi dalışlarını (Kenton) erken dönemin kolay parası olarak öneriyor.",
+        "Bölüm 2: Moses'a takip cihazı (tracker) olmayan araba satarak araç başı 1.000 dolar üzeri. PowerPyx bunu hâlâ çok verimli bulmuyor ve Bölüm 3'ü beklemeyi öneriyor.",
+        "Bölüm 3: kuyumcu soygunları (10.000–25.000 dolar), Pay 'n' Spray'de standart tracker'lı araba satışı (4.000 dolar üzeri) ve Randy'nin listesindeki süper arabalar (30.000 dolar üzeri). Bölüm 3 sonunda hikâye sana otomatik 120.000 dolar veriyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-11f607",
+        "kaynak-powerpyx-com-49649c",
+        "kaynak-kotaku-com-d86b42"
+      ],
+      "category": "Para Kazanma › Erken oyun para yolları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-kenton-hazine-dalisi",
+      "title": "Kenton'ın hazine dalışları: Batık gemilerden kolay para",
+      "summary": "Bölüm 1'de Brian seni Kenton'la tanıştırıyor; 'Island Dreams' görevinden sonra tüple dalış ve metal dedektörle batıklarda hazine arayıp Kenton'a satabiliyorsun.",
+      "body": [
+        "Açılış: Bölüm 1'de Brian seni Kenton'a tanıştırana kadar ilerle, ardından 'Island Dreams' görevini yap. Kenton izinsiz dalış yaptığı için kendini tur rehberi gibi tanıtıyor; dalışı Jason yapıyor.",
+        "Görevi bitirince Kenton'ın ekipmanını istediğin zaman kullanabilirsin. Kenton seni arayıp batık noktalarını haritana işaretliyor.",
+        "Batığa vardığında mini haritadaki işaretli alanda Metal Dedektörü deniz tabanında gezdir.",
+        "Kotaku bunu erken dönemin kolay parası olarak öneriyor; Game Rant somut ödeme rakamı vermiyor. 100% listesi için 7 Kenton setinden 5'i ve 33 sualtı keşfinin tamamı gerekiyor."
+      ],
+      "sourceIds": [
+        "kaynak-gamerant-com-adaa63",
+        "kaynak-kotaku-com-d86b42",
+        "kaynak-powerpyx-com-63fd47"
+      ],
+      "category": "Para Kazanma › Yan işler",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-moses-araba-satisi",
+      "title": "Araba satışı: Moses (Bölüm 2) ve Pay 'n' Spray (Bölüm 3)",
+      "summary": "Bölüm 2'de Port Gellhorn'daki Moses takip cihazı olmayan çalıntı arabaları 1.000 dolar üzerine alıyor. Bölüm 3 başında Pay 'n' Spray'ler standart tracker'lı arabaları da 4.000 dolar üzerine almaya başlıyor.",
+      "body": [
+        "Moses sadece tracker'sız arabaları kabul ediyor. Arabayı WAiNK uygulamasıyla tarayıp tracker durumunu kontrol et.",
+        "Garajının satışlar arasında yaklaşık 2 dakikalık bekleme süresi (cooldown) var.",
+        "Garajına çok yakın yerde çaldığın arabaları almıyor. PowerPyx arabaları Port Gellhorn'daki ana yoldan almayı öneriyor.",
+        "Bölüm 3'ün başından itibaren herhangi bir Pay 'n' Spray standart takip cihazlı (Standard Tracker) arabaları da kabul ediyor; iyi bir arabadan 4.000 dolar üzeri alıyorsun. Aynı noktada 'Register' ile aracı tescil edebilirsin.",
+        "Gelişmiş takip cihazlı (Advanced Tracker) süper arabalar ise Randy'ye gidiyor; bkz. Randy's Wish List."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-11f607",
+        "kaynak-powerpyx-com-01c233",
+        "kaynak-powerpyx-com-499e40",
+        "kaynak-pushsquare-com-0abbe0"
+      ],
+      "category": "Para Kazanma › Satış ve fence",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-kuyumcu-smash-n-grab",
+      "title": "Kuyumcu ve rehinci soygunları (Smash 'n' Grab)",
+      "summary": "Bölüm 3'teki 'Yasmani's Jewelry Jobs' görevinden sonra kuyumcu soygunları açılıyor; PowerPyx'e göre soygun başı 10.000–25.000 dolar.",
+      "body": [
+        "Rehinci (pawn shop) soygunları Bölüm 2'deki 'Coffee Break'ten, kuyumcu soygunları Bölüm 3'teki 'Yasmani's Jewelry Jobs'tan sonra açılıyor.",
+        "Birkaç dükkânı art arda soyabilir, arka odadaki kasayı da açabilirsin. Polis gelebilir, hızlı çık.",
+        "Çalınan mücevherleri Yasmani iyi fiyata alıyor. PowerPyx'in veritabanında 20 kuyumcu ve 15 rehinci soygun noktası var; 100% listesi 35'in 34'ünü istiyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-11f607",
+        "kaynak-powerpyx-com-63fd47",
+        "kaynak-powerpyx-com-bc0d4f",
+        "kaynak-powerpyx-com-499e40"
+      ],
+      "category": "Para Kazanma › Soygunlar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-banka-isleri-kucuk-bankalar",
+      "title": "Banka soygunları: Küçük bankalar ve büyük banka kasaları",
+      "summary": "Bölüm 3'te 14 küçük banka (5.000–45.000 dolar), Bölüm 4 sonunda 8 büyük banka kasası (65.000–205.000 dolar) açılıyor. Kasa soygunu anında 4 yıldız aranma getiriyor.",
+      "body": [
+        "Küçük bankalar Bölüm 3'teki 'Credit Check (Meet Raul's Crew)' görevinden sonra açılıyor. Bu görev boyalı paraları (marked bills) satabilmen için Dye Pack Jammer'ı da veriyor. Bir bankayı tamamlamak için hem vezne çekmecesini hem de kasayı (Safe) boşalt.",
+        "Haritada yeşil banka ikonları; Map > Robberies > Bank Jobs filtresinde parlak yeşil tamamlanmış, koyu yeşil yarım demek.",
+        "Büyük kasalar Bölüm 4 sonunda opsiyonel 'That's Where The Money Is…' görevinden sonra açılıyor. Güvenlik minibüsünü bankada durana kadar takip et; görevli çantayla kasaya girince kasa kısa süre açık kalır, o anda içeri gir.",
+        "Yasmani'nin iki Payday Loans soygununu bitirdikten sonra ondan 10.000 dolara minibüs güzergâhı ipucu alabilirsin.",
+        "Kasa soygunu anında 4 yıldız getiriyor: hızlı bir motosikletle trafikte sıyrıl, sonra araç değiştir. Hikâye sonrası her 5 dakikada 100–200 bin dolar mümkün; 5 kasa 'Maximum Withdrawal' kupasını açıyor.",
+        "Bu kilit, finale götüren ve geri dönüşü olmayan görev zincirinin hemen öncesinde açılıyor; öncesinde manuel kayıt al."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-b32e62",
+        "kaynak-powerpyx-com-63fd47",
+        "kaynak-powerpyx-com-11f607"
+      ],
+      "category": "Para Kazanma › Soygunlar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-cete-operasyonlari",
+      "title": "Çete operasyonları (Illegal Gang Operations): 39 soygun noktası",
+      "summary": "Haritada sarı ikonla işaretlenen 39 çete operasyonu, erken oyunun en iyi para kaynaklarından biri. Kasadaki nakit dışında uyuşturucu, saat ve özel silahlar da çıkıyor.",
+      "body": [
+        "Dokuz çeteye dağılmış 39 nokta var (Kingfishers, Kolts & Associates, M7, La Polilla Negra, Final Chapter, San4San, PTT Youngin$, Guardia Brothers ve diğer suçlular).",
+        "Map > Robberies > Illegal Operations filtresiyle bul. İkonun üstüne gelince kaç değerli eşya (key valuables) kaldığını görürsün; hepsini almadan nokta tamamlanmış sayılmıyor.",
+        "Tamamlanan nokta bir süre griye döner, sonra yeniden doluyor; yani tekrar soyulabiliyor.",
+        "Çıkan uyuşturucuları (narcotics) bir fence'e sat. Her çeteden birer operasyon soymak 'Pest Control' kupasını açıyor. Ultimate Edition'a özel ek bir PTT Youngin$ soygunu da var ama 100% için gerekmiyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-ac8a47",
+        "kaynak-powerpyx-com-49649c",
+        "kaynak-powerpyx-com-f5ae8d"
+      ],
+      "category": "Para Kazanma › Soygunlar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-fence-calinti-mal-satisi",
+      "title": "Fence (çalıntı mal alıcıları): Kim ne alır, nerede?",
+      "summary": "Uyuşturucu, mücevher ve boyalı paraları fence'lere satıyorsun. Yedi fence var; Yasmani mücevher ve boyalı parada, Tyrone uyuşturucuda en iyi fiyatı veriyor.",
+      "body": [
+        "Key Lento: Brian ve Donnie (ikisi de Bölüm 1 sonrası/‘Swamped’ sonrası kapanıyor). Port Gellhorn: Moses (araba) ve Dunk. Vice City: Tyrone (La Perle), Yasmani (Little Cuba), Randy (Balsero, araba).",
+        "Fiyat seviyeleri (haritada ikona gelince görünür): Tyrone uyuşturucuda Yüksek, Yasmani mücevher ve boyalı parada Yüksek; Brian ve Donnie çok düşük.",
+        "Satış: Mallar taşıdığın çantaya (veya bagaja) girer; fence'in yeşil ikonundaki konteynere bırakırsın. Bölüm 1 başında ödeme bir süre sonra Jason'ın evinin posta kutusuna nakit gelir, dijital banka hesabı açılınca havaleyle gelir.",
+        "Bölüm 3'te Yasmani açıldıktan sonra malları garajına bırakıp hangi fence'in alacağını seçebilirsin. Jason ve Lucia birlikteyken çantayı bagaja koyup partnerine 'Fence Goods' komutu da verebilirsin."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-499e40",
+        "kaynak-powerpyx-com-49649c"
+      ],
+      "category": "Para Kazanma › Satış ve fence",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-buckme-banka-hesabi",
+      "title": "BuckMe banka hesabı: Paranı korumanın yolu",
+      "summary": "BuckMe uygulaması Bölüm 1'de açılıyor. Bankadaki para ölünce ya da yakalanınca kaybolmuyor; ayrıca 1.000 doların üzerindeki alımlar sadece uygulamadan ödenebiliyor.",
+      "body": [
+        "Aşağı yön tuşu cüzdan ve BuckMe bakiyeni gösterir. Wallet'taki nakit Wasted/Busted'da gider, bu yüzden yatır.",
+        "BuckMe açıldıktan sonra cebinde 0 dolar olsa bile banka hesabından ödeme yapabilirsin; 1.000 dolar üzeri ürünler yalnızca uygulamayla ödenebiliyor.",
+        "Dikkat: PowerPyx'e göre aile birikimine (family savings) yatırdığın para hikâye sonrasında bile kalıcı olarak gidiyor; ancak vadesiz hesap limitini (checking account limit) yükseltmek için yatırım yapmak gerekiyor.",
+        "GTABase'e göre ölünce ya da yakalanınca küçük bir BuckMe bakım ücreti de kesiliyor."
+      ],
+      "sourceIds": [
+        "kaynak-pushsquare-com-0abbe0",
+        "kaynak-powerpyx-com-49649c",
+        "kaynak-gtabase-com-9fe70d"
+      ],
+      "category": "Para Kazanma › Yan işler",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-isletme-mulk-geliri",
+      "title": "İşletme ve mülk geliri var mı? Şu anki durum",
+      "summary": "Okuduğumuz çıkış haftası rehberlerinin hiçbiri hikâye modunda pasif gelir getiren bir işletme sisteminden söz etmiyor. Satın alınabilen mülk olarak öne çıkan şey garajlar.",
+      "body": [
+        "Vice City Real Estate telefon uygulamasıyla ek garaj ve park yeri satın alabiliyorsun; bu özellik bir hikâye göreviyle (PowerPyx'e göre Bölüm 2'de) açılıyor. Garajlar daha fazla kişisel araç saklamanı sağlıyor.",
+        "PowerPyx'in para rehberi ve 100% listesi; soygunları, fence satışlarını ve araç satışını sayıyor ama pasif gelir üreten bir işletmeden bahsetmiyor.",
+        "Bölüm 3 sonunda hikâye sana otomatik olarak 120.000 dolar veriyor; bu da bir tür hikâye geliri.",
+        "Not: Bu konu sınırlı bilgiyle yazıldı. Yeni bilgi çıkarsa bu sayfayı güncelleyeceğiz."
+      ],
+      "sourceIds": [
+        "kaynak-pushsquare-com-0abbe0",
+        "kaynak-powerpyx-com-01c233",
+        "kaynak-powerpyx-com-11f607",
+        "kaynak-powerpyx-com-63fd47"
+      ],
+      "category": "Para Kazanma › İşletmeler ve mülk geliri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-saglik-yenileme-zombix-adrenalin",
+      "title": "Can nasıl doldurulur? Zombix ve Adrenaline",
+      "summary": "Çatışmada canını Zombix ilacı ve Adrenaline ile dolduruyorsun. Zombix canın yarısını, Adrenaline daha büyük bir kısmını yeniliyor.",
+      "body": [
+        "Zombix: L1+Kare (Xbox'ta LB+X) ile kullanılır ve canın yarısını yeniler. Adrenaline: L1+Üçgen (LB+Y) ile daha büyük bir artış sağlar.",
+        "Kotaku'ya göre Zombix genelde rafta durmuyor; ya bedava bulursun ya da kasiyerden istersin.",
+        "Yiyecek ve içecekler de can, dayanıklılık (stamina) ve odak (focus) değerlerini yükseltiyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-49649c",
+        "kaynak-kotaku-com-d86b42"
+      ],
+      "category": "Sağlık ve Hayatta Kalma › Sağlık yenileme",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-yemek-icecek-buff",
+      "title": "Yemek ve içecek: Güne doğru başla",
+      "summary": "Yemek ve içecek can, stamina ve odak barını yükseltiyor. Kotaku dışarı çıkmadan önce bir şeyler yemeyi, PowerPyx de her günün başında yiyip içerek stat buff'ı almayı öneriyor.",
+      "body": [
+        "Yemek veya içmek hareketini, sürüşünü ya da ateş etmeni durdurmuyor; yani kaçarken bile tüketebilirsin.",
+        "PowerPyx: her günün başında yemek/içmek statlarını güçlendiriyor. Antrenman sonrası protein (buzdolabındaki protein shake veya spor salonundaki protein bar) toparlanmayı hızlandırıyor.",
+        "Push Square incelemesine göre oyunda karakterlerin yemek yemesi ve spor yapması gereken hafif bir yaşam simülasyonu tarafı var.",
+        "PowerPyx'in veritabanı haritada 87 kafe/paket servis, 118 sokak yemeği satıcısı, 21 fast food ve 122 bar listeliyor."
+      ],
+      "sourceIds": [
+        "kaynak-kotaku-com-d86b42",
+        "kaynak-powerpyx-com-49649c",
+        "kaynak-powerpyx-com-8b2fd1",
+        "kaynak-pushsquare-com-006907",
+        "kaynak-powerpyx-com-bc0d4f"
+      ],
+      "category": "Sağlık ve Hayatta Kalma › Yemek ve içecek",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-zirh-celik-yelek",
+      "title": "Zırh (body armor) nereden alınır, nasıl giyilir?",
+      "summary": "Çelik yelek Ammu-Nation'dan alınıyor ve eşya çarkından (item wheel) açılıyor. Giyince can barının üstünde mavi bir bar beliriyor ve kurşun hasarını önce zırh emiyor.",
+      "body": [
+        "Satın alma: Hikâyede ilk girdiğin Key Lento Ammu-Nation'ında sağ duvarda duruyor; ya da kasiyerin Equipment bölümünden al.",
+        "Kuşanma: L1/LB basılı tut, R1/RB ile ilgili sekmeye geç ve X/A ile zırhı aç. Mavi bar bitene kadar kurşun hasarını zırh alır.",
+        "Yenileme: PowerPyx'in zırh rehberi yeni yelek bulman ya da alman gerektiğini, ipuçları sayfası ise Ammu-Nation'da yenileyebileceğini yazıyor.",
+        "Paraşüt ve zırh aynı slotu paylaşıyor; zırh giyiyken paraşütü seçersen ona geçersin."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-0463f0",
+        "kaynak-powerpyx-com-49649c",
+        "kaynak-powerpyx-com-57e355"
+      ],
+      "category": "Sağlık ve Hayatta Kalma › Zırh",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-olunce-ne-olur-wasted",
+      "title": "Wasted ve Busted: Ölünce ya da yakalanınca neyi kaybedersin?",
+      "summary": "Ölünce veya yakalanınca cebindeki nakdi, satın almadığın silahları ve büyük ihtimalle ganimet çantalarını kaybediyorsun. Bankadaki para ve satın aldığın silahlar güvende.",
+      "body": [
+        "GTABase: ölünce ya da yakalanınca cepteki nakit gidiyor ve küçük bir BuckMe bakım ücreti kesiliyor. Sahipsiz (unowned) silahlar kayboluyor, taşıdığın ganimet çantaları büyük ihtimalle gidiyor.",
+        "Satın aldığın (owned) silahları kişisel aracının bagajından veya herhangi bir Ammu-Nation'daki silah dolabından (weapon locker) geri alabiliyorsun.",
+        "Beebom'a göre artık hastanede değil, öldüğün yere daha yakın bir noktada yeniden doğuyorsun (respawn). Hastane faturası konusunu okuduğumuz çıkış haftası kaynakları açıkça ele almıyor.",
+        "Busted: Beebom, karakterin büyük ihtimalle Leonida Prison'a götürülüp silah ve parasından olacağını yazıyor; ifade kesin değil. Biri yakalanırsa diğer karakter haritada dolaşmaya devam edebiliyor.",
+        "Suç profilin Psycho ya da Irredeemable'a düşerse teslim olamıyorsun ve polis görür görmez ateş açmaya daha yatkın oluyor.",
+        "Ders: Parayı düzenli olarak ATM'den bankaya yatır."
+      ],
+      "sourceIds": [
+        "kaynak-gtabase-com-9fe70d",
+        "kaynak-beebom-com-5e7893",
+        "kaynak-insider-gaming-com-9600ea",
+        "kaynak-pushsquare-com-0abbe0",
+        "kaynak-powerpyx-com-bd421c"
+      ],
+      "category": "Sağlık ve Hayatta Kalma › Ölünce ne olur",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-hayatta-kalma-ipuclari",
+      "title": "Hayatta kalma ipuçları: Timsahlar, sessiz yaklaşım ve kolay mod",
+      "summary": "Leonida'daki her suyun içinde bir timsah olabileceğini varsay. Ağır çatışmalarda öldürmeden etkisiz hâle getirme ve gerekirse Accessible Combat ayarı hayatını kurtarır.",
+      "body": [
+        "Kotaku uyarıyor: Leonida'da herhangi bir su birikintisinde timsah (gator) olabilir.",
+        "Arkasından yaklaşıp R2 ile yakalayarak düşmanı bayıltabilirsin. Çatışmada Odak modunda sarı görünen diz ve kol gibi bölgelere ateş edersen düşman ölmeden etkisiz kalır; nişangâhta sarı X etkisiz, kırmızı X ölü demek.",
+        "Sürekli öldürmek suç profilini ağırlaştırıyor ve polisin tepkisini sertleştiriyor.",
+        "Zorlanıyorsan Settings > Gameplay'deki Accessible Combat aldığın hasarı azaltıyor."
+      ],
+      "sourceIds": [
+        "kaynak-kotaku-com-d86b42",
+        "kaynak-pushsquare-com-0abbe0",
+        "kaynak-gtabase-com-9fe70d"
+      ],
+      "category": "Sağlık ve Hayatta Kalma › Hayatta kalma",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-statlar-guc-kardiyo-odak",
+      "title": "Üç temel stat: Güç (Strength), Kardiyo ve Odak (Focus)",
+      "summary": "Jason ve Lucia'nın her birinin üç statı var: Güç maksimum canı, Kardiyo maksimum dayanıklılığı (stamina), Odak ise ağır çekim nişan süresini belirliyor.",
+      "body": [
+        "Statları harita menüsündeki 'Jason & Lucia' sekmesinde karakteri seçip profilini aşağı kaydırarak görürsün.",
+        "Strength (pembe kalp): maksimum can. Cardio (yeşil şimşek): maksimum stamina. Focus (mor göz): Odak modundaki ağır çekimin süresi.",
+        "Antrenmanlar Fitness App'te takip ediliyor. Kazanımların kalıcı olması için antrenmanı sonuna kadar bitirmen gerekiyor; yarım bırakırsan kazanım kayboluyor.",
+        "Uyarı: Yemeden ve spor yapmadan art arda uyumak statları hızla düşürüyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-8b2fd1",
+        "kaynak-powerpyx-com-49649c"
+      ],
+      "category": "Karakter Gelişimi › Yetenekler ve statlar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-spor-salonu-guc-kardiyo",
+      "title": "Spor salonu rehberi: Güç ve kardiyo nasıl kasılır?",
+      "summary": "Güç için ağırlık, kardiyo için koşu bandı ve bisiklet en iyi yol. Bölüm 1'de Jason'ın evinin terasındaki ağırlıklar bedava; sonrasında spor salonlarına üyelik alabilirsin.",
+      "body": [
+        "Güç: Ağırlık ekipmanlarıyla çalış. Bölüm 1'de evin terasında ağırlıklar var; fitness stüdyoları da üyelik ücreti karşılığında antrenman sunuyor.",
+        "Kardiyo: Fitness stüdyolarındaki koşu bandı ve bisiklet en iyi seçenek. Dışarıda koşmak, bisiklet sürmek veya yüzmek de kardiyoyu artırıyor.",
+        "Antrenman sonrası protein (buzdolabındaki shake ya da salondaki protein bar) toparlanma süresini kısaltıyor. PowerPyx her gün antrenman yapmayı öneriyor.",
+        "İleride partnerinle birlikte salona gidebiliyorsun: biri çalışırken diğeri antrenmanını otomatik tamamlıyor, bu da ortak seansları çok verimli yapıyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-8b2fd1",
+        "kaynak-powerpyx-com-49649c"
+      ],
+      "category": "Karakter Gelişimi › Spor salonu",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-odak-focus-kasma",
+      "title": "Odak (Focus) statını hızlı kasmanın yolu: Atış poligonu",
+      "summary": "En güvenilir yöntem Kelly County'deki Rodgers Ranch & Shooting Range'deki 'Market Range Beginner' görevi: 5 dolarlık giriş kartı al, 5 saniyelik görevi sonsuza kadar tekrarla.",
+      "body": [
+        "Rodgers Ranch'te kasiyerden 5 dolarlık waiver pass al, Market Range Beginner meydan okumasını oyna, 'Quit' deyip yeniden başlat.",
+        "Golf, bilardo ve balık tutmak da Odak kazandırıyor.",
+        "Suç profiline göre Odak kazanımı değişiyor: Professional ve Hardened'da gizli etkisiz hâle getirmeler (stealth takedown), Violent ve Psycho'da kafadan vuruşlar Odak veriyor. Irredeemable'da pasif Odak kazancı yok.",
+        "Kotaku: Köpek ve kedileri sevmek (sol tetikle yakınlaş) ve çöpleri atmak Odak/davranış puanı kazandırıyor; yere çöp atmak ise Odak kaybettiriyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-8b2fd1",
+        "kaynak-powerpyx-com-bd421c",
+        "kaynak-kotaku-com-d86b42"
+      ],
+      "category": "Karakter Gelişimi › Yetenekler ve statlar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-kilo-beslenme-etkisi",
+      "title": "Kilo ve beslenme: Yemek vücudu değiştiriyor mu?",
+      "summary": "Çıkış haftası rehberleri beslenmeyi daha çok buff ve antrenman toparlanması açısından anlatıyor. Kilo değişimine dair ayrıntılar şimdilik çıkış öncesi haberlere dayanıyor, kesinleşmiş değil.",
+      "body": [
+        "Kesin olan: Yemek ve içecek can, stamina ve odak barını yükseltiyor; antrenman sonrası protein toparlanmayı hızlandırıyor; yemeden ve spor yapmadan uyumak statları düşürüyor.",
+        "Çıkış öncesi (Ağustos 2026) yayımlanan bir All Things How yazısı, yemeğin karakterlerin kilosunu, sporun ise kas yapısını değiştirdiğini ve uykusuzluğun yorgun bir görünüm verdiğini yazıyor. Yazı bu bilgiyi resmî bir kaynağa dayandırmıyor.",
+        "PowerPyx'in stat rehberi kiloyu ayrı bir stat olarak ele almıyor. Kilo sisteminin oynanışa etkisi okuduğumuz kaynaklarda netleşmemiş durumda."
+      ],
+      "sourceIds": [
+        "kaynak-kotaku-com-d86b42",
+        "kaynak-powerpyx-com-8b2fd1",
+        "kaynak-powerpyx-com-49649c",
+        "kaynak-allthings-how-e7bc94"
+      ],
+      "category": "Karakter Gelişimi › Kilo ve beslenme",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-kiyafet-kombin-bagaj",
+      "title": "Kıyafet rehberi: Kombin kaydetme, bagajda gardırop ve çift alışverişi",
+      "summary": "Soyunma kabini olan her mağazada kombin oluşturup bagaj deposunu yönetebiliyorsun. Bagajda yedek kıyafet taşımak polisten kaçarken de çok işe yarıyor.",
+      "body": [
+        "Kombinleri araç bagajında saklayabilirsin; kıyafet değiştirmek polisin dikkatini dağıtıyor (bkz. Polis ve Aranma).",
+        "Özel kombinlere 'clubbing', 'hunting', 'everyday' gibi hazır kelimelerle isim verebiliyorsun.",
+        "Jason ve Lucia'yı birlikte alışverişe götürürsen ikisine de alabiliyorsun; bu romantizm puanı da kazandırıyor.",
+        "PowerPyx: Aynı markanın mağazaları aynı ürünleri satıyor, her markadan bir mağazaya bakman yeterli; haritada ikona gelince markayı görürsün. Haritada 67 giyim ve 17 ayakkabı mağazası var."
+      ],
+      "sourceIds": [
+        "kaynak-kotaku-com-d86b42",
+        "kaynak-powerpyx-com-49649c",
+        "kaynak-powerpyx-com-bc0d4f"
+      ],
+      "category": "Karakter Gelişimi › Kıyafet",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-berber-dovme-salon",
+      "title": "Berber, kuaför ve dövme stüdyoları",
+      "summary": "Evdeki banyo aynasında saçını kısaltabilirsin ama stil değiştirmek için berbere gitmen gerekiyor. Haritada 18 kuaför/güzellik salonu ve 11 dövme stüdyosu var.",
+      "body": [
+        "Kotaku: Güvenli evdeki banyo aynasıyla hızlı bir düzeltme yapabilirsin ama saç modelini değiştiremezsin. Giyim mağazaları ve berberlerde başka yerde olmayan özel ürünler var.",
+        "Ultimate Edition sahipleri Sara's Unisex Salon (Jason için sakal, Lucia için makyaj ve tırnak dahil) ve Stockyard'daki Electric Fang Tattoo'ya (FAILE imzalı 50'den fazla dövme) erişiyor.",
+        "Berberde saç değiştirmek ya da aksesuar takmak polisin seni tanımasını zorlaştırıyor (Appearance heat ikonu).",
+        "Lucia'nın ve Jason'ın dergilerini taramak ve lüks saatleri toplamak yeni 'Styles' açıyor; 79 stil var."
+      ],
+      "sourceIds": [
+        "kaynak-kotaku-com-d86b42",
+        "kaynak-powerpyx-com-f5ae8d",
+        "kaynak-powerpyx-com-bc0d4f",
+        "kaynak-gtabase-com-9fe70d"
+      ],
+      "category": "Karakter Gelişimi › Berber ve dövme",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-suc-profili-criminal-profile",
+      "title": "Suç profili (Criminal Profile): GTA 6'nın onur sistemi",
+      "summary": "Davranışların Jason ve Lucia için ayrı ayrı tutulan bir suç profilini belirliyor: Professional, Hardened, Violent, Psycho ve Irredeemable.",
+      "body": [
+        "PC Gamer bu sistemi Red Dead Redemption 2'deki onur sisteminin (Honor System) GTA 6 karşılığı olarak tanımlıyor.",
+        "Professional: gizli, şiddetsiz oyun (kasiyeri incitmeden tehdit et, kayıt bantlarını yok et, alarmı kapat, polis gelmeden kaç). Hardened: öldürmeden uzuvlardan vurarak etkisiz bırak. Violent: öldürmeler, özellikle kafadan vuruşlar.",
+        "Psycho: sürekli aşırı şiddet; evcil hayvan öldürmek, mezar taşlarının üstünden geçmek gibi eylemler. Irredeemable: kalıcı bir statü, PowerPyx kaçınmanı öneriyor.",
+        "Çoğu seviyenin doğrudan oyun etkisi yok; ama Psycho ve Irredeemable'da polis görür görmez ateş etmeye yatkın ve teslim olamıyorsun. Profilini harita > Jason & Lucia sekmesinden görürsün."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-bd421c",
+        "kaynak-pcgamer-com-b3ec06",
+        "kaynak-pushsquare-com-0abbe0"
+      ],
+      "category": "Karakter Gelişimi › Suç profili",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-jason-duval",
+      "title": "Jason Duval kimdir? (Spoiler'sız)",
+      "summary": "Jason, kolay bir hayat isteyen ama sürekli daha büyük belalara bulaşan, suç dünyasında geçmişi olan sokak zekâlı bir adam. Hikâyenin ilk bölümünü onunla oynuyorsun.",
+      "body": [
+        "Rockstar'ın tanıtımında Jason ve Lucia, 'şansın baştan beri aleyhlerine olduğunu bilen' bir ikili; kolay bir iş ters gidince Leonida çapında bir suç komplosunun içine düşüyorlar.",
+        "GTABase'e göre Jason sokak zekâsına sahip ve suç dünyasında çalışma geçmişi olan biri.",
+        "Bölüm 1'de neredeyse tamamen Jason'ı oynuyorsun; Jason'ın evi Key Lento'da.",
+        "Seslendiren: Game Rant ve GTABase, Jason'ı Dylan Rourke'un seslendirdiğini yazıyor."
+      ],
+      "sourceIds": [
+        "rockstar",
+        "kaynak-gtabase-com-baf6e2",
+        "kaynak-gamerant-com-8571e9",
+        "kaynak-powerpyx-com-f2329a",
+        "kaynak-powerpyx-com-444bb3"
+      ],
+      "category": "Karakterler › Jason Duval",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-lucia-caminos",
+      "title": "Lucia Caminos kimdir? (Spoiler'sız)",
+      "summary": "Lucia, kendisi ve ailesi için daha iyi bir gelecek kurmaya çalışan, kararlı ve becerikli bir kadın. Bölüm 2'den itibaren onunla serbestçe oynayabiliyorsun.",
+      "body": [
+        "GTABase'e göre Lucia işleri kendi eline almaya hazır, kararlı ve becerikli biri.",
+        "Bölüm 1'de sadece bazı hikâye anlarında kısa süre kontrol ediyorsun; serbest geçiş Bölüm 2'deki 'Coffee Break' görevinden sonra geliyor.",
+        "Bazı yan görevler sadece Lucia ile yapılabiliyor (ör. Kirk'ün 'Advanced Skunk Apeonomics' görevi, Andy'nin görevlerinin çoğu).",
+        "Seslendiren: Manni L. Perez. Game Rant'a göre bu performans The Game Awards'ta En İyi Performans dalında aday gösterildi."
+      ],
+      "sourceIds": [
+        "kaynak-gtabase-com-baf6e2",
+        "kaynak-powerpyx-com-f2329a",
+        "kaynak-powerpyx-com-b09fb7",
+        "kaynak-gamerant-com-8571e9"
+      ],
+      "category": "Karakterler › Lucia Caminos",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-onemli-yan-karakterler",
+      "title": "Önemli yan karakterler: Cal, Brian, Boobie, Dre'Quan, Real Dimez, Raul",
+      "summary": "Hikâyede karşına çıkacak ana yan karakterlerin spoiler'sız kısa tanıtımı.",
+      "body": [
+        "Cal Hampton: Jason'ın arkadaşı; evde içkisiyle oturup internetteki konuşmaları takip etmeyi seven, rahat ama neredeyse her şeyden şüphelenen biri.",
+        "Brian Heder: Leonida Keys'te tekne tamirhanesi olan, uzun bir kaçakçılık geçmişine sahip, görünüşte rahat ama işte keskin bir figür.",
+        "Boobie Ike: Sokak itibarını yasal bir iş imparatorluğuna dönüştürmüş tanınmış bir Vice City figürü. Dre'Quan Priest: Uzun süredir müzik kariyeri hedefleyen, Only Raw Records ile bağlantılı bir girişimci.",
+        "Real Dimez (Bae-Luxe ve Roxy): Sokaktan rap müziğe ve güçlü bir sosyal medya varlığına geçmiş iki eski dost; Only Raw Records'a bağlılar. Raul Bautista: Büyük riskleri göze alan yetenekli insanlar arayan, deneyimli ve kendinden emin bir suçlu."
+      ],
+      "sourceIds": [
+        "kaynak-gtabase-com-baf6e2"
+      ],
+      "category": "Karakterler › Yan karakterler",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-seslendiren-oyuncular",
+      "title": "GTA 6 seslendirme kadrosu: Kim kimi seslendiriyor?",
+      "summary": "Game Rant'in çıkış günü yayımladığı listeye göre başrolde Dylan Rourke (Jason) ve Manni L. Perez (Lucia), yan rollerde Bobby Moynihan, Stephen Root ve Taryn Manning gibi isimler var.",
+      "body": [
+        "Başroller: Lucia Caminos – Manni L. Perez; Jason Duval – Dylan Rourke.",
+        "Bazı yan roller (Game Rant): Cal – Bobby Moynihan, Brian Heder – Stephen Root, Lori Heder – Orlagh Cassidy, Donnie – Brad Carter, Billy – Spenser Granese, Boobie – Mike Forbs, Bret Vogel – Jariko Denman.",
+        "Devamı: Kenton Rees – Machel Montano, Moses 'Mo' Watkins – Aaron Morton, Pilot Pete – Carl Palmer, Tyrone Russo – Taylor Novak, Vicki – Taryn Manning, Andy – Mallory Wu, Dunk – Brad Fleischer, Bae-Luxe – Hood Brat, Roxy – Krissy Celess.",
+        "Kaynak farkı: GTABase, Cal için Bobby Moynihan'ı ve Raul Bautista için Manny Perez'i 'doğrulanmamış' olarak işaretliyor. Game Rant'in listesinde Raul yer almıyor."
+      ],
+      "sourceIds": [
+        "kaynak-gamerant-com-8571e9",
+        "kaynak-gtabase-com-baf6e2"
+      ],
+      "category": "Karakterler › Seslendiren oyuncular",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-karakter-degistirme",
+      "title": "Jason ve Lucia arasında nasıl geçiş yapılır?",
+      "summary": "Karakter değiştirme Bölüm 2'deki 'Coffee Break' görevinden sonra açılıyor. Açık dünyada Sağ yön tuşu + R1/RB ile geçiş yapıyorsun.",
+      "body": [
+        "Bölüm 1'de sadece Jason oynanabiliyor (Lucia'yı yalnızca bazı hikâye anlarında kısa süre kontrol ediyorsun).",
+        "Geçiş: Sağ yön tuşunu basılı tutup R1 (PS) / RB (Xbox). Diğer karakterle buluşmak için Üçgen/Y.",
+        "Evdeyken diğer karakter gri görünüp seçilemeyebilir; evden çıkınca genelde tekrar geçiş yapabiliyorsun.",
+        "Bazı görevler belirli bir karakter istiyor; görevin harita ikonu hangisi olduğunu gösteriyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-f2329a"
+      ],
+      "category": "Karakterler › Karakter değiştirme",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-jason-lucia-birlikte-oynamak",
+      "title": "Jason ve Lucia birlikteyken: Çanta paylaşımı, ortak spor ve ilişki",
+      "summary": "İki karakter birlikteyken ganimet çantalarını paylaşabiliyor, birlikte alışveriş ve spor yapabiliyorsun. Push Square'e göre ilişki etkileşimleri hikâyenin sonunu da etkiliyor.",
+      "body": [
+        "Her karakter en fazla iki ganimet çantası taşıyor; 'Hand Over Bag' ile partnerine verirsen toplamda dört çanta taşıyabilirsiniz. Silah ve ekipman ise partnere verilemiyor, her karakterin kendi envanteri var.",
+        "Insider Gaming'e göre satın alınan silahlar iki karakter arasında ortak, ama her birinin kendi modifikasyonları ve kuşanılmış silahları var.",
+        "Birlikte kıyafet alışverişi romantizm puanı kazandırıyor; birlikte salona gitmek antrenmanı ikisi için de tamamlıyor; meditasyon noktalarında ikisiyle de meditasyon yapılabiliyor.",
+        "Push Square incelemesi, opsiyonel hedeflerin ve etkileşimlerin ikilinin ilişkisini etkilediğini ve birden fazla son olduğunu belirtiyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-f8e175",
+        "kaynak-insider-gaming-com-9600ea",
+        "kaynak-kotaku-com-d86b42",
+        "kaynak-powerpyx-com-8b2fd1",
+        "kaynak-pushsquare-com-006907"
+      ],
+      "category": "Karakterler › Karakter değiştirme",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-aranma-seviyesi-yildizlar",
+      "title": "Aranma seviyesi (wanted level): 6 yıldız ve durumlar",
+      "summary": "GTA 6'da aranma seviyesi altı yıldıza kadar çıkıyor ve polisin seni ne kadar tanıdığına göre farklı durumlar var: Cops Responding, Suspect Unknown, In Pursuit ve Visual Lost.",
+      "body": [
+        "Cops Responding: Bir suç ihbar edildi, polis yolda. Hızlı kaçarsan hiç karşılaşmayabilirsin.",
+        "Suspect Unknown (içi boş yıldızlar): Polis olaydan haberdar ama kimliğini bilmiyor. In Pursuit: Polis seni görüyor ve kim olduğunu biliyor.",
+        "Visual Lost (yanıp sönen yıldızlar): Polis seni gözden kaybetti ama arıyor. Arama alanından görünmeden çıkarsan aranma biter.",
+        "İhbarlar tanıklardan, soygun alarmlarından veya gelişmiş takip cihazlı (advanced tracker) çalıntı araçlardan gelebiliyor. Büyük banka kasası soymak anında 4 yıldız veriyor."
+      ],
+      "sourceIds": [
+        "kaynak-gtabase-com-9fe70d",
+        "kaynak-powerpyx-com-b32e62"
+      ],
+      "category": "Polis ve Aranma › Heat / aranma sistemi",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-heat-sistemi-isaretler",
+      "title": "Heat sistemi: Polis seni nasıl hatırlıyor?",
+      "summary": "Polisten kurtulsan bile son görüldüğün bölgede 'heat' kalıyor. Yıldızların altındaki kırmızı ikonlar polisin elindeki ipuçlarını gösteriyor: görünüş, kıyafet, araç, silah, partner ve CCTV.",
+      "body": [
+        "Heat: Polisi atlattıktan sonra son bilinen konumunun etrafında haritada işaretli bir heat alanı kalır. Orada görülürsen ya da suç işlersen aranma seviyen geri gelir.",
+        "Heat & Suspect Unknown: Heat sürüyor ama polisin seni, partnerini ya da aracını tarif edecek bilgisi yok.",
+        "İkonlar: Appearance (görünüş), Vehicle (araç), Outfit (kıyafet), Visible weapon (görünen silah), Partner, CCTV ve Cloud CCTV. Kan lekeleri ve patlamış boya paketleri (dye pack) de tanınmayı etkiliyor; kanı güvenli evde duş alarak temizlersin.",
+        "Push Square incelemesi de polis tepkisinin kıyafetine, aracına ve silahlarına göre değiştiğini ve planlı soygunların kovalamaca başlamadan bitirilebildiğini doğruluyor."
+      ],
+      "sourceIds": [
+        "kaynak-gtabase-com-9fe70d",
+        "kaynak-pushsquare-com-006907"
+      ],
+      "category": "Polis ve Aranma › Heat / aranma sistemi",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-polisten-kacis-ipuclari",
+      "title": "Polisten kaçış ipuçları: Motosiklet, tren rayları ve saklanma",
+      "summary": "Görüş hattını kır, arama alanından çık, saklan. Yüksek yıldızlarda hızlı bir spor motosiklet ve tren rayları en iyi dostun.",
+      "body": [
+        "Saklanma: Merdivenler, kilitsiz kapılar, ormanlık alanlar ve çalılar iyi saklanma yerleri. Duran bir araçta eğilme tuşunu basılı tutarak saklanabilirsin.",
+        "Hareket: Görüş hattını kır; araba kaputlarının üstünden kaymak momentumunu korur. Polisler mini haritada görünmüyor, onları Odak moduyla takip et.",
+        "PowerPyx: Hızlı bir spor motosiklet trafikte sıyrılıp arama alanını geride bırakmanı sağlar. 4+ yıldızda güneybatı Vice City'deki ya da tünelli kuzey Ambrosia'daki tren raylarını takip et ve helikopterlere ateş ederek onları geri çekilmeye zorla.",
+        "Polis öldürmek tepkiyi sertleştiriyor. Öldürmeyen bölgelere ya da zırha ateş et, lastikleri vur, baskı ateşi kullan.",
+        "Kaçtıktan sonra aracını Pay 'n' Spray'de boyatmak araç heat ikonunu temizliyor; ancak takılı tracker türüne göre bazı araçlar reddedilebiliyor. Haritada 19 Pay 'n' Spray var."
+      ],
+      "sourceIds": [
+        "kaynak-gtabase-com-9fe70d",
+        "kaynak-powerpyx-com-49649c",
+        "kaynak-powerpyx-com-bc0d4f",
+        "kaynak-kotaku-com-d86b42"
+      ],
+      "category": "Polis ve Aranma › Kaçış ipuçları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-kamera-cctv",
+      "title": "Güvenlik kameraları (CCTV) ve alarmlı kapılar",
+      "summary": "Normal CCTV kayıtları mekânda saklanıyor ve yok edilebiliyor; bulut CCTV (Cloud CCTV) kayıtları ise yok edilemiyor ve sonunda alarm çalıyor.",
+      "body": [
+        "GTABase: Normal CCTV görüntüleri yerinde depolanıyor ve imha edilebilir. Cloud CCTV görüntüleri imha edilemez ve bir süre sonra alarm devreye girer.",
+        "PowerPyx: Arka odadaki kayıt bantlarını yok etmek ve alarmları devre dışı bırakmak Professional suç profiline katkı sağlıyor.",
+        "Kotaku: Odak modu alarma bağlı kapıları kırmızı parlatıyor. Bu kapıları tekmeleme; kilit açma aracını edinince maymuncukla aç.",
+        "PC Gamer'ın rehber dizisinde Snap Gun ile çeşitli kilitleri açmaya ayrılmış ayrı bir başlık var."
+      ],
+      "sourceIds": [
+        "kaynak-gtabase-com-9fe70d",
+        "kaynak-powerpyx-com-bd421c",
+        "kaynak-kotaku-com-d86b42",
+        "kaynak-pcgamer-com-b3ec06"
+      ],
+      "category": "Polis ve Aranma › Kamera / CCTV",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-maske-kiyafet-degistirme",
+      "title": "Maske, bandana ve kıyafet değiştirerek heat'i düşür",
+      "summary": "Suç sırasında maske takmak, sonrasında kıyafet ve araç değiştirmek, görünür silahları saklamak heat ikonlarını tek tek temizliyor.",
+      "body": [
+        "Appearance: Aksesuarları değiştir, berberde saç değiştir ya da suç sırasında maske tak. Eşya çarkından bandana, gözlük veya şapka takıp çıkarmak tanınmayı zorlaştırıyor (sağ üstteki kırmızı ikonlar bunu gösterir).",
+        "Outfit: Kıyafet değiştir. Yedek kombinleri kişisel aracının bagajında tutabilir ya da bazı mağazalardan çalabilirsin.",
+        "Visible weapon: Silahı kılıfına koy. Uzun namlulu silahlar (longarm) gizlenemiyor; ya bırak ya da bagaja koy.",
+        "Partner: Jason ve Lucia birlikte arandığında ayrılmak partner ikonunu düşürüyor."
+      ],
+      "sourceIds": [
+        "kaynak-gtabase-com-9fe70d",
+        "kaynak-powerpyx-com-49649c",
+        "kaynak-kotaku-com-d86b42"
+      ],
+      "category": "Polis ve Aranma › Maske ve kıyafet",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-polisle-konusma-teslim",
+      "title": "Polisle konuşarak 1 yıldızdan kurtulmak",
+      "summary": "Silahın çekili değilken bir polise sol tetikle odaklanıp onu sakinleştirebilir ya da kışkırtabilirsin; Kotaku'ya göre bu 1 yıldızlık aranmayı temizleyebiliyor.",
+      "body": [
+        "Kotaku: Silah elinde değilken polise L2/LT ile odaklan; sakinleştirme (defuse) veya kışkırtma seçenekleri çıkar.",
+        "Bu yöntem 1 yıldızlık aranmayı silebiliyor; daha yüksek seviyeler için kaçış gerekiyor.",
+        "Suç profilin Psycho ya da Irredeemable'a düşerse teslim olma imkânı kalkıyor ve polis görür görmez ateş açmaya yatkın hâle geliyor."
+      ],
+      "sourceIds": [
+        "kaynak-kotaku-com-d86b42",
+        "kaynak-powerpyx-com-bd421c"
+      ],
+      "category": "Polis ve Aranma › Kaçış ipuçları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-araba-calma-araclari",
+      "title": "Araba çalma rehberi: Slim Jim, Key Cloner ve WAiNK taraması",
+      "summary": "GTA 6'da araba çalmak tek tuş değil: kilitli araçlar için Slim Jim, klon anahtar ve hotwire mini oyunları var. Çalmadan önce aracı WAiNK ile tarayıp takip cihazını kontrol et.",
+      "body": [
+        "Push Square: Slim Jim, Clone Key ve hotwire mini oyunlarında analog çubukları hareket ettirip pembe 'tatlı noktayı' bulursan işlem hızlanıyor.",
+        "Key Cloner: Bölüm 3'ün ortasında 'Clonin' Keys, Makin' GS' göreviyle telefonuna yükleniyor ve üst segment arabalara girmeni sağlıyor.",
+        "Takip cihazları: Advanced Tracker'lı araçlar yavaşladığında polise otomatik haber veriyor. Kotaku: Sol altta kırmızı ikon tracker var demek; Yukarı yön tuşunu basılı tutarak aracı WAiNK ile tara.",
+        "WAiNK taraması güvenlik seviyesini, gereken araçları, tracker seviyesini, tescil maliyetini ve satış değerini gösteriyor."
+      ],
+      "sourceIds": [
+        "kaynak-pushsquare-com-0abbe0",
+        "kaynak-powerpyx-com-ae18c4",
+        "kaynak-kotaku-com-d86b42",
+        "kaynak-gtaboom-com-bfe24c",
+        "kaynak-pcgamer-com-b3ec06"
+      ],
+      "category": "Araçlar › Araç edinme",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-kisisel-arac-tescil",
+      "title": "Çalıntı arabayı kalıcı yapmak: Tescil (Register)",
+      "summary": "Çalıntı arabalar geçici. Kalıcı yapmak için Bölüm 2'de Moses'ta (tracker'sız araçlar) ya da Bölüm 3'ten itibaren Pay 'n' Spray'de (standart tracker'lı araçlar) 'Register' seçmen gerekiyor.",
+      "body": [
+        "Bölüm 1'de kişisel aracını değiştiremiyorsun; sadece kişisel aracın kalıcı.",
+        "Bölüm 2: Moses'a tracker'sız bir araba götür ve garajında 'Register' de. Bölüm 3 başı: Standart tracker'lı çalıntı araçları herhangi bir Pay 'n' Spray'de tescil edebilirsin; ücret aracın değerine göre değişiyor.",
+        "Tescil için boş 'Stored Vehicle' slotun olmalı. Başlangıçta bir garaj slotun var; slotlar doluysa yer açmak için araç satman gerekiyor.",
+        "Geçici saklama için aracı bir Parking Space ya da Garage'a park edebilirsin."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-01c233",
+        "kaynak-pushsquare-com-0abbe0"
+      ],
+      "category": "Araçlar › Tescil ve garaj",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-garaj-scooter-bros",
+      "title": "Garajlar ve Scooter Bros: Aracını yanına çağır",
+      "summary": "Vice City Real Estate uygulamasından ek garaj alıp daha çok araç saklayabilirsin. Scooter Bros uygulaması ise sahip olduğun aracı bir ücret karşılığında birkaç saniyede yanına getiriyor.",
+      "body": [
+        "Garajlar: Bölüm 2'de açılan Vice City Real Estate uygulamasıyla ek garaj ve park yeri satın al. PowerPyx haritada 12 garaj listeliyor. Fence rehberine göre Bölüm 3'te Yasmani açıldıktan sonra çalıntı malları garajına bırakıp hangi fence'in alacağını seçebiliyorsun.",
+        "Scooter Bros: Telefonda uygulamayı açıp aracı seç; ücret teslim mesafesine ve aracın durumuna göre değişiyor. Kotaku'ya göre uygulama araçlarını tamir etmeye ve çekilmiş (impound) araçları geri almaya da yarıyor.",
+        "Scooter Bros Premium 12.500 dolar ve her oyun günü üç ücretsiz kullanım veriyor.",
+        "Tamir masrafı benzin pompalarında Scooter Bros'tan daha ucuz."
+      ],
+      "sourceIds": [
+        "kaynak-pushsquare-com-0abbe0",
+        "kaynak-kotaku-com-d86b42",
+        "kaynak-powerpyx-com-01c233",
+        "kaynak-powerpyx-com-bc0d4f",
+        "kaynak-powerpyx-com-499e40"
+      ],
+      "category": "Araçlar › Tescil ve garaj",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-mod-shop-modifiye",
+      "title": "Mod Shop ve modifiye: Her dükkân bir araç türünde uzman",
+      "summary": "Genel yükseltmeler her Mod Shop'ta var; uzman ayarlar (specialist tuning) mavi anahtar ikonlu dükkânlarda. Haritada 14 Mod Shop bulunuyor.",
+      "body": [
+        "Push Square: Uzman Mod Shop'ları Harita > Index > Vehicles > Mod Shops altında bul; waypoint koyunca o anki aracın için mevcut yükseltmeleri görürsün.",
+        "PowerPyx: Her Mod Shop bir araç türünde uzmanlaşmış.",
+        "Ultimate Edition: Rideout Customs (donk tarzı jantlar ve iç döşeme) ve Lake Leonida'daki One-Eyed Willie's Auto Shop (arazi modifiyeleri ve elle boyanmış desenler) bu sürüme özel.",
+        "Pay 'n' Spray ayrıca araç satma ve tescil noktası olarak da çalışıyor."
+      ],
+      "sourceIds": [
+        "kaynak-pushsquare-com-0abbe0",
+        "kaynak-powerpyx-com-49649c",
+        "kaynak-powerpyx-com-bc0d4f",
+        "kaynak-powerpyx-com-f5ae8d"
+      ],
+      "category": "Araçlar › Modifiye",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-yakit-tamir",
+      "title": "Yakıt sistemi: Uçaklar dahil her aracın benzine ihtiyacı var",
+      "summary": "GTA 6'da uçak ve helikopterler dahil tüm araçlar yakıt harcıyor; benzin istasyonlarında doluyorsun. Benzin pompaları aynı zamanda en ucuz tamir noktası.",
+      "body": [
+        "PowerPyx: Tüm araçlar yakıta ihtiyaç duyuyor; benzin istasyonlarında doldur. Haritada 57 benzin istasyonu ve 6 araba yıkama var.",
+        "Kotaku: Benzin pompalarında tamir, Scooter Bros uygulamasından daha ucuz.",
+        "Push Square incelemesi de araçlara yakıt doldurmanın oyunun yaşam simülasyonu tarafının bir parçası olduğunu belirtiyor.",
+        "PC Gamer'ın rehber dizisinde satış ya da garaj için arabaları doldurup tamir etmeye ayrılmış bir başlık var."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-49649c",
+        "kaynak-kotaku-com-d86b42",
+        "kaynak-pushsquare-com-006907",
+        "kaynak-powerpyx-com-bc0d4f",
+        "kaynak-pcgamer-com-b3ec06"
+      ],
+      "category": "Araçlar › Yakıt ve tamir",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-ucak-helikopter",
+      "title": "Uçak ve helikopter nerede bulunur?",
+      "summary": "Korumasız pistler ve helipadler en güvenli kaynak. Vice City Uluslararası Havalimanı'ndan tracker'lı jet çalmak aranma seviyesi ve peşine savaş uçakları getiriyor.",
+      "body": [
+        "Mariana County: Jason'ın evinin yakınında, Key Lento pistinde bir uçak var; yakıtı uzun gidiyor, haritayı açmak için ideal.",
+        "Vice-Dale County: Hamlet'in doğusunda helipad, hastane çatısı (her zaman çıkmıyor), Ocean Beach'te otel çatısı ve gökdelen çatıları. Kelly County: Port Gellhorn'un güneyindeki pistte uçak ve helikopter.",
+        "Haritada '(H)' ikonu helipadi gösteriyor; neredeyse her zaman helikopter var. Çalınan hava araçları aynı noktada yeniden çıkıyor.",
+        "Jetler 4 yıldız aranma getiriyor ve yakıtları daha çabuk bitiyor. Paraşütü Ammu-Nation'dan alıp eşya çarkından aç; X/A ile açılıyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-444bb3",
+        "kaynak-powerpyx-com-49649c",
+        "kaynak-powerpyx-com-85cbc8",
+        "kaynak-powerpyx-com-57e355"
+      ],
+      "category": "Araçlar › Tekneler ve uçaklar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-tekneler-deniz-araclari",
+      "title": "Tekneler ve deniz araçları",
+      "summary": "PowerPyx'in veritabanında 28 deniz aracı (watercraft) var. Erken oyunda Kenton'ın dalış turları için tekne kullanıyorsun; Ultimate Edition ise ekstra tekne ve kano veriyor.",
+      "body": [
+        "Kenton'ın 'Island Dreams' görevinde tekneyi açık denizdeki noktaya kendin sürüyorsun.",
+        "Ultimate Edition: Bölüm 1'de Jason'ın evinde Dinka Enduro motosiklet ve Crest Kayak; Bölüm 4'te Washington Beach'te, patlayıcı dolu bir silah sandığıyla gelen Shizu Typhoon Squalo teknesi (sadece Bölüm 4'te).",
+        "Hız teknelerine ve tekne modifiyesine dair ayrıntılar okuduğumuz kaynaklarda sınırlı."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-bc0d4f",
+        "kaynak-gamerant-com-adaa63",
+        "kaynak-powerpyx-com-f5ae8d"
+      ],
+      "category": "Araçlar › Tekneler ve uçaklar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-silah-tasima-limiti",
+      "title": "Silah taşıma limiti: Kaç silah taşıyabilirsin?",
+      "summary": "GTA 6'da cebinde koca bir cephanelik yok. Kaynaklar 2 tabanca ve 2 uzun namlulu silah diyor; ama sırtına sadece bir uzun silah asılabiliyor, ikincisi elinde kalıyor.",
+      "body": [
+        "Game Rant girişte '2 tabanca ve 2 uzun silah' diyor, devamında ise güvenle taşıyabileceğin miktarı 2 tabanca + 1 uzun silah olarak açıklıyor: çarkta iki uzun silah yuvası var ama sırta sadece biri asılıyor.",
+        "İkinci uzun silahı elinde taşımak NPC'lerin ve polisin dikkatini çekiyor. Görünür uzun silahlar heat ikonu da oluşturuyor.",
+        "Fazla silahları kişisel aracının bagajında veya Ammu-Nation'daki silah dolabında (weapon locker) saklıyorsun.",
+        "Kaynaklar arasındaki bu küçük çelişki yüzünden kesin kuralı oyunda kendin kontrol et."
+      ],
+      "sourceIds": [
+        "kaynak-gamerant-com-cc22dc",
+        "kaynak-gtabase-com-9fe70d",
+        "kaynak-insider-gaming-com-9600ea"
+      ],
+      "category": "Silahlar › Taşıma limiti",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-ammu-nation-rehberi",
+      "title": "Ammu-Nation rehberi: Silah, zırh, mühimmat ve paraşüt",
+      "summary": "Silah, zırh, mühimmat, patlayıcı ve paraşüt Ammu-Nation'dan alınıyor. Haritada 24 şube var; 'Expanded Inventory' etiketli dükkânlar en iyi silahları satıyor.",
+      "body": [
+        "İlk Ammu-Nation hikâyede Key Lento'da. Satın almak için kasiyerle konuş.",
+        "Insider Gaming: Ammu-Nation'da harcadıkça daha fazla ürün açılıyor; büyük mağazalarda daha çok silah ve modifikasyon var. Mühimmat, zırh ve patlayıcılar kişisel aracının bagajına otomatik teslim ediliyor.",
+        "PowerPyx: Kasa (safe) patlatmak için patlayıcı şarjları da burada. Haritada ikona gelince 'Expanded Inventory' yazanları seç.",
+        "Ultimate Edition: Duval Signature ES9 (Jason) ve Caminos Signature K17 (Lucia) silah dolabından, Hawk & Little Morgan Revolver kasiyerden alınıyor."
+      ],
+      "sourceIds": [
+        "kaynak-gamerant-com-cc22dc",
+        "kaynak-insider-gaming-com-9600ea",
+        "kaynak-powerpyx-com-49649c",
+        "kaynak-powerpyx-com-bc0d4f",
+        "kaynak-powerpyx-com-f5ae8d",
+        "kaynak-powerpyx-com-0463f0"
+      ],
+      "category": "Silahlar › Ammu-Nation",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-susturucu-eklentiler",
+      "title": "Susturucu ve silah eklentileri (attachments)",
+      "summary": "Ammu-Nation'da kabza, şarjör, nişangâh, namlu ağzı ve taktik eklentiler takabiliyorsun. Susturucu ve fener sahada çıkarılabiliyor, diğer eklentiler için dükkâna dönmen gerekiyor.",
+      "body": [
+        "Insider Gaming: Susturucu ve fener (flashlight) dışarıda keşif yaparken çıkarılabilir; daha kalıcı eklentileri sökmek için Ammu-Nation'a gitmelisin.",
+        "Game Rant: Eklentiler silahın istatistiklerini değiştiriyor; kozmetik boyalar da mevcut.",
+        "Avcılık için iyi bir dürbün (scope) şart: bazı hayvanlar yaklaşınca ürküyor. Eklentiler çoğu Ammu-Nation'da satılıyor.",
+        "Benzersiz (unique) silahlar modifiye edilemiyor."
+      ],
+      "sourceIds": [
+        "kaynak-insider-gaming-com-9600ea",
+        "kaynak-gamerant-com-cc22dc",
+        "kaynak-pushsquare-com-3ca39d"
+      ],
+      "category": "Silahlar › Susturucu ve eklentiler",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-silah-turleri-owned-unowned",
+      "title": "Sahip olunan, sahipsiz ve benzersiz silahlar: Fark ne?",
+      "summary": "Açık mavi ikonlu silahlar satın aldığın (owned) silahlar ve kaybolmuyor. Beyaz ikonlu silahlar yerden aldığın geçici (unowned) silahlar; altın ikonlular ise benzersiz (unique) parçalar.",
+      "body": [
+        "Owned (açık mavi): Ammu-Nation'dan alınır. Kaybolsa ya da düşse bile bagajdan veya silah dolabından geri alınır.",
+        "Unowned (beyaz): Düşmandan ya da gizli yerlerden alınan geçici silahlar. Mermisi bitince genelde atılır, ölünce/yakalanınca kaybolur. Bagajda geçici olarak saklanabilir.",
+        "Unique (sarı/altın): Tek parça silahlar, modifiye edilemez. Silah dolabında standart ve alternatif varyant arasında geçiş yapılabilir. Çete operasyonlarında benzersiz silah varyantları çıkabiliyor.",
+        "100% listesi 66 standart silahın 50'sini istiyor; veritabanında toplam 196 silah (130'u varyant) var."
+      ],
+      "sourceIds": [
+        "kaynak-insider-gaming-com-9600ea",
+        "kaynak-gtabase-com-9fe70d",
+        "kaynak-powerpyx-com-ac8a47",
+        "kaynak-powerpyx-com-63fd47",
+        "kaynak-powerpyx-com-bc0d4f"
+      ],
+      "category": "Silahlar › Silah türleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-silah-carki-esya-carki",
+      "title": "Silah çarkı ve eşya çarkı nasıl kullanılır?",
+      "summary": "Silah çarkı geri döndü ama içinde iki uzun silah yuvası var. Zırh, paraşüt ve iyileştirme eşyaları ise L1/LB ile açılan eşya çarkında.",
+      "body": [
+        "Game Rant: Çarkta iki uzun silah (longarm) yuvası var ama sadece biri sırta asılıyor. Çarkta Daire/B'ye basmak silahı yere bırakıyor.",
+        "Eşya çarkı: L1/LB basılı tut, R1/RB ile sekme değiştir, X/A ile zırh gibi eşyaları aç/kapat. Paraşüt ve zırh aynı slotu paylaşıyor.",
+        "Kısa yollar: Zombix L1+Kare (LB+X), Adrenaline L1+Üçgen (LB+Y). Bandana, gözlük ve şapkayı da eşya çarkından takıp çıkarabiliyorsun.",
+        "Silah dolabında Kare/X silahı bagaja taşır ya da bagajdan alır, X/A kuşanır."
+      ],
+      "sourceIds": [
+        "kaynak-gamerant-com-cc22dc",
+        "kaynak-powerpyx-com-0463f0",
+        "kaynak-powerpyx-com-49649c",
+        "kaynak-powerpyx-com-57e355"
+      ],
+      "category": "Silahlar › Silah çarkı",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-ana-hikaye-yapisi",
+      "title": "Ana hikâye yapısı ve süresi (spoiler'sız)",
+      "summary": "Hikâye 5 bölümden (chapter) oluşuyor ve 60–80 saat sürüyor. Görev tekrarı ve görev altın madalyası yok; hikâye bitince serbest dolaşım devam ediyor.",
+      "body": [
+        "PowerPyx: Hikâye 5 bölüm; yazar 70 saatte bitirmiş, tipik bir oynayış 60–80 saat. Push Square incelemesi ana hikâyeyi yaklaşık 60, yan içerikle 80 saat olarak veriyor.",
+        "Görev tekrarı (mission replay) olmadığı için eski bölümlere sadece manuel kayıtla dönebiliyorsun.",
+        "Ana görevler için altın madalya yok; madalyalar sadece 42 atış poligonu ve 13 yarış meydan okumasında.",
+        "Hikâye sonrası serbest dolaşım açık (bazı hikâyeye özel binalar hariç). Finalden önce geri dönüşü olmayan bir görev zinciri (point of no return) var; öncesinde kayıt al."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-2475d0",
+        "kaynak-powerpyx-com-85cbc8",
+        "kaynak-pushsquare-com-006907",
+        "kaynak-powerpyx-com-07e772",
+        "kaynak-powerpyx-com-11f607"
+      ],
+      "category": "Görevler ve Yan Görevler › Ana hikâye",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-strangers-freaks-genel",
+      "title": "Strangers & Freaks nedir? Genel bakış",
+      "summary": "Strangers & Freaks, Leonida'nın tuhaf karakterlerinden aldığın yan görev zincirleri. Sekiz görev zincirini (strand) bitirmek ilgili kupayı açıyor.",
+      "body": [
+        "PowerPyx: Toplam 39 görev; Bölüm 1'de 5, Bölüm 2'de 11, Bölüm 3'te 17, Bölüm 4'te 6 görev listeleniyor.",
+        "Zincirler bir bölümde başlayıp sonraki bölümde bitebiliyor ve sonraki adımın görünmesi zaman alabiliyor; PowerPyx'e göre bazen birkaç saat gerçek oyun süresi.",
+        "Kaçırılabilir görevler kupaya sayılmıyor ve 100% için gerekli değil. Kupaya sayılan zincirler hikâye sonrası serbest dolaşımda da açık.",
+        "Kupa için 8 zincir lazım; PowerPyx'in açıkça 'sayılır' dediği zincirler Kirk, Kyle, Yago ve Pilot Pete."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-b09fb7",
+        "kaynak-powerpyx-com-49649c"
+      ],
+      "category": "Görevler ve Yan Görevler › Strangers & Freaks",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-strangers-bolum-1-2",
+      "title": "Strangers & Freaks: Bölüm 1 ve 2 görevleri",
+      "summary": "Bölüm 1'de Shirley ve Skunk Ape avcısı Kirk; Bölüm 2'de Kyle, Moses, Bret Vogel ve Billy'nin görevleri seni bekliyor.",
+      "body": [
+        "Shirley: 'Get Shirley's Rum' ve 'Steal the Scooter'. İkisi de Bölüm 1'e özel ve kaçırılabilir.",
+        "Kirk: 'Skunk Apeology 101', 'Search for Tree Effigies', 'Advanced Skunk Apeonomics'. Skunk Ape görevleri sadece gece; sonuncusu sadece Lucia ile.",
+        "Kyle: 'Check Out McKittrick Farm', 'Collect Chemicals for Kyle', 'Buddy?'. Bret Vogel: 'Veteran Hunted' (sadece Jason) ve 'Bret's Hunting Decks' (Bronz 'Fair Game' kupası).",
+        "Billy: 'Thrillbillies', 'Twist Wrist, Smash, Grab', 'Mall Rats', 'The Impaler', 'Hometown Heroes' (Bronz 'The Lone Rider'). PowerPyx'e göre Billy zinciri Strangers & Freaks kupasına sayılmıyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-b09fb7"
+      ],
+      "category": "Görevler ve Yan Görevler › Strangers & Freaks",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-strangers-bolum-3-4",
+      "title": "Strangers & Freaks: Bölüm 3 ve 4 görevleri",
+      "summary": "Bölüm 3 en kalabalık bölüm: Yago, Andy, Yasmani, Randy, Tyrone ve Dunk. Bölüm 4'te Eddie Acosta ve Pilot Pete var.",
+      "body": [
+        "Yago: 'Join a Street Race', 'Bumper to Bumper', 'Race Against Yago', 'Brother to Brother'. 'Race Against Yago' zamana bağlı ve kaçırılabilir; diğer ikisi sadece Jason ile.",
+        "Andy: 'Climbing the Cellerichain' (3 parça), 'Pay the Cellerica Fee', 'Peach!', 'Read the Label', 'Puff Puff Pass' (Bronz 'Road to Rehabilitation'). İlk dördü sadece Lucia.",
+        "Yasmani: Kuyumcu, ATM ve Payday Loans işleri ile 'Tail the Security Van'. Randy: 'Randy's Wish List' (Bronz 'Supply & Demand'). Tyrone: 'Take Out Kitty Litter', 'Spin On This'. Dunk: 'Dunk's Robbery Tips'.",
+        "Bölüm 4: Eddie Acosta'nın partisi (tek görev) ve Pilot Pete'in 'The Last Mile' görevleri ile teslimatları (hepsi sadece Jason)."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-b09fb7"
+      ],
+      "category": "Görevler ve Yan Görevler › Strangers & Freaks",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-randys-wish-list",
+      "title": "Randy's Wish List: Süper araba çalma görevleri",
+      "summary": "Bölüm 3'te 'Clonin' Keys, Makin' GS' görevinden sonra Randy'nin istek listesi açılıyor. Kusursuz durumdaki her süper araba için 30.000 dolar üzeri ödüyor.",
+      "body": [
+        "Takip: Harita > Robberies > Randy's Wish List. Randy bazı arabaları sabit noktalarda işaretliyor; Reminders üzerinden ona mesaj atıp daha fazla konum isteyebilirsin. Push Square'e göre Leonida Auto World'de de ipucu veriyor.",
+        "Çoğu araç Key Cloner ile çalınıyor ve birçoğunda Advanced Tracker var; yavaşlarsan polis haberdar oluyor, hızını koru.",
+        "Araç sayısında kaynaklar çelişiyor: PowerPyx'in para rehberi 18 araba, Push Square 22 araç diyor. Mamba GT orijinal listede yok; birkaç araba topladıktan sonra '¡Dale Mamba!' göreviyle ekleniyor.",
+        "Örnek ipuçları (Push Square): Pegassi Vitello için kapıya patlayıcı koyup arabayı al ve kaçarken patlat; Bravado Banshee'yi Capri'deki Sweetbay Inn önünde gece 3 civarı bulmuşlar."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-11f607",
+        "kaynak-pushsquare-com-0a5399",
+        "kaynak-powerpyx-com-499e40",
+        "kaynak-powerpyx-com-ae18c4"
+      ],
+      "category": "Görevler ve Yan Görevler › Randy's Wish List",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-kacirilabilir-icerik",
+      "title": "Kaçırılabilir görevler ve içerikler",
+      "summary": "Bazı yan görevler ve fence'ler belirli bölümlerden sonra kapanıyor. 100% listesindeki hiçbir şey kaçırılabilir değil ama bazı ufak içerikler bir daha gelmiyor.",
+      "body": [
+        "Shirley'nin iki görevi Bölüm 1'e özel ve kaçırılabilir. Yago'nun 'Race Against Yago' görevi zamana bağlı.",
+        "Jason'ın evindeki ilk meditasyon sadece Bölüm 1'de yapılabiliyor; ama 100% için 18'in 15'i yeterli.",
+        "Fence'ler: Brian Bölüm 1'den sonra, Donnie 'Swamped' görevinden sonra kapanıyor. Ev TV'sindeki video oyunları Bölüm 2'de kilitli.",
+        "PowerPyx'e göre 100% Completion Checklist'teki hiçbir şey kaçırılabilir değil; kupalar için ise yaklaşık %60 gerçek tamamlanma gerekiyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-b09fb7",
+        "kaynak-powerpyx-com-898d1f",
+        "kaynak-powerpyx-com-499e40",
+        "kaynak-powerpyx-com-63fd47",
+        "kaynak-powerpyx-com-2475d0"
+      ],
+      "category": "Görevler ve Yan Görevler › Kaçırılabilir içerik",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-ultimate-edition-icerikleri",
+      "title": "Ultimate Edition ödülleri nasıl alınır?",
+      "summary": "Ultimate Edition içerikleri tek seferde gelmiyor; hikâye ilerledikçe açılıyor. 5 dükkân, 4 silah, araçlar, kıyafetler, bir çete soygunu ve 'Find Cars for Wyman' görevi var.",
+      "body": [
+        "Dükkânlar: Rideout Customs, One-Eyed Willie's Auto Shop, Stock 305 (Stockyard), Sara's Unisex Salon, Electric Fang Tattoo.",
+        "Araçlar: Jason'ın evinde Dinka Enduro ve Crest Kayak (Bölüm 1); '67 Vapid Dominator Buggy, '55 Vapid Stanier ve '95 Grotti Cheetah ilgili bölümlerde haritada mor ikonla işaretleniyor.",
+        "Kıyafetler: Good Time Gear (Bölüm 4) ve Vice City Style (Bölüm 5) setleri gardıroba ekleniyor.",
+        "Find Cars for Wyman: Dominator Buggy'yi aldıktan sonra açılıyor ve beş klasik araba yeniden yapımı ödül veriyor; görevleri 100% listesine sayılıyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-f5ae8d"
+      ],
+      "category": "Görevler ve Yan Görevler › Ultimate Edition",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-koleksiyon-genel-bakis",
+      "title": "Tüm koleksiyon türleri: Yaklaşık 3.000 toplanabilir",
+      "summary": "PowerPyx'e göre GTA 6'da yaklaşık 3.000 toplanabilir var: 557 araç, 196 silah, 255 hayvan, 480 kart, 125 kokain flamingosu, 397 akrobasi ve daha fazlası.",
+      "body": [
+        "İlerlemeyi Map > Progress altındaki veritabanından takip edersin. Bazı alt kategoriler ilk örneği bulunca görünür hâle geliyor.",
+        "Keşif: 33 sualtı keşfi, 27 dergi/kitap/çizgi roman, 7 kitap takası, 18 meditasyon, 125 kokain flamingosu, 2 özel çalma listesi (Unique Playlists), 79 stil.",
+        "Sanat: 112 Ahol sokak sanatı ve 5 '1010 Murals' WAiNK ile taranıyor; bunlar 100 WAiNK taramasına sayılmıyor.",
+        "Hikâye sonrası 61 hile kodu (cheat) açılıyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-bc0d4f",
+        "kaynak-powerpyx-com-2475d0",
+        "kaynak-powerpyx-com-3746b2"
+      ],
+      "category": "Koleksiyonlar › Tüm koleksiyon türleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-100-tamamlama-listesi",
+      "title": "100% Completion Checklist: Ne gerekiyor?",
+      "summary": "100% listesi hikâye bitince açılıyor ve 3 kategoride 35 gereksinim içeriyor. PowerPyx listeyi yaklaşık 200 saat, gerçek %100'ü 300 saatin üzeri olarak tahmin ediyor.",
+      "body": [
+        "Görüntüleme: Progress > Stats > 100% Completion. Liste kategorileri: Hikâye ve Görevler (12), Keşif ve Aktiviteler (20), Keşif/Discovery (3).",
+        "Örnek hedefler: 100 opsiyonel görev, 39 çete operasyonu, 22 banka işi, 8 kasa, 15/18 kart seti, 100 WAiNK, 100/125 flamingo, 300/397 akrobasi, 70/80 meydan okuma.",
+        "Fence hedefleri: 100.000 dolar uyuşturucu, 100.000 dolar mücevher, 250.000 dolar boyalı para ve 200.000 dolar araç satışı.",
+        "Discovery: WAiNK ile 277 temel modelden 200 araç taraması, 66 standart silahtan 50'si ve 255 hayvandan 100'ünü dürbünle incelemek. Avlanmak sadece Bret'in görevleri için şart."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-63fd47",
+        "kaynak-powerpyx-com-2475d0"
+      ],
+      "category": "Koleksiyonlar › 100% tamamlama",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-koleksiyon-kart-setleri",
+      "title": "Koleksiyon kart setleri: 18 set, 480 kart",
+      "summary": "Kartlar binaların içinde yüzeylerde veya duvarlarda, dışarıda ise sarı telefon kutularında ve alet kutularında duruyor. 15 set tamamlamak 100% için gerekiyor.",
+      "body": [
+        "Setlerden bazıları: Vice City Flamingos, Vice City Narcos, Liberty City Swingers, Los Santos Corkers, Backyard Wrestling, Delights Dancers, Jack of Hearts Dancers, Nine1Nine Dancers, The Legends of Ratface, Ed Comics Universe.",
+        "Bazı kartların renk versiyonları (Bronz/Gümüş/Altın veya Kırmızı/Mavi/Mor) ayrı kart sayılıyor. Kopyalar set ilerlemesine sayılmıyor.",
+        "Kupalar: 3 set için 'Don't Touch My Deck', 15 set için 'A Long Road'. 15 set için seçtiğin setlere göre en az 372 kart gerekiyor.",
+        "Kartları rehincide 20 dolardan 1.000 doların üzerine kadar satabilirsin; satmak koleksiyondan silmiyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-3b92a1"
+      ],
+      "category": "Koleksiyonlar › Kart setleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-kokain-flamingolari",
+      "title": "Kokain flamingoları (Cocaine Flamingos) nasıl bulunur?",
+      "summary": "İçinde kokain paketi saklı pembe flamingo heykelleri. Siyah-beyaz gagalı olanları vurursan koleksiyona sayılıyor; 125'ten 100'ü 100% için gerekiyor.",
+      "body": [
+        "Gagası siyah-beyaz olan flamingoları vur; siyah-sarı gagalılar koleksiyon değil ve kırılmıyor.",
+        "İlerleme: Progress Menu > Collections > Exploration > Cocaine Flamingos (ilkini bulunca görünür).",
+        "Çıkan kokaini bir fence'e satabilirsin; bu 100% için gerekmiyor ama 100.000 dolarlık uyuşturucu satış hedefine katkı sağlıyor.",
+        "PowerPyx'e göre Mariana County'deki Belpoint'te çok sayıda flamingo var, başlangıç için iyi bir yer."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-96cb0e",
+        "kaynak-powerpyx-com-63fd47"
+      ],
+      "category": "Koleksiyonlar › Kokain flamingoları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-waink-taramalari",
+      "title": "WAiNK taramaları: Simge yapılar, heykeller ve tuhaflıklar",
+      "summary": "Yakınında bir tarama noktası varsa kumandan titrer, ses gelir ve sağ altta bildirim çıkar. 100 WAiNK taraması hem kupa hem 100% için gerekiyor.",
+      "body": [
+        "Tarama: Yukarı yön tuşunu basılı tutup telefonun tarama uygulamasını aç ve nesnedeki WAiNK yıldız patlaması (starburst) ikonunu tara.",
+        "Kategoriler: Landmarks (31), Curiosities (35), Sculptures (23), No Flusher Tags (yerdeki renkli sprey işaretleri) ve henüz açıklanmamış bir set.",
+        "100 tarama 'You WAiNKer!' kupasını açıyor. Ahol Street Art ve 1010 Murals ayrı koleksiyon, 100'e sayılmıyor.",
+        "Kotaku: Yürürken kumandada güçlü bir titreşim hissedersen etrafta taranacak bir şey var demektir."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-3746b2",
+        "kaynak-kotaku-com-d86b42"
+      ],
+      "category": "Koleksiyonlar › WAiNK taramaları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-meditasyon-noktalari",
+      "title": "Meditasyon noktaları: 10 nokta, 18 meditasyon",
+      "summary": "Lucia meditasyonu Bölüm 1'de tanıtıyor. 10 noktada toplam 18 meditasyon var; Bölüm 2'den sonra bir noktayı iki karakterle de yaparsan 2 meditasyon sayılıyor.",
+      "body": [
+        "Mor ikonlu noktalar yaklaşınca haritada beliriyor. Takip: Map > Exploration > 'Meditate Around Leonida'.",
+        "Örnek noktalar: Capri'nin batısındaki kum adası (Smooth Sand), Buckskin Swamp'taki iskele, Manifest Canyon'daki Red Rocks, Mount Kalaga zirvesindeki taş çember (diğerlerini bitirince açılıyor).",
+        "100% için 18'in 15'i yeterli; hepsini yapmak 'Positive Mental Attitude' kupasını veriyor.",
+        "Jason'ın evindeki ilk meditasyon kaçırılabilir ve sadece Bölüm 1'de var."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-898d1f"
+      ],
+      "category": "Koleksiyonlar › Meditasyon noktaları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-sualti-dergi-stiller",
+      "title": "Sualtı keşifleri, dergiler, stiller ve lüks saatler",
+      "summary": "33 sualtı keşfi Kenton'ın görev zincirine bağlı. Dergileri taramak ve lüks saatleri toplamak yeni stiller (Styles) açıyor.",
+      "body": [
+        "Sualtı keşifleri (Underwater Discoveries): 33 tane, hepsi 100% için gerekli; Kenton'ın görev zincirinin parçası.",
+        "Dergi, kitap ve çizgi romanlar: Veritabanında 27, 100% listesinde 34'ün 30'u isteniyor (kaynak içindeki sayı farkına dikkat). Ayrıca 7 kitap takası (Book Swap) noktası var.",
+        "Styles (79): Jason'ın dergisi 13, Lucia'nın dergisi 15, dergi dövmeleri 17 ve 34 lüks saat. 100% için 70 stil gerekiyor.",
+        "Lüks saatler çoğu zaman çete operasyonlarındaki değerli eşyalar arasında çıkıyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-bc0d4f",
+        "kaynak-powerpyx-com-63fd47",
+        "kaynak-powerpyx-com-ac8a47"
+      ],
+      "category": "Koleksiyonlar › Diğer koleksiyonlar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-arac-hayvan-silah-veritabani",
+      "title": "Araç, hayvan ve silah veritabanını doldurmak",
+      "summary": "Arabaları WAiNK ile tarayıp hayvanları dürbünle inceleyerek veritabanına ekliyorsun. 557 araç ve 255 hayvan türü var.",
+      "body": [
+        "Araçlar: Yukarı yön tuşunu basılı tutarak aracı tara; WAiNK uygulamasını açmaktan daha hızlı. 100% için 277 temel modelden 200'ü lazım; 'standout' araçlar sayılmıyor.",
+        "Hayvanlar: Dürbünle bak ve R1/RB'yi basılı tut. 255 hayvanın 100'ü gerekli; kategoriler arasında 61 av hayvanı, 35 balık, 60 kuş ve 34 kedi/köpek var.",
+        "Silahlar: Ammu-Nation'dan alarak ya da düşmanlardan toplayarak 66 standart silahın 50'sini kaydet.",
+        "Kotaku: Dürbünle ya da nişan alarak düşmanları işaretleyip (tag) takip edebiliyorsun."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-49649c",
+        "kaynak-powerpyx-com-63fd47",
+        "kaynak-powerpyx-com-bc0d4f",
+        "kaynak-kotaku-com-d86b42"
+      ],
+      "category": "Koleksiyonlar › Keşif veritabanı",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-avcilik-bret-target-decks",
+      "title": "Avcılık rehberi: Bret Vogel'ın Target Deck siparişleri",
+      "summary": "Avcılık Bölüm 2'de 'Coffee Break' sonrası Bret Vogel'ın 'Veteran Hunted' göreviyle (sadece Jason) başlıyor. 15 Target Deck var ve Bret sadece 'Pristine' veya 'Good' durumdaki hayvanları kabul ediyor.",
+      "body": [
+        "Her desteyi bitirince Bret sıradakini mesajla gönderiyor; mesajlar hayvanın alışkanlıklarına (gece mi çıkıyor gibi) ipucu veriyor.",
+        "Kaliteli av için doğru mühimmatı kullan ve kafa ya da kalp gibi hayati noktalara temiz vur. L3+R3 ile Odak modunda hayvanın hayati noktalarını görürsün.",
+        "Ekipman: İyi bir dürbünlü tüfekle uzaktan avla. Push Square yazarı geyik ve domuz için Shrewsbury SM-69, hindi ve kokarca için Wortham W-22 kullanmış.",
+        "Taşıma: Ayı ve yaban domuzu gibi büyük hayvanları Bret kendisi topluyor; küçük hayvanlar için uygun bir araç (ör. pikap) lazım. İlk deste: Whitetail Buck ve Whitetail Doe."
+      ],
+      "sourceIds": [
+        "kaynak-pushsquare-com-3ca39d",
+        "kaynak-powerpyx-com-b09fb7",
+        "kaynak-powerpyx-com-63fd47"
+      ],
+      "category": "Aktiviteler › Av",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-balik-tutma",
+      "title": "Balık tutma",
+      "summary": "Veritabanında 35 balık türü var. PowerPyx'e göre balık tutmak Odak (Focus) statını geliştiren aktivitelerden biri.",
+      "body": [
+        "Balıklar, 255 hayvanlık veritabanında ayrı bir kategori (35 tür) olarak sayılıyor.",
+        "PowerPyx balık tutmayı golf ve bilardoyla birlikte Odak kazandıran aktiviteler arasında sayıyor.",
+        "Not: Balık tutma kontrolleri ve ödülleri hakkında okuduğumuz çıkış haftası kaynaklarında ayrıntı sınırlı."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-bc0d4f",
+        "kaynak-powerpyx-com-8b2fd1"
+      ],
+      "category": "Aktiviteler › Balık",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-golf-ve-mini-golf",
+      "title": "Golf ve mini golf sahaları",
+      "summary": "Oyunda 3 mini golf ve 2 normal golf sahası var. 100% için sadece iki mini golf sahasını bitirmen yeterli.",
+      "body": [
+        "Mini golf: King Gator Adventure Golf (Buckskin Swamp), Frontier Adventure Golf (Waning Sands), Dino Golf Challenge (Frogswater).",
+        "Normal golf: Leaf Links Golf Challenge (Vice Beach) ve Mount Hailes Golf Challenge (Mount Hailes Club, Waning Sands).",
+        "Oynadığın sahaları ve en iyi skorlarını Progress Menu > Activities > Sports altında görürsün.",
+        "Golf oynamak Odak statını da geliştiriyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-627c09",
+        "kaynak-powerpyx-com-8b2fd1",
+        "kaynak-pushsquare-com-006907"
+      ],
+      "category": "Aktiviteler › Golf",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-yarislar-rehberi",
+      "title": "Yarışlar: 40 benzersiz yarış ve 6 lokasyon",
+      "summary": "40 benzersiz yarış altı lokasyona dağılmış. 20 galibiyet kupa için, herhangi 30 galibiyet 100% için yeterli.",
+      "body": [
+        "Hit 'N Run VC (9 yarış, Vice City, 'Join a Street Race' sonrası), Animal Crackers (8), Gellhorn International Raceway (11, önce 'Keep it PG' amatör serisi), Boone Speedway (2), Ambrosia Raceway (2), Thrillbilly Mud Club (8, Billy'nin 'Thrillbillies' zinciriyle).",
+        "Lokasyonlar 100 metre yakınına gelince mavi ikonla açılıyor; Map > Activities > Racing filtresi.",
+        "Her yarışta giriş ücreti ve araç kiralama ücreti var ama kazanırsan kâra geçiyorsun. 20 galibiyet 'Earn Cash, Not Kudos' kupasını açıyor.",
+        "Ayrıca 13 Race Challenge altın madalyası ve 14 noktada 42 Top Fun Drone Race zaman denemesi var."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-a1c53e",
+        "kaynak-powerpyx-com-bc0d4f",
+        "kaynak-powerpyx-com-63fd47"
+      ],
+      "category": "Aktiviteler › Yarış",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-akrobasi-stunt-atlayislari",
+      "title": "Akrobasi atlayışları ve diğer stunt'lar: 397 meydan okuma",
+      "summary": "Toplam 397 stunt var: 130 stunt jump, 202 köprü altından uçuş, 40 knife flight ve 25 base jump. 100% için herhangi 300'ü yeterli.",
+      "body": [
+        "250 stunt 'Cunning Stunts' kupasını açıyor. 100% için kategoriden bağımsız 300 tane yeter, yani en zor 97'yi atlayabilirsin.",
+        "Her stunt jump'ın küçük bir meydan okuması var ama 100% için atlayışı yapmak yeterli, meydan okumayı tutturman gerekmiyor.",
+        "Takip: Map > Exploration > Stunt Spots > Stunt Jumps. Bulunanlar mor, tamamlananlar beyaz görünüyor.",
+        "Bölge dağılımı (stunt jump): Mariana 17, Vice-Dale 55, Leonard 13, Kelly 29, Lummox 16."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-96e5c9"
+      ],
+      "category": "Aktiviteler › Akrobasi atlayışları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-kulupler-barlar-gece-hayati",
+      "title": "Kulüpler, barlar ve gece hayatı",
+      "summary": "Haritada 122 bar var. Delights, Jack of Hearts ve Nine1Nine kulüpleri kart setlerinde de yer alıyor; The Vault gece kulübünün kendi radyosu bile var.",
+      "body": [
+        "PowerPyx'in mekân listesinde 122 bar bulunuyor; barlar, tavernalar ve kafelerde 7 sabit bilardo rakibi var (100% için 5'i).",
+        "Kart setlerinden üçü kulüp dansçılarına ayrılmış: Delights Dancers, Jack of Hearts Dancers ve Nine1Nine Dancers.",
+        "Downtown'daki The Vault gece kulübünde girişteki kırmızı afişi tararsan 'The Vault Radio' çalma listesi açılıyor. Crosstown'daki Jack of Hearts kulübünün ikinci katında da bir çalma listesi afişi var.",
+        "PC Gamer'ın rehber dizisinde striptiz kulübü konumlarına ayrılmış bir sayfa bulunuyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-bc0d4f",
+        "kaynak-powerpyx-com-63fd47",
+        "kaynak-powerpyx-com-3b92a1",
+        "kaynak-powerpyx-com-66701c",
+        "kaynak-pcgamer-com-b3ec06"
+      ],
+      "category": "Aktiviteler › Kulüpler",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-diger-aktiviteler",
+      "title": "Diğer aktiviteler: Atış poligonu, basketbol, arcade, drone yarışı",
+      "summary": "Atış poligonları, 100 basketbol potası, arcade oyunları, bilardo ve drone yarışları açık dünyada seni bekliyor.",
+      "body": [
+        "Atış poligonu: Griffin veya Rodgers Ranch'te 5 dolarlık Waiver Pass ile 14 meydan okuma ve 42 altın madalya; hepsi 100% için gerekli.",
+        "Basketbol: 100 pota, 90'ı 100% için. Bilardo: 7 rakip, 5'i gerekli.",
+        "Video oyunları: Evdeki TV'de 3 oyun (Bölüm 2'de kilitli) ve arcade makinelerinde 1 oyun.",
+        "Top Fun Drone Races: 14 noktada 42 zaman denemesi; her noktadaki üçüncü yarışı sadece bitirmen yeterli."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-63fd47",
+        "kaynak-powerpyx-com-bc0d4f"
+      ],
+      "category": "Aktiviteler › Diğer aktiviteler",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-telefon-uygulamalari-listesi",
+      "title": "GTA 6 telefon uygulamaları ve ne işe yaradıkları",
+      "summary": "Telefon Yukarı yön tuşuyla açılıyor. WAiNK, RydeMe, Scooter Bros, BuckMe, WhatUp, Fitness App, Snapmatic, Vice City Real Estate ve Reminders en çok kullanacağın uygulamalar.",
+      "body": [
+        "WAiNK: Araç ve nesne tarama; güvenlik seviyesi, gereken aletler, tracker seviyesi, tescil maliyeti ve satış değeri. RydeMe: Taksi tabanlı hızlı seyahat (Bölüm 2).",
+        "Scooter Bros: Sahip olduğun aracı ücret karşılığı getirir, tamir eder, çekilmiş aracı kurtarır. BuckMe: Banka ve ödeme (ATM Finder dahil). WhatUp: Mesajlaşma; bağlantılar kasa şifresi gibi bilgiler gönderebiliyor.",
+        "Fitness App: Antrenman durumunu takip eder. Vice City Real Estate: Garaj ve park yeri satın alma.",
+        "Not: WAiNK, RydeMe, Scooter Bros, BuckMe, Vice City Real Estate, Reminders, Fitness App, Snapmatic ve News çıkış haftası rehberlerinde (Kotaku, Push Square, PowerPyx) geçiyor. WhatUp bilgisi GTA BOOM'un çıkış öncesi (Ekim 2026) yazısından."
+      ],
+      "sourceIds": [
+        "kaynak-gtaboom-com-bfe24c",
+        "kaynak-pushsquare-com-0abbe0",
+        "kaynak-kotaku-com-d86b42",
+        "kaynak-powerpyx-com-49649c",
+        "kaynak-powerpyx-com-8b2fd1"
+      ],
+      "category": "Telefon ve Uygulamalar › Telefon uygulamaları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-reminders-hatirlaticilar",
+      "title": "Reminders sekmesi: Önemli mesajları kaçırma",
+      "summary": "Telefonu açıp Kare'ye basınca Reminders sekmesi açılıyor. Haberler ve cevabını bekleyen NPC'ler burada toplanıyor; bazı görevlerin devamı da buradan geliyor.",
+      "body": [
+        "Push Square: Yukarı ile telefonu aç, Kare ile Reminders. Oyun içi haberler ve yanıt bekleyen NPC'ler burada.",
+        "Kotaku: Jason ve Lucia'nın telefon hatırlatmaları hikâye anlarını ve ek diyalogları açığa çıkarıyor.",
+        "PowerPyx: Randy'ye Reminders üzerinden mesaj atarak istek listesindeki arabalar için daha fazla konum isteyebilirsin."
+      ],
+      "sourceIds": [
+        "kaynak-pushsquare-com-0abbe0",
+        "kaynak-kotaku-com-d86b42",
+        "kaynak-powerpyx-com-11f607"
+      ],
+      "category": "Telefon ve Uygulamalar › Telefon uygulamaları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-snapmatic-haberler",
+      "title": "Snapmatic ve News: Sosyal akış ve gizli işaretler",
+      "summary": "Snapmatic'te gönderilere göz atıp hesapları takip edebiliyorsun ama kendi fotoğrafını paylaşamıyorsun. Snapmatic ve News uygulamaları bazen haritada ilgi noktaları işaretliyor.",
+      "body": [
+        "GTA BOOM: Jason ve Lucia dijital iz bırakmamak için kendi fotoğraflarını yayımlamıyor; oyunda ayrı bir fotoğraf modu (photo mode) var.",
+        "PowerPyx: Snapmatic ve News uygulamaları bazen haritada ilgi noktalarını (points of interest) işaretliyor.",
+        "Telefonda On Demand bölümü, Unique Playlists koleksiyonuyla açılan 'The Sniper of La Perle' gibi içerikleri de barındırıyor."
+      ],
+      "sourceIds": [
+        "kaynak-gtaboom-com-bfe24c",
+        "kaynak-powerpyx-com-49649c",
+        "kaynak-powerpyx-com-66701c"
+      ],
+      "category": "Telefon ve Uygulamalar › Telefon uygulamaları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-radyo-istasyonlari-listesi",
+      "title": "GTA 6 radyo istasyonları: Tam liste",
+      "summary": "Game Rant çıkış öncesi 20 istasyon listeliyor; GTABase ise bunlara henüz şarkı listesi olmayan 'The Wipe'ı ekleyerek 21 istasyon sayıyor.",
+      "body": [
+        "Pop/Dans: Flash FM, Stockyard FM, Vice City FM (80'ler new wave), Emotion 98.3 (soft rock), Kaleidoscope FM, CircoLoco Records Radio.",
+        "Hip-hop/R&B: VCRR, Dirty South Classics, Honey FM. Latin: Cocoteo FM (reggaeton), Radio La Ola (salsa). Afrika: AfroBank FM. Reggae/dub: Radio On-U.",
+        "Rock/Metal: V-Rock, The Chamber 106.6. Diğer: Back Country Radio (country), Gloriana Blues Radio, Leonida Jazz Radio, Symphony FM (klasik), Worldwide FM (soul, funk, world).",
+        "Kaynak farkı: İstasyon ve şarkı sayıları kaynaklara göre değişiyor (Game Rant Flash FM'de yaklaşık 59, GTABase 32 şarkı listeliyor). Game Rant listenin güncelleneceğini belirtiyor."
+      ],
+      "sourceIds": [
+        "kaynak-gamerant-com-6a3c87",
+        "kaynak-gtabase-com-f2079b"
+      ],
+      "category": "Radyo ve Müzik › Radyo istasyonları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-radyo-sanatcilar",
+      "title": "Hangi istasyonda kim çalıyor? Öne çıkan sanatçılar",
+      "summary": "Bad Bunny'den Metallica'ya, Phil Collins'ten OutKast'e: GTA 6 radyosunda her türden büyük isim var.",
+      "body": [
+        "Flash FM: Daft Punk, Taylor Swift, Mariah Carey, Charli xcx (kaynaklara göre). VCRR: Drake, Future, Migos, Pop Smoke.",
+        "Cocoteo FM: Bad Bunny, Romeo Santos, Rauw Alejandro. Radio La Ola: Celia Cruz, Willie Colón, Gloria Estefan.",
+        "V-Rock: Van Halen, Bon Jovi, Whitesnake. The Chamber 106.6: Metallica, Black Sabbath, Slayer.",
+        "Emotion 98.3: Phil Collins, Heart, Genesis. Dirty South Classics: OutKast, Lil Wayne. Back Country Radio: Loretta Lynn, George Strait. Oyunun orijinal müziği (score) Justice imzalı."
+      ],
+      "sourceIds": [
+        "kaynak-gamerant-com-6a3c87",
+        "kaynak-gtabase-com-f2079b"
+      ],
+      "category": "Radyo ve Müzik › Radyo istasyonları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-unique-playlists-on-demand",
+      "title": "Gizli çalma listeleri (Unique Playlists) ve On Demand",
+      "summary": "Dünyadaki afişleri tarayarak iki özel çalma listesi açabiliyorsun: 'The Sniper of La Perle' (4 afiş) ve 'The Vault Radio' (1 afiş). İkisi de 100% için gerekli.",
+      "body": [
+        "The Sniper of La Perle: La Perle'deki Aunt Zola's Soul Food, TWA Ponya Tattoo ve Drip Drops mağazalarında, bir de Crosstown'daki Jack of Hearts kulübünün ikinci katında afiş var. On Demand > The Sniper of La Perle altında dinlenir.",
+        "The Vault Radio: Downtown'daki The Vault gece kulübünün girişindeki kırmızı afiş. Radio > The Vault altında dinlenir.",
+        "Çalma listelerini araba radyosundan ya da kulaklıkla dinleyebiliyorsun. Bir afişin taranıp taranmadığını tekrar gitmeden anlayamıyorsun.",
+        "GTABase, telefona bağlı kulaklıklarla yürürken de dinlenebilen podcast'leri (On Demand) yeni özellik olarak listeliyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-66701c",
+        "kaynak-gtabase-com-f2079b"
+      ],
+      "category": "Radyo ve Müzik › Çalma listeleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-fps-performans",
+      "title": "GTA 6 kaç FPS? 30 FPS hedefi ve performans modu",
+      "summary": "Rockstar tüm konsollarda 30 FPS hedeflediğini açıkladı; çıkışta 60 FPS performans modu yok. PS5 Pro'da da kare hızı değişmiyor, görüntü netliği ve gölgeler iyileşiyor.",
+      "body": [
+        "Game Informer'ın aktardığı Rockstar açıklamasına göre oyun 'iki platformu da sınırlarına zorlarken' 30 FPS hedefliyor.",
+        "Beebom: Rockstar'ın 10 Kasım Newswire yazısı, ortamların yoğunluğunu ve görsel kalitesini korumak için 30 FPS seçildiğini belirtiyor; PS5 Pro için de performans modu yok.",
+        "Push Square incelemesi (PS5 Pro): Kare akışı (frame pacing) sağlam, jetle uçarken ya da hızlı kovalamacada bile çok az yavaşlama var; patlamalı ağır sahnelerde küçük düşüşler oluyor.",
+        "Game Informer'a göre PS5 Pro'da bile kare hızı hedefi aynı; Pro'nun farkı görüntü netliği ve gölgelerde."
+      ],
+      "sourceIds": [
+        "kaynak-gameinformer-com-6d16dc",
+        "kaynak-beebom-com-ea830c",
+        "kaynak-pushsquare-com-006907"
+      ],
+      "category": "Teknik ve Hatalar › Performans / FPS",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-ps5-xbox-farklari",
+      "title": "PS5, PS5 Pro ve Xbox Series X|S farkları",
+      "summary": "PS5 Pro'ya özel PSSR netlik iyileştirmesi ve ışın izlemeli (ray-traced) gölgeler var. PS5'te DualSense haptik ve Tempest 3D ses desteği; Xbox'ta ise Cloud Gaming desteği bulunuyor.",
+      "body": [
+        "PS5 Pro: PlayStation Spectral Super Resolution (PSSR) ile daha net görüntü ve sadece Pro'ya özel ray-traced gölgeler. FPS hedefi yine 30.",
+        "PS5 ve PS5 Pro: DualSense'e tam entegre yüksek çözünürlüklü haptik geri bildirim (erişilebilirlik ayarlarından ayarlanabilir), Tempest 3D ses için geliştirilmiş uzamsal ses ve daha hızlı yükleme süreleri.",
+        "Xbox: Cloud Gaming Xbox Series X|S ve Xbox One'da mevcut ve Series S grafik ayarlarını kullanıyor. Remote Play her iki platformda destekleniyor.",
+        "Push Square incelemesi DualSense adaptif tetiklerin fazla sert olduğunu not ediyor."
+      ],
+      "sourceIds": [
+        "kaynak-gameinformer-com-6d16dc",
+        "kaynak-pushsquare-com-006907"
+      ],
+      "category": "Teknik ve Hatalar › PS5/Xbox farkları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-ps5-zorunlu-guncelleme",
+      "title": "PS5'te açılmıyor mu? Zorunlu güncelleme ve lisans doğrulama hataları",
+      "summary": "Sony, GTA 6 için PS5 sistem yazılımı v14.23.00'ı (yaklaşık 1,3 GB) zorunlu tuttu. Çıkış gecesi lisans doğrulaması yüzünden PSN'de aralıklı sorunlar yaşandı; çoğu yeniden başlatmayla düzeliyor.",
+      "body": [
+        "Push Square'e göre PlayStation Support, bu güncellemenin GTA 6'yı oynamadan önce gerekli olduğunu açıkladı.",
+        "Oyun açılmıyorsa önce Ayarlar > Sistem > Sistem Yazılımı'ndan güncel sürümde olduğunu kontrol et.",
+        "Push Square: Oyunun çok oyunculu modu olmamasına rağmen dijital lisans doğrulaması yüzünden Sony sunucuları çıkış saatinde ciddi yük altındaydı.",
+        "Downdetector birkaç saat boyunca dağınık kesinti raporları gösterdi; Sony'nin durum sayfası ise her şeyin çalıştığını söyledi.",
+        "Önerilen çözüm: Konsolu yeniden başlatmak çoğu sorunu çözüyor. Okuyucu yorumlarında lisansın birkaç dakikalık sunucu hatasından sonra doğrulandığı bildiriliyor (doğrulanmamış kullanıcı raporları)."
+      ],
+      "sourceIds": [
+        "kaynak-pushsquare-com-d2663b",
+        "kaynak-pushsquare-com-d4405c"
+      ],
+      "category": "Teknik ve Hatalar › Sık hatalar ve çözümleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-indirme-boyutu-yavas-indirme",
+      "title": "212 GB'lık indirme: Yavaş indirme nasıl hızlanır?",
+      "summary": "GTA 6'nın tam indirme boyutu yaklaşık 212 GB. Game Rant, arka plan uygulamalarını kapatmayı, kablolu bağlantıyı ve DNS değiştirmeyi öneriyor.",
+      "body": [
+        "Arka plandaki oyun ve uygulamaları kapat; Game Rant'e göre bunlar indirme hızını yarıdan fazla düşürebiliyor.",
+        "İndirmeyi 30–60 saniye duraklatıp devam ettirmek daha az yoğun bir sunucuya bağlanmanı sağlayabilir. Mümkünse Ethernet (Cat6) veya 5 GHz Wi-Fi kullan.",
+        "DNS: Google (8.8.8.8 / 8.8.4.4) veya Cloudflare (1.1.1.1 / 1.0.0.1) denenebilir.",
+        "PS5'te Dinlenme Modu'nda 'İnternete Bağlı Kal' seçeneğini, Xbox'ta güç modunu Sleep olarak ayarla ki indirme uykuda durmasın."
+      ],
+      "sourceIds": [
+        "kaynak-gamerant-com-5d1d5c"
+      ],
+      "category": "Teknik ve Hatalar › Sık hatalar ve çözümleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-bilinen-hatalar-durumu",
+      "title": "Bilinen hatalar ve yamalar: Çıkış haftası durumu",
+      "summary": "Okuduğumuz kaynaklarda Rockstar'ın çıkış haftası için yayımladığı resmî bir bilinen hata listesi ya da yama notu yok. En güvenli koruma sık sık manuel kayıt almak.",
+      "body": [
+        "Push Square'in 10/10 verdiği PS5 Pro incelemesi belirli bir hata listelemiyor; olumsuzluk olarak 60 FPS seçeneğinin olmaması, sert adaptif tetikler ve oyun sonundaki dayanıklı (bullet sponge) düşmanları sayıyor.",
+        "Otomatik kayıt tek slot olduğu ve eski kaydı yüklemek onun üzerine yazdığı için slotları dönüşümlü kullan.",
+        "Bağlantı ve lisans sorunlarında konsolu yeniden başlatmak Push Square'in önerdiği ilk adım.",
+        "Not: Bu sayfa sınırlı bilgiyle yazıldı; resmî yama notları çıktıkça güncellenecek."
+      ],
+      "sourceIds": [
+        "kaynak-pushsquare-com-006907",
+        "kaynak-powerpyx-com-07e772",
+        "kaynak-pushsquare-com-d4405c"
+      ],
+      "category": "Teknik ve Hatalar › Sık hatalar ve çözümleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-gta-6-online-durumu",
+      "title": "GTA 6'da online mod var mı?",
+      "summary": "Hayır. GTA 6 çıkışta tamamen tek oyunculu ve Rockstar henüz GTA 6 için bir online mod açıklamadı. 2027 tahminleri resmî değil.",
+      "body": [
+        "Push Square: Oyun şu anda 'tamamen tek oyunculu bir deneyim' ve Rockstar GTA 6 için online çok oyunculu moddan henüz söz etmedi.",
+        "Push Square online modun büyük ihtimalle 2027'nin ilk aylarında gelebileceğini tahmin ediyor; bu resmî bir tarih değil. PC sürümüyle aynı zamana denk gelebileceği iddiası da söylenti düzeyinde.",
+        "PC Gamer da GTA 6 online hakkında 'resmî bir açıklama olmadığını' yazıyor ve konuyu söylenti analizi olarak ele alıyor.",
+        "Yerel (split-screen) veya co-op oynanış yok; Jason ve Lucia arasında geçiş yapabiliyorsun ama başka bir oyuncuyla oynayamıyorsun."
+      ],
+      "sourceIds": [
+        "kaynak-pushsquare-com-c88474",
+        "kaynak-pcgamer-com-d9a801"
+      ],
+      "category": "Online › GTA Online durumu",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "rehber-pc-surumu-ve-online-beklentisi",
+      "title": "PC sürümü ve gelecek planları",
+      "summary": "GTA 6 şu an sadece PS5 ve Xbox Series X|S'te. PC için resmî bir çıkış tarihi açıklanmadı.",
+      "body": [
+        "Rockstar'ın resmî sitesi platformları PlayStation 5 ve Xbox Series X|S olarak listeliyor.",
+        "PC Gamer'ın rehber merkezi, PC çıkış tarihi için henüz resmî bir açıklama olmadığını belirtiyor.",
+        "Rockstar'ın sitesi konsolda isteğe bağlı GTA+ avantajlarından ve oyun içi satın alımlardan da söz ediyor."
+      ],
+      "sourceIds": [
+        "rockstar",
+        "kaynak-pcgamer-com-b3ec06",
+        "kaynak-pushsquare-com-c88474"
+      ],
+      "category": "Online › GTA Online durumu",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-19T16:43:40.825Z"
     }
   ],
   "map": {
