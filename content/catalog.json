@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 104,
-  "publishedAt": "2026-11-19T08:37:07.914Z",
+  "revision": 105,
+  "publishedAt": "2026-11-19T09:17:08.654Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -4195,6 +4195,27 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T08:50:00Z",
       "checkedAt": "2026-11-19T08:37:07.914Z"
+    },
+    {
+      "id": "web-netzwelt-170-hayvan",
+      "url": "https://www.netzwelt.de/news/259115-ueber-170-tierarten-gta-6-tiere-gab-noch-keinem-gta-teil.html",
+      "author": "Netzwelt (Game Informer'a atıfla)",
+      "network": "web",
+      "title": "Leonida'da 170'ten fazla hayvan türü var",
+      "summary": "Rockstar'ın Game Informer'a verdiği bilgiye göre GTA VI'da 170'i aşkın hayvan türü bulunuyor. Timsahlar özellikle Grassrivers sulak alanlarında yaşıyor; fragmanda havuzdan timsah çıkaran bir görevli ve benzin istasyonu marketine giren bir timsah da görülmüştü. Bazı kaynaklar, RDR2'dekine benzer bir hayvan ansiklopedisi olduğunu da yazıyor.",
+      "category": "Özellik",
+      "tags": [
+        "hayvanlar",
+        "animals",
+        "wildlife",
+        "timsah",
+        "alligator",
+        "Grassrivers",
+        "170 tür"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T09:30:00Z",
+      "checkedAt": "2026-11-19T09:17:08.654Z"
     }
   ]
 }
