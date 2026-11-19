@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 119,
-  "publishedAt": "2026-11-19T16:31:40.173Z",
+  "revision": 120,
+  "publishedAt": "2026-11-19T16:34:28.446Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -17267,6 +17267,25 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T15:55:28Z",
       "checkedAt": "2026-11-19T16:15:24.354Z"
+    },
+    {
+      "id": "x-bpthaber-mandy-oyuncu",
+      "url": "https://x.com/bpthaber/status/2123451608801722372",
+      "author": "@bpthaber",
+      "network": "x",
+      "title": "Mandy’yi canlandıran oyuncu: Lexie Shoaibi",
+      "summary": "Çıkış gecesinin en çok konuşulan karakteri Mandy’yi oyuncu Lexie Shoaibi’nin canlandırdığı açıklandı.",
+      "category": "Haber",
+      "tags": [
+        "Mandy",
+        "Lexie Shoaibi",
+        "oyuncular",
+        "cast",
+        "karakter"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T16:21:30Z",
+      "checkedAt": "2026-11-19T16:34:28.446Z"
     }
   ]
 }
