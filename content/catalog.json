@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 106,
-  "publishedAt": "2026-11-19T15:04:40.479Z",
+  "revision": 108,
+  "publishedAt": "2026-11-19T15:05:53.532Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -4490,6 +4490,204 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T14:04:04Z",
       "checkedAt": "2026-11-19T15:04:40.479Z"
+    },
+    {
+      "id": "x-sedevrplus-alim-qasimov",
+      "url": "https://x.com/sedevrplus/status/2123322726089986380",
+      "author": "@sedevrplus",
+      "network": "x",
+      "title": "Radyoda Azerbaycan’dan Alim Qasımov ve Fargana Qasımova",
+      "summary": "Azerbaycanlı usta sanatçı Alim Qasımov ile kızı Fargana Qasımova’nın seslendirdiği bir eser GTA VI’ın müzik listesinde yer aldı.",
+      "category": "Radyo",
+      "tags": [
+        "Alim Qasımov",
+        "Fargana Qasımova",
+        "Azerbaycan",
+        "radyo",
+        "radio",
+        "müzik"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T07:49:21Z",
+      "checkedAt": "2026-11-19T15:05:19.106Z"
+    },
+    {
+      "id": "x-furkancavlak-turkce-altyazi",
+      "url": "https://x.com/furkancavlakcom/status/2123380795457105979",
+      "author": "@furkancavlakcom",
+      "network": "x",
+      "title": "Oyunda Türkçe yok, ama PS5’te Türkçe altyazıyla oynayanlar var",
+      "summary": "GTA VI’da Türkçe dil seçeneği bulunmuyor; buna rağmen bazı oyuncular PS5’te ekranda Türkçe altyazı görüyor. Yama ya da oyun dosyasına müdahale olmadan bunun nasıl yapıldığını Furkan Çavlak 32 saniyelik videoda anlatıyor.",
+      "category": "Türkçe",
+      "tags": [
+        "Türkçe altyazı",
+        "Turkish subtitles",
+        "PS5",
+        "dil desteği",
+        "erişilebilirlik"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T11:40:06Z",
+      "checkedAt": "2026-11-19T15:05:19.106Z"
+    },
+    {
+      "id": "x-vibeeval-apollo-depo",
+      "url": "https://x.com/vibeeval/status/2123410863889449013",
+      "author": "@vibeeval",
+      "network": "x",
+      "title": "Para ipucu: Hamlet’in doğusundaki kırmızı depo",
+      "summary": "Hamlet’in doğusunda, üç büyük havuzun karşısında haritada simgesi olmayan kırmızı bir depo var: Apollo Aggregates. Oyuncunun paylaşımına göre içeride yağmalanabilir para var. (Oyuncu paylaşımı, doğrulanmadı.)",
+      "category": "İpucu",
+      "tags": [
+        "para",
+        "money",
+        "Hamlet",
+        "Apollo Aggregates",
+        "depo",
+        "warehouse",
+        "gizli konum"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-19T13:39:35Z",
+      "checkedAt": "2026-11-19T15:05:19.106Z"
+    },
+    {
+      "id": "x-bpthaber-ayi-kafes",
+      "url": "https://x.com/bpthaber/status/2123357864802582637",
+      "author": "@bpthaber",
+      "network": "x",
+      "title": "Rastgele olay: ayıyı kafesten kurtarmaya çalışan aktivistler",
+      "summary": "Oyunda bir ayıyı kafesten kurtarmaya çalışan hayvan hakları savunucuları, serbest kalan ayının saldırısında hayatını kaybediyor. Oyuncuların karşılaştığı rastgele olaylardan biri.",
+      "category": "Gizli",
+      "tags": [
+        "rastgele olay",
+        "random event",
+        "ayı",
+        "bear",
+        "hayvan hakları"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T10:08:59Z",
+      "checkedAt": "2026-11-19T15:05:19.106Z"
+    },
+    {
+      "id": "x-happypower-kalaga-meteor",
+      "url": "https://x.com/HappyPower/status/2123223775986545014",
+      "author": "@HappyPower",
+      "network": "x",
+      "title": "Mount Kalaga’da bir meteor taşı",
+      "summary": "Mount Kalaga’da bir meteor taşı bulundu. Oyuncular bunun GTA V’teki Mount Chiliad gizemine benzer, daha büyük bir easter egg zincirinin başlangıcı olabileceğini düşünüyor.",
+      "category": "Gizli",
+      "tags": [
+        "meteor",
+        "Mount Kalaga",
+        "easter egg",
+        "gizem",
+        "mystery",
+        "Chiliad"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T01:16:10Z",
+      "checkedAt": "2026-11-19T15:05:53.532Z"
+    },
+    {
+      "id": "x-simplyutd-glory-glory",
+      "url": "https://x.com/SimplyUtd/status/2123360210903613855",
+      "author": "@SimplyUtd",
+      "network": "x",
+      "title": "Backcountry Radio’da “Glory Glory Man United”",
+      "summary": "Manchester United’ın ikonik marşı “Glory Glory Man United” oyunun Backcountry Radio istasyonunda çalıyor. Aynı istasyonda Manchester City taraftar versiyonu “Blue Moon” da duyuldu.",
+      "category": "Radyo",
+      "tags": [
+        "Manchester United",
+        "Glory Glory",
+        "Blue Moon",
+        "Manchester City",
+        "Backcountry Radio",
+        "radyo"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T10:18:19Z",
+      "checkedAt": "2026-11-19T15:05:53.532Z"
+    },
+    {
+      "id": "x-texfunz-circoloco",
+      "url": "https://x.com/TexFunz2/status/2123418581756944593",
+      "author": "@TexFunz2",
+      "network": "x",
+      "title": "CircoLoco Records radyosu sitede dinlenebiliyor",
+      "summary": "CircoLoco Records Radio istasyonunun önizlemesi resmî rockstargames.com/VI/music sayfasında açıldı.",
+      "category": "Radyo",
+      "tags": [
+        "CircoLoco",
+        "radyo",
+        "radio",
+        "müzik",
+        "Rockstar"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T14:10:15Z",
+      "checkedAt": "2026-11-19T15:05:53.532Z"
+    },
+    {
+      "id": "x-zephryss-ipuclari",
+      "url": "https://x.com/TheRealZephryss/status/2123406523850506546",
+      "author": "@TheRealZephryss",
+      "network": "x",
+      "title": "Odak modu ve susturucu ipuçları",
+      "summary": "Ammu-Nation’dan susturucu alırsan gizlilik ve soygunlar kolaylaşıyor. Odak (focus) modu gizli eşyaları vurguluyor ve düşmanları kırmızıyla gösteriyor.",
+      "category": "İpucu",
+      "tags": [
+        "odak modu",
+        "focus mode",
+        "susturucu",
+        "suppressor",
+        "Ammu-Nation",
+        "gizlilik",
+        "stealth"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T13:22:20Z",
+      "checkedAt": "2026-11-19T15:05:53.532Z"
+    },
+    {
+      "id": "x-pubity-before-gta6",
+      "url": "https://x.com/pubity/status/2123416011349405890",
+      "author": "@pubity",
+      "network": "x",
+      "title": "Easter egg: “GTA 6’dan önce …” şakası oyunun içinde",
+      "summary": "Rockstar, internetin ünlü “GTA 6’dan önce şunu da gördük” esprisiyle dalga geçen bir göndermeyi oyundaki sosyal medyaya saklamış.",
+      "category": "Easter Egg",
+      "tags": [
+        "easter egg",
+        "meme",
+        "before GTA 6",
+        "sosyal medya"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T14:00:02Z",
+      "checkedAt": "2026-11-19T15:05:53.532Z"
+    },
+    {
+      "id": "x-latestleaks-tuhaf-buluntular",
+      "url": "https://x.com/LatestLeaks_/status/2123368370233847914",
+      "author": "@LatestLeaks_",
+      "network": "x",
+      "title": "Şimdiye kadarki en tuhaf buluntular: UFO, dev yaban domuzu, kırmızı dev",
+      "summary": "Oyuncuların bulduğu tuhaf şeyler arasında kırsalda birini kaçıran bir UFO, ortalığı birbirine katan dev bir yaban domuzu ve Hulk’a benzeyen kırmızı bir dev var.",
+      "category": "Gizli",
+      "tags": [
+        "UFO",
+        "yaban domuzu",
+        "boar",
+        "Hulk",
+        "garip",
+        "weird",
+        "easter egg"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T10:50:44Z",
+      "checkedAt": "2026-11-19T15:05:53.532Z"
     }
   ]
 }
