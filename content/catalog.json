@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 126,
-  "publishedAt": "2026-11-19T17:34:13.125Z",
+  "revision": 127,
+  "publishedAt": "2026-11-19T17:54:27.918Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -20210,6 +20210,63 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T17:07:20Z",
       "checkedAt": "2026-11-19T17:34:13.125Z"
+    },
+    {
+      "id": "x-bpthaber-turk-gelistiriciler",
+      "url": "https://x.com/bpthaber/status/2123462947594711509",
+      "author": "@bpthaber",
+      "network": "x",
+      "title": "GTA VI’ın jeneriğinde 16 Türk isim",
+      "summary": "BPT’nin derlemesine göre GTA VI’ın ekibinde 16 Türk vatandaşı yer alıyor: yazılım ve oyun motoru programcıları, tasarımcı, teknik sanatçı, animasyon programcısı, hile karşıtı yazılım mühendisi, prodüksiyon asistanı, iki oyuncu ve iki müzisyen. Listenin tamamı kaynak paylaşımda.",
+      "category": "Türkçe",
+      "tags": [
+        "Türk geliştiriciler",
+        "Türkiye",
+        "jenerik",
+        "credits",
+        "Rockstar"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T17:06:33Z",
+      "checkedAt": "2026-11-19T17:54:27.918Z"
+    },
+    {
+      "id": "x-onlydrama-rraenee-yalanlama",
+      "url": "https://x.com/onlydramaX/status/2123462646720872684",
+      "author": "@onlydramaX",
+      "network": "x",
+      "title": "RRaenee, 8 saatlik yayından 1,5 milyon TL kazandığı iddiasını yalanladı",
+      "summary": "Elraenn ile 273 binden fazla eşzamanlı izleyiciye ulaşan 8 saatlik GTA VI yayınından 1,5 milyon TL kazandığı iddialarını RRaenee yalanladı.",
+      "category": "Türkçe",
+      "tags": [
+        "RRaenee",
+        "Elraenn",
+        "yayıncı",
+        "Kick",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T17:05:21Z",
+      "checkedAt": "2026-11-19T17:54:27.918Z"
+    },
+    {
+      "id": "x-darkwebhaber-5000-tl",
+      "url": "https://x.com/darkwebhaber/status/2123463456711921748",
+      "author": "@darkwebhaber",
+      "network": "x",
+      "title": "Türkiye’de 5.000 TL’lik fiyat tartışması",
+      "summary": "GTA VI’ın Türkiye’deki yaklaşık 5.000 TL’lik fiyatı tartışma yarattı; yayıncı Hype, fiyatı pahalı bulanlara “bugün 5.000 TL eğlence sektörü için 1-2 günlük bir para” diye yanıt verdi.",
+      "category": "Türkçe",
+      "tags": [
+        "fiyat",
+        "5000 TL",
+        "Türkiye",
+        "Hype",
+        "pahalılık"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T17:08:34Z",
+      "checkedAt": "2026-11-19T17:54:27.918Z"
     }
   ]
 }
