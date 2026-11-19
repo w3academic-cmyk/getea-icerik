@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 128,
-  "publishedAt": "2026-11-19T20:06:13.224Z",
+  "revision": 129,
+  "publishedAt": "2026-11-19T20:14:11.586Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -21015,6 +21015,44 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T17:08:34Z",
       "checkedAt": "2026-11-19T17:54:27.918Z"
+    },
+    {
+      "id": "x-dexerto-loosy-kopek",
+      "url": "https://x.com/Dexerto/status/2123506615332528291",
+      "author": "@Dexerto",
+      "network": "x",
+      "title": "Kurtarıcı “Cool Dog” gerçek bir köpekten esinlenmiş: Loosy",
+      "summary": "Denizde mahsur kalanı jet skiyle kurtaran köpek, sahibiyle Fort Lauderdale’de su kayağı ve hoverboard yapan gerçek köpek Loosy’ye dayanıyor.",
+      "category": "Easter Egg",
+      "tags": [
+        "Cool Dog",
+        "Loosy",
+        "köpek",
+        "jet ski",
+        "gerçek hayat"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T20:00:04Z",
+      "checkedAt": "2026-11-19T20:14:11.586Z"
+    },
+    {
+      "id": "x-bubblemaps-sahte-token",
+      "url": "https://x.com/bubblemaps/status/2123506865191727274",
+      "author": "@bubblemaps",
+      "network": "x",
+      "title": "Dolandırıcılık uyarısı: 48 saatte 18 bin sahte “GTA VI” kripto token",
+      "summary": "Bubblemaps’e göre son 48 saatte 18.000 “GTA VI” adlı kripto token çıkarıldı ve neredeyse tamamı dolandırıcılık. Rockstar’ın böyle bir token’ı yok; “GTA 6 coin” vaat eden hiçbir şeye para yatırma.",
+      "category": "Haber",
+      "tags": [
+        "dolandırıcılık",
+        "scam",
+        "kripto",
+        "token",
+        "uyarı"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T20:01:04Z",
+      "checkedAt": "2026-11-19T20:14:11.586Z"
     }
   ]
 }
