@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 81,
-  "publishedAt": "2026-11-19T01:37:17.890Z",
+  "revision": 82,
+  "publishedAt": "2026-11-19T01:57:33.969Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3670,6 +3670,28 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T01:47:00Z",
       "checkedAt": "2026-11-19T01:37:17.890Z"
+    },
+    {
+      "id": "web-insidergaming-silah-sistemi",
+      "url": "https://insider-gaming.com/gta-6-full-weapons-guide-types-and-how-to-buy/",
+      "author": "Insider Gaming",
+      "network": "web",
+      "title": "Silah sistemi: 2 tabanca + 2 uzun silah, gerisi bagajda",
+      "summary": "Üstünde aynı anda yalnızca 2 tabanca ve 2 uzun silah taşıyabiliyorsun. Fazlası arabanın bagajında (haritada açık mavi araba simgesi) ya da her Ammu-Nation'daki silah dolabında duruyor. Rehberlere göre ilk Ammu-Nation Key Lento'da.",
+      "category": "Silah",
+      "tags": [
+        "silah",
+        "weapon",
+        "Ammu-Nation",
+        "bagaj",
+        "trunk",
+        "silah dolabı",
+        "weapon locker",
+        "Key Lento"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T02:05:00Z",
+      "checkedAt": "2026-11-19T01:57:33.969Z"
     }
   ]
 }
