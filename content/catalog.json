@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 133,
-  "publishedAt": "2026-11-19T21:15:04.160Z",
+  "revision": 134,
+  "publishedAt": "2026-11-19T21:34:08.442Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -21338,6 +21338,25 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T20:46:09Z",
       "checkedAt": "2026-11-19T21:14:24.032Z"
+    },
+    {
+      "id": "x-platcorn-otomatik-surus",
+      "url": "https://x.com/platcornweb/status/2123520676392821052",
+      "author": "@platcornweb",
+      "network": "x",
+      "title": "Otomatik sürüş polisten bile kaçıyor",
+      "summary": "Oyunda otomatik sürüş (autodrive) özelliği var: yayıncı Videoyun mutfağa giderken açtı ve araç o yokken polislerden kendi başına kaçmayı başardı.",
+      "category": "Özellik",
+      "tags": [
+        "otomatik sürüş",
+        "autodrive",
+        "autopilot",
+        "polis",
+        "araç"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T20:55:57Z",
+      "checkedAt": "2026-11-19T21:34:08.442Z"
     }
   ]
 }
