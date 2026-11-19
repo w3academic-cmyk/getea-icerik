@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 134,
-  "publishedAt": "2026-11-19T21:34:08.442Z",
+  "revision": 135,
+  "publishedAt": "2026-11-19T21:54:20.638Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -21357,6 +21357,64 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T20:55:57Z",
       "checkedAt": "2026-11-19T21:34:08.442Z"
+    },
+    {
+      "id": "x-countdown-fps-glitch",
+      "url": "https://x.com/GTAVI_Countdown/status/2123528804463251558",
+      "author": "@GTAVI_Countdown",
+      "network": "x",
+      "title": "Glitch: tam birinci şahıs modunda oynamak",
+      "summary": "Bir oyuncunun bulduğu yöntem: Ayarlar → Kontrolcü → Dokunmatik yüzey tuşunu “Kamera” yap. Sürücü koltuğuna otur, yön tuşu ↑ ile telefonu çıkar, Daire/B ile kapat ve hemen dokunmatik yüzeye art arda bas; birkaç denemede kamera birinci şahsa geçiyor. Üçüncü şahsa dönmek için kaydı yeniden yüklemen gerekiyor. (Glitch, ileride yamayla kapanabilir.)",
+      "category": "Hile",
+      "tags": [
+        "birinci şahıs",
+        "first person",
+        "FPS",
+        "glitch",
+        "kamera",
+        "dokunmatik yüzey",
+        "touch pad"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T21:28:14Z",
+      "checkedAt": "2026-11-19T21:54:20.638Z"
+    },
+    {
+      "id": "x-updatecharts-anitta",
+      "url": "https://x.com/updatecharts/status/2123529885260144873",
+      "author": "@updatecharts",
+      "network": "x",
+      "title": "Anitta’nın “Touch & Go” şarkısı resmî listede",
+      "summary": "Anitta’nın “Vai Dar Caô” şarkısının İngilizce versiyonu “Touch & Go”, GTA VI’ın resmî şarkı listesine eklendi; Atlantic Records üzerinden yayınlanacak.",
+      "category": "Radyo",
+      "tags": [
+        "Anitta",
+        "Touch & Go",
+        "Vai Dar Caô",
+        "şarkı",
+        "soundtrack"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T21:32:32Z",
+      "checkedAt": "2026-11-19T21:54:20.638Z"
+    },
+    {
+      "id": "x-dexerto-left-exit-12",
+      "url": "https://x.com/Dexerto/status/2123529341665456436",
+      "author": "@Dexerto",
+      "network": "x",
+      "title": "Easter egg: “Left Exit 12 Off-Ramp” meme’i oyunda",
+      "summary": "Rockstar, internetin ünlü “Left Exit 12 Off-Ramp” (son anda otoyoldan sapan araba) meme’inin kendi versiyonunu GTA VI’a koymuş.",
+      "category": "Easter Egg",
+      "tags": [
+        "Left Exit 12",
+        "meme",
+        "otoyol",
+        "easter egg"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T21:30:22Z",
+      "checkedAt": "2026-11-19T21:54:20.638Z"
     }
   ]
 }
