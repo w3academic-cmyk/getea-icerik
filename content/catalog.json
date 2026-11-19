@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 84,
-  "publishedAt": "2026-11-19T02:17:11.994Z",
+  "revision": 85,
+  "publishedAt": "2026-11-19T02:37:16.919Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3736,6 +3736,26 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T02:26:00Z",
       "checkedAt": "2026-11-19T02:17:11.994Z"
+    },
+    {
+      "id": "web-variety-on-siparis-beklenti",
+      "url": "https://variety.com/2026/gaming/news/gta-6-preorders-expectations-launch-1236943278/",
+      "author": "Variety",
+      "network": "web",
+      "title": "Take-Two: Ön siparişler beklentinin “çok üzerinde”",
+      "summary": "Take-Two CEO'su Strauss Zelnick, 9 Kasım'daki yatırımcı toplantısında ön siparişlerin beklentilerin çok üzerinde gittiğini, çıkış sonrası performans hakkında daha fazla bilgi vereceklerini söyledi. Kesin sayı açıklanmadı.",
+      "category": "Haber",
+      "tags": [
+        "Take-Two",
+        "Zelnick",
+        "ön sipariş",
+        "pre-order",
+        "satış",
+        "sales"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T02:45:00Z",
+      "checkedAt": "2026-11-19T02:37:16.919Z"
     }
   ]
 }
