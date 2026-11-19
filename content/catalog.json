@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 105,
-  "publishedAt": "2026-11-19T09:17:08.654Z",
+  "revision": 106,
+  "publishedAt": "2026-11-19T15:04:40.479Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -4216,6 +4216,280 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T09:30:00Z",
       "checkedAt": "2026-11-19T09:17:08.654Z"
+    },
+    {
+      "id": "x-discussingfilm-resmi-harita",
+      "url": "https://x.com/DiscussingFilm/status/2123425661087777172",
+      "author": "@DiscussingFilm",
+      "network": "x",
+      "title": "RESMÎ: Rockstar Leonida haritasını yayınladı",
+      "summary": "Rockstar, GTA VI’ın resmî Leonida haritasını ve kapak posterini yazdırılabilir formatta ücretsiz yayınladı. İndirmek için rockstargames.com/VI/media sayfasındaki “Leonida Map & Cover Art Poster” bölümüne git. Çift taraflı basılı poster Rockstar Store’da 1 dolara ya da herhangi bir alışverişe hediye.",
+      "category": "Harita",
+      "tags": [
+        "resmî harita",
+        "official map",
+        "Leonida",
+        "poster",
+        "indir",
+        "download",
+        "Rockstar"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T14:38:23Z",
+      "checkedAt": "2026-11-19T15:04:40.479Z"
+    },
+    {
+      "id": "x-dexerto-19-milyon",
+      "url": "https://x.com/Dexerto/status/2123420611489735121",
+      "author": "@Dexerto",
+      "network": "x",
+      "title": "Sensor Tower: 19 milyonu aşkın satış, 1,84 milyar dolar",
+      "summary": "Sensor Tower tahminlerine göre GTA VI 19 milyonu aşkın kopya satarak 1,84 milyar dolar gelir elde etti. Take-Two henüz resmî rakam açıklamadı.",
+      "category": "Haber",
+      "tags": [
+        "satış",
+        "sales",
+        "Sensor Tower",
+        "rekor",
+        "record"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T14:18:19Z",
+      "checkedAt": "2026-11-19T15:04:40.479Z"
+    },
+    {
+      "id": "x-yogurtcununbiri-irfan-can",
+      "url": "https://x.com/yogurtcununbiri/status/2123314847903293471",
+      "author": "@yogurtcununbiri",
+      "network": "x",
+      "title": "Bir evde İrfan Can Kahveci posteri!",
+      "summary": "Bir yayıncı GTA VI’da girdiği bir evin odasında Fenerbahçeli futbolcu İrfan Can Kahveci’ye benzeyen bir postere rastladı. Türk oyuncular için sürpriz bir detay; yerini bulan olursa haritaya ekleyeceğiz.",
+      "category": "Türkçe",
+      "tags": [
+        "İrfan Can Kahveci",
+        "poster",
+        "Türkiye",
+        "easter egg",
+        "Fenerbahçe"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T07:18:03Z",
+      "checkedAt": "2026-11-19T15:04:40.479Z"
+    },
+    {
+      "id": "x-bpthaber-whatsapp-whatup",
+      "url": "https://x.com/bpthaber/status/2123422549753426097",
+      "author": "@bpthaber",
+      "network": "x",
+      "title": "WhatsApp, X profilini oyundaki WhatUp ikonu yaptı",
+      "summary": "WhatsApp, GTA VI’ın çıkışına özel X’teki profil fotoğrafını oyundaki parodi mesajlaşma uygulaması WhatUp’ın ikonuyla değiştirdi.",
+      "category": "Haber",
+      "tags": [
+        "WhatsApp",
+        "WhatUp",
+        "parodi",
+        "telefon"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T14:26:01Z",
+      "checkedAt": "2026-11-19T15:04:40.479Z"
+    },
+    {
+      "id": "x-roundtable-erken-para",
+      "url": "https://x.com/RoundtableSpace/status/2123397126797267232",
+      "author": "@RoundtableSpace",
+      "network": "x",
+      "title": "Paran yoksa: erken oyunda nakit noktaları",
+      "summary": "Paylaşılan ipuçları: Hamlet’in güneyindeki bir depoda yaklaşık 13 bin dolar ve rehinciye ~6 bin dolara satılabilen bir kart var; Key Lento’daki bir papağan seni 2.300 dolara götürüyor; bir moteldeki kaplan saldırısı sahnesinde keskin nişancı tüfeği saklı. (Oyuncu paylaşımı, doğrulanmadı.)",
+      "category": "İpucu",
+      "tags": [
+        "para",
+        "money",
+        "nakit",
+        "cash",
+        "Hamlet",
+        "Key Lento",
+        "papağan",
+        "parrot",
+        "erken oyun"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-19T12:45:00Z",
+      "checkedAt": "2026-11-19T15:04:40.479Z"
+    },
+    {
+      "id": "x-millzaa-paul-walker-eclipse",
+      "url": "https://x.com/Millzaatv_/status/2123384751901778317",
+      "author": "@Millzaatv_",
+      "network": "x",
+      "title": "Paul Walker’ın 1995 Mitsubishi Eclipse’i oyunda (video)",
+      "summary": "Hızlı ve Öfkeli’deki ikonik arabaya gönderme: 1995 Eclipse benzeri aracın oyunda nerede bulunduğunu gösteren video 960 binden fazla izlendi. Konumu videoda.",
+      "category": "Araç",
+      "tags": [
+        "Paul Walker",
+        "Eclipse",
+        "Hızlı ve Öfkeli",
+        "Fast and Furious",
+        "araç",
+        "vehicle",
+        "konum"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T11:55:50Z",
+      "checkedAt": "2026-11-19T15:04:40.479Z"
+    },
+    {
+      "id": "x-millzaa-roketatar",
+      "url": "https://x.com/Millzaatv_/status/2123404819524411730",
+      "author": "@Millzaatv_",
+      "network": "x",
+      "title": "Erken oyunda roketatar ve efsanevi Type 9 SMG noktası (video)",
+      "summary": "Bir yayıncı, oyunun başında roketatar ve efsanevi Type 9 SMG alabileceğin gizli bir yağma noktasını gösterdi. Konum videoda.",
+      "category": "Silah",
+      "tags": [
+        "roketatar",
+        "rocket launcher",
+        "Type 9 SMG",
+        "silah",
+        "weapon",
+        "yağma",
+        "loot"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T13:15:34Z",
+      "checkedAt": "2026-11-19T15:04:40.479Z"
+    },
+    {
+      "id": "x-nfxce-ufo",
+      "url": "https://x.com/nfxce_/status/2123345343513313375",
+      "author": "@nfxce_",
+      "network": "x",
+      "title": "Oyuncu bir UFO’nun insan kaçırdığını yakaladı (video)",
+      "summary": "Bir oyuncu GTA VI’da bir UFO’nun birini kaçırdığı anı kaydetti; video 600 binden fazla izlendi.",
+      "category": "Gizli",
+      "tags": [
+        "UFO",
+        "uzaylı",
+        "alien",
+        "gizli",
+        "secret",
+        "kaçırma"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T09:19:14Z",
+      "checkedAt": "2026-11-19T15:04:40.479Z"
+    },
+    {
+      "id": "x-mikehollow-youtube-telif",
+      "url": "https://x.com/RealMikeHollow/status/2123224635000992102",
+      "author": "@RealMikeHollow",
+      "network": "x",
+      "title": "YouTube’da GTA VI videolarına telif ve uyarı yağıyor",
+      "summary": "Bazı içerik üreticileri GTA VI oynanış videoları için YouTube topluluk kuralı uyarısı, telif ihtarı ve kaldırma bildirimi aldığını söylüyor. Türk yayıncılardan Oğuz Sasi de 6 saatlik yayınını telif kontrolü için gizliye aldı.",
+      "category": "Haber",
+      "tags": [
+        "YouTube",
+        "telif",
+        "copyright",
+        "strike",
+        "yayıncı",
+        "streamer"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T01:19:35Z",
+      "checkedAt": "2026-11-19T15:04:40.479Z"
+    },
+    {
+      "id": "x-donanimhaber-pc-2027",
+      "url": "https://x.com/donanimhaber/status/2123338692437966945",
+      "author": "@donanimhaber",
+      "network": "x",
+      "title": "İddia: PC sürümü 2027’nin ilk çeyreğinde",
+      "summary": "GamesBeat’in sektörden dört kaynağa dayandırdığı habere göre Rockstar, GTA VI’ın PC sürümünü 2027’nin ilk üç ayında çıkarmayı planlıyor. Rockstar doğrulamadı.",
+      "category": "Haber",
+      "tags": [
+        "İddia",
+        "PC",
+        "2027",
+        "GamesBeat",
+        "PC sürümü"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T08:52:48Z",
+      "checkedAt": "2026-11-19T15:04:40.479Z"
+    },
+    {
+      "id": "x-polymarket-ordu-izin",
+      "url": "https://x.com/Polymarket/status/2123420630842331475",
+      "author": "@Polymarket",
+      "network": "x",
+      "title": "ABD ordusunda GTA VI izni: 130 askerden 42’si kabul etti",
+      "summary": "Bir ABD Ordusu taburu, en az 2 yıl daha görev uzatan askerlere GTA VI oynamaları için 4 gün izin teklif etti; uygun 130 askerden 42’si bu teklifi seçti.",
+      "category": "Haber",
+      "tags": [
+        "ABD ordusu",
+        "US Army",
+        "izin",
+        "komik"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T14:18:24Z",
+      "checkedAt": "2026-11-19T15:04:40.479Z"
+    },
+    {
+      "id": "x-platcorn-oguz-sasi",
+      "url": "https://x.com/platcornweb/status/2123351514752385522",
+      "author": "@platcornweb",
+      "network": "x",
+      "title": "Oğuz Sasi: 8 olumlu, 25 olumsuz yön",
+      "summary": "Oğuz Sasi GTA VI’a gergin başladı; yayının ikinci saatinde oyunun 8 olumlu ve 25 olumsuz yönünü sıraladı.",
+      "category": "Türkçe",
+      "tags": [
+        "Oğuz Sasi",
+        "yayıncı",
+        "inceleme",
+        "review",
+        "Türkiye"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T09:43:45Z",
+      "checkedAt": "2026-11-19T15:04:40.479Z"
+    },
+    {
+      "id": "x-texfunz-jenerik",
+      "url": "https://x.com/TexFunz2/status/2123420453419057482",
+      "author": "@TexFunz2",
+      "network": "x",
+      "title": "Oyunun jenerik listesi yayında",
+      "summary": "Rockstar, GTA VI’ın tam jenerik (credits) listesini rockstargames.com/VI/credits adresinde yayınladı.",
+      "category": "Haber",
+      "tags": [
+        "jenerik",
+        "credits",
+        "Rockstar"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T14:17:41Z",
+      "checkedAt": "2026-11-19T15:04:40.479Z"
+    },
+    {
+      "id": "x-texfunz-gtaplus-sayfa",
+      "url": "https://x.com/TexFunz2/status/2123417025632731324",
+      "author": "@TexFunz2",
+      "network": "x",
+      "title": "GTA+ avantajları sayfası açıldı",
+      "summary": "Rockstar, GTA+ üyelerinin GTA VI’da alacağı isteğe bağlı oyun içi avantajları rockstargames.com/VI/gta-plus sayfasında açıkladı.",
+      "category": "Haber",
+      "tags": [
+        "GTA+",
+        "üyelik",
+        "membership",
+        "avantaj",
+        "benefits"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T14:04:04Z",
+      "checkedAt": "2026-11-19T15:04:40.479Z"
     }
   ]
 }
