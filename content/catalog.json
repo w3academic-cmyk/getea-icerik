@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 137,
-  "publishedAt": "2026-11-19T22:14:33.239Z",
+  "revision": 138,
+  "publishedAt": "2026-11-19T22:34:12.632Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -21761,6 +21761,43 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T21:48:07Z",
       "checkedAt": "2026-11-19T22:14:17.080Z"
+    },
+    {
+      "id": "x-fearedbuck-n3on-dolandirildi",
+      "url": "https://x.com/FearedBuck/status/2123542317995000266",
+      "author": "@FearedBuck",
+      "network": "x",
+      "title": "Dolandırıcılık uyarısı: N3on oyunu “ilerletmek” için 500 $ ödeyip kandırıldı",
+      "summary": "Yayıncı N3on, diğer yayıncılara yetişmek için birine 500 dolar ödeyip oyunu kendisi yerine oynatmak istediğini ama dolandırıldığını anlattı. “Senin yerine oynarım / hesabını ilerletirim” tekliflerine para ve hesap bilgisi verme.",
+      "category": "Haber",
+      "tags": [
+        "dolandırıcılık",
+        "scam",
+        "boosting",
+        "hesap güvenliği",
+        "N3on"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T22:21:56Z",
+      "checkedAt": "2026-11-19T22:34:12.632Z"
+    },
+    {
+      "id": "x-bpthaber-cyberpunk-tebrik",
+      "url": "https://x.com/bpthaber/status/2123541560747081751",
+      "author": "@bpthaber",
+      "network": "x",
+      "title": "Cyberpunk ekibinden Rockstar’a tebrik, Rockstar’dan yanıt",
+      "summary": "CD Projekt’in Cyberpunk 2077 hesabı “Night City’den Vice City’ye” diyerek Rockstar’ı tebrik etti; Rockstar da teşekkür ederek karşılık verdi.",
+      "category": "Haber",
+      "tags": [
+        "Cyberpunk 2077",
+        "CD Projekt",
+        "Rockstar",
+        "tebrik"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T22:18:56Z",
+      "checkedAt": "2026-11-19T22:34:12.632Z"
     }
   ]
 }
