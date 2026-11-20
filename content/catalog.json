@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 159,
-  "publishedAt": "2026-11-20T06:35:26.987Z",
+  "revision": 160,
+  "publishedAt": "2026-11-20T06:55:20.145Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -29466,6 +29466,95 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T06:17:37Z",
       "checkedAt": "2026-11-20T06:35:26.987Z"
+    },
+    {
+      "id": "x-joelfranco-vice-city-tren-haritasi",
+      "url": "https://x.com/OfficialJoelF/status/2123654610472808526",
+      "author": "@OfficialJoelF",
+      "network": "x",
+      "title": "Vice City’nin tren haritası: Metrorail, Metromover, havalimanı treni ve Leonida’yı bağlayan Amtrak",
+      "summary": "Oyundaki Vice City tren haritasında Miami’deki Metrorail, Metromover ve havalimanı (MIA) yolcu treninin GTA 6 versiyonları yer alıyor. Ayrıca Leonida’nın diğer bölgelerine bağlanan bir Amtrak hattı da var.",
+      "category": "Harita",
+      "tags": [
+        "tren",
+        "train",
+        "metro",
+        "Metrorail",
+        "Metromover",
+        "Amtrak",
+        "toplu taşıma",
+        "public transport",
+        "Vice City"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T05:48:09Z",
+      "checkedAt": "2026-11-20T06:55:20.145Z"
+    },
+    {
+      "id": "x-streamersera-kutup-ayisi-protestocular",
+      "url": "https://x.com/StreamersEra/status/2123658856592986228",
+      "author": "@StreamersEra",
+      "network": "x",
+      "title": "Rastgele olay: Protestocular hayvanat bahçesi kamyonundaki kutup ayısını kurtarmaya çalışıyor",
+      "summary": "Yayıncı Fanum, bir grup protestocunun bir hayvanat bahçesi kamyonunun arkasındaki kutup ayısını serbest bırakmaya çalıştığı bir karşılaşmaya denk geldi. Olayın nerede ve nasıl tetiklendiği belirtilmedi.",
+      "category": "Easter Egg",
+      "tags": [
+        "rastgele olay",
+        "random event",
+        "kutup ayısı",
+        "polar bear",
+        "protesto",
+        "protest",
+        "hayvanat bahçesi",
+        "zoo"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T06:05:01Z",
+      "checkedAt": "2026-11-20T06:55:20.145Z"
+    },
+    {
+      "id": "x-ebubechi-isinlanan-keskin-nisanci",
+      "url": "https://x.com/Ebubechi008/status/2123661449083924568",
+      "author": "@Ebubechi008",
+      "network": "x",
+      "title": "İddia: Yüksekten dürbünle baktığı adam ışınlanıp tek atışta vurdu",
+      "summary": "Bir oyuncu, keskin nişancı tüfeğiyle yüksek bir yere çıkıp dürbünle etrafı izlerken bir adamın onu fark ettiğini, yanına ışınlandığını ve tek atışta öldürdüğünü video ile paylaştı. Doğaüstü bir karşılaşma mı yoksa hata mı belli değil; doğrulanmadı.",
+      "category": "Gizli",
+      "tags": [
+        "doğaüstü",
+        "supernatural",
+        "keskin nişancı",
+        "sniper",
+        "ışınlanma",
+        "teleport",
+        "gizem",
+        "mystery",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T06:15:19Z",
+      "checkedAt": "2026-11-20T06:55:20.145Z"
+    },
+    {
+      "id": "x-siyahsancak-trafik-kavgasi-npc",
+      "url": "https://x.com/siyahsancakx/status/2123664883325550715",
+      "author": "@siyahsancakx",
+      "network": "x",
+      "title": "Trafikte solladığın bazı NPC’ler kavga etmek için peşine takılıyor",
+      "summary": "GTA 6’da bazı sürücüler, trafikte onları solladığında sinirlenip kavga etmek için seni takip ediyor. Görüntü paylaşımda.",
+      "category": "Özellik",
+      "tags": [
+        "NPC",
+        "trafik",
+        "traffic",
+        "yol öfkesi",
+        "road rage",
+        "kavga",
+        "yapay zekâ"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T06:28:58Z",
+      "checkedAt": "2026-11-20T06:55:20.145Z"
     }
   ]
 }
