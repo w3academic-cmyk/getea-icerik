@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 161,
-  "publishedAt": "2026-11-20T07:15:13.491Z",
+  "revision": 162,
+  "publishedAt": "2026-11-20T07:35:03.678Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -29620,6 +29620,52 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T05:39:19Z",
       "checkedAt": "2026-11-20T07:15:13.491Z"
+    },
+    {
+      "id": "x-badboyblist-yung-lean-thats-it",
+      "url": "https://x.com/badboyblist/status/2123660679412342932",
+      "author": "@badboyblist",
+      "network": "x",
+      "title": "Radyoda Yung Lean, Future ve Metro Boomin’in “That’s It” şarkısı çalıyor",
+      "summary": "Yung Lean’in Future ve Metro Boomin’le yaptığı “That’s It” şarkısı GTA 6 radyosunda yer alıyor; Jason’ın arabada şarkıya kafa salladığı an yayıncılar arasında viral oldu.",
+      "category": "Radyo",
+      "tags": [
+        "Yung Lean",
+        "Future",
+        "Metro Boomin",
+        "That’s It",
+        "radyo",
+        "radio",
+        "şarkı",
+        "song"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T06:12:16Z",
+      "checkedAt": "2026-11-20T07:35:03.678Z"
+    },
+    {
+      "id": "x-thegoblinnn-uyusturucu-baronu-malikanesi",
+      "url": "https://x.com/TheGoblinnn/status/2123668462711267494",
+      "author": "@TheGoblinnn",
+      "network": "x",
+      "title": "İddia: Vice City’de rastgele soyulan bir malikâne uyuşturucu baronunun çıktı; altın kaplama silah ve süper araba",
+      "summary": "Bir oyuncu, Vice City’de rastgele soyduğu bir malikânenin bir uyuşturucu baronuna ait olduğunu ve içinden altın kaplama bir silah ile bir süper araba çıktığını yazdı. Malikânenin yeri belirtilmedi; doğrulanmadı.",
+      "category": "Gizli",
+      "tags": [
+        "malikâne",
+        "mansion",
+        "soygun",
+        "robbery",
+        "altın silah",
+        "gold gun",
+        "süper araba",
+        "supercar",
+        "Vice City",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T06:43:12Z",
+      "checkedAt": "2026-11-20T07:35:03.678Z"
     }
   ]
 }
