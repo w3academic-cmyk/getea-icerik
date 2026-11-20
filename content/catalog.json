@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 160,
-  "publishedAt": "2026-11-20T06:55:20.145Z",
+  "revision": 161,
+  "publishedAt": "2026-11-20T07:15:13.491Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -29555,6 +29555,71 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T06:28:58Z",
       "checkedAt": "2026-11-20T06:55:20.145Z"
+    },
+    {
+      "id": "x-tmbenedict-afrikali-sanatcilar",
+      "url": "https://x.com/Tmbenedict/status/2123665761671467514",
+      "author": "@Tmbenedict",
+      "network": "x",
+      "title": "GTA 6 müziklerinde 15 Afrikalı sanatçı: Burna Boy, Asake, Omah Lay, Ayra Starr ve diğerleri",
+      "summary": "GTA 6’nın müziklerinde 15 Afrikalı sanatçının şarkısı yer alıyor: Burna Boy, Asake, Omah Lay, Ayra Starr, Phyno, Seyi Vibez, Focalistic, Lady Du, Major League DJz, Uncle Waffles, Oumou Sangaré, Pat Thomas ve diğerleri.",
+      "category": "Radyo",
+      "tags": [
+        "Afrobeats",
+        "Amapiano",
+        "Burna Boy",
+        "Asake",
+        "Ayra Starr",
+        "Afrikalı sanatçılar",
+        "African artists",
+        "radyo",
+        "soundtrack"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T06:32:28Z",
+      "checkedAt": "2026-11-20T07:15:13.491Z"
+    },
+    {
+      "id": "x-bawige-qwer-overdrive-radyo",
+      "url": "https://x.com/x_bawige/status/2123660899420647671",
+      "author": "@x_bawige",
+      "network": "x",
+      "title": "K-pop grubu QWER’in “OVERDRIVE” şarkısı GTA 6 radyosunda",
+      "summary": "Kore’nin kız rock grubu QWER’in “OVERDRIVE” şarkısının GTA 6 radyosunda çaldığı paylaşıldı.",
+      "category": "Radyo",
+      "tags": [
+        "QWER",
+        "OVERDRIVE",
+        "K-pop",
+        "radyo",
+        "radio",
+        "şarkı",
+        "song"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T06:13:08Z",
+      "checkedAt": "2026-11-20T07:15:13.491Z"
+    },
+    {
+      "id": "x-neweraz-moses-araba-satma",
+      "url": "https://x.com/NewEraZach/status/2123652387537911811",
+      "author": "@NewEraZach",
+      "network": "x",
+      "title": "İpucu: En kolay para yollarından biri Moses’a araba satmak",
+      "summary": "Oyunculara göre erken oyunda en kolay para kazanma yöntemlerinden biri, çaldığın arabaları Moses’a teslim etmek. Moses’ın görevlerinin nasıl açıldığı getea Görevler bölümünde (Steal Vehicles for Moses).",
+      "category": "İpucu",
+      "tags": [
+        "Moses",
+        "araba satma",
+        "sell cars",
+        "para",
+        "money",
+        "erken oyun",
+        "early game"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T05:39:19Z",
+      "checkedAt": "2026-11-20T07:15:13.491Z"
     }
   ]
 }
