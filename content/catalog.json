@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 154,
-  "publishedAt": "2026-11-20T03:15:07.140Z",
+  "revision": 155,
+  "publishedAt": "2026-11-20T03:34:49.298Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -29138,6 +29138,71 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T01:47:14Z",
       "checkedAt": "2026-11-20T03:15:07.140Z"
+    },
+    {
+      "id": "x-gtalphaintel-polisten-kurtulma-yollari",
+      "url": "https://x.com/GTAlphaintel/status/2123612314788151513",
+      "author": "@GTAlphaintel",
+      "network": "x",
+      "title": "Polisten kurtulmanın yolları: saklan, kılık, silah ya da araç değiştir (6 yıldız hariç)",
+      "summary": "GTA 6’da polisi atlatmanın birden fazla yolu var: bir yere saklanmak, görünüşünü değiştirmek ya da silahını veya aracını değiştirmek. Ancak aranma seviyesi altı yıldıza çıktığında bu yöntemler işe yaramıyor.",
+      "category": "İpucu",
+      "tags": [
+        "polis",
+        "police",
+        "aranma",
+        "wanted level",
+        "6 yıldız",
+        "six stars",
+        "kaçış",
+        "escape",
+        "kılık değiştirme"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T03:00:05Z",
+      "checkedAt": "2026-11-20T03:34:49.298Z"
+    },
+    {
+      "id": "x-ign-arac-calma-evrimi",
+      "url": "https://x.com/IGN/status/2123600174165684488",
+      "author": "@IGN",
+      "network": "x",
+      "title": "IGN: 1997’den GTA 6’ya araç çalmanın evrimi",
+      "summary": "IGN, ilk Grand Theft Auto’dan GTA 6’ya kadar serinin her oyununda araç çalma mekaniğinin nasıl değiştiğini karşılaştıran bir video paylaştı.",
+      "category": "Video",
+      "tags": [
+        "araç çalma",
+        "car theft",
+        "IGN",
+        "seri tarihi",
+        "GTA history",
+        "karşılaştırma"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T02:11:50Z",
+      "checkedAt": "2026-11-20T03:34:49.298Z"
+    },
+    {
+      "id": "x-gameroll-oyuncu-kadrosu-fotograf",
+      "url": "https://x.com/GameRoll_/status/2123616138814754853",
+      "author": "@GameRoll_",
+      "network": "x",
+      "title": "Jason, Lucia ve Andy’nin oyuncuları bir arada: Dylan Rourke, Manni L. Perez ve Mallory Wu",
+      "summary": "Andy’yi seslendiren Mallory Wu, Jason’ın oyuncusu Dylan Rourke ve Lucia’nın oyuncusu Manni L. Perez ile çekilmiş bir fotoğrafını Instagram’da paylaştı. Çıkışın ardından kadrodan birçok fotoğraf geliyor.",
+      "category": "Haber",
+      "tags": [
+        "seslendiren oyuncular",
+        "voice cast",
+        "Dylan Rourke",
+        "Manni L. Perez",
+        "Mallory Wu",
+        "Jason",
+        "Lucia",
+        "Andy"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T03:15:17Z",
+      "checkedAt": "2026-11-20T03:34:49.298Z"
     }
   ]
 }
