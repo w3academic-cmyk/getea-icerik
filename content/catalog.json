@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 166,
-  "publishedAt": "2026-11-20T08:55:18.991Z",
+  "revision": 167,
+  "publishedAt": "2026-11-20T09:15:01.042Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -29927,6 +29927,71 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T08:41:11Z",
       "checkedAt": "2026-11-20T08:55:18.991Z"
+    },
+    {
+      "id": "x-piratnation-kilo-siniri",
+      "url": "https://x.com/Pirat_Nation/status/2123701723281694898",
+      "author": "@Pirat_Nation",
+      "network": "x",
+      "title": "Jason ve Lucia’nın en fazla ne kadar kilo alabildiği bulundu: Arthur Morgan kadar değil",
+      "summary": "Oyuncular karakterlerin kilo sınırını test etti: Jason en az dört burger ya da taco yiyip uyuyarak ve spor yapmadan bu döngüyü tekrarlayınca belirgin biçimde kiloluyor. Lucia da kilo alabiliyor, ama ikisi de RDR2’deki Arthur Morgan kadar şişmanlayamıyor.",
+      "category": "Özellik",
+      "tags": [
+        "kilo",
+        "weight",
+        "beslenme",
+        "burger",
+        "taco",
+        "karakter gelişimi",
+        "Jason",
+        "Lucia",
+        "Arthur Morgan"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T08:55:21Z",
+      "checkedAt": "2026-11-20T09:15:01.042Z"
+    },
+    {
+      "id": "x-internethof-dexter-resmi-hesap",
+      "url": "https://x.com/InternetH0F/status/2123702897409921237",
+      "author": "@InternetH0F",
+      "network": "x",
+      "title": "Dexter dizisinin resmî hesabı GTA 6’yı kutladı: Dexter’ın dairesi ve teknesi oyunda",
+      "summary": "Dexter dizisinin sosyal medya ekibi, oyundaki göndermeye “Vice City’de bir şeyler oluyormuş” diye karşılık vererek GTA 6’nın çıkışını kutladı. Dexter Morgan’ın dairesi ve teknesi oyunda bulunabiliyor.",
+      "category": "Easter Egg",
+      "tags": [
+        "Dexter",
+        "Dexter Morgan",
+        "Slice of Life",
+        "dizi",
+        "TV series",
+        "gönderme",
+        "easter egg"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T09:00:01Z",
+      "checkedAt": "2026-11-20T09:15:01.042Z"
+    },
+    {
+      "id": "x-platcorn-speed-43-saat-cokme",
+      "url": "https://x.com/platcornweb/status/2123699181755793446",
+      "author": "@platcornweb",
+      "network": "x",
+      "title": "iShowSpeed’in oyunu 43 saat açık kalınca çöktü: Sık sık elle kayıt alın",
+      "summary": "iShowSpeed 43 saattir uyumadan oynarken oyun bir görevin ortasında çöktü ve kaydedilmemiş ilerlemesi gitti. Uzun oturumlarda oyunu arada yeniden başlatmak ve sık sık elle kayıt almak öneriliyor.",
+      "category": "Hata",
+      "tags": [
+        "çökme",
+        "crash",
+        "iShowSpeed",
+        "kayıt",
+        "save",
+        "ilerleme kaybı",
+        "progress loss"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T08:45:16Z",
+      "checkedAt": "2026-11-20T09:15:01.042Z"
     }
   ]
 }
