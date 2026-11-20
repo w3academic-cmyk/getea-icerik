@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 167,
-  "publishedAt": "2026-11-20T09:15:01.042Z",
+  "revision": 168,
+  "publishedAt": "2026-11-20T09:35:22.124Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -29992,6 +29992,74 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T08:45:16Z",
       "checkedAt": "2026-11-20T09:15:01.042Z"
+    },
+    {
+      "id": "x-wizstatz-afro-bank-fm-sarkilar",
+      "url": "https://x.com/WizStatz/status/2123706370436604406",
+      "author": "@WizStatz",
+      "network": "x",
+      "title": "Afro Bank FM’de çalanlar: Wizkid “Kese”, Adekunle Gold & Davido “HIGH”, Zaylevelten’in yayınlanmamış şarkısı",
+      "summary": "Oyunun Afrika müziği istasyonunun adı Afro Bank FM. Oyuncuların ve hayran hesaplarının paylaşımlarına göre istasyonda Wizkid’in “Kese (Dance)”, Adekunle Gold ile Davido’nun “HIGH” şarkıları ve Zaylevelten’in henüz yayınlanmamış bir parçası çalıyor. Ayrıca Future’ın “712PM”inin de radyoda olduğu paylaşıldı.",
+      "category": "Radyo",
+      "tags": [
+        "Afro Bank FM",
+        "Wizkid",
+        "Kese",
+        "Adekunle Gold",
+        "Davido",
+        "HIGH",
+        "Zaylevelten",
+        "Future",
+        "712PM",
+        "Afrobeats",
+        "radyo"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T09:13:49Z",
+      "checkedAt": "2026-11-20T09:35:22.124Z"
+    },
+    {
+      "id": "x-wesker-erken-susturuculu-tabanca",
+      "url": "https://x.com/AlmightyWesker/status/2123704559738425613",
+      "author": "@AlmightyWesker",
+      "network": "x",
+      "title": "İpucu: Erken oyunda alınabilen susturuculu tabanca; görevlerde polis ihbarından kaçınmak için ideal",
+      "summary": "Bir oyuncu, oyunun başlarında ulaşılabilen bir susturuculu tabanca konumunu video ile paylaştı. Görevleri fark edilmeden yapmak ve polis ihbarlarından kaçınmak için çok işe yaradığını söylüyor; yeri videoda gösteriliyor.",
+      "category": "Silah",
+      "tags": [
+        "susturuculu tabanca",
+        "silenced pistol",
+        "gizlilik",
+        "stealth",
+        "polis",
+        "erken oyun",
+        "early game",
+        "silah konumu"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T09:06:38Z",
+      "checkedAt": "2026-11-20T09:35:22.124Z"
+    },
+    {
+      "id": "x-platcorn-eray-1-milyon-tl",
+      "url": "https://x.com/platcornweb/status/2123708316455186937",
+      "author": "@platcornweb",
+      "network": "x",
+      "title": "Eray, GTA 6 maraton yayını için 1 milyon TL’den fazla harcadıklarını açıkladı",
+      "summary": "Türk yayıncı Eray, GTA 6 maraton yayını için şimdiye kadar 1 milyon TL’nin üzerinde harcama yaptıklarını söyledi; bunu işine yaptığı bir yatırım olarak gördüğünü belirtti.",
+      "category": "Türkçe",
+      "tags": [
+        "Eray",
+        "Türk yayıncı",
+        "maraton yayın",
+        "stream",
+        "Twitch",
+        "Kick",
+        "1 milyon TL"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T09:21:33Z",
+      "checkedAt": "2026-11-20T09:35:22.124Z"
     }
   ]
 }
