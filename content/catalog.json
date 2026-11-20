@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 189,
-  "publishedAt": "2026-11-20T22:34:57.475Z",
+  "revision": 190,
+  "publishedAt": "2026-11-20T22:55:15.328Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -29021,7 +29021,7 @@
       "author": "@absolutelyaura0",
       "network": "x",
       "title": "Oyunda bir Batman göndermesi bulundu",
-      "summary": "Bir oyuncu GTA 6’da Batman’e gönderme yapan bir detayın görüntüsünü paylaştı. Yeri belirtilmedi; görsel paylaşımda.",
+      "summary": "Oyuncular GTA 6’da Batman’e, özellikle de 1990’ların çizgi dizisi “Batman: The Animated Series”e saygı duruşu niteliğinde bir detay buldu. Yeri belirtilmedi; görsel paylaşımlarda.",
       "category": "Easter Egg",
       "tags": [
         "Batman",
@@ -31593,6 +31593,92 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T22:04:46Z",
       "checkedAt": "2026-11-20T22:34:57.475Z"
+    },
+    {
+      "id": "x-dexterdaily-michael-c-hall",
+      "url": "https://x.com/DexterDaily/status/2123908445502058834",
+      "author": "@DexterDaily",
+      "network": "x",
+      "title": "Dexter’ın yıldızı Michael C. Hall, GTA 6’daki viral Dexter easter egg’ine yanıt verdi",
+      "summary": "Dexter Morgan’ı canlandıran Michael C. Hall, GTA 6’da bulunan dairesi, teknesi ve öldürme odası göndermelerine yanıt verdi; yanıtın ayrıntıları paylaşılan haberde.",
+      "category": "Easter Egg",
+      "tags": [
+        "Michael C. Hall",
+        "Dexter",
+        "easter egg",
+        "dizi",
+        "TV series",
+        "yanıt"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T22:36:48Z",
+      "checkedAt": "2026-11-20T22:55:15.328Z"
+    },
+    {
+      "id": "x-thedsc-hippi-orka-gorevi",
+      "url": "https://x.com/TheOnlyDSC/status/2123908054517526588",
+      "author": "@TheOnlyDSC",
+      "network": "x",
+      "title": "Yan görev: Bir hippinin orkayı serbest bırakmasına yardım ediyorsun",
+      "summary": "GTA 6’da bir hippinin esir tutulan bir orkayı serbest bırakmasına yardım ettiğin bir yan görev var; görevin sonu oyunculara göre Rockstar tarzı karanlık bir sürpriz içeriyor.",
+      "category": "Görev",
+      "tags": [
+        "orka",
+        "orca",
+        "hippi",
+        "yan görev",
+        "side mission",
+        "kara mizah"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-20T22:35:15Z",
+      "checkedAt": "2026-11-20T22:55:15.328Z"
+    },
+    {
+      "id": "x-roundtable-kartlar-waink-ipuclari",
+      "url": "https://x.com/RoundtableSpace/status/2123887859337961656",
+      "author": "@RoundtableSpace",
+      "network": "x",
+      "title": "Kart ve WAiNK taramalarından para: 480 kart rehincide satılıyor, 3 set kupa veriyor",
+      "summary": "Toplam 480 koleksiyon kartı sarı telefon kulübelerinde, alet kutularında ve bina içlerinde çıkıyor; rehincilere satılabiliyor. 3 seti tamamlamak “Don’t Touch My Deck” kupasını açıyor. WAiNK ile taranabilecek ilginç noktalar (hovercraft kazası, Noel evi, terk edilmiş casus gemisi vb.) Leonida’nın her yerinde; bazı taramalar ileride filtre ve hileleri açıyor, bu yüzden erken taramak öneriliyor.",
+      "category": "Koleksiyon",
+      "tags": [
+        "koleksiyon kartı",
+        "collectible cards",
+        "480 kart",
+        "rehinci",
+        "pawn shop",
+        "Don’t Touch My Deck",
+        "kupa",
+        "trophy",
+        "WAiNK",
+        "tarama",
+        "scan"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T21:15:00Z",
+      "checkedAt": "2026-11-20T22:55:15.328Z"
+    },
+    {
+      "id": "x-paixski-100k-birikim-gerekmiyor",
+      "url": "https://x.com/paixski/status/2123898280681570687",
+      "author": "@paixski",
+      "network": "x",
+      "title": "Hikâyede ilerlemek için birikim hesabına 100.000 $ koymak gerekmiyor",
+      "summary": "Yayıncı Lacy’nin sohbeti onu ilerlemek için birikim hesabına 100.000 $ yatırması gerektiğine inandırdı ve saatlerce para kasmasına yol açtı. Böyle bir zorunluluk yok: BuckMe birikim eşikleri yalnızca limit ve indirim gibi ödüller açıyor, hikâye ilerlemesini kilitlemiyor.",
+      "category": "İpucu",
+      "tags": [
+        "BuckMe",
+        "birikim",
+        "savings",
+        "100.000 dolar",
+        "hikâye ilerlemesi",
+        "yanlış bilgi",
+        "myth"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T21:56:24Z",
+      "checkedAt": "2026-11-20T22:55:15.328Z"
     }
   ]
 }
