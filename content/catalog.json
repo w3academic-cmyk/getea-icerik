@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 180,
-  "publishedAt": "2026-11-20T16:14:59.533Z",
+  "revision": 181,
+  "publishedAt": "2026-11-20T16:35:08.251Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -30177,7 +30177,7 @@
       "author": "@milesClippedIt",
       "network": "x",
       "title": "İddia: iShowSpeed oyunda “Kırmızı Hulk” benzeri dev bir yaratık buldu",
-      "summary": "Yayıncı iShowSpeed’in GTA 6’da Kırmızı Hulk’a benzeyen dev, kırmızı bir yaratıkla karşılaştığı bir yayın anı paylaşıldı. Oyuncuların daha önce bahsettiği dev ve doğaüstü karşılaşmalardan biri olabilir; yeri ve tetiklenme şekli bilinmiyor.",
+      "summary": "Yayıncı iShowSpeed’in GTA 6’da Kırmızı Hulk’a benzeyen dev, kırmızı bir yaratıkla karşılaştığı bir yayın anı paylaşıldı. Oyuncuların daha önce bahsettiği dev ve doğaüstü karşılaşmalardan biri olabilir; yeri ve tetiklenme şekli bilinmiyor. Başka oyuncular, bir çiftçi NPC’nin uyuşturucu sonrası bu kırmızı deve dönüşüp bir polisi haritanın öbür ucuna fırlattığını anlatıyor.",
       "category": "Gizli",
       "tags": [
         "Kırmızı Hulk",
@@ -30731,6 +30731,95 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T16:00:02Z",
       "checkedAt": "2026-11-20T16:14:59.533Z"
+    },
+    {
+      "id": "x-hyxkkimxru-spor-salonu-qr-gorev",
+      "url": "https://x.com/hyxkkimxru/status/2123805589516021984",
+      "author": "@hyxkkimxru",
+      "network": "x",
+      "title": "Gizli yan görev: Spor salonu duşundaki QR kodu tara",
+      "summary": "Bir oyuncu, rastgele girdiği bir spor salonunun duşlarında bir QR kod bulduğunu, telefonla tarayınca mesaj geldiğini ve yeni bir yan görev açıldığını paylaştı. Hangi salon olduğu belirtilmedi.",
+      "category": "Gizli Görev",
+      "tags": [
+        "QR kod",
+        "QR code",
+        "spor salonu",
+        "gym",
+        "duş",
+        "yan görev",
+        "side mission",
+        "telefon",
+        "gizli"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T15:48:05Z",
+      "checkedAt": "2026-11-20T16:35:08.251Z"
+    },
+    {
+      "id": "x-haangem-tek-yildiz-radyo-eskal",
+      "url": "https://x.com/HaangEmHiigh/status/2123812335827444223",
+      "author": "@HaangEmHiigh",
+      "network": "x",
+      "title": "Tek yıldızda bile polis telsizi radyoda eşkalini okuyor",
+      "summary": "GTA 6’da aranma seviyesi yalnızca bir yıldızken bile polis telsizinden senin eşkalin anons ediliyor; oyuncular bunun aranma sistemini çok daha gergin yaptığını söylüyor. Kıyafet değiştirmek eşkali bozmanın yollarından biri.",
+      "category": "Özellik",
+      "tags": [
+        "polis telsizi",
+        "police scanner",
+        "eşkal",
+        "description",
+        "aranma",
+        "wanted level",
+        "1 yıldız",
+        "kılık değiştirme"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T16:14:54Z",
+      "checkedAt": "2026-11-20T16:35:08.251Z"
+    },
+    {
+      "id": "x-glindacent-at-binilemiyor",
+      "url": "https://x.com/glindacent/status/2123795932789747983",
+      "author": "@glindacent",
+      "network": "x",
+      "title": "Oyunda atlar var ama binilemiyor",
+      "summary": "Oyuncular GTA 6’da atlarla karşılaştı, ancak RDR2’nin aksine atlara binmek mümkün değil.",
+      "category": "Özellik",
+      "tags": [
+        "at",
+        "horse",
+        "binme",
+        "ride",
+        "hayvanlar",
+        "animals",
+        "RDR2"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T15:09:43Z",
+      "checkedAt": "2026-11-20T16:35:08.251Z"
+    },
+    {
+      "id": "x-sucumba-arthur-mary-reenkarnasyon",
+      "url": "https://x.com/SucumbaGames/status/2123813667552583687",
+      "author": "@SucumbaGames",
+      "network": "x",
+      "title": "Jason ve Lucia’nın bir diyaloğu, Arthur Morgan ile Mary Linton’un reenkarnasyonu teorisine göz kırpıyor",
+      "summary": "Hayranlar uzun süredir Jason ve Lucia’nın RDR2’deki Arthur Morgan ve Mary Linton’un reenkarnasyonu olduğunu öne sürüyordu. Oyuncuların paylaşımına göre Rockstar, bu teoriye göz kırpan bir Jason–Lucia diyaloğunu bilerek oyuna koymuş.",
+      "category": "Easter Egg",
+      "tags": [
+        "Arthur Morgan",
+        "Mary Linton",
+        "RDR2",
+        "Red Dead Redemption 2",
+        "reenkarnasyon",
+        "teori",
+        "Jason",
+        "Lucia",
+        "diyalog"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-20T16:20:11Z",
+      "checkedAt": "2026-11-20T16:35:08.251Z"
     }
   ]
 }
