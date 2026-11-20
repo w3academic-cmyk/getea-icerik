@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 144,
-  "publishedAt": "2026-11-20T01:34:19.052Z",
+  "revision": 145,
+  "publishedAt": "2026-11-20T01:54:09.260Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -21973,6 +21973,25 @@
       "spoiler": "minor",
       "postedAt": "2026-11-19T23:32:38Z",
       "checkedAt": "2026-11-20T01:34:19.052Z"
+    },
+    {
+      "id": "x-ign-2-milyon-yeni-zelanda",
+      "url": "https://x.com/IGN/status/2123586127533629774",
+      "author": "@IGN",
+      "network": "x",
+      "title": "Tahminen 2 milyon oyuncu bölgesini Yeni Zelanda yaparak bir gün erken oynadı",
+      "summary": "IGN’e göre yaklaşık 2 milyon oyuncu konsol bölge ayarını Yeni Zelanda’ya çevirip GTA VI’a bir gün erken başladı.",
+      "category": "Haber",
+      "tags": [
+        "Yeni Zelanda",
+        "bölge",
+        "region",
+        "erken erişim",
+        "IGN"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T01:16:01Z",
+      "checkedAt": "2026-11-20T01:54:09.260Z"
     }
   ]
 }
