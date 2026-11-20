@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 169,
-  "publishedAt": "2026-11-20T09:55:39.406Z",
+  "revision": 170,
+  "publishedAt": "2026-11-20T10:14:56.096Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -30082,6 +30082,27 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T09:31:30Z",
       "checkedAt": "2026-11-20T09:55:39.406Z"
+    },
+    {
+      "id": "x-gta6turkish-ps5-kullanici-puani",
+      "url": "https://x.com/GTA6_Turkish/status/2123712485920313838",
+      "author": "@GTA6_Turkish",
+      "network": "x",
+      "title": "PlayStation Store’da 120 binden fazla oyla 4,86/5 kullanıcı puanı",
+      "summary": "GTA 6, PS5’te PlayStation Store’da 120 bini aşkın oyuncu oyuyla 5 üzerinden 4,86 kullanıcı puanına ulaştı. Oyun bu arada 2,36 milyar dolarlık ilk gün geliri ve Metacritic 99 ile rekor tablosunu sürdürüyor.",
+      "category": "Haber",
+      "tags": [
+        "kullanıcı puanı",
+        "user score",
+        "PlayStation Store",
+        "PS5",
+        "4,86",
+        "değerlendirme",
+        "rating"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T09:38:07Z",
+      "checkedAt": "2026-11-20T10:14:56.096Z"
     }
   ]
 }
