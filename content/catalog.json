@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 178,
-  "publishedAt": "2026-11-20T13:15:17.208Z",
+  "revision": 179,
+  "publishedAt": "2026-11-20T16:04:56.729Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -29673,7 +29673,7 @@
       "author": "@UTDTIMMY07",
       "network": "x",
       "title": "İddia: Wizkid’in “Energy” şarkısı GTA 6’nın Afrobeat radyosunda",
-      "summary": "Nijeryalı yıldız Wizkid’in “Energy” şarkısının oyundaki Afrobeat radyo istasyonunda çaldığı iddia ediliyor; paylaşımda “haberlere göre” deniyor, resmî parça listesiyle doğrulanmadı.",
+      "summary": "Nijeryalı yıldız Wizkid’in “Energy” şarkısının oyundaki Afrobeat radyo istasyonunda çaldığı iddia ediliyor; paylaşımda “haberlere göre” deniyor, resmî parça listesiyle doğrulanmadı. Bazı kullanıcılar oyunda hiç Wizkid şarkısı bulunmadığını söylüyor.",
       "category": "Radyo",
       "tags": [
         "Wizkid",
@@ -29999,7 +29999,7 @@
       "author": "@WizStatz",
       "network": "x",
       "title": "Afro Bank FM’de çalanlar: Wizkid “Kese”, Adekunle Gold & Davido “HIGH”, Zaylevelten’in yayınlanmamış şarkısı",
-      "summary": "Oyunun Afrika müziği istasyonunun adı Afro Bank FM. Oyuncuların ve hayran hesaplarının paylaşımlarına göre istasyonda Wizkid’in “Kese (Dance)”, Adekunle Gold ile Davido’nun “HIGH” şarkısı, Adekunle Gold ile Zinoleesky’nin “PNDS” şarkısı ve Zaylevelten’in henüz yayınlanmamış bir parçası çalıyor. Ayrıca Future’ın “712PM”inin de radyoda olduğu paylaşıldı. İstasyonda en çok şarkısı olan Nijeryalı sanatçı, 6 şarkıyla Asake. Fireboy DML ile Asake’nin “Bandana”sı da listede; Burna Boy, “Bigger” şarkısının Afro Bank FM’de çaldığını kendi hesabından duyurdu.",
+      "summary": "Oyunun Afrika müziği istasyonunun adı Afro Bank FM. Oyuncuların ve hayran hesaplarının paylaşımlarına göre istasyonda Adekunle Gold ile Davido’nun “HIGH” şarkısı, Adekunle Gold ile Zinoleesky’nin “PNDS” şarkısı ve Zaylevelten’in henüz yayınlanmamış bir parçası çalıyor. Ayrıca Future’ın “712PM”inin de radyoda olduğu paylaşıldı. İstasyonda en çok şarkısı olan Nijeryalı sanatçı, 6 şarkıyla Asake. Fireboy DML ile Asake’nin “Bandana”sı da listede; Burna Boy, “Bigger” şarkısının Afro Bank FM’de çaldığını kendi hesabından duyurdu. Not: Wizkid’in “Kese” şarkısının da istasyonda olduğu yayılmıştı, ancak bazı kullanıcılar şarkının oyunda bulunmadığını ve listenin hayranlarca hazırlandığını söylüyor; doğrulanmadı.",
       "category": "Radyo",
       "tags": [
         "Afro Bank FM",
@@ -30417,6 +30417,257 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T12:49:57Z",
       "checkedAt": "2026-11-20T13:15:05.799Z"
+    },
+    {
+      "id": "x-dexerto-cokme-pipework-lavabo",
+      "url": "https://x.com/Dexerto/status/2123808718168969692",
+      "author": "@Dexerto",
+      "network": "x",
+      "title": "PS5 ve Xbox’ta çökme şikâyetleri: Bazıları prologu geçemiyor, Pipework’te lavabo tamirinde oyun kapanıyor",
+      "summary": "Dexerto’ya göre PS5 ve Xbox’ta oyuncular çökme bildiriyor; bazıları açılış prologunu bile geçemiyor. Bir oyuncu, Pipework görevinde lavaboyu tamir etmeye çalıştığı her seferde oyunun çöktüğünü söylüyor. Rockstar henüz bir düzeltme duyurmadı; sık elle kayıt almak öneriliyor.",
+      "category": "Hata",
+      "tags": [
+        "çökme",
+        "crash",
+        "PS5",
+        "Xbox",
+        "prolog",
+        "Pipework",
+        "lavabo",
+        "hata",
+        "bug"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T16:00:31Z",
+      "checkedAt": "2026-11-20T16:04:56.729Z"
+    },
+    {
+      "id": "x-discussingfilm-collateral-npc",
+      "url": "https://x.com/DiscussingFilm/status/2123803038364094965",
+      "author": "@DiscussingFilm",
+      "network": "x",
+      "title": "Tom Cruise’un “Collateral” filmindeki karakterinden esinlenen tam bir NPC karşılaşması bulundu",
+      "summary": "Oyuncular, Tom Cruise’un “Collateral” (Bir Gecelik Kâbus) filmindeki tetikçi Vincent’tan esinlenmiş, baştan sona bir NPC karşılaşması buldu. Sahne filmdeki taksi gecesini andırıyor.",
+      "category": "Easter Egg",
+      "tags": [
+        "Collateral",
+        "Tom Cruise",
+        "film göndermesi",
+        "movie reference",
+        "NPC",
+        "karşılaşma",
+        "encounter",
+        "easter egg"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T15:37:57Z",
+      "checkedAt": "2026-11-20T16:04:56.729Z"
+    },
+    {
+      "id": "x-millzaa-seytani-ritual-kupa",
+      "url": "https://x.com/Millzaatv_/status/2123801276467368163",
+      "author": "@Millzaatv_",
+      "network": "x",
+      "title": "İddia: Şeytani ritüel easter egg’i çok nadir bir kupa veriyor",
+      "summary": "Bir içerik üreticisi, GTA 6’da şeytani bir kurban ritüeli içeren gizli bir easter egg bulduğunu ve tamamlayınca çok nadir bir kupa (trophy) açıldığını paylaştı. Yeri ve adımları videoda; doğrulanmadı.",
+      "category": "Gizli",
+      "tags": [
+        "ritüel",
+        "ritual",
+        "şeytani",
+        "demonic",
+        "kurban",
+        "sacrifice",
+        "kupa",
+        "trophy",
+        "easter egg",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T15:30:57Z",
+      "checkedAt": "2026-11-20T16:04:56.729Z"
+    },
+    {
+      "id": "x-techjunkie-black-eagle-tmr-tufek",
+      "url": "https://x.com/Techjunkie_Aman/status/2123796127669702835",
+      "author": "@Techjunkie_Aman",
+      "network": "x",
+      "title": "Efsanevi Black Eagle susturuculu TMR tüfeği nerede? Black Eagle Ammunition’ın yanındaki depoda",
+      "summary": "Oyunun en iyi silahlarından biri sayılan susturuculu, dürbünlü Black Eagle Import M306 TMR tüfeği, haritada “Leonida” yazısının “D” harfinin hemen altındaki Black Eagle Ammunition dükkânının yanında. Dükkâna girme; bitişikteki depoya gir, tüfek orada.",
+      "category": "Silah",
+      "tags": [
+        "Black Eagle",
+        "TMR",
+        "M306",
+        "efsanevi tüfek",
+        "legendary rifle",
+        "susturucu",
+        "silencer",
+        "silah konumu",
+        "weapon location"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T15:10:29Z",
+      "checkedAt": "2026-11-20T16:04:56.729Z"
+    },
+    {
+      "id": "x-shitpostrock-hileler-kilitli",
+      "url": "https://x.com/ShitpostRock/status/2123796004021629081",
+      "author": "@ShitpostRock",
+      "network": "x",
+      "title": "İddia: Hile kodları için hikâyeyi bitirmek ya da bir dizi görevi tamamlamak gerekiyor",
+      "summary": "Oyuncuların paylaşımlarına göre GTA 6’daki hile kodları baştan açık değil; kullanabilmek için ana hikâyeyi bitirmek ya da çeşitli meydan okumaları tamamlamak gerekiyor. Rockstar’ın resmî hile listesi henüz yok; internetteki “tam hile listeleri”nin çoğu kaynaksız.",
+      "category": "Hile",
+      "tags": [
+        "hile kodları",
+        "cheat codes",
+        "kilit",
+        "unlock",
+        "meydan okuma",
+        "challenges",
+        "hikâye",
+        "story",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T15:10:00Z",
+      "checkedAt": "2026-11-20T16:04:56.729Z"
+    },
+    {
+      "id": "x-zephryss-erken-silah-yerleri",
+      "url": "https://x.com/TheRealZephryss/status/2123794627719532833",
+      "author": "@TheRealZephryss",
+      "network": "x",
+      "title": "Erken oyunda en iyi silahlar: Duke 556 tüfek ve Type 9 SMG, Hamlet’in güneyindeki depoda",
+      "summary": "Bir oyuncunun listesine göre erken oyunun en iyi silahlarından Duke 556 saldırı tüfeği, Hamlet’in güneyindeki South Vice-Dale County deposunda cesetlerin yanında; Type 9 SMG de aynı depoda. Listenin geri kalanı paylaşımda.",
+      "category": "Silah",
+      "tags": [
+        "Duke 556",
+        "Type 9",
+        "SMG",
+        "saldırı tüfeği",
+        "assault rifle",
+        "erken oyun",
+        "early game",
+        "Vice-Dale",
+        "Hamlet",
+        "depo"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T15:04:32Z",
+      "checkedAt": "2026-11-20T16:04:56.729Z"
+    },
+    {
+      "id": "x-gtawiki-flash-fm-80-sarki",
+      "url": "https://x.com/GTAWikiOfficial/status/2123794234369245597",
+      "author": "@GTAWikiOfficial",
+      "network": "x",
+      "title": "Pop istasyonu Flash FM’de 80 şarkı var: Olivia Rodrigo “good 4 u” da listede",
+      "summary": "GTA Wiki, oyunun pop radyosu Flash FM’in tam parça listesini paylaştı: istasyonda toplam 80 şarkı var. Olivia Rodrigo’nun “good 4 u”su da Flash FM’de çalıyor. Oyuncular ayrıca P1Harmony’nin “MOMENTUM”unu ve Waka Flocka’nın “O Let’s Do It”ini radyoda duyduklarını paylaştı.",
+      "category": "Radyo",
+      "tags": [
+        "Flash FM",
+        "pop",
+        "80 şarkı",
+        "Olivia Rodrigo",
+        "good 4 u",
+        "P1Harmony",
+        "Waka Flocka",
+        "parça listesi",
+        "tracklist"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T15:02:58Z",
+      "checkedAt": "2026-11-20T16:04:56.729Z"
+    },
+    {
+      "id": "x-roundtable-bedava-super-arabalar",
+      "url": "https://x.com/RoundtableSpace/status/2123789712896688162",
+      "author": "@RoundtableSpace",
+      "network": "x",
+      "title": "Para vermeden süper araba: Vespucci Island, Casanova Island, Crimson Palms ve Starfish Island",
+      "summary": "Oyuncuların derlediği noktalar: Vespucci Island’da anahtarı içinde kırmızı bir hiperaraba; Casanova Island’daki bir garajda altın Lamborghini Urus benzeri; Crimson Palms kulesinin altında som altın bir Lamborghini; Starfish Island’da her gelişte değişen araçlarla dolu bir garaj. Topluluk bilgisi, doğrulanmadı.",
+      "category": "Araç",
+      "tags": [
+        "süper araba",
+        "supercar",
+        "bedava araba",
+        "free car",
+        "Vespucci Island",
+        "Casanova Island",
+        "Crimson Palms",
+        "Starfish Island",
+        "altın Lamborghini"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T14:45:00Z",
+      "checkedAt": "2026-11-20T16:04:56.729Z"
+    },
+    {
+      "id": "x-sourcevi-perili-otel",
+      "url": "https://x.com/SourceVI/status/2123777101119607247",
+      "author": "@SourceVI",
+      "network": "x",
+      "title": "Perili otel easter egg’i: İçeri girince oyun Silent Hill’e dönüşüyor",
+      "summary": "Oyuncular GTA 6’da perili bir otel buldu; binaya girince atmosfer tamamen değişiyor ve oyun bir Silent Hill bölümüne benziyor. Otelin yeri paylaşımda belirtilmedi.",
+      "category": "Gizli",
+      "tags": [
+        "perili otel",
+        "haunted hotel",
+        "Silent Hill",
+        "korku",
+        "horror",
+        "easter egg",
+        "doğaüstü",
+        "supernatural"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T13:54:53Z",
+      "checkedAt": "2026-11-20T16:04:56.729Z"
+    },
+    {
+      "id": "x-xgarbett-baska-boyut",
+      "url": "https://x.com/xGarbett/status/2123773748574835102",
+      "author": "@xGarbett",
+      "network": "x",
+      "title": "İddia: Gizli bir eşya seni başka bir boyuta götürüyor",
+      "summary": "Bir içerik üreticisi, GTA 6’da kullanınca karakteri başka bir “boyuta” götüren gizli bir eşya bulduğunu 5 dakikalık bir videoyla anlattı. Eşyanın yeri ve nasıl çalıştığı videoda; doğrulanmadı.",
+      "category": "Gizli",
+      "tags": [
+        "başka boyut",
+        "another dimension",
+        "gizli eşya",
+        "secret item",
+        "doğaüstü",
+        "supernatural",
+        "gizem",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T13:41:34Z",
+      "checkedAt": "2026-11-20T16:04:56.729Z"
+    },
+    {
+      "id": "x-insidergaming-ciplaklar-kampi",
+      "url": "https://x.com/InsiderGamingIG/status/2123773190631542879",
+      "author": "@InsiderGamingIG",
+      "network": "x",
+      "title": "GTA 6’da çıplaklar kampı (nudist resort) nasıl bulunur? Insider Gaming rehberi",
+      "summary": "Insider Gaming, oyundaki çıplaklar tatil köyünün (nudist resort) nasıl bulunacağını anlatan bir rehber yayınladı. Yerin tarifi rehberde.",
+      "category": "Konum",
+      "tags": [
+        "nudist resort",
+        "çıplaklar kampı",
+        "tatil köyü",
+        "konum",
+        "location",
+        "Insider Gaming",
+        "rehber",
+        "guide"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T13:39:21Z",
+      "checkedAt": "2026-11-20T16:04:56.729Z"
     }
   ]
 }
