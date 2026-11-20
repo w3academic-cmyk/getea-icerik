@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 162,
-  "publishedAt": "2026-11-20T07:35:03.678Z",
+  "revision": 163,
+  "publishedAt": "2026-11-20T07:54:58.151Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -29666,6 +29666,69 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T06:43:12Z",
       "checkedAt": "2026-11-20T07:35:03.678Z"
+    },
+    {
+      "id": "x-utdtimmy-wizkid-energy-afrobeat",
+      "url": "https://x.com/UTDTIMMY07/status/2123682403688280380",
+      "author": "@UTDTIMMY07",
+      "network": "x",
+      "title": "İddia: Wizkid’in “Energy” şarkısı GTA 6’nın Afrobeat radyosunda",
+      "summary": "Nijeryalı yıldız Wizkid’in “Energy” şarkısının oyundaki Afrobeat radyo istasyonunda çaldığı iddia ediliyor; paylaşımda “haberlere göre” deniyor, resmî parça listesiyle doğrulanmadı.",
+      "category": "Radyo",
+      "tags": [
+        "Wizkid",
+        "Energy",
+        "Afrobeat",
+        "radyo",
+        "radio",
+        "şarkı",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T07:38:35Z",
+      "checkedAt": "2026-11-20T07:54:58.151Z"
+    },
+    {
+      "id": "x-keith-richards-gta-6-album",
+      "url": "https://x.com/officialKeef/status/2123675896934723677",
+      "author": "@officialKeef",
+      "network": "x",
+      "title": "Rolling Stones’un Keith Richards’ı da GTA 6 albümünde",
+      "summary": "Rolling Stones gitaristi Keith Richards’ın resmî hesabı “GTA VI: The Album yayında” diye duyurdu; Richards da albümdeki isimler arasında.",
+      "category": "Radyo",
+      "tags": [
+        "Keith Richards",
+        "Rolling Stones",
+        "GTA 6 The Album",
+        "albüm",
+        "album",
+        "soundtrack"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T07:12:44Z",
+      "checkedAt": "2026-11-20T07:54:58.151Z"
+    },
+    {
+      "id": "x-webtekno-xbox-surumu-sizinti-iddiasi",
+      "url": "https://x.com/webtekno/status/2123673154333597813",
+      "author": "@webtekno",
+      "network": "x",
+      "title": "İddia: GTA 6’nın Xbox dosyaları korsan ağlarda paylaşıldı, ama oyun çalışmıyor",
+      "summary": "Webtekno’ya göre Cyberleek adlı grup, GTA 6’nın 209 GB’lık Xbox dosyalarını korsan ağlarda paylaştı; oyunu çalıştırmak için gereken dosya ise paylaşılmadı. Grup, bir emülatör ya da PC’de çalışan bir sürüm üzerinde çalıştığını iddia ediyor. Rockstar’dan açıklama yok. Bu tür dosyalar zararlı yazılım riski taşır ve yasa dışıdır; bağlantı vermiyoruz.",
+      "category": "Haber",
+      "tags": [
+        "sızıntı",
+        "leak",
+        "korsan",
+        "piracy",
+        "Xbox",
+        "Cyberleek",
+        "güvenlik",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T07:01:50Z",
+      "checkedAt": "2026-11-20T07:54:58.151Z"
     }
   ]
 }
