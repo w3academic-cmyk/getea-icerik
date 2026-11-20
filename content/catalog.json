@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 149,
-  "publishedAt": "2026-11-20T02:36:44.706Z",
+  "revision": 150,
+  "publishedAt": "2026-11-20T02:38:33.129Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -3047,8 +3047,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Randy's Wish List"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Randy's Wish List",
+      "bolum": 3
     },
     {
       "id": "gorev-randy-s-wish-list-bravado-banshee",
@@ -3071,8 +3072,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Randy's Wish List: Bravado Banshee"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Randy's Wish List: Bravado Banshee",
+      "bolum": null
     },
     {
       "id": "gorev-randy-s-wish-list-pegassi-tempesta",
@@ -3094,8 +3096,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Randy's Wish List: Pegassi Tempesta"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Randy's Wish List: Pegassi Tempesta",
+      "bolum": null
     },
     {
       "id": "gorev-randy-s-wish-list-pegassi-infernus",
@@ -3118,8 +3121,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Randy's Wish List: Pegassi Infernus"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Randy's Wish List: Pegassi Infernus",
+      "bolum": null
     },
     {
       "id": "gorev-randy-s-wish-list-pegassi-vitello",
@@ -3142,8 +3146,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Randy's Wish List: Pegassi Vitello"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Randy's Wish List: Pegassi Vitello",
+      "bolum": null
     },
     {
       "id": "gorev-randy-s-wish-list-bravado-gauntlet-hellfire",
@@ -3165,8 +3170,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Randy's Wish List: Bravado Gauntlet Hellfire"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Randy's Wish List: Bravado Gauntlet Hellfire",
+      "bolum": null
     },
     {
       "id": "gorev-randy-s-wish-list-mamba-gt",
@@ -3189,8 +3195,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Randy's Wish List: Mamba GT"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Randy's Wish List: Mamba GT",
+      "bolum": null
     },
     {
       "id": "gorev-randy-s-wish-list-ascot-paragon",
@@ -3212,8 +3219,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Randy's Wish List: Ascot Paragon"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Randy's Wish List: Ascot Paragon",
+      "bolum": null
     },
     {
       "id": "gorev-randy-s-wish-list-piccia-furia",
@@ -3235,8 +3243,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Randy's Wish List: Piccia Furia"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Randy's Wish List: Piccia Furia",
+      "bolum": null
     },
     {
       "id": "gorev-randy-s-wish-list-pegassi-toros",
@@ -3258,8 +3267,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Randy's Wish List: Pegassi Toros"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Randy's Wish List: Pegassi Toros",
+      "bolum": null
     },
     {
       "id": "gorev-randy-s-wish-list-pfister-growler",
@@ -3281,8 +3291,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Randy's Wish List: Pfister Growler"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Randy's Wish List: Pfister Growler",
+      "bolum": null
     },
     {
       "id": "gorev-fencing-fences",
@@ -3308,8 +3319,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Fencing (Fences)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Fencing (Fences)",
+      "bolum": 3
     },
     {
       "id": "gorev-store-stick-ups",
@@ -3335,8 +3347,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Store Stick-Ups"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Store Stick-Ups",
+      "bolum": 1
     },
     {
       "id": "gorev-payday-loans",
@@ -3363,8 +3376,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Payday Loans"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Payday Loans",
+      "bolum": 3
     },
     {
       "id": "gorev-payday-loans-little-cuba",
@@ -3388,8 +3402,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Payday Loans: Little Cuba"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Payday Loans: Little Cuba",
+      "bolum": null
     },
     {
       "id": "gorev-small-bank-jobs",
@@ -3415,8 +3430,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Small Bank Jobs"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Small Bank Jobs",
+      "bolum": 3
     },
     {
       "id": "gorev-fleeca-bank",
@@ -3440,8 +3456,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Fleeca Bank"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Fleeca Bank",
+      "bolum": 3
     },
     {
       "id": "gorev-shorefront-bank",
@@ -3463,8 +3480,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Shorefront Bank"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Shorefront Bank",
+      "bolum": null
     },
     {
       "id": "gorev-lombank",
@@ -3487,8 +3505,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Lombank"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Lombank",
+      "bolum": 4
     },
     {
       "id": "gorev-druthers-state-bank-and-gibson-brothers-bank",
@@ -3511,8 +3530,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Druthers State Bank & Gibson Brothers Bank"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Druthers State Bank & Gibson Brothers Bank",
+      "bolum": null
     },
     {
       "id": "gorev-large-bank-vaults-that-s-where-the-money-is",
@@ -3539,8 +3559,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Large Bank Vaults (That's Where The Money Is...)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Large Bank Vaults (That's Where The Money Is...)",
+      "bolum": 4
     },
     {
       "id": "gorev-smash-n-grab-pawn-shops",
@@ -3564,8 +3585,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Smash 'n' Grab: Pawn Shops"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Smash 'n' Grab: Pawn Shops",
+      "bolum": 2
     },
     {
       "id": "gorev-smash-n-grab-jewelry-stores",
@@ -3590,8 +3612,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Smash 'n' Grab: Jewelry Stores"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Smash 'n' Grab: Jewelry Stores",
+      "bolum": 3
     },
     {
       "id": "gorev-yasmani-s-robberies",
@@ -3616,8 +3639,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Yasmani's Robberies"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Yasmani's Robberies",
+      "bolum": 3
     },
     {
       "id": "gorev-dunk-s-robbery-tips",
@@ -3641,8 +3665,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Dunk's Robbery Tips"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Dunk's Robbery Tips",
+      "bolum": 3
     },
     {
       "id": "gorev-illegal-gang-operations",
@@ -3669,8 +3694,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Illegal Gang Operations"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Illegal Gang Operations",
+      "bolum": null
     },
     {
       "id": "gorev-kingfishers",
@@ -3694,8 +3720,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Kingfishers"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Kingfishers",
+      "bolum": null
     },
     {
       "id": "gorev-kolts-and-associates",
@@ -3719,8 +3746,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Kolts & Associates"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Kolts & Associates",
+      "bolum": 2
     },
     {
       "id": "gorev-hit-kingpin-bowling",
@@ -3746,8 +3774,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Hit Kingpin Bowling"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Hit Kingpin Bowling",
+      "bolum": 2
     },
     {
       "id": "gorev-m7",
@@ -3770,8 +3799,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "M7"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "M7",
+      "bolum": 3
     },
     {
       "id": "gorev-la-polilla-negra",
@@ -3795,8 +3825,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "La Polilla Negra"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "La Polilla Negra",
+      "bolum": null
     },
     {
       "id": "gorev-final-chapter-mc",
@@ -3819,8 +3850,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Final Chapter MC"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Final Chapter MC",
+      "bolum": null
     },
     {
       "id": "gorev-san4san",
@@ -3843,8 +3875,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "San4San"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "San4San",
+      "bolum": null
     },
     {
       "id": "gorev-ptt-youngin",
@@ -3867,8 +3900,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "PTT Youngin$"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "PTT Youngin$",
+      "bolum": null
     },
     {
       "id": "gorev-the-guardia-brothers",
@@ -3892,8 +3926,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "The Guardia Brothers"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "The Guardia Brothers",
+      "bolum": null
     },
     {
       "id": "gorev-other-criminals",
@@ -3916,8 +3951,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Other Criminals"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Other Criminals",
+      "bolum": null
     },
     {
       "id": "gorev-the-last-mile-passing-the-torch",
@@ -3942,8 +3978,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "The Last Mile: Passing the Torch"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "The Last Mile: Passing the Torch",
+      "bolum": 4
     },
     {
       "id": "gorev-backseat-pilot",
@@ -3969,8 +4006,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Backseat Pilot"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Backseat Pilot",
+      "bolum": null
     },
     {
       "id": "gorev-pete-s-deliveries",
@@ -3995,8 +4033,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Pete's Deliveries"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Pete's Deliveries",
+      "bolum": null
     },
     {
       "id": "gorev-veteran-hunted",
@@ -4021,8 +4060,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Veteran Hunted"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Veteran Hunted",
+      "bolum": 2
     },
     {
       "id": "gorev-bret-s-hunting-decks",
@@ -4046,8 +4086,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Bret's Hunting Decks"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Bret's Hunting Decks",
+      "bolum": null
     },
     {
       "id": "gorev-moses-vehicle-drop-offs",
@@ -4073,8 +4114,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Moses' Vehicle Drop-Offs"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Moses' Vehicle Drop-Offs",
+      "bolum": 2
     },
     {
       "id": "gorev-kenton-s-treasures",
@@ -4099,8 +4141,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Kenton's Treasures"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Kenton's Treasures",
+      "bolum": 1
     },
     {
       "id": "gorev-take-out-kitty-litter-spin-on-this",
@@ -4126,8 +4169,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Take Out Kitty Litter / Spin On This"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Take Out Kitty Litter / Spin On This",
+      "bolum": 3
     },
     {
       "id": "gorev-find-the-lost-drugs",
@@ -4151,8 +4195,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Find the Lost Drugs"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Find the Lost Drugs",
+      "bolum": 1
     },
     {
       "id": "gorev-search-for-the-skunk-ape-skunk-apeology-101",
@@ -4178,8 +4223,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Search for the Skunk Ape (Skunk Apeology 101)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Search for the Skunk Ape (Skunk Apeology 101)",
+      "bolum": null
     },
     {
       "id": "gorev-search-for-tree-effigies",
@@ -4202,8 +4248,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Search for Tree Effigies"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Search for Tree Effigies",
+      "bolum": null
     },
     {
       "id": "gorev-help-kirk-find-mr-mangrove-advanced-skunk-apeonomics",
@@ -4230,8 +4277,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Help Kirk Find Mr. Mangrove (Advanced Skunk Apeonomics)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Help Kirk Find Mr. Mangrove (Advanced Skunk Apeonomics)",
+      "bolum": 2
     },
     {
       "id": "gorev-bigfoot-sasquatch-encounter",
@@ -4255,8 +4303,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Bigfoot / Sasquatch encounter"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Bigfoot / Sasquatch encounter",
+      "bolum": null
     },
     {
       "id": "gorev-catch-a-bigger-fish",
@@ -4282,8 +4331,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Catch A Bigger Fish"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Catch A Bigger Fish",
+      "bolum": 1
     },
     {
       "id": "gorev-the-truth-is-out-there-ufo-easter-egg",
@@ -4308,8 +4358,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "The Truth Is Out There (UFO Easter egg)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "The Truth Is Out There (UFO Easter egg)",
+      "bolum": 2
     },
     {
       "id": "gorev-roadside-encounter-fake-breakdown",
@@ -4333,8 +4384,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Roadside Encounter (fake breakdown)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Roadside Encounter (fake breakdown)",
+      "bolum": null
     },
     {
       "id": "gorev-plane-crash-sites",
@@ -4358,8 +4410,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Plane Crash Sites"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Plane Crash Sites",
+      "bolum": null
     },
     {
       "id": "gorev-veteran-hunted-bret-s-target-decks",
@@ -4386,8 +4439,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Veteran Hunted / Bret's Target Decks"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Veteran Hunted / Bret's Target Decks",
+      "bolum": 2
     },
     {
       "id": "gorev-thrillbillies-check-out-the-mud-club",
@@ -4412,8 +4466,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Thrillbillies (Check Out the Mud Club)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Thrillbillies (Check Out the Mud Club)",
+      "bolum": 2
     },
     {
       "id": "gorev-join-a-street-race",
@@ -4438,8 +4493,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Join a Street Race"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Join a Street Race",
+      "bolum": 3
     },
     {
       "id": "gorev-bumper-to-bumper-mentor-yago",
@@ -4464,8 +4520,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Bumper to Bumper (Mentor Yago)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Bumper to Bumper (Mentor Yago)",
+      "bolum": 3
     },
     {
       "id": "gorev-race-against-yago",
@@ -4489,8 +4546,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Race Against Yago"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Race Against Yago",
+      "bolum": 3
     },
     {
       "id": "gorev-unique-races-40-races",
@@ -4517,8 +4575,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Unique Races (40 races)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Unique Races (40 races)",
+      "bolum": null
     },
     {
       "id": "gorev-race-challenges-13-gold-medals",
@@ -4543,8 +4602,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Race Challenges (13 gold medals)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Race Challenges (13 gold medals)",
+      "bolum": null
     },
     {
       "id": "gorev-top-fun-drone-time-trials",
@@ -4570,8 +4630,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Top Fun Drone Time Trials"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Top Fun Drone Time Trials",
+      "bolum": null
     },
     {
       "id": "gorev-golf-and-mini-golf",
@@ -4597,8 +4658,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Golf and Mini Golf"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Golf and Mini Golf",
+      "bolum": null
     },
     {
       "id": "gorev-stunt-jumps-under-the-bridges-knife-flights-base-jumps",
@@ -4623,8 +4685,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Stunt Jumps, Under the Bridges, Knife Flights, Base Jumps"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Stunt Jumps, Under the Bridges, Knife Flights, Base Jumps",
+      "bolum": null
     },
     {
       "id": "gorev-shooting-range-challenges",
@@ -4650,8 +4713,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Shooting Range Challenges"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Shooting Range Challenges",
+      "bolum": null
     },
     {
       "id": "gorev-challenges-80-across-8-categories",
@@ -4675,8 +4739,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Challenges (80 across 8 categories)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Challenges (80 across 8 categories)",
+      "bolum": null
     },
     {
       "id": "gorev-kenton-s-treasure-diving-shipwrecks",
@@ -4703,8 +4768,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:08.766Z",
-      "mission": "Kenton's Treasure Diving (shipwrecks)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Kenton's Treasure Diving (shipwrecks)",
+      "bolum": 1
     },
     {
       "id": "gorev-attend-eddie-acosta-s-party",
@@ -4729,8 +4795,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Attend Eddie Acosta's Party"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Attend Eddie Acosta's Party",
+      "bolum": 4
     },
     {
       "id": "gorev-get-shirley-s-rum",
@@ -4756,8 +4823,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Get Shirley's Rum"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Get Shirley's Rum",
+      "bolum": 1
     },
     {
       "id": "gorev-steal-the-scooter",
@@ -4782,8 +4850,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Steal the Scooter"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Steal the Scooter",
+      "bolum": 2
     },
     {
       "id": "gorev-check-out-mckittrick-farm",
@@ -4808,8 +4877,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Check Out McKittrick Farm"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Check Out McKittrick Farm",
+      "bolum": 2
     },
     {
       "id": "gorev-collect-chemicals-for-kyle",
@@ -4835,8 +4905,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Collect Chemicals for Kyle"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Collect Chemicals for Kyle",
+      "bolum": null
     },
     {
       "id": "gorev-buddy-check-on-kyle",
@@ -4861,8 +4932,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Buddy? (Check on Kyle)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Buddy? (Check on Kyle)",
+      "bolum": 3
     },
     {
       "id": "gorev-veteran-hunted-meet-bret",
@@ -4889,8 +4961,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Veteran Hunted (Meet Bret)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Veteran Hunted (Meet Bret)",
+      "bolum": 2
     },
     {
       "id": "gorev-steal-vehicles-for-moses",
@@ -4918,8 +4991,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Steal Vehicles for Moses"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Steal Vehicles for Moses",
+      "bolum": 2
     },
     {
       "id": "gorev-collect-moses-gift",
@@ -4943,8 +5017,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Collect Moses' Gift"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Collect Moses' Gift",
+      "bolum": null
     },
     {
       "id": "gorev-twist-wrist-smash-grab-join-billy-on-a-job",
@@ -4970,8 +5045,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Twist Wrist, Smash, Grab (Join Billy on a Job)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Twist Wrist, Smash, Grab (Join Billy on a Job)",
+      "bolum": null
     },
     {
       "id": "gorev-mall-rats-join-billy-on-a-job",
@@ -4997,8 +5073,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Mall Rats (Join Billy on a Job)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Mall Rats (Join Billy on a Job)",
+      "bolum": 3
     },
     {
       "id": "gorev-the-impaler-steal-the-impaler",
@@ -5023,8 +5100,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "The Impaler (Steal the Impaler)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "The Impaler (Steal the Impaler)",
+      "bolum": null
     },
     {
       "id": "gorev-hometown-heroes",
@@ -5052,8 +5130,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Hometown Heroes"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Hometown Heroes",
+      "bolum": 3
     },
     {
       "id": "gorev-brother-to-brother-back-up-yago",
@@ -5080,8 +5159,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Brother to Brother (Back Up Yago)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Brother to Brother (Back Up Yago)",
+      "bolum": null
     },
     {
       "id": "gorev-climbing-the-cellerichain",
@@ -5107,8 +5187,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Climbing the Cellerichain"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Climbing the Cellerichain",
+      "bolum": 3
     },
     {
       "id": "gorev-pay-the-cellerica-fee",
@@ -5131,8 +5212,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Pay the Cellerica Fee"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Pay the Cellerica Fee",
+      "bolum": null
     },
     {
       "id": "gorev-peach-join-the-cellerica-initiation",
@@ -5158,8 +5240,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Peach! (Join the Cellerica Initiation)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Peach! (Join the Cellerica Initiation)",
+      "bolum": null
     },
     {
       "id": "gorev-read-the-label-retrieve-the-cellerica-van",
@@ -5183,8 +5266,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Read the Label (Retrieve the Cellerica Van)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Read the Label (Retrieve the Cellerica Van)",
+      "bolum": null
     },
     {
       "id": "gorev-puff-puff-pass-meet-at-the-warehouse",
@@ -5210,8 +5294,9 @@
         "Xbox Series"
       ],
       "spoiler": "minor",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Puff Puff Pass (Meet at the Warehouse)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Puff Puff Pass (Meet at the Warehouse)",
+      "bolum": null
     },
     {
       "id": "gorev-yasmani-s-jewelry-jobs",
@@ -5237,8 +5322,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Yasmani's Jewelry Jobs"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Yasmani's Jewelry Jobs",
+      "bolum": 3
     },
     {
       "id": "gorev-yasmani-s-atm-jobs",
@@ -5262,8 +5348,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Yasmani's ATM Jobs"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Yasmani's ATM Jobs",
+      "bolum": 3
     },
     {
       "id": "gorev-yasmani-s-payday-loans-jobs",
@@ -5287,8 +5374,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Yasmani's Payday Loans Jobs"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Yasmani's Payday Loans Jobs",
+      "bolum": 3
     },
     {
       "id": "gorev-tail-the-security-van",
@@ -5312,8 +5400,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Tail the Security Van"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Tail the Security Van",
+      "bolum": 3
     },
     {
       "id": "gorev-take-out-kitty-litter-kitty-litter-labs",
@@ -5337,8 +5426,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Take Out Kitty Litter (Kitty Litter Labs)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Take Out Kitty Litter (Kitty Litter Labs)",
+      "bolum": 3
     },
     {
       "id": "gorev-spin-on-this-shut-down-the-labs",
@@ -5366,8 +5456,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Spin On This (Shut Down the Labs)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Spin On This (Shut Down the Labs)",
+      "bolum": null
     },
     {
       "id": "gorev-the-last-mile-passing-the-torch-recover-pete-s-plane",
@@ -5392,8 +5483,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "The Last Mile: Passing the Torch (Recover Pete's Plane)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "The Last Mile: Passing the Torch (Recover Pete's Plane)",
+      "bolum": 4
     },
     {
       "id": "gorev-the-last-mile-backseat-pilot-deliver-packages",
@@ -5419,8 +5511,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "The Last Mile: Backseat Pilot (Deliver Packages)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "The Last Mile: Backseat Pilot (Deliver Packages)",
+      "bolum": 4
     },
     {
       "id": "gorev-pete-s-deliveries-southpoint-airfield",
@@ -5444,8 +5537,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Pete's Deliveries: Southpoint Airfield"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Pete's Deliveries: Southpoint Airfield",
+      "bolum": null
     },
     {
       "id": "gorev-pete-s-deliveries-avery-allen-and-co",
@@ -5470,8 +5564,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Pete's Deliveries: Avery Allen & Co."
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Pete's Deliveries: Avery Allen & Co.",
+      "bolum": null
     },
     {
       "id": "gorev-deliver-packages-the-last-mile-final",
@@ -5495,8 +5590,9 @@
         "Xbox Series"
       ],
       "spoiler": "none",
-      "checkedAt": "2026-11-20T02:36:44.706Z",
-      "mission": "Deliver Packages (The Last Mile final)"
+      "checkedAt": "2026-11-20T02:38:33.129Z",
+      "mission": "Deliver Packages (The Last Mile final)",
+      "bolum": null
     }
   ],
   "map": {
