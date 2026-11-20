@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 172,
-  "publishedAt": "2026-11-20T11:14:59.058Z",
+  "revision": 173,
+  "publishedAt": "2026-11-20T11:35:05.341Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -30127,6 +30127,49 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T10:40:27Z",
       "checkedAt": "2026-11-20T11:14:59.058Z"
+    },
+    {
+      "id": "x-piratnation-niko-bellic-hollick",
+      "url": "https://x.com/Pirat_Nation/status/2123733111582134320",
+      "author": "@Pirat_Nation",
+      "network": "x",
+      "title": "Niko Bellic GTA 6’da sürpriz bir görünüm yapıyor; orijinal seslendirmeni Michael Hollick geri döndü",
+      "summary": "Oyuncuların paylaşımlarına göre GTA IV’ün ana karakteri Niko Bellic, ilk çıkışından yaklaşık 18 yıl sonra GTA 6’da kısa bir görünüm yapıyor ve onu yine Michael Hollick seslendiriyor. Rockstar’dan ayrı bir resmî açıklama yok.",
+      "category": "Easter Egg",
+      "tags": [
+        "Niko Bellic",
+        "GTA 4",
+        "GTA IV",
+        "Michael Hollick",
+        "cameo",
+        "seslendirme",
+        "voice actor"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-20T11:00:05Z",
+      "checkedAt": "2026-11-20T11:35:05.341Z"
+    },
+    {
+      "id": "x-champvg-otomatik-pilot",
+      "url": "https://x.com/ChampVG/status/2123734960800444572",
+      "author": "@ChampVG",
+      "network": "x",
+      "title": "Otomatik pilot nasıl açılır? Haritada hedef seç, ↓ basılıyken Options’a bas",
+      "summary": "Bir oyuncunun anlattığına göre arabayı hedefe otomatik sürdürmek için haritadan gideceğin yeri işaretle, arabaya bin ve sürmeye başla; yön tuşu ↓’yi basılı tutarken Options’a bas, sinematik kameraya geçince Daire tuşunu basılı tut. Ayarlar > Oynanış’taki “Auto Drive” seçeneği de bu özelliği etkiliyor.",
+      "category": "İpucu",
+      "tags": [
+        "otomatik pilot",
+        "autopilot",
+        "auto drive",
+        "sinematik kamera",
+        "cinematic camera",
+        "araç",
+        "kontroller",
+        "PS5"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T11:07:26Z",
+      "checkedAt": "2026-11-20T11:35:05.341Z"
     }
   ]
 }
