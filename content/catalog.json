@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 142,
-  "publishedAt": "2026-11-20T01:14:08.580Z",
+  "revision": 144,
+  "publishedAt": "2026-11-20T01:34:19.052Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -21536,7 +21536,7 @@
       "author": "@Millzaatv_",
       "network": "x",
       "title": "Gizli yengeç araştırma tesisi: bulmacayı çöz, 10 bin $ ve efsanevi SMG",
-      "summary": "Bir yayıncı GTA VI’da gizli bir yengeç araştırma tesisi buldu; içerideki bulmacayı çözünce 10.000 doları aşan ganimet ve efsanevi bir SMG çıkıyor. Yeri videoda gösteriliyor.",
+      "summary": "Gizli yengeç araştırma tesisinin adı Pelican Valley Outpost. İçerideki bulmacayı çözünce 10.000 dolar ve efsanevi VF5 SMG kazanıyorsun; 1. bölümden itibaren yapılabiliyor (@DETONATEDcom). Haritada Pelican Valley bölgesinde.",
       "category": "Gizli",
       "tags": [
         "yengeç tesisi",
@@ -21545,11 +21545,13 @@
         "puzzle",
         "SMG",
         "ganimet",
-        "loot"
+        "loot",
+        "Pelican Valley",
+        "VF5"
       ],
       "spoiler": "none",
       "postedAt": "2026-11-19T20:17:02Z",
-      "checkedAt": "2026-11-19T20:34:12.583Z"
+      "checkedAt": "2026-11-20T01:34:18.961Z"
     },
     {
       "id": "x-detonated-eclipse-vespucci",
@@ -21931,6 +21933,46 @@
       "spoiler": "minor",
       "postedAt": "2026-11-20T01:01:05Z",
       "checkedAt": "2026-11-20T01:14:08.580Z"
+    },
+    {
+      "id": "x-tomhenderson-erken-para",
+      "url": "https://x.com/_Tom_Henderson_/status/2123571505166762276",
+      "author": "@_Tom_Henderson_",
+      "network": "x",
+      "title": "Insider Gaming: 1. bölümde kolay para kazanılacak en iyi yerler",
+      "summary": "Tom Henderson’ın Insider Gaming rehberi, ilk bölümde kolay nakit bulabileceğin en iyi yerleri sıralıyor; bağlantı paylaşımda.",
+      "category": "İpucu",
+      "tags": [
+        "para",
+        "money",
+        "erken oyun",
+        "Bölüm 1",
+        "Insider Gaming",
+        "rehber"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T00:17:55Z",
+      "checkedAt": "2026-11-20T01:34:19.052Z"
+    },
+    {
+      "id": "x-marionawfal-uzayli-tesis",
+      "url": "https://x.com/MarioNawfal/status/2123560107560914980",
+      "author": "@MarioNawfal",
+      "network": "x",
+      "title": "İddia: Gizli bir “Area 51” tesisinde uzaylıyı serbest bırakmak",
+      "summary": "Bir oyuncunun gizli bir Area 51 benzeri tesise girip içerideki uzaylıyı serbest bıraktığı iddia ediliyor. Doğrulanmadı; konum açıklanmadı.",
+      "category": "Gizli",
+      "tags": [
+        "İddia",
+        "uzaylı",
+        "alien",
+        "Area 51",
+        "gizli tesis",
+        "UFO"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-19T23:32:38Z",
+      "checkedAt": "2026-11-20T01:34:19.052Z"
     }
   ]
 }
