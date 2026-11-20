@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 184,
-  "publishedAt": "2026-11-20T21:05:00.026Z",
+  "revision": 185,
+  "publishedAt": "2026-11-20T21:15:20.037Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -31271,6 +31271,28 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T20:38:05Z",
       "checkedAt": "2026-11-20T21:05:00.026Z"
+    },
+    {
+      "id": "x-pesindeyiz-galatasaray-gta6-mac-gunu",
+      "url": "https://x.com/PesindeyizApp/status/2123885165076496604",
+      "author": "@PesindeyizApp",
+      "network": "x",
+      "title": "Galatasaray’dan GTA 6 temalı maç günü paylaşımı",
+      "summary": "Galatasaray, maç günü afişini GTA 6 temasıyla hazırladı; futbolcu Abdülkerim Bardakcı da GTA 6 temalı bir paylaşım yaptı. Türk kulüpleri de oyunun çıkış dalgasına katılıyor.",
+      "category": "Türkçe",
+      "tags": [
+        "Galatasaray",
+        "Abdülkerim Bardakcı",
+        "maç günü",
+        "matchday",
+        "futbol",
+        "Türk kulübü",
+        "marka paylaşımı",
+        "Türkiye"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T21:04:17Z",
+      "checkedAt": "2026-11-20T21:15:20.037Z"
     }
   ]
 }
