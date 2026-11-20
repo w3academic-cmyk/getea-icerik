@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 179,
-  "publishedAt": "2026-11-20T16:04:56.729Z",
+  "revision": 180,
+  "publishedAt": "2026-11-20T16:14:59.533Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -30668,6 +30668,69 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T13:39:21Z",
       "checkedAt": "2026-11-20T16:04:56.729Z"
+    },
+    {
+      "id": "x-discussingfilm-dexter-oldurme-odasi",
+      "url": "https://x.com/DiscussingFilm/status/2123810109134647355",
+      "author": "@DiscussingFilm",
+      "network": "x",
+      "title": "Dexter göndermesi büyüyor: Bay Harbor Kasabı’nın öldürme odası da oyunda bulundu",
+      "summary": "Dexter Morgan’ın dairesi ve teknesinden sonra oyuncular, dizideki “Bay Harbor Butcher”ın plastik kaplı öldürme odasını da GTA 6’da buldu.",
+      "category": "Easter Egg",
+      "tags": [
+        "Dexter",
+        "Bay Harbor Butcher",
+        "öldürme odası",
+        "kill room",
+        "dizi",
+        "TV series",
+        "easter egg"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T16:06:03Z",
+      "checkedAt": "2026-11-20T16:14:59.533Z"
+    },
+    {
+      "id": "x-jmoment-speed-easter-egg",
+      "url": "https://x.com/JMoment2054/status/2123789535448342914",
+      "author": "@JMoment2054",
+      "network": "x",
+      "title": "İddia: iShowSpeed oyunda bir easter egg olarak yer alıyor",
+      "summary": "Yayıncı iShowSpeed, GTA 6’da kendisine gönderme yapan bir easter egg bulunca büyük sevinç yaşadı. Göndermenin tam olarak ne olduğu ve nerede bulunduğu paylaşımda net değil; doğrulanmadı.",
+      "category": "Easter Egg",
+      "tags": [
+        "iShowSpeed",
+        "yayıncı",
+        "streamer",
+        "gönderme",
+        "easter egg",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T14:44:18Z",
+      "checkedAt": "2026-11-20T16:14:59.533Z"
+    },
+    {
+      "id": "x-palmeiras-cavalera-radyo",
+      "url": "https://x.com/Palmeiras/status/2123808597335572812",
+      "author": "@Palmeiras",
+      "network": "x",
+      "title": "Sepultura’nın kurucuları Cavalera kardeşlerin müziği GTA 6’da",
+      "summary": "Brezilya kulübü Palmeiras, GTA 6 oynayacaklara Iggor ve Max Cavalera’nın müziğini önerdi; Sepultura’nın kurucusu kardeşlerin şarkısı oyunun radyosunda yer alıyor (büyük ihtimalle metal istasyonu The Chamber 106.6’da).",
+      "category": "Radyo",
+      "tags": [
+        "Cavalera",
+        "Sepultura",
+        "Max Cavalera",
+        "Iggor Cavalera",
+        "metal",
+        "The Chamber",
+        "radyo",
+        "Palmeiras"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T16:00:02Z",
+      "checkedAt": "2026-11-20T16:14:59.533Z"
     }
   ]
 }
