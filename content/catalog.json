@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 164,
-  "publishedAt": "2026-11-20T08:15:19.065Z",
+  "revision": 165,
+  "publishedAt": "2026-11-20T08:35:04.133Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -29771,6 +29771,76 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T07:23:17Z",
       "checkedAt": "2026-11-20T08:15:19.065Z"
+    },
+    {
+      "id": "x-roundtable-oyunun-soylemedikleri",
+      "url": "https://x.com/RoundtableSpace/status/2123661366771024364",
+      "author": "@RoundtableSpace",
+      "network": "x",
+      "title": "GTA 6’nın söylemediği 5 şey: çeşmeden su iç, kayıp özel silahı Ammu-Nation dolabından geri al",
+      "summary": "Oyuncuların derlediği ipuçları: su çeşmelerinden içmek statlarını artırıyor; kaybettiğin özel (unique) bir silahı herhangi bir Ammu-Nation dolabından geri alabiliyorsun; prologda jet ski ile kaçarsan farklı bir ara sahne geliyor; Odak modu çoğu oyuncunun kaçırdığı işaretleri gösteriyor; ölünce roketatarı kaybediyorsun ama özel silahları kaybetmiyorsun.",
+      "category": "İpucu",
+      "tags": [
+        "ipuçları",
+        "tips",
+        "su çeşmesi",
+        "water fountain",
+        "stat",
+        "Ammu-Nation",
+        "özel silah",
+        "unique weapon",
+        "jet ski",
+        "prolog",
+        "Odak",
+        "Focus"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T06:15:00Z",
+      "checkedAt": "2026-11-20T08:35:04.133Z"
+    },
+    {
+      "id": "x-boytwitwi-davido-burna-radyo",
+      "url": "https://x.com/Boy_TwiTwi/status/2123690513387622449",
+      "author": "@Boy_TwiTwi",
+      "network": "x",
+      "title": "İddia: Burna Boy, oyunun Afrobeat radyosunda yeni bir Davido şarkısından parça çaldı",
+      "summary": "Paylaşıma göre Burna Boy, GTA 6’daki Afrobeat radyo programında Davido’nun henüz yayınlanmamış bir şarkısından kısa bir bölüm çaldı. Doğrulanmadı.",
+      "category": "Radyo",
+      "tags": [
+        "Davido",
+        "Burna Boy",
+        "Afrobeat",
+        "radyo",
+        "radio",
+        "yeni şarkı",
+        "snippet",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T08:10:49Z",
+      "checkedAt": "2026-11-20T08:35:04.133Z"
+    },
+    {
+      "id": "x-internethof-acilis-ev-isleri",
+      "url": "https://x.com/InternetH0F/status/2123687801388671385",
+      "author": "@InternetH0F",
+      "network": "x",
+      "title": "Oyunun başında Jason, Lucia hapisten çıkmadan önce çiçek, market alışverişi ve tıraş işlerini yapmak zorunda",
+      "summary": "GTA 6’nın açılışında Jason, Lucia cezaevinden çıkmadan önce çiçek almak, market alışverişi yapmak ve tıraş olmak gibi günlük işleri tamamlıyor; bazı oyuncular yavaş başlangıçtan şikâyetçi.",
+      "category": "Görev",
+      "tags": [
+        "açılış",
+        "opening",
+        "Jason",
+        "Lucia",
+        "günlük işler",
+        "chores",
+        "başlangıç",
+        "Bölüm 1"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-20T08:00:02Z",
+      "checkedAt": "2026-11-20T08:35:04.133Z"
     }
   ]
 }
