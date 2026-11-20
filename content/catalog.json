@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 153,
-  "publishedAt": "2026-11-20T02:54:57.818Z",
+  "revision": 154,
+  "publishedAt": "2026-11-20T03:15:07.140Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -29033,6 +29033,111 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T01:15:28Z",
       "checkedAt": "2026-11-20T02:54:57.818Z"
+    },
+    {
+      "id": "x-gtaseries-gorev-13-clean-up-after-donnie",
+      "url": "https://x.com/GTASeries/status/2123601295881961579",
+      "author": "@GTASeries",
+      "network": "x",
+      "title": "Video: 13. görev “Clean Up After Donnie” (Bölüm 1) baştan sona oynanış",
+      "summary": "GTA Series Videos, ana hikâyenin 13. görevi Clean Up After Donnie’nin PS5’te 4K tam oynanışını yayınladı. Görevin Türkçe adım adım anlatımı getea Görevler bölümünde.",
+      "category": "Görev",
+      "tags": [
+        "Clean Up After Donnie",
+        "görev 13",
+        "mission 13",
+        "Bölüm 1",
+        "Chapter 1",
+        "walkthrough",
+        "oynanış",
+        "video"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-20T02:16:18Z",
+      "checkedAt": "2026-11-20T03:15:07.140Z"
+    },
+    {
+      "id": "x-bapingloud-egitim-reklam-panosu",
+      "url": "https://x.com/BAPingLoud/status/2123603161739088108",
+      "author": "@BAPingLoud",
+      "network": "x",
+      "title": "Oyunda Asyalı-Amerikalı ailelerin eğitim takıntısını tiye alan bir reklam panosu bulundu",
+      "summary": "Oyuncular, Asyalı-Amerikalı ailelerin eğitime bakışıyla açıkça dalga geçen yeni bir parodi reklam panosu buldu. Rockstar’ın alışıldık hiciv tarzında; panonun yeri paylaşımda belirtilmedi.",
+      "category": "Easter Egg",
+      "tags": [
+        "reklam panosu",
+        "billboard",
+        "parodi",
+        "parody",
+        "hiciv",
+        "satire"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T02:23:43Z",
+      "checkedAt": "2026-11-20T03:15:07.140Z"
+    },
+    {
+      "id": "x-updatecharts-gta-6-the-album-yayinda",
+      "url": "https://x.com/updatecharts/status/2123613322310279671",
+      "author": "@updatecharts",
+      "network": "x",
+      "title": "“GTA 6: The Album” yayında: Dua Lipa, Cardi B, Camila Cabello, Lana Del Rey, JENNIE…",
+      "summary": "Rockstar’ın oyun albümü “Grand Theft Auto VI: The Album” dijital platformlarda yayınlandı. Albümde Dua Lipa, Cardi B, Camila Cabello, Zara Larsson, Lana Del Rey ve JENNIE gibi isimler var.",
+      "category": "Radyo",
+      "tags": [
+        "GTA 6 The Album",
+        "albüm",
+        "album",
+        "Dua Lipa",
+        "Cardi B",
+        "Lana Del Rey",
+        "JENNIE",
+        "soundtrack"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T03:04:05Z",
+      "checkedAt": "2026-11-20T03:15:07.140Z"
+    },
+    {
+      "id": "x-blackpinkbrasil-jennie-power-trip",
+      "url": "https://x.com/BLACKPINKBRASIL/status/2123613349581582556",
+      "author": "@BLACKPINKBRASIL",
+      "network": "x",
+      "title": "JENNIE’nin GTA 6 şarkısı “Power Trip” Spotify’da",
+      "summary": "JENNIE’nin GTA VI için yaptığı “Power Trip” şarkısı dijital platformlarda dinlenebilir hale geldi.",
+      "category": "Radyo",
+      "tags": [
+        "JENNIE",
+        "Power Trip",
+        "BLACKPINK",
+        "şarkı",
+        "song",
+        "Spotify"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T03:04:12Z",
+      "checkedAt": "2026-11-20T03:15:07.140Z"
+    },
+    {
+      "id": "x-sefflex-gametranslator-android",
+      "url": "https://x.com/Sefflex_/status/2123593981049393519",
+      "author": "@Sefflex_",
+      "network": "x",
+      "title": "GameTranslator Android: GTA 6 altyazı ve görevlerini telefonla Türkçeye çeviren uygulama",
+      "summary": "Türk geliştirici Sefflex, PS5 ekranındaki altyazıları tanıyıp çeviren GameTranslator’ın Android sürümünü güncelledi; GTA 6 görev metinleri ve telefon bildirimlerini de destekliyormuş. Üçüncü taraf, resmî olmayan bir uygulama; App Store ve Google Play sürümleri yakında deniyor.",
+      "category": "Türkçe",
+      "tags": [
+        "Türkçe altyazı",
+        "Turkish subtitles",
+        "çeviri",
+        "translation",
+        "GameTranslator",
+        "Türkçe yama",
+        "Android"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T01:47:14Z",
+      "checkedAt": "2026-11-20T03:15:07.140Z"
     }
   ]
 }
