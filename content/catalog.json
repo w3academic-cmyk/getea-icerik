@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 163,
-  "publishedAt": "2026-11-20T07:54:58.151Z",
+  "revision": 164,
+  "publishedAt": "2026-11-20T08:15:19.065Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -29729,6 +29729,48 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T07:01:50Z",
       "checkedAt": "2026-11-20T07:54:58.151Z"
+    },
+    {
+      "id": "x-fiyinokun-nikita-boar",
+      "url": "https://x.com/fiyinokun2005/status/2123686044239638744",
+      "author": "@fiyinokun2005",
+      "network": "x",
+      "title": "İddia: Oyunda X yöneticisi Nikita Bier’e gönderme yapan “Nikita Boar” adlı bir yaban domuzu var",
+      "summary": "Oyuncular, GTA 6’da adı “Nikita Boar” olan bir yaban domuzu bulduklarını paylaştı; isim X’in ürün yöneticisi Nikita Bier’e gönderme gibi duruyor. Rockstar’ın bilinçli bir easter egg’i mi, tesadüf mü belli değil.",
+      "category": "Easter Egg",
+      "tags": [
+        "Nikita Boar",
+        "Nikita Bier",
+        "yaban domuzu",
+        "boar",
+        "X",
+        "gönderme",
+        "easter egg",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T07:53:03Z",
+      "checkedAt": "2026-11-20T08:15:19.065Z"
+    },
+    {
+      "id": "x-useeyourlife-drake-radyo",
+      "url": "https://x.com/U_see_your_life/status/2123678553485037898",
+      "author": "@U_see_your_life",
+      "network": "x",
+      "title": "İddia: Radyoda Drake şarkıları çalan bir gece istasyonu var",
+      "summary": "Bir oyuncu, radyo çarkında Drake şarkılarının çaldığı geç saat havasında bir istasyon bulduğunu paylaştı. İstasyonun adı ve resmî parça listesi doğrulanmadı.",
+      "category": "Radyo",
+      "tags": [
+        "Drake",
+        "radyo",
+        "radio",
+        "istasyon",
+        "station",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T07:23:17Z",
+      "checkedAt": "2026-11-20T08:15:19.065Z"
     }
   ]
 }
