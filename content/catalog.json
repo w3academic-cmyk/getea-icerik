@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 181,
-  "publishedAt": "2026-11-20T16:35:08.251Z",
+  "revision": 182,
+  "publishedAt": "2026-11-20T16:54:59.332Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -30820,6 +30820,52 @@
       "spoiler": "minor",
       "postedAt": "2026-11-20T16:20:11Z",
       "checkedAt": "2026-11-20T16:35:08.251Z"
+    },
+    {
+      "id": "x-gtaseries-gorev-16-day-release",
+      "url": "https://x.com/GTASeries/status/2123813666747261034",
+      "author": "@GTASeries",
+      "network": "x",
+      "title": "Video: 16. görev “Day Release” (Bölüm 1) baştan sona oynanış",
+      "summary": "GTA Series Videos, ana hikâyenin 16. görevi Day Release’in PS5’te 4K tam oynanışını yayınladı. Görevin Türkçe adım adım anlatımı getea Görevler bölümünde.",
+      "category": "Görev",
+      "tags": [
+        "Day Release",
+        "görev 16",
+        "mission 16",
+        "Bölüm 1",
+        "Chapter 1",
+        "walkthrough",
+        "oynanış",
+        "video"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-20T16:20:11Z",
+      "checkedAt": "2026-11-20T16:54:59.332Z"
+    },
+    {
+      "id": "x-roundtable-40-saat-elestiriler",
+      "url": "https://x.com/RoundtableSpace/status/2123797263164276965",
+      "author": "@RoundtableSpace",
+      "network": "x",
+      "title": "40 saat sonra eleştiriler: 30 FPS, görev tekrarı yok, borsa yok, 15 kayıt yuvası, 100 $ hızlı seyahat",
+      "summary": "Bir oyuncunun 40 saatlik izlenimleri tartışma yarattı: grafik ve harita övülürken 30 FPS kilidi, görev tekrar seçeneği olmaması, borsanın olmaması, 15 kayıt yuvası sınırı ve her hızlı seyahatin 100 $ tutması eleştiriliyor. Bazı maddeler (borsa, güvenli evler) diğer oyuncular tarafından tartışılıyor.",
+      "category": "Haber",
+      "tags": [
+        "eleştiri",
+        "criticism",
+        "30 FPS",
+        "görev tekrarı",
+        "mission replay",
+        "borsa",
+        "stock market",
+        "kayıt",
+        "hızlı seyahat",
+        "tartışma"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T15:15:00Z",
+      "checkedAt": "2026-11-20T16:54:59.332Z"
     }
   ]
 }
