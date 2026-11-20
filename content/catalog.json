@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 141,
-  "publishedAt": "2026-11-20T01:03:17.798Z",
+  "revision": 142,
+  "publishedAt": "2026-11-20T01:14:08.580Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -21911,6 +21911,26 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T00:18:10Z",
       "checkedAt": "2026-11-20T01:03:17.798Z"
+    },
+    {
+      "id": "x-cartoons-bigfoot-kurbaga",
+      "url": "https://x.com/CartoonsOTMoon/status/2123582367633744187",
+      "author": "@CartoonsOTMoon",
+      "network": "x",
+      "title": "Koca Ayak, Jason’ı sihirli bir kurbağaya çevirebiliyor",
+      "summary": "Paylaşılan bir klibe göre GTA VI’daki Koca Ayak (Bigfoot) karşılaşmasında Jason sihirli bir kurbağaya dönüşebiliyor.",
+      "category": "Gizli",
+      "tags": [
+        "Koca Ayak",
+        "Bigfoot",
+        "kurbağa",
+        "frog",
+        "gizem",
+        "easter egg"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-20T01:01:05Z",
+      "checkedAt": "2026-11-20T01:14:08.580Z"
     }
   ]
 }
