@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 158,
-  "publishedAt": "2026-11-20T06:15:06.897Z",
+  "revision": 159,
+  "publishedAt": "2026-11-20T06:35:26.987Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -29358,6 +29358,114 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T05:30:03Z",
       "checkedAt": "2026-11-20T06:15:06.897Z"
+    },
+    {
+      "id": "x-ghbsmith-susturuculu-makineli",
+      "url": "https://x.com/GHBSmith/status/2123653565428486297",
+      "author": "@GHBSmith",
+      "network": "x",
+      "title": "İpucu: Bölüm 2’de Kolt & Associates merkezinden susturuculu makineli tüfeği hemen al",
+      "summary": "Bir oyuncu, soygun hedeflerini seçebildiğin Bölüm 2’de Kolt & Associates merkezine uğrayıp susturuculu makineli tüfeği almayı öneriyor. Soygun yerlerinde sessizce ilerleyebilmek büyük avantaj sağlıyor ve daha yüksek ödeme getiriyor.",
+      "category": "Silah",
+      "tags": [
+        "susturucu",
+        "silencer",
+        "makineli tüfek",
+        "machine gun",
+        "gizlilik",
+        "stealth",
+        "soygun",
+        "robbery",
+        "Kolt & Associates",
+        "Bölüm 2",
+        "Chapter 2"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-20T05:44:00Z",
+      "checkedAt": "2026-11-20T06:35:26.987Z"
+    },
+    {
+      "id": "x-ghbsmith-bolum-2-ucretsiz-araba",
+      "url": "https://x.com/GHBSmith/status/2123641100267348240",
+      "author": "@GHBSmith",
+      "network": "x",
+      "title": "İpucu: Bölüm 2’de Lucia takipçisi olmayan bir arabayı ücretsiz sahiplenebiliyor; Gellhorn Raceway otoparkı",
+      "summary": "Bölüm 2’de Lucia, takip cihazı olmayan bir arabayı çalıp tescil ücreti ödemeden sahiplenme fırsatı buluyor. Önerilen yer: yakındaki Gellhorn Raceway’in değerli arabalarla dolu otoparkı (ör. Sultan). Alternatif olarak bir ahırda Revenant Gauntlet bulunuyor.",
+      "category": "Araç",
+      "tags": [
+        "ücretsiz araba",
+        "free car",
+        "sahiplenme",
+        "ownership",
+        "Gellhorn Raceway",
+        "Sultan",
+        "Gauntlet",
+        "Bölüm 2",
+        "Chapter 2"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-20T04:54:28Z",
+      "checkedAt": "2026-11-20T06:35:26.987Z"
+    },
+    {
+      "id": "x-vicebyrockstar-trevor-radyo",
+      "url": "https://x.com/vicebyrockstar/status/2123646248355824088",
+      "author": "@vicebyrockstar",
+      "network": "x",
+      "title": "İddia: GTA 5’in Trevor Philips’i GTA 6 radyosunda",
+      "summary": "Bir hayran hesabı, GTA V karakteri Trevor Philips’in GTA 6’daki bir radyo programında duyulduğunu gösteren bir video paylaştı. Rockstar’dan doğrulama yok.",
+      "category": "Radyo",
+      "tags": [
+        "Trevor Philips",
+        "GTA 5",
+        "GTA V",
+        "radyo",
+        "radio",
+        "cameo",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T05:14:55Z",
+      "checkedAt": "2026-11-20T06:35:26.987Z"
+    },
+    {
+      "id": "x-suda51-sahte-video-yalanlama",
+      "url": "https://x.com/suda_51/status/2123660910124519775",
+      "author": "@suda_51",
+      "network": "x",
+      "title": "SUDA51, GTA 6 hakkında konuştuğu iddia edilen videoyu yalanladı",
+      "summary": "No More Heroes ve Killer7’nin yaratıcısı SUDA51, kendisi gibi gösterilip GTA 6 hakkında konuşan bir videoya “Sen de kimsin?” diye cevap verdi; oyunu hâlâ indirdiğini ve Vice City’ye bile varmadığını yazdı. Paylaşılan video ona ait değil.",
+      "category": "Haber",
+      "tags": [
+        "SUDA51",
+        "sahte video",
+        "fake video",
+        "yalanlama",
+        "No More Heroes"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T06:13:11Z",
+      "checkedAt": "2026-11-20T06:35:26.987Z"
+    },
+    {
+      "id": "x-bpthaber-tusas-gta-6-paylasimi",
+      "url": "https://x.com/bpthaber/status/2123662025691676952",
+      "author": "@bpthaber",
+      "network": "x",
+      "title": "TUSAŞ’tan GTA 6 temalı paylaşım: “Oyunun rotası belli.”",
+      "summary": "Türk Havacılık ve Uzay Sanayii (TUSAŞ), GTA 6’nın çıkışına göndermeli bir paylaşım yaptı: “Oyunun rotası belli.” Paylaşım Türk sosyal medyasında hızla yayıldı.",
+      "category": "Türkçe",
+      "tags": [
+        "TUSAŞ",
+        "Türkiye",
+        "marka paylaşımı",
+        "brand",
+        "Türk Havacılık",
+        "GTA 6 Türkiye"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T06:17:37Z",
+      "checkedAt": "2026-11-20T06:35:26.987Z"
     }
   ]
 }
