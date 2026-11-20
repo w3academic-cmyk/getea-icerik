@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 177,
-  "publishedAt": "2026-11-20T13:15:05.799Z",
+  "revision": 178,
+  "publishedAt": "2026-11-20T13:15:17.208Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -30353,29 +30353,6 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T12:30:06Z",
       "checkedAt": "2026-11-20T12:55:01.978Z"
-    },
-    {
-      "id": "x-dexerto-2021-ipucu-ev",
-      "url": "https://x.com/Dexerto/status/2123763403973857610",
-      "author": "@Dexerto",
-      "network": "x",
-      "title": "2021’deki San Andreas remake görselinde görülen ev GTA 6’da çıktı: İlk gerçek GTA 6 ipucuymuş",
-      "summary": "Rockstar’ın 2021’de yayınladığı GTA Trilogy (San Andreas remake) ekran görüntüsündeki bir evin GTA 6’da birebir bulunduğu ortaya çıktı. Böylece o görsel, oyunun ilk gerçek ipucu olarak kayda geçti.",
-      "category": "Easter Egg",
-      "tags": [
-        "2021",
-        "GTA Trilogy",
-        "San Andreas",
-        "remake",
-        "ipucu",
-        "clue",
-        "ev",
-        "house",
-        "Dexerto"
-      ],
-      "spoiler": "none",
-      "postedAt": "2026-11-20T13:00:27Z",
-      "checkedAt": "2026-11-20T13:15:05.799Z"
     },
     {
       "id": "x-blondedhomer-frank-ocean-kiki-boy",
