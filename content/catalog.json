@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 186,
-  "publishedAt": "2026-11-20T21:35:13.036Z",
+  "revision": 187,
+  "publishedAt": "2026-11-20T21:55:15.075Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -31357,6 +31357,96 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T20:47:03Z",
       "checkedAt": "2026-11-20T21:35:13.036Z"
+    },
+    {
+      "id": "x-gta6newshub-arac-sahiplenme-waink",
+      "url": "https://x.com/GTA6NewsHub/status/2123892643981906043",
+      "author": "@GTA6NewsHub",
+      "network": "x",
+      "title": "Çaldığın arabayı nasıl sahiplenirsin? Önce WAiNK ile tara, takibe göre Moses ya da Pay ’n’ Spray",
+      "summary": "Tutmak istediğin bir arabayı önce WAiNK uygulamasıyla tara. Takip cihazı yoksa Bölüm 2’de Moses üzerinden; standart takip cihazı varsa Bölüm 3’te “Welcome to Vice City”den sonra Pay ’n’ Spray’de sahiplenebilirsin. Tescil edilen arabayı Scooter Bros sana getirebiliyor.",
+      "category": "Araç",
+      "tags": [
+        "araç sahiplenme",
+        "vehicle ownership",
+        "WAiNK",
+        "takip cihazı",
+        "tracker",
+        "Moses",
+        "Pay n Spray",
+        "Scooter Bros",
+        "Bölüm 2",
+        "Bölüm 3"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-20T21:34:00Z",
+      "checkedAt": "2026-11-20T21:55:15.075Z"
+    },
+    {
+      "id": "x-gta6tracker-tourist-trap-oncesi",
+      "url": "https://x.com/GTA6Tracker/status/2123876535874498731",
+      "author": "@GTA6Tracker",
+      "network": "x",
+      "title": "“Tourist Trap”tan önce Bölüm 1’de bitirmen gereken 10 şey: Key Lento’dan ayrılmadan elle kayıt al",
+      "summary": "Bölüm 1’deki “Tourist Trap” görevine başlamadan önce Shirley’nin işleri, Lucia’nın meditasyonu, gizli koleksiyonlar, silahlar ve Family Savings gibi bazı fırsatlar sonradan kaçırılabiliyor. Ayrı bir elle kayıt alıp Key Lento’daki her şeyi bitirmen öneriliyor. Kaçırılabilir görevler getea Görevler bölümünde.",
+      "category": "İpucu",
+      "tags": [
+        "Tourist Trap",
+        "kaçırılabilir",
+        "missable",
+        "Bölüm 1",
+        "Key Lento",
+        "Shirley",
+        "meditasyon",
+        "Family Savings",
+        "kayıt",
+        "save"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-20T20:30:00Z",
+      "checkedAt": "2026-11-20T21:55:15.075Z"
+    },
+    {
+      "id": "x-deephunk-dangelo-kamikazi",
+      "url": "https://x.com/DeePhunk/status/2123884600225398865",
+      "author": "@DeePhunk",
+      "network": "x",
+      "title": "D’Angelo’nun yayınlanmamış “Kamikazi” şarkısı ilk kez GTA 6’nın Worldwide FM istasyonunda",
+      "summary": "Merhum soul sanatçısı D’Angelo’nun daha önce yayınlanmamış “Kamikazi” şarkısı ilk kez GTA 6’daki Worldwide FM radyo istasyonunda yayınlandı.",
+      "category": "Radyo",
+      "tags": [
+        "D’Angelo",
+        "Kamikazi",
+        "Worldwide FM",
+        "yayınlanmamış şarkı",
+        "unreleased",
+        "soul",
+        "radyo"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T21:02:03Z",
+      "checkedAt": "2026-11-20T21:55:15.075Z"
+    },
+    {
+      "id": "x-robkhenderson-kadin-oyuncu-orani",
+      "url": "https://x.com/robkhenderson/status/2123878045840715808",
+      "author": "@robkhenderson",
+      "network": "x",
+      "title": "Araştırma: ABD’de GTA 6 oyuncularının 10’da 4’ü kadın olacak, GTA V’te 8’de 1’di",
+      "summary": "Paylaşılan bir habere göre araştırmalar, ABD’de GTA 6 oyuncularının yaklaşık 10’da 4’ünün kadın olacağını gösteriyor; bu oran GTA V’te 8’de 1’di. Bir ankette kadın oyuncuların %48’i, öne çıkan bir kadın başkarakterin oyunu daha cazip yaptığını söyledi. Konu tartışma yaratıyor.",
+      "category": "Haber",
+      "tags": [
+        "kadın oyuncular",
+        "female gamers",
+        "araştırma",
+        "survey",
+        "Lucia",
+        "başkarakter",
+        "tartışma"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T20:36:00Z",
+      "checkedAt": "2026-11-20T21:55:15.075Z"
     }
   ]
 }
