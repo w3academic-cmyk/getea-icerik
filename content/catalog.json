@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 175,
-  "publishedAt": "2026-11-20T12:35:17.446Z",
+  "revision": 176,
+  "publishedAt": "2026-11-20T12:55:01.978Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -30284,6 +30284,75 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T12:19:02Z",
       "checkedAt": "2026-11-20T12:35:17.446Z"
+    },
+    {
+      "id": "x-voivod-the-chamber-106-6",
+      "url": "https://x.com/voivodofficial/status/2123743370681971048",
+      "author": "@voivodofficial",
+      "network": "x",
+      "title": "Metal istasyonu The Chamber 106.6: Slayer’dan Tom Araya ve Kerry King sunuyor, Voivod da listede",
+      "summary": "Kanadalı metal grubu Voivod, “Panorama” şarkısının GTA 6’da olduğunu duyurdu. Şarkı, Slayer’dan Tom Araya ve Kerry King’in sunduğu metal radyo istasyonu The Chamber 106.6’da çalıyor.",
+      "category": "Radyo",
+      "tags": [
+        "The Chamber 106.6",
+        "metal",
+        "Slayer",
+        "Tom Araya",
+        "Kerry King",
+        "Voivod",
+        "Panorama",
+        "radyo",
+        "radio station"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T11:40:51Z",
+      "checkedAt": "2026-11-20T12:55:01.978Z"
+    },
+    {
+      "id": "x-millzaa-altin-lambo-emerus",
+      "url": "https://x.com/Millzaatv_/status/2123758073450021064",
+      "author": "@Millzaatv_",
+      "network": "x",
+      "title": "İddia: Gizli süper araba noktaları, som altın Lamborghini ve yakut kırmızısı Emerus",
+      "summary": "Bir içerik üreticisi, GTA 6’da gizli süper araba noktaları bulduğunu ve aralarında som altın kaplama bir Lamborghini benzeri araç ile yakut kırmızısı bir Emerus olduğunu paylaştı. Yerler videoda; doğrulanmadı.",
+      "category": "Araç",
+      "tags": [
+        "süper araba",
+        "supercar",
+        "altın araba",
+        "gold car",
+        "Emerus",
+        "Lamborghini",
+        "gizli araç",
+        "secret car",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T12:39:16Z",
+      "checkedAt": "2026-11-20T12:55:01.978Z"
+    },
+    {
+      "id": "x-dexerto-gercek-florida-konumlari",
+      "url": "https://x.com/Dexerto/status/2123755765034799488",
+      "author": "@Dexerto",
+      "network": "x",
+      "title": "GTA 6’daki yerlerin gerçek Florida’daki karşılıkları",
+      "summary": "Dexerto, GTA 6’daki mekânlarla Florida’daki gerçek yerleri yan yana koyduğu bir karşılaştırma paylaştı; Vice City’nin Miami’den, Leonida’nın Florida’dan ne kadar birebir alındığı görülüyor.",
+      "category": "Harita",
+      "tags": [
+        "gerçek hayat",
+        "real life",
+        "Florida",
+        "Miami",
+        "karşılaştırma",
+        "comparison",
+        "Vice City",
+        "Leonida",
+        "Dexerto"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T12:30:06Z",
+      "checkedAt": "2026-11-20T12:55:01.978Z"
     }
   ]
 }
