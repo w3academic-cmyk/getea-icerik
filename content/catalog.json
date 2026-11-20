@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 139,
-  "publishedAt": "2026-11-19T22:54:13.562Z",
+  "revision": 140,
+  "publishedAt": "2026-11-20T01:03:17.798Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -21836,6 +21836,81 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T22:37:08Z",
       "checkedAt": "2026-11-19T22:54:13.562Z"
+    },
+    {
+      "id": "x-notiplay-25-milyon",
+      "url": "https://x.com/NotiPlay_/status/2123575031405945324",
+      "author": "@NotiPlay_",
+      "network": "x",
+      "title": "Sensor Tower: ilk 24 saatte yaklaşık 25 milyon kopya, 2,3 milyar $",
+      "summary": "Sensor Tower’ın tahminine göre GTA VI ilk 24 saatte yaklaşık 25 milyon kopya satıp 2,3 milyar dolar civarında gelir elde etti. Take-Two henüz resmî rakam açıklamadı.",
+      "category": "Haber",
+      "tags": [
+        "satış",
+        "sales",
+        "Sensor Tower",
+        "25 milyon",
+        "rekor"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T00:31:56Z",
+      "checkedAt": "2026-11-20T01:03:17.798Z"
+    },
+    {
+      "id": "x-discussingfilm-gta5-podcast",
+      "url": "https://x.com/DiscussingFilm/status/2123577210720358819",
+      "author": "@DiscussingFilm",
+      "network": "x",
+      "title": "Oyundaki komplo podcast’inde GTA V’in Michael, Franklin ve Trevor’ına gönderme",
+      "summary": "GTA VI’daki bir gerçek suç ve komplo podcast’i, GTA V’in Michael, Franklin ve Trevor hikâyesine atıf yapıyor.",
+      "category": "Easter Egg",
+      "tags": [
+        "GTA V",
+        "Michael",
+        "Franklin",
+        "Trevor",
+        "podcast",
+        "gönderme"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T00:40:35Z",
+      "checkedAt": "2026-11-20T01:03:17.798Z"
+    },
+    {
+      "id": "x-charlieintel-janelle-james",
+      "url": "https://x.com/charlieINTEL/status/2123575241611841619",
+      "author": "@charlieINTEL",
+      "network": "x",
+      "title": "Janelle James’in oyunda kendi radyo programı var",
+      "summary": "Abbott Elementary’nin Ava’sı Janelle James, GTA VI’da metnini kendi yazdığı ve seslendirdiği bir radyo programı sunuyor.",
+      "category": "Radyo",
+      "tags": [
+        "Janelle James",
+        "Abbott Elementary",
+        "radyo",
+        "radio show"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T00:32:46Z",
+      "checkedAt": "2026-11-20T01:03:17.798Z"
+    },
+    {
+      "id": "x-speedhq-64-milyon",
+      "url": "https://x.com/IShowSpeedHQ/status/2123571567934455855",
+      "author": "@IShowSpeedHQ",
+      "network": "x",
+      "title": "İShowSpeed, GTA VI’ın ilk gününde dünyanın en çok izlenen yayıncısı",
+      "summary": "Açıklanan verilere göre iShowSpeed, GTA VI yayınının ilk gününde 64 milyonu aşkın izlenmeyle dünyada en çok izlenen yayıncı oldu.",
+      "category": "Haber",
+      "tags": [
+        "iShowSpeed",
+        "yayıncı",
+        "izlenme",
+        "rekor"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T00:18:10Z",
+      "checkedAt": "2026-11-20T01:03:17.798Z"
     }
   ]
 }
