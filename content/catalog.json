@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 168,
-  "publishedAt": "2026-11-20T09:35:22.124Z",
+  "revision": 169,
+  "publishedAt": "2026-11-20T09:55:39.406Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -29999,7 +29999,7 @@
       "author": "@WizStatz",
       "network": "x",
       "title": "Afro Bank FM’de çalanlar: Wizkid “Kese”, Adekunle Gold & Davido “HIGH”, Zaylevelten’in yayınlanmamış şarkısı",
-      "summary": "Oyunun Afrika müziği istasyonunun adı Afro Bank FM. Oyuncuların ve hayran hesaplarının paylaşımlarına göre istasyonda Wizkid’in “Kese (Dance)”, Adekunle Gold ile Davido’nun “HIGH” şarkıları ve Zaylevelten’in henüz yayınlanmamış bir parçası çalıyor. Ayrıca Future’ın “712PM”inin de radyoda olduğu paylaşıldı.",
+      "summary": "Oyunun Afrika müziği istasyonunun adı Afro Bank FM. Oyuncuların ve hayran hesaplarının paylaşımlarına göre istasyonda Wizkid’in “Kese (Dance)”, Adekunle Gold ile Davido’nun “HIGH” şarkısı, Adekunle Gold ile Zinoleesky’nin “PNDS” şarkısı ve Zaylevelten’in henüz yayınlanmamış bir parçası çalıyor. Ayrıca Future’ın “712PM”inin de radyoda olduğu paylaşıldı.",
       "category": "Radyo",
       "tags": [
         "Afro Bank FM",
@@ -30008,9 +30008,10 @@
         "Adekunle Gold",
         "Davido",
         "HIGH",
+        "Zinoleesky",
+        "PNDS",
         "Zaylevelten",
         "Future",
-        "712PM",
         "Afrobeats",
         "radyo"
       ],
@@ -30060,6 +30061,27 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T09:21:33Z",
       "checkedAt": "2026-11-20T09:35:22.124Z"
+    },
+    {
+      "id": "x-siyahsancak-yolcu-ucagi-calma",
+      "url": "https://x.com/siyahsancakx/status/2123710816826380694",
+      "author": "@siyahsancakx",
+      "network": "x",
+      "title": "Bir oyuncu havalimanından kimseye yakalanmadan yolcu uçağı çaldı",
+      "summary": "GTA 6’da bir oyuncunun havalimanına girip fark edilmeden bir yolcu uçağını kaçırdığı video paylaşıldı. Hangi havalimanı olduğu ve nasıl yapıldığı ayrıntılı anlatılmadı.",
+      "category": "Araç",
+      "tags": [
+        "yolcu uçağı",
+        "airliner",
+        "uçak çalma",
+        "steal plane",
+        "havalimanı",
+        "airport",
+        "VCIA"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T09:31:30Z",
+      "checkedAt": "2026-11-20T09:55:39.406Z"
     }
   ]
 }
