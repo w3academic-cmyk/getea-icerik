@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 187,
-  "publishedAt": "2026-11-20T21:55:15.075Z",
+  "revision": 188,
+  "publishedAt": "2026-11-20T22:15:04.423Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -31343,7 +31343,7 @@
       "author": "@nekaishi",
       "network": "x",
       "title": "Tartışma: Metacritic kullanıcı puanı 4’lerde, eleştirmen puanı 99",
-      "summary": "Paylaşımlara göre GTA 6’nın Metacritic kullanıcı puanı açıldıktan sonra 4,x seviyesinde (“Genel olarak olumsuz”) seyrediyor; eleştirmen puanı ise 99. En sık şikâyetler 30 FPS kilidi ve oynanış temposu. PlayStation Store’daki puan ise 120 binden fazla oyla 4,86/5.",
+      "summary": "Paylaşımlara göre GTA 6’nın Metacritic kullanıcı puanı açıldıktan sonra 4,x seviyesinde (“Genel olarak olumsuz”) seyrediyor; eleştirmen puanı ise 99. En sık şikâyetler 30 FPS kilidi ve oynanış temposu. PlayStation Store’daki puan ise 120 binden fazla oyla 4,86/5. Puanın düşük olmasının bir sebebi “review bombing”: kullanıcılar kadın başkarakterden, romantik odaktan, finallerden ve “GTA ruhunun kaybolmasından” şikâyet ediyor.",
       "category": "Haber",
       "tags": [
         "Metacritic",
@@ -31447,6 +31447,90 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T20:36:00Z",
       "checkedAt": "2026-11-20T21:55:15.075Z"
+    },
+    {
+      "id": "x-variety-750-sarki-gizli-istasyon",
+      "url": "https://x.com/Variety/status/2123891205381534092",
+      "author": "@Variety",
+      "network": "x",
+      "title": "Variety: 20 istasyonda yaklaşık 750 şarkı, Fox News parodisi ve gizli bir gece kulübü radyosu",
+      "summary": "Variety’nin güncel sayımına göre GTA 6’nın 20 radyo istasyonunda yaklaşık 750 şarkı keşfedildi. Oyunda podcast’ler ve sohbet programları da var; aralarında muhafazakâr bir Fox News parodisi ve gizli bir gece kulübü radyo istasyonu bulunuyor. “GTA VI: The Album” ise Travis Scott’ın da yer aldığı 34 şarkıdan oluşuyor.",
+      "category": "Radyo",
+      "tags": [
+        "Variety",
+        "750 şarkı",
+        "20 istasyon",
+        "gizli radyo istasyonu",
+        "secret station",
+        "Fox News parodisi",
+        "podcast",
+        "GTA 6 The Album",
+        "Travis Scott"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T21:28:18Z",
+      "checkedAt": "2026-11-20T22:15:04.423Z"
+    },
+    {
+      "id": "x-mislead-supercharged-mustang-smg",
+      "url": "https://x.com/mislead/status/2123889456528961540",
+      "author": "@mislead",
+      "network": "x",
+      "title": "İddia: Gizli süper şarjlı Mustang benzeri araba, yanında efsanevi susturuculu SMG",
+      "summary": "Bir içerik üreticisi, GTA 6’da gizli bir noktada süper şarjlı Mustang benzeri bir araba bulduğunu ve yanında efsanevi susturuculu bir SMG olduğunu paylaştı. Yeri videoda; doğrulanmadı.",
+      "category": "Araç",
+      "tags": [
+        "Mustang",
+        "muscle car",
+        "süper şarj",
+        "supercharged",
+        "gizli araba",
+        "efsanevi SMG",
+        "susturucu",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T21:21:21Z",
+      "checkedAt": "2026-11-20T22:15:04.423Z"
+    },
+    {
+      "id": "x-fearedbuck-sexyy-red-cameo",
+      "url": "https://x.com/FearedBuck/status/2123898121700978990",
+      "author": "@FearedBuck",
+      "network": "x",
+      "title": "Rapçi Sexyy Red GTA 6’da kısa bir görünüm yapıyor",
+      "summary": "Rapçi Sexyy Red’in GTA 6’da bir cameo yaptığı görüntülendi; oyuna giren ünlüler listesi uzamaya devam ediyor.",
+      "category": "Easter Egg",
+      "tags": [
+        "Sexyy Red",
+        "rapçi",
+        "cameo",
+        "ünlü",
+        "celebrity"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T21:55:46Z",
+      "checkedAt": "2026-11-20T22:15:04.423Z"
+    },
+    {
+      "id": "x-bosunatiklama-neuralink-gta6",
+      "url": "https://x.com/bosunatiklama/status/2123897650864857279",
+      "author": "@bosunatiklama",
+      "network": "x",
+      "title": "Neuralink beyin çipi takılı bir hasta GTA 6’yı düşünce gücüyle oynadı",
+      "summary": "Neuralink’in paylaştığı görüntülere göre beyin çipi takılı felçli bir hasta, GTA 6’yı yalnızca düşünce gücüyle kontrol ederek oynadı.",
+      "category": "Haber",
+      "tags": [
+        "Neuralink",
+        "beyin çipi",
+        "brain chip",
+        "erişilebilirlik",
+        "accessibility",
+        "teknoloji"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T21:53:54Z",
+      "checkedAt": "2026-11-20T22:15:04.423Z"
     }
   ]
 }
