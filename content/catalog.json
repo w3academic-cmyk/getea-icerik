@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 157,
-  "publishedAt": "2026-11-20T06:04:37.446Z",
+  "revision": 158,
+  "publishedAt": "2026-11-20T06:15:06.897Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -29336,6 +29336,28 @@
       "spoiler": "minor",
       "postedAt": "2026-11-20T05:38:25Z",
       "checkedAt": "2026-11-20T06:04:37.446Z"
+    },
+    {
+      "id": "x-techjunkie-yengec-tesisi-aci-cips",
+      "url": "https://x.com/Techjunkie_Aman/status/2123650054116577621",
+      "author": "@Techjunkie_Aman",
+      "network": "x",
+      "title": "Yengeç araştırma tesisinde yeni ayrıntı: acı cips kalıcı sağlık artışı veriyor, bedava jet ski de var (iddia)",
+      "summary": "Jason’ın evine yakın gizli yengeç araştırma tesisinde (Pelican Valley Outpost) 10.000 dolar ve efsanevi SMG’nin yanında, mutfaktaki acı biberli cipsi yiyince kalıcı sağlık artışı aldığın ve bedava bir jet ski bulunduğu paylaşıldı. Sağlık artışı ve jet ski kısmı doğrulanmadı.",
+      "category": "Gizli",
+      "tags": [
+        "yengeç tesisi",
+        "Crab Research Facility",
+        "Pelican Valley Outpost",
+        "sağlık artışı",
+        "health upgrade",
+        "jet ski",
+        "efsanevi SMG",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T05:30:03Z",
+      "checkedAt": "2026-11-20T06:15:06.897Z"
     }
   ]
 }
