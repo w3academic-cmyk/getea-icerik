@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 152,
-  "publishedAt": "2026-11-20T02:42:58.387Z",
+  "revision": 153,
+  "publishedAt": "2026-11-20T02:54:57.818Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -28948,6 +28948,91 @@
       "spoiler": "none",
       "postedAt": "2026-11-19T20:35:05Z",
       "checkedAt": "2026-11-20T02:42:41.299Z"
+    },
+    {
+      "id": "x-millzaa-gizli-nos-muscle-car",
+      "url": "https://x.com/Millzaatv_/status/2123606137543209368",
+      "author": "@Millzaatv_",
+      "network": "x",
+      "title": "İddia: Gizli NOS’lu muscle car, 3.000 dolar nakit ve efsanevi sawn-off pompalı",
+      "summary": "Bir içerik üreticisi, kaçırılmaması gereken bir noktada nitro (NOS) takılı gizli bir muscle car, 3.000 doları aşkın nakit ve efsanevi bir sawn-off pompalı tüfek bulunduğunu paylaştı. Yeri videoda; iddia doğrulanmadı.",
+      "category": "Araç",
+      "tags": [
+        "gizli araba",
+        "secret car",
+        "NOS",
+        "nitro",
+        "muscle car",
+        "efsanevi silah",
+        "legendary weapon",
+        "sawn-off",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T02:35:32Z",
+      "checkedAt": "2026-11-20T02:54:57.818Z"
+    },
+    {
+      "id": "x-richtofen-ruiner-1000-beygir",
+      "url": "https://x.com/dr0Richtofen/status/2123536364884914215",
+      "author": "@dr0Richtofen",
+      "network": "x",
+      "title": "1.000 beygirlik nitrolu Ruiner nasıl alınır? Bölüm 1’den sonra almayı öneriyor",
+      "summary": "Bir oyuncu, nitro yükseltmesi olan 1.000 beygir gücündeki Ruiner’ı edinmenin yolunu video ile anlattı. Önerisi: arabayı Bölüm 1 bittikten sonra al, böylece kişisel aracın olarak kaydedip kaybetmezsin. Başka bir oyuncu da arabayı bulduğunu doğruladı.",
+      "category": "Araç",
+      "tags": [
+        "Ruiner",
+        "1000 beygir",
+        "horsepower",
+        "nitro",
+        "nitrous",
+        "kişisel araç",
+        "personal vehicle",
+        "Bölüm 1",
+        "Chapter 1"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-19T21:58:17Z",
+      "checkedAt": "2026-11-20T02:54:57.818Z"
+    },
+    {
+      "id": "x-kennywallace-on-siparis-2-3-milyar",
+      "url": "https://x.com/Kenny_Wallace/status/2123598702191300840",
+      "author": "@Kenny_Wallace",
+      "network": "x",
+      "title": "İddia: GTA 6 ön siparişlerine 2,3 milyar dolar harcandı",
+      "summary": "Eski NASCAR pilotu Kenny Wallace, oyuncuların GTA 6 ön siparişlerine 2,3 milyar dolar harcadığını yazdı. Rakamın kaynağı belirtilmedi; Rockstar ya da Take-Two’dan resmî bir satış açıklaması yok.",
+      "category": "Haber",
+      "tags": [
+        "ön sipariş",
+        "pre-order",
+        "satış",
+        "sales",
+        "2,3 milyar dolar",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T02:05:59Z",
+      "checkedAt": "2026-11-20T02:54:57.818Z"
+    },
+    {
+      "id": "x-absolutelyaura-batman-gondermesi",
+      "url": "https://x.com/absolutelyaura0/status/2123585987842330941",
+      "author": "@absolutelyaura0",
+      "network": "x",
+      "title": "Oyunda bir Batman göndermesi bulundu",
+      "summary": "Bir oyuncu GTA 6’da Batman’e gönderme yapan bir detayın görüntüsünü paylaştı. Yeri belirtilmedi; görsel paylaşımda.",
+      "category": "Easter Egg",
+      "tags": [
+        "Batman",
+        "gönderme",
+        "reference",
+        "easter egg",
+        "DC"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T01:15:28Z",
+      "checkedAt": "2026-11-20T02:54:57.818Z"
     }
   ]
 }
