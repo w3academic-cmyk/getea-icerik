@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 173,
-  "publishedAt": "2026-11-20T11:35:05.341Z",
+  "revision": 174,
+  "publishedAt": "2026-11-20T12:15:11.222Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -30170,6 +30170,29 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T11:07:26Z",
       "checkedAt": "2026-11-20T11:35:05.341Z"
+    },
+    {
+      "id": "x-milesclipped-kirmizi-hulk",
+      "url": "https://x.com/milesClippedIt/status/2123742074293874734",
+      "author": "@milesClippedIt",
+      "network": "x",
+      "title": "İddia: iShowSpeed oyunda “Kırmızı Hulk” benzeri dev bir yaratık buldu",
+      "summary": "Yayıncı iShowSpeed’in GTA 6’da Kırmızı Hulk’a benzeyen dev, kırmızı bir yaratıkla karşılaştığı bir yayın anı paylaşıldı. Oyuncuların daha önce bahsettiği dev ve doğaüstü karşılaşmalardan biri olabilir; yeri ve tetiklenme şekli bilinmiyor.",
+      "category": "Gizli",
+      "tags": [
+        "Kırmızı Hulk",
+        "Red Hulk",
+        "dev",
+        "giant",
+        "doğaüstü",
+        "supernatural",
+        "iShowSpeed",
+        "gizem",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T11:35:42Z",
+      "checkedAt": "2026-11-20T12:15:11.222Z"
     }
   ]
 }
