@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 188,
-  "publishedAt": "2026-11-20T22:15:04.423Z",
+  "revision": 189,
+  "publishedAt": "2026-11-20T22:34:57.475Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -31531,6 +31531,68 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T21:53:54Z",
       "checkedAt": "2026-11-20T22:15:04.423Z"
+    },
+    {
+      "id": "x-kingant-need-for-speed-araba",
+      "url": "https://x.com/KingAnt/status/2123896957814894897",
+      "author": "@KingAnt",
+      "network": "x",
+      "title": "Gizli Need for Speed easter egg’i: Oyunun en hızlı arabalarından biri",
+      "summary": "Bir oyuncu, Need for Speed serisine gönderme yapan gizli bir easter egg buldu; buradan alınan araba oyuncuların gördüğü en havalı ve en hızlı arabalardan biri. Yeri videoda.",
+      "category": "Araç",
+      "tags": [
+        "Need for Speed",
+        "easter egg",
+        "gizli araba",
+        "secret car",
+        "en hızlı araba",
+        "fastest car"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T21:51:09Z",
+      "checkedAt": "2026-11-20T22:34:57.475Z"
+    },
+    {
+      "id": "x-ohnepixel-feastables",
+      "url": "https://x.com/ohnePixelUpdate/status/2123890838816309642",
+      "author": "@ohnePixelUpdate",
+      "network": "x",
+      "title": "MrBeast’in Feastables çikolatası GTA 6’da görüldü",
+      "summary": "Oyuncular, MrBeast’in çikolata markası Feastables’ın GTA 6’da yer aldığını gösteren bir görüntü paylaştı.",
+      "category": "Easter Egg",
+      "tags": [
+        "MrBeast",
+        "Feastables",
+        "çikolata",
+        "marka",
+        "brand",
+        "easter egg"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T21:26:50Z",
+      "checkedAt": "2026-11-20T22:34:57.475Z"
+    },
+    {
+      "id": "x-xpresstr-ign-series-s-ps5-pro",
+      "url": "https://x.com/XpressTR/status/2123900384758435843",
+      "author": "@XpressTR",
+      "network": "x",
+      "title": "IGN karşılaştırdı: GTA 6, Xbox Series S ile PS5 Pro’da nasıl görünüyor?",
+      "summary": "IGN, GTA 6’nın en zayıf konsol Xbox Series S ile en güçlü konsol PS5 Pro’daki görüntü ve performansını yan yana karşılaştırdı. İki sürüm de 30 FPS’te çalışıyor; fark çözünürlük ve görsel ayrıntıda.",
+      "category": "Performans",
+      "tags": [
+        "IGN",
+        "Xbox Series S",
+        "PS5 Pro",
+        "karşılaştırma",
+        "comparison",
+        "performans",
+        "grafik",
+        "30 FPS"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T22:04:46Z",
+      "checkedAt": "2026-11-20T22:34:57.475Z"
     }
   ]
 }
