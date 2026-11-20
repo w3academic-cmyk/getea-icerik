@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 190,
-  "publishedAt": "2026-11-20T22:55:15.328Z",
+  "revision": 191,
+  "publishedAt": "2026-11-20T23:34:50.275Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -31679,6 +31679,28 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T21:56:24Z",
       "checkedAt": "2026-11-20T22:55:15.328Z"
+    },
+    {
+      "id": "x-mymixtapez-mcgruder-djpooh-yazarlar",
+      "url": "https://x.com/mymixtapez/status/2123913990338220279",
+      "author": "@mymixtapez",
+      "network": "x",
+      "title": "The Boondocks’un yaratıcısı Aaron McGruder ve Friday’in yazarı DJ Pooh GTA 6’nın yazar ekibinde",
+      "summary": "“The Boondocks”un yaratıcısı Aaron McGruder ile “Friday” filminin yazarı DJ Pooh, GTA 6’nın yazar ekibinde yer aldı; ikili oyundaki kurgusal TV programlarının ve radyo yayınlarının yazımına katkı verdi. DJ Pooh daha önce GTA San Andreas’ta da çalışmıştı.",
+      "category": "Haber",
+      "tags": [
+        "Aaron McGruder",
+        "DJ Pooh",
+        "The Boondocks",
+        "Friday",
+        "yazar ekibi",
+        "writers",
+        "radyo",
+        "TV programları"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T22:58:50Z",
+      "checkedAt": "2026-11-20T23:34:50.275Z"
     }
   ]
 }
