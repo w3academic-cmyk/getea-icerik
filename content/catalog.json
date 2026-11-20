@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 165,
-  "publishedAt": "2026-11-20T08:35:04.133Z",
+  "revision": 166,
+  "publishedAt": "2026-11-20T08:55:18.991Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -29841,6 +29841,92 @@
       "spoiler": "minor",
       "postedAt": "2026-11-20T08:00:02Z",
       "checkedAt": "2026-11-20T08:35:04.133Z"
+    },
+    {
+      "id": "x-duvalx-griffin-atis-poligonu-kapak",
+      "url": "https://x.com/Duvalx/status/2123681825629655062",
+      "author": "@Duvalx",
+      "network": "x",
+      "title": "İddia: Griffin Shooting Range’deki gizli kapakta roketatar ve efsanevi SMG",
+      "summary": "Bir oyuncu, Griffin Shooting Range’de gizli bir kapak (hatch) bulunduğunu ve içinde roketatar ile efsanevi bir SMG olduğunu söylüyor; kendisi de “söylentiye göre” diyor. Doğrulanmadı.",
+      "category": "Silah",
+      "tags": [
+        "Griffin Shooting Range",
+        "atış poligonu",
+        "shooting range",
+        "gizli kapak",
+        "hatch",
+        "roketatar",
+        "rocket launcher",
+        "efsanevi SMG",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T07:36:17Z",
+      "checkedAt": "2026-11-20T08:55:18.991Z"
+    },
+    {
+      "id": "x-crescentjs-jisoo-earthquake",
+      "url": "https://x.com/CRESCENTJS/status/2123694576246591513",
+      "author": "@CRESCENTJS",
+      "network": "x",
+      "title": "JISOO’nun “Earthquake” şarkısı GTA 6’da; JISOO paylaşımı yeniden yayınladı",
+      "summary": "BLACKPINK üyesi JISOO, “Earthquake” şarkısının GTA 6’da yer aldığını duyuran The Wavys paylaşımını Instagram’da yeniden paylaştı.",
+      "category": "Radyo",
+      "tags": [
+        "JISOO",
+        "Earthquake",
+        "BLACKPINK",
+        "K-pop",
+        "radyo",
+        "radio",
+        "şarkı"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T08:26:57Z",
+      "checkedAt": "2026-11-20T08:55:18.991Z"
+    },
+    {
+      "id": "x-birsinyal-ps5-yuzde-75",
+      "url": "https://x.com/BirSinyal/status/2123695482065039573",
+      "author": "@BirSinyal",
+      "network": "x",
+      "title": "Satışların %75’i PS5’te; analistler yıl sonu 3 milyar doları bekliyor",
+      "summary": "Sensor Tower verilerine göre GTA 6’nın ilk 24 saatteki 24,5 milyonu aşkın satışının yaklaşık %75’i PS5’te gerçekleşti. Niko Partners ve Wedbush analistleri, oyunun gelirinin yıl bitmeden 3 milyar doları geçmesini bekliyor.",
+      "category": "Haber",
+      "tags": [
+        "satış",
+        "sales",
+        "PS5",
+        "Xbox",
+        "Sensor Tower",
+        "Wedbush",
+        "Niko Partners",
+        "3 milyar dolar"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T08:30:33Z",
+      "checkedAt": "2026-11-20T08:55:18.991Z"
+    },
+    {
+      "id": "x-ersinklc-erken-inceleme-linc",
+      "url": "https://x.com/Ersinklc/status/2123698154767786448",
+      "author": "@Ersinklc",
+      "network": "x",
+      "title": "Ersin Kılıç: GTA 6’yı çıkmadan 100 saat oynadığım için linç yedim",
+      "summary": "Türk oyun içerik üreticisi Ersin Kılıç, inceleme için oyunu çıkıştan önce yaklaşık 100 saat oynadığı için tepki aldığını anlattığı bir video yayınladı; incelediği oyunların büyük çoğunluğunu zaten çıkıştan önce bitirdiğini hatırlattı.",
+      "category": "Türkçe",
+      "tags": [
+        "Ersin Kılıç",
+        "inceleme",
+        "review",
+        "Türk içerik üreticisi",
+        "YouTube",
+        "erken erişim"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T08:41:11Z",
+      "checkedAt": "2026-11-20T08:55:18.991Z"
     }
   ]
 }
