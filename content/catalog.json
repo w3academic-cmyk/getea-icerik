@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 146,
-  "publishedAt": "2026-11-20T02:02:45.161Z",
+  "revision": 148,
+  "publishedAt": "2026-11-20T02:36:08.766Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -363,6 +363,166 @@
       "id": "kaynak-pcgamer-com-d9a801",
       "name": "PC Gamer",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-online-multiplayer/"
+    },
+    {
+      "id": "g-powerpyx-com-fb817dad",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
+    },
+    {
+      "id": "g-powerpyx-com-755d2139",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-all-contacts"
+    },
+    {
+      "id": "g-gamerfuzion-com-9281aff7",
+      "name": "GamerFuzion",
+      "url": "https://www.gamerfuzion.com/gta-6-robberies-explained-bank-jobs-smash-and-grab-payday-loans/"
+    },
+    {
+      "id": "g-powerpyx-com-dce872bc",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-all-payday-loans-jobs-locations/"
+    },
+    {
+      "id": "g-powerpyx-com-59326fd4",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-all-smash-n-grabs-locations/"
+    },
+    {
+      "id": "g-keengamer-com-2e7425e9",
+      "name": "KeenGamer",
+      "url": "https://www.keengamer.com/articles/guides/how-to-rob-illegal-operations-in-gta-6-all-9-gangs-and-the-pest-control-trophy/"
+    },
+    {
+      "id": "g-powerpyx-com-1fee1f2c",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-hit-kingpin-bowling-walkthrough/"
+    },
+    {
+      "id": "g-powerpyx-com-e9f35bae",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-the-last-mile-passing-the-torch-recover-petes-plane-walkthrough/"
+    },
+    {
+      "id": "g-showgamer-com-200340ff",
+      "name": "ShowGamer",
+      "url": "https://showgamer.com/en/guides/7851-gta-6-poslednyaya-milya-pilot-na-zadnem-sidene-vse-sem-dostavok-pita"
+    },
+    {
+      "id": "g-powerpyx-com-9c43727e",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-petes-deliveries-southpoint-airfield-avery-allen-co-walkthrough/"
+    },
+    {
+      "id": "g-game-checklists-com-c89ccd88",
+      "name": "Game-Checklists",
+      "url": "https://game-checklists.com/gta6/side-missions-checklist/"
+    },
+    {
+      "id": "g-powerpyx-com-7b382968",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-search-for-the-skunk-ape-walkthrough/"
+    },
+    {
+      "id": "g-powerpyx-com-d3470c44",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/"
+    },
+    {
+      "id": "g-powerpyx-com-5e6a0f28",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-search-for-tree-effigies-locations-walkthrough/"
+    },
+    {
+      "id": "g-gtabase-com-06b1b5e6",
+      "name": "GTABase",
+      "url": "https://www.gtabase.com/gta-6/strangers-missions/"
+    },
+    {
+      "id": "g-powerpyx-com-a8a9b351",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-help-kirk-find-mr-mangrove-walkthrough/"
+    },
+    {
+      "id": "g-powerpyx-com-1d9c9832",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-bigfoot-sasquatch-easter-egg-location"
+    },
+    {
+      "id": "g-powerpyx-com-f1d45904",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-catch-a-bigger-fish-walkthrough/"
+    },
+    {
+      "id": "g-beebom-com-ea0909ae",
+      "name": "Beebom",
+      "url": "https://beebom.com/gta-6-best-money-spots/"
+    },
+    {
+      "id": "g-powerpyx-com-13e72011",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-veteran-hunted-meet-bret-walkthrough/"
+    },
+    {
+      "id": "g-powerpyx-com-9347c492",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-thrillbillies-check-out-the-mud-club-walkthrough/"
+    },
+    {
+      "id": "g-powerpyx-com-8ff97ccd",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-join-a-street-race-walkthrough/"
+    },
+    {
+      "id": "g-powerpyx-com-cd564316",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-bumper-to-bumper-mentor-yago-walkthrough/"
+    },
+    {
+      "id": "g-powerpyx-com-e145aa48",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-race-against-yago-walkthrough/"
+    },
+    {
+      "id": "g-powerpyx-com-0cbce412",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-all-race-challenge-locations-gold-medals/"
+    },
+    {
+      "id": "g-powerpyx-com-755f3b40",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-all-top-fun-drone-race-time-trial-locations/"
+    },
+    {
+      "id": "g-powerpyx-com-2c47c69d",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-all-shooting-range-gold-medal-challenges/"
+    },
+    {
+      "id": "g-powerpyx-com-85c42b33",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-all-challenges-guide/"
+    },
+    {
+      "id": "g-powerpyx-com-38c24320",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-island-dreams-work-for-kenton-walkthrough/"
+    },
+    {
+      "id": "g-powerpyx-com-8a15ae3c",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-attend-eddie-acostas-party-walkthrough/"
+    },
+    {
+      "id": "g-powerpyx-com-0a6a22ac",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-get-shirleys-rum-walkthrough/"
+    },
+    {
+      "id": "g-powerpyx-com-2b31c3c3",
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-steal-the-scooter-walkthrough/"
     }
   ],
   "articles": [
@@ -2742,6 +2902,1783 @@
       ],
       "spoiler": "none",
       "checkedAt": "2026-11-19T16:43:40.825Z"
+    },
+    {
+      "id": "gorev-randy-s-wish-list",
+      "title": "GTA 6 Randy's Wish List nasıl açılır ve nasıl yapılır?",
+      "summary": "Chapter 3'teki Clonin' Keys, Makin' GS görevinden sonra Randy listesini verir. Haritada Robberies altından takip edip listedeki spor arabaları Clone Key ile çalıp Vice City'nin batısındaki garajına teslim edersin.",
+      "body": [
+        "Görevi veren: Randy Kozlov · Başladığı yer: West Vice City (Balsero).",
+        "Liste, Chapter 3 ana görevi Clonin' Keys, Makin' GS bittikten sonra açılıyor; bu görev Key Cloner'ı da veriyor. Zorrusso hikâye içinde otomatik teslim edildiği için geri kalanları sen arayacaksın.",
+        "İlerlemeyi Map > Robberies > Randy's Wish List altından izle. Randy bazı arabaları sabit noktalarda işaretliyor; telefondaki Reminders üzerinden ona yazarak daha fazla konum isteyebilirsin.",
+        "Sokakta gördüğün spor arabanın listede olup olmadığını Waink uygulamasıyla tarayarak öğrenebilirsin; listedeki araçlar trafikte de dolaşıyor.",
+        "Arabayı Clone Key ile çalıp Randy'nin garajına (haritada yeşil RK ikonu, batı Vice City) götür. Bazı arabalarda Advanced Tracker var; çok yavaş gidersen polis çağrılıyor, o yüzden hızlı sür.",
+        "Arabanın durumu ne kadar iyiyse ödeme o kadar yüksek; PowerPyx'e göre iyi durumdaki bir araç genellikle 30.000 dolar ve üzeri getiriyor.",
+        "Kaynaklar liste sayısında anlaşmıyor (16, 18 ve 22 rakamları geçiyor); kesin sayı için kendi oyununda harita menüsüne bak. Listenin tamamı Bronz 'Supply & Demand' kupası için gerekli."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-fb817dad",
+        "g-powerpyx-com-755d2139",
+        "kaynak-powerpyx-com-11f607",
+        "kaynak-powerpyx-com-499e40",
+        "kaynak-pushsquare-com-0a5399"
+      ],
+      "category": "Görevler ve Yan Görevler › Randy's Wish List",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Randy's Wish List"
+    },
+    {
+      "id": "gorev-randy-s-wish-list-bravado-banshee",
+      "title": "GTA 6 Randy's Wish List Bravado Banshee nerede, nasıl çalınır?",
+      "summary": "Bravado Banshee: Capri'de Sweetbay Inn'in önünde, gece 3 civarında bulunuyor. Clone Key ile çalıp Randy'ye götür.",
+      "body": [
+        "Görevi veren: Randy Kozlov · Başladığı yer: Capri.",
+        "Konum: Capri'de East Buckley Dr üzerindeki Sweetbay Inn'in önü.",
+        "Push Square'e göre araç yaklaşık sabah 3'te orada duruyor; o saate yakın git.",
+        "Clone Key ile çal ve Randy'nin garajına sür.",
+        "Kaynakta takipçi (tracker) notu yok."
+      ],
+      "sourceIds": [
+        "kaynak-pushsquare-com-0a5399"
+      ],
+      "category": "Görevler ve Yan Görevler › Randy's Wish List",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Randy's Wish List: Bravado Banshee"
+    },
+    {
+      "id": "gorev-randy-s-wish-list-pegassi-tempesta",
+      "title": "GTA 6 Randy's Wish List Pegassi Tempesta nerede, nasıl çalınır?",
+      "summary": "Pegassi Tempesta: Vice-Dale County'de NE 3rd St'te, öğleden sonra 1 sularında rastgele bir olay sırasında. Clone Key ile çalıp Randy'ye götür.",
+      "body": [
+        "Görevi veren: Randy Kozlov · Başladığı yer: Vice City, Vice-Dale County.",
+        "Konum: Vice City, NE 3rd St. Olay yaklaşık 13:00'te başlıyor: araç sahibi, haciz için gelen adamla tartışıyor.",
+        "Sahibini tehdit et, ardından arabayı çekici üzerinden serbest bırak.",
+        "Arabayı Randy'ye götür."
+      ],
+      "sourceIds": [
+        "kaynak-pushsquare-com-0a5399"
+      ],
+      "category": "Görevler ve Yan Görevler › Randy's Wish List",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Randy's Wish List: Pegassi Tempesta"
+    },
+    {
+      "id": "gorev-randy-s-wish-list-pegassi-infernus",
+      "title": "GTA 6 Randy's Wish List Pegassi Infernus nerede, nasıl çalınır?",
+      "summary": "Pegassi Infernus: Crosstown Police Station otoparkında; polis karakoluna sızman gerekiyor. Clone Key ile çalıp Randy'ye götür.",
+      "body": [
+        "Görevi veren: Randy Kozlov · Başladığı yer: Crosstown, Vice City.",
+        "Konum: NW 9th St, Crosstown'daki polis karakolunun otoparkı.",
+        "Bir polis kapıdan çıkarken içeri sız ve 7. kata çık.",
+        "Clone Key ile arabayı çal, en üst kata sür ve Stunt Jump ile dışarı atla.",
+        "Araçta tracker var; polis izlemesin diye yüksek hızı koru, sonra Randy'ye waypoint koy."
+      ],
+      "sourceIds": [
+        "kaynak-pushsquare-com-0a5399"
+      ],
+      "category": "Görevler ve Yan Görevler › Randy's Wish List",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Randy's Wish List: Pegassi Infernus"
+    },
+    {
+      "id": "gorev-randy-s-wish-list-pegassi-vitello",
+      "title": "GTA 6 Randy's Wish List Pegassi Vitello nerede, nasıl çalınır?",
+      "summary": "Pegassi Vitello: Belville doğusundaki Waning Sands'te, Flamingo Pkwy üzerindeki bir villanın garajında. Clone Key ile çalıp Randy'ye götür.",
+      "body": [
+        "Görevi veren: Randy Kozlov · Başladığı yer: Waning Sands, Leonard County.",
+        "Konum: Leonard County, Waning Sands, Flamingo Pkwy'deki lüks villa.",
+        "Çiti aş ve kapıya patlayıcı yerleştir; henüz patlatma.",
+        "Araç, eve en yakın sağdaki garajda, girişe bakar halde duruyor. Clone Key ile çal.",
+        "Kaçarken patlayıcıları patlat ve Randy'ye sür."
+      ],
+      "sourceIds": [
+        "kaynak-pushsquare-com-0a5399"
+      ],
+      "category": "Görevler ve Yan Görevler › Randy's Wish List",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Randy's Wish List: Pegassi Vitello"
+    },
+    {
+      "id": "gorev-randy-s-wish-list-bravado-gauntlet-hellfire",
+      "title": "GTA 6 Randy's Wish List Bravado Gauntlet Hellfire nerede, nasıl çalınır?",
+      "summary": "Bravado Gauntlet Hellfire: Boone Speedway doğusundaki M7 hurdalığının arka tarafında. Clone Key ile çalıp Randy'ye götür.",
+      "body": [
+        "Görevi veren: Randy Kozlov · Başladığı yer: Hamlet, South Vice-Dale County.",
+        "Konum: Hamlet, Galerina St üzerindeki M7 hurdalığı (South Vice-Dale County).",
+        "Hurdalığın sağ tarafından eğilerek sız ve giriş kapılarını aç.",
+        "Araç arka tarafta park halinde; Clone Key ile çal ve Randy'ye geri dön."
+      ],
+      "sourceIds": [
+        "kaynak-pushsquare-com-0a5399"
+      ],
+      "category": "Görevler ve Yan Görevler › Randy's Wish List",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Randy's Wish List: Bravado Gauntlet Hellfire"
+    },
+    {
+      "id": "gorev-randy-s-wish-list-mamba-gt",
+      "title": "GTA 6 Randy's Wish List Mamba GT nerede, nasıl çalınır?",
+      "summary": "Mamba GT: Vice Beach'teki Leaf Links malikânesinde; orijinal listede yok, ¡Dale Mamba! görevi ile ekleniyor. Clone Key ile çalıp Randy'ye götür.",
+      "body": [
+        "Görevi veren: Randy Kozlov · Başladığı yer: Leaf Links, Vice Beach.",
+        "Konum: Vice Beach, Leaf Links'teki malikâne. Push Square'e göre listeye ¡Dale Mamba! görevi sayesinde ekleniyor.",
+        "Çitten atla, yoğun muhafızlardan kaçınıp sağ yolu izle. Araç sağdaki binanın arkasında.",
+        "Anahtara ihtiyacın var: havuzun arkasındaki ana binada, kanepenin gerisindeki masada bir kasenin içinde. Kapılar için Snap Gun kullan.",
+        "Tracker var ve araç zor kullanılıyor; polis alarma geçerse hızlıca uzaklaş."
+      ],
+      "sourceIds": [
+        "kaynak-pushsquare-com-0a5399"
+      ],
+      "category": "Görevler ve Yan Görevler › Randy's Wish List",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Randy's Wish List: Mamba GT"
+    },
+    {
+      "id": "gorev-randy-s-wish-list-ascot-paragon",
+      "title": "GTA 6 Randy's Wish List Ascot Paragon nerede, nasıl çalınır?",
+      "summary": "Ascot Paragon: Ocean Beach'te The Banana Hole Main Bar'ın önünde, akşam 6 civarı. Clone Key ile çalıp Randy'ye götür.",
+      "body": [
+        "Görevi veren: Randy Kozlov · Başladığı yer: Ocean Beach, Vice Beach.",
+        "Konum: Vice Beach, Ocean Beach, Shore Dr üzerindeki The Banana Hole Main Bar.",
+        "Yaklaşık 18:00'de orada oluyor.",
+        "Clone Key ile çal; tracker var, polis dikkatini çekmemek için hızlı sür ve Randy'ye teslim et."
+      ],
+      "sourceIds": [
+        "kaynak-pushsquare-com-0a5399"
+      ],
+      "category": "Görevler ve Yan Görevler › Randy's Wish List",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Randy's Wish List: Ascot Paragon"
+    },
+    {
+      "id": "gorev-randy-s-wish-list-piccia-furia",
+      "title": "GTA 6 Randy's Wish List Piccia Furia nerede, nasıl çalınır?",
+      "summary": "Piccia Furia: Peacock Bay'de, Palladia Ln üzerindeki malikânenin garajında. Clone Key ile çalıp Randy'ye götür.",
+      "body": [
+        "Görevi veren: Randy Kozlov · Başladığı yer: Peacock Estates, Peacock Bay.",
+        "Konum: Peacock Estates, Palladia Ln malikânesi.",
+        "Ana kapıdan kaçın; sol yolu izle, çalıyı aş ve su ile garaj binası arasındaki şeritten ilerle.",
+        "Garaj kapısından gir, Clone Key ile arabayı çal, garaj kepenklerini aç ve kapıdan çıkıp Randy'ye git."
+      ],
+      "sourceIds": [
+        "kaynak-pushsquare-com-0a5399"
+      ],
+      "category": "Görevler ve Yan Görevler › Randy's Wish List",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Randy's Wish List: Piccia Furia"
+    },
+    {
+      "id": "gorev-randy-s-wish-list-pegassi-toros",
+      "title": "GTA 6 Randy's Wish List Pegassi Toros nerede, nasıl çalınır?",
+      "summary": "Pegassi Toros: Tequesta Retreat'te Pegassi Residences girişinin önünde, akşam 6:30 civarı. Clone Key ile çalıp Randy'ye götür.",
+      "body": [
+        "Görevi veren: Randy Kozlov · Başladığı yer: Tequesta Retreat, Vice City.",
+        "Konum: Bayside Dr, Pegassi Residences girişi (Tequesta Retreat).",
+        "Yaklaşık 18:30'da orada oluyor; yakında güvenlik görevlileri var.",
+        "Clone Key ile çal ve Randy'nin garajına kaç."
+      ],
+      "sourceIds": [
+        "kaynak-pushsquare-com-0a5399"
+      ],
+      "category": "Görevler ve Yan Görevler › Randy's Wish List",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Randy's Wish List: Pegassi Toros"
+    },
+    {
+      "id": "gorev-randy-s-wish-list-pfister-growler",
+      "title": "GTA 6 Randy's Wish List Pfister Growler nerede, nasıl çalınır?",
+      "summary": "Pfister Growler: Ocean Beach'te Fig St üzerindeki çok katlı otoparkta, akşam 5 civarı. Clone Key ile çalıp Randy'ye götür.",
+      "body": [
+        "Görevi veren: Randy Kozlov · Başladığı yer: Ocean Beach, Vice Beach.",
+        "Konum: Vice Beach, Ocean Beach, Fig St'deki otopark binası.",
+        "Yaklaşık 17:00'de orada oluyor.",
+        "Clone Key ile çal ve Randy'ye götür; kaynak yazarı sorun yaşamadığını belirtiyor."
+      ],
+      "sourceIds": [
+        "kaynak-pushsquare-com-0a5399"
+      ],
+      "category": "Görevler ve Yan Görevler › Randy's Wish List",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Randy's Wish List: Pfister Growler"
+    },
+    {
+      "id": "gorev-fencing-fences",
+      "title": "GTA 6 fence nedir, çalınan malları kime satmalısın?",
+      "summary": "Fence, soygunlardan çıkan uyuşturucu, mücevher ve işaretli banknotları paraya çeviren kişidir. PowerPyx'e göre Chapter 3 sonrası en iyi oranları Tyrone ve Yasmani veriyor.",
+      "body": [
+        "Başladığı yer: Vice City.",
+        "Fence'ler haritada yeşil ikonla görünür. Malları çantanda taşıyıp ya da arabanın bagajına koyup fence'in konteynerine bırakırsın.",
+        "Chapter 1'in başında ödeme nakit olarak Jason'ın evinin posta kutusuna geliyor; dijital banka hesabı açılınca banka transferi oluyor.",
+        "Brian ve Donnie (Key Lento) çok düşük öder ve Chapter 1 sonrası kullanılamaz. Dunk (Port Gellhorn) düşük öder ve hikâye sırasında geçici olarak kapalı.",
+        "Tyrone (La Perle) uyuşturucuda yüksek, mücevher ve işaretli banknotta orta oran verir. Yasmani (Little Cuba) uyuşturucuda orta, mücevher ve işaretli banknotta yüksek oran verir; ikisi de hikâye sonrası da açık.",
+        "Yasmani'yi açtıktan sonra malı garajına bırakıp fence'i oradan seçebilirsin. Moses ve Randy ise mal değil araç alır.",
+        "Oranları görmek için haritada fence ikonunun üstüne gel. Elindeki nakit ölürsen kaybolabilir, o yüzden bankaya yatır."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-499e40",
+        "g-gamerfuzion-com-9281aff7"
+      ],
+      "category": "Görevler ve Yan Görevler › Soygunlar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Fencing (Fences)"
+    },
+    {
+      "id": "gorev-store-stick-ups",
+      "title": "GTA 6 market ve dükkan soygunu nasıl yapılır?",
+      "summary": "Silah çekip kasiyeri tehdit et, kasadaki parayı al ve hızlıca kaç. Kaynaklara göre dükkan soygunları 1-2 yıldızlık arama seviyesi getiriyor; maske takmak ve hızlı bir araç hazır tutmak işe yarıyor.",
+      "body": [
+        "Başladığı yer: Leonida (genel).",
+        "Chapter 1'de açılan 'Stick Up' soygunları market, fast food ve içki dükkânlarını kapsıyor. Küçük dükkânların çoğu haritada ikonla görünmeyebilir.",
+        "Kasiyere nişan al, kasadaki parayı vermesini bekle; yavaş davranırsa tehdit düğmesiyle zorlayabilirsin. Güvenlik kameraları ve rehine gibi detaylar dükkândan dükkâna değişiyor.",
+        "Kasa varsa kodu dükkânın içinde (örneğin arka oda notu) ya da çalışanda bulabilirsin; Focus ile kodu kimin bildiğini görebiliyorsun.",
+        "Arama seviyesi içerideyken de artıyor, o yüzden uzun oyalanma. Kaçmak için dışarıda hızlı bir araç ya da motosiklet bırak, sonra kıyafet ve araç değiştirip kırmızı bölgeden çık.",
+        "100% listesi için 91 Stick Up'tan 50'si gerekiyor.",
+        "Bu bilgilerin bir kısmı farklı rehberlerde çelişiyor (özellikle maske ve ödeme tutarları); sayıları oyunda doğrula."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-63fd47",
+        "kaynak-powerpyx-com-11f607"
+      ],
+      "category": "Görevler ve Yan Görevler › Soygunlar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Store Stick-Ups"
+    },
+    {
+      "id": "gorev-payday-loans",
+      "title": "GTA 6 Payday Loan soygunu nasıl yapılır?",
+      "summary": "Chapter 3'teki Credit Check görevinden sonra açılan 7 Payday Loan dükkânında tezgâhtardan parayı al, arka odadaki kasayı soy ve kaç. İşaretli banknotları bozdurmak için Dye Pack Jammer gerekiyor.",
+      "body": [
+        "Görevi veren: Yasmani Cabrera · Başladığı yer: Vice-Dale County / Kelly County.",
+        "Credit Check (Meet Raul's Crew) görevi hem Payday Loans'u hem Dye Pack Jammer'ı açıyor. Haritada yeşil el ikonuyla görünüyor; takip: Map > Robberies > Payday Loans.",
+        "Silahla tezgâhtarı tehdit et, tezgâha koyduğu parayı al, sonra arka odaya girip kasayı soy ve polisten kaç.",
+        "Kaynaklara göre toplam 7 dükkân var; ödemeler 2.000 ile 25.000 dolar arası. Altı tanesi Vice-Dale County'de, biri Kelly County'de.",
+        "Çalınan işaretli banknotlar Dye Pack Jammer olmadan bozdurulamaz; Tyrone ve Yasmani bu banknotlar için orta/yüksek oran veriyor.",
+        "Yasmani, Payday Loan'lardan ikisini soymadan güvenlik aracı ipuçlarını satmıyor; yani bunlar sonraki büyük kasa soygunlarının ön koşulu.",
+        "7 dükkânın hepsi 100% listesi ve 'A Long Road' için gerekli. GamerFuzion, bankaya girmeden önce döngüyü öğrenmek için en kolay iş olarak öneriyor."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-dce872bc",
+        "g-gamerfuzion-com-9281aff7",
+        "kaynak-powerpyx-com-499e40"
+      ],
+      "category": "Görevler ve Yan Görevler › Soygunlar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Payday Loans"
+    },
+    {
+      "id": "gorev-payday-loans-little-cuba",
+      "title": "GTA 6 Little Cuba Payday Loans soygunu ne kadar kazandırır?",
+      "summary": "PowerPyx'e göre Little Cuba'daki Payday Loans Store 15.000-25.000 dolar ile 7 dükkânın en yüksek aralığını veriyor. Diğerleri çoğunlukla 5.000-15.000 dolar.",
+      "body": [
+        "Görevi veren: Yasmani Cabrera · Başladığı yer: Little Cuba, Vice City.",
+        "Dükkânlar: Quick Buck (Hamlet), Payline Loans 247, Payday Loans Store (Southside), Payday Loans Store (Little Cuba), Payday Loans Store (Rockridge), Quick Buck (La Perle) ve Kelly County'deki Cash Flow.",
+        "Little Cuba şubesi 15.000-25.000 dolar; Cash Flow ise 2.000-10.000 dolar ile en düşük.",
+        "Yöntem aynı: tezgâh parası, arka oda kasası, kaçış. İşaretli banknotlar için Dye Pack Jammer şart.",
+        "Yasmani'nin Little Cuba'daki fence noktası da burada olduğu için malı bozdurmak kolay."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-dce872bc",
+        "kaynak-powerpyx-com-499e40"
+      ],
+      "category": "Görevler ve Yan Görevler › Soygunlar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Payday Loans: Little Cuba"
+    },
+    {
+      "id": "gorev-small-bank-jobs",
+      "title": "GTA 6 küçük banka soygunu nasıl yapılır?",
+      "summary": "Chapter 3'te Credit Check sonrası açılan 14 küçük bankada hem Cash Drawer'ı hem Safe'i soymak gerekiyor. Ödemeler 5.000 ile 45.000 dolar arası; işaretli banknotlar için Dye Pack Jammer lazım.",
+      "body": [
+        "Başladığı yer: Vice-Dale, Mariana, Leonard ve Kelly County.",
+        "Haritayı açtıkça bankalar yeşil banka ikonuyla görünür. Takip: Map > Robberies > Bank Jobs; parlak yeşil tamamlanmış, koyu yeşil eksik.",
+        "Bir bankayı tamamlamış sayılmak için kasa gözünü (Cash Drawer) ve kasayı (Safe) ikisini de boşaltman gerekiyor.",
+        "Ödemeler bankaya göre değişiyor: örneğin Lombank (Bayside), Lombank (Ocean Beach) ve Druthers State Bank 15.000-45.000 dolar, Shorefront (Downtown) ise 5.000-15.000 dolar.",
+        "Alınan işaretli banknotları Dye Pack Jammer ile fence'e sat; 100% listesinde 250.000 dolarlık işaretli banknot satışı isteniyor.",
+        "14 küçük banka ve 8 büyük kasa birlikte 22 bank job eder; hepsi 100% için gerekli."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-b32e62",
+        "g-gamerfuzion-com-9281aff7",
+        "kaynak-powerpyx-com-63fd47"
+      ],
+      "category": "Görevler ve Yan Görevler › Soygunlar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Small Bank Jobs"
+    },
+    {
+      "id": "gorev-fleeca-bank",
+      "title": "GTA 6 Fleeca banka soygunu nasıl yapılır?",
+      "summary": "Fleeca şubelerinde nakit çekmecesini ve kasayı soyuyorsun. PowerPyx'in listesindeki küçük Fleeca şubeleri 5.000-30.000 dolar arası, en iyisi Washington Beach.",
+      "body": [
+        "Başladığı yer: Key Lento / Peacock Bay / Washington Beach / Ocean Beach.",
+        "Küçük Fleeca şubeleri: Key Lento ($5k-20k), Peacock Bay ($5k-20k), Washington Beach ($10k-30k) ve Ocean Beach ($5k-15k).",
+        "Chapter 3'te Credit Check görevini bitirince açılıyor; haritada banka ikonuyla işaretli.",
+        "İçeri girip çalışanları tehdit et, Cash Drawer ve Safe'i soy; ikisi de bitmezse banka tamamlanmış sayılmaz.",
+        "Kasadan çıkan işaretli banknotlar için Dye Pack Jammer gerekli.",
+        "Büyük kasa versiyonunda Fleeca VCIA, Tequesta, Downtown ve Ocean Beach şubeleri 65.000-150.000 dolar arası ödeyen hedefler."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-b32e62"
+      ],
+      "category": "Görevler ve Yan Görevler › Soygunlar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Fleeca Bank"
+    },
+    {
+      "id": "gorev-shorefront-bank",
+      "title": "GTA 6 Shorefront banka soygunu: hangi şube, ne kadar?",
+      "summary": "Shorefront şubeleri küçük banka grubundaki daha düşük ödeyenler; PowerPyx'e göre 5.000-20.000 dolar arası. Yöntem diğer bankalarla aynı.",
+      "body": [
+        "Başladığı yer: Watson Bay / Downtown / Rockridge / Ocean Beach / Ambrosia.",
+        "Küçük Shorefront şubeleri: Watson Bay ($5k-20k), Downtown ($5k-15k), Rockridge ($5k-20k), Ocean Beach ($5k-15k) ve Kelly County'de Ambrosia ($5k-15k).",
+        "Nakit çekmecesi ve kasa ikisi de gerekli; Dye Pack Jammer olmadan işaretli banknotları bozdurmazsın.",
+        "Ocean Beach'teki Shorefront'un büyük kasa versiyonu 95.000-140.000 dolar ödüyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-b32e62"
+      ],
+      "category": "Görevler ve Yan Görevler › Soygunlar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Shorefront Bank"
+    },
+    {
+      "id": "gorev-lombank",
+      "title": "GTA 6 Lombank soygunu nasıl yapılır, ne kadar kazandırır?",
+      "summary": "Lombank küçük bankalar arasında en yüksek ödeyenlerden: Bayside ve Ocean Beach şubeleri 15.000-45.000 dolar. Büyük kasa olarak Downtown ve Ocean Beach 135.000-205.000 dolara kadar çıkıyor.",
+      "body": [
+        "Başladığı yer: Peacock Bay / Bayside / Ocean Beach / Downtown.",
+        "Küçük Lombank şubeleri: Peacock Bay ($5k-20k), Bayside ($15k-45k) ve Ocean Beach ($15k-45k).",
+        "Cash Drawer ile Safe'i soy, Dye Pack Jammer ile işaretli banknotları bozdur.",
+        "Büyük kasalar için Chapter 4'ün sonundaki isteğe bağlı görev açılmalı. Lombank Downtown ve Lombank Ocean Beach 135.000-205.000 dolar aralığındaki en yüksek ödemeler.",
+        "Kasa soygunu anında 4 yıldız arama seviyesi getirir, hazırlıklı git."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-b32e62"
+      ],
+      "category": "Görevler ve Yan Görevler › Soygunlar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Lombank"
+    },
+    {
+      "id": "gorev-druthers-state-bank-and-gibson-brothers-bank",
+      "title": "GTA 6'da en çok kazandıran küçük bankalar hangileri?",
+      "summary": "PowerPyx'in listesinde en yüksek aralık Lombank (Bayside, Ocean Beach) ve Druthers State Bank'ta: 15.000-45.000 dolar. Gibson Brothers Bank 10.000-30.000 dolar.",
+      "body": [
+        "Başladığı yer: Leonard County / Mariana County.",
+        "Druthers State Bank, Leonard County'de; 15.000-45.000 dolar.",
+        "Gibson Brothers Bank, Mariana County'de; 10.000-30.000 dolar.",
+        "İkisi de küçük banka olduğu için Cash Drawer ve Safe soyulur; 4 yıldızlı kasa baskınından farklıdır.",
+        "Fleeca (Washington Beach) 10.000-30.000 dolarla orta sırada."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-b32e62"
+      ],
+      "category": "Görevler ve Yan Görevler › Soygunlar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Druthers State Bank & Gibson Brothers Bank"
+    },
+    {
+      "id": "gorev-large-bank-vaults-that-s-where-the-money-is",
+      "title": "GTA 6 banka kasası (vault) soygunu nasıl yapılır?",
+      "summary": "Chapter 4 sonundaki isteğe bağlı That's Where The Money Is... görevi kasa soygunlarını açar. Bir güvenlik aracını bankaya kadar takip et, görevli kasaya girerken peşinden içeri gir; ödeme 65.000-205.000 dolar, arama seviyesi anında 4 yıldız.",
+      "body": [
+        "Görevi veren: Yasmani Cabrera · Başladığı yer: Downtown / Ocean Beach / Tequesta / VCIA.",
+        "Güvenlik aracını (security van) bir bankaya kadar takip et. Görevli nakit çantasıyla kasaya girince kasa kısa süre açık kalır.",
+        "Görevlinin arkasından kasaya girip parayı al; Cash Drawer ve Safe de soyulabilir.",
+        "Yasmani, görevden sonra 10.000 dolara güvenlik aracı ipuçları satıyor; önce onun için iki Payday Loan soymuş olman gerekiyor. İpucu araçları haritada mor ikonla işaretler.",
+        "Kasa soygunu anında 4 yıldız arama seviyesi veriyor. PowerPyx hızlı bir motosiklet kullanmayı, sonra araç değiştirerek polisi atlatmayı öneriyor.",
+        "8 büyük kasa var, hepsi 100% için gerekli. 5 kasa soymak Gümüş 'Maximum Withdrawal' kupası için yeterli.",
+        "Ödemeler: örn. Fleeca Tequesta $65k-110k, Fleeca VCIA ve Downtown $100k-150k, Lombank Downtown ve Ocean Beach $135k-205k."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-b32e62",
+        "kaynak-powerpyx-com-11f607",
+        "g-powerpyx-com-fb817dad"
+      ],
+      "category": "Görevler ve Yan Görevler › Soygunlar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Large Bank Vaults (That's Where The Money Is...)"
+    },
+    {
+      "id": "gorev-smash-n-grab-pawn-shops",
+      "title": "GTA 6 Pawn Shop (rehinci) soygunu nasıl yapılır?",
+      "summary": "Pawn Shop soygunları Chapter 2'deki Coffee Break görevinden sonra açılır. Vitrinleri kır, arka odadaki kasayı soy, malı fence'e sat; dükkâna göre 1.000-12.000 dolar kazanırsın.",
+      "body": [
+        "Başladığı yer: Vice-Dale / Mariana / Kelly County.",
+        "Pawn Shop'lar Chapter 2'de Coffee Break sonrası açılıyor; yeşil ikonla gösteriliyor, takip: Map > Robberies > Smash 'n' Grabs.",
+        "Vitrini kır, ardından arka odaya girip kasayı soy. PowerPyx yalnızca vitrini kırmanın tamamlanmış sayılmayabileceği konusunda uyarıyor.",
+        "Örnek ödemeler: Hamlet Pawn, Ernesto's Pawn, Joyeria Empenos $4.5k-12k; Pawn City, Fast Cash, Down Town Pawn $1k-10k.",
+        "Çalıntı malları fence'e sat; fence'ler eşyaya göre çalışıyor."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-59326fd4",
+        "g-gamerfuzion-com-9281aff7"
+      ],
+      "category": "Görevler ve Yan Görevler › Soygunlar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Smash 'n' Grab: Pawn Shops"
+    },
+    {
+      "id": "gorev-smash-n-grab-jewelry-stores",
+      "title": "GTA 6 kuyumcu soygunu (Jewelry Store) nasıl yapılır?",
+      "summary": "Kuyumcu soygunları Chapter 3'teki Yasmani's Jewelry Jobs görevinden sonra açılır. Vitrinleri kır, kasayı soy, mücevheri fence'e sat; dükkâna göre 1.000-25.000 dolar kazandırıyor.",
+      "body": [
+        "Görevi veren: Yasmani Cabrera · Başladığı yer: Vice-Dale / Leonard County.",
+        "Yasmani's Jewelry Jobs görevi kuyumcuları açıyor. En yüksek aralık (14.000-25.000 dolar): Donovan Banks & Co., Icegem Diamonds & Watches, Blanc & Giroux, Roval Jewelry, Covgari, Akoya Jewelers, Rococo Rich, Legendary Custom Jewelry, Skala ve Kowalski.",
+        "Orta aralık ($9k-20k): Victoria Lee Jeweler, Plush, All That Glitters, Peacock, Marshal's, Brilliant Cuts.",
+        "Vitrin kırıldıktan sonra arka oda kasasını da soy; polis gelmeden çık. Birden çok kuyumcuyu art arda soymak mümkün.",
+        "Mücevheri fence'e satmalısın; Yasmani mücevherde yüksek oran veriyor. 100% listesi 34/35 smash 'n' grab ve 100.000 dolarlık mücevher satışı istiyor."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-59326fd4",
+        "kaynak-powerpyx-com-11f607",
+        "kaynak-powerpyx-com-63fd47"
+      ],
+      "category": "Görevler ve Yan Görevler › Soygunlar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Smash 'n' Grab: Jewelry Stores"
+    },
+    {
+      "id": "gorev-yasmani-s-robberies",
+      "title": "GTA 6 Yasmani'nin soygun görevleri nedir?",
+      "summary": "Yasmani Cabrera, Chapter 3'te Boobie Time sırasında tanıştığın Vice City fence'i. Kuyumcu, ATM, Payday Loan ve güvenlik aracı işleri veriyor; ipucu satışı kasa soygunlarına açılıyor.",
+      "body": [
+        "Görevi veren: Yasmani Cabrera · Başladığı yer: Little Cuba, Vice City.",
+        "Chapter 3'te Boobie Time'da tanışıyorsun; Little Cuba'da fence olarak çalışıyor.",
+        "İşleri: Jewelry Stores, ATMs, Payday Loans ve Tail the Security Van.",
+        "Payday Loan işlerinden ikisini bitirince, 10.000 dolara güvenlik aracı ipuçları satıyor.",
+        "Büyük banka kasalarının yolu burada açılıyor; ayrıca mücevher ve işaretli banknotlarda yüksek oran veriyor."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-755d2139",
+        "kaynak-powerpyx-com-11f607",
+        "kaynak-powerpyx-com-499e40"
+      ],
+      "category": "Görevler ve Yan Görevler › Soygunlar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Yasmani's Robberies"
+    },
+    {
+      "id": "gorev-dunk-s-robbery-tips",
+      "title": "GTA 6 Dunk's Robbery Tips nedir?",
+      "summary": "Chapter 3'te Dunk, Robberies altında mor işaretler olarak ipuçları gönderiyor. Bunlar uyuşturucu içeren yerler; malı Dunk'a fence edebilirsin. Tamamlamak zorunlu değil.",
+      "body": [
+        "Görevi veren: Dunk Porter · Başladığı yer: Port Gellhorn.",
+        "Dunk Porter, Chapter 2'deki Girl's Trip görevinde tanışılan bir fence.",
+        "Chapter 3'te ipuçları mor işaretlerle haritada beliriyor.",
+        "Hedeflerde uyuşturucu bulunuyor; Dunk'ın oranı düşük olduğu için Tyrone veya Yasmani'ye satmak daha kârlı.",
+        "100% için zorunlu değil."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-755d2139",
+        "kaynak-powerpyx-com-499e40"
+      ],
+      "category": "Görevler ve Yan Görevler › Soygunlar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Dunk's Robbery Tips"
+    },
+    {
+      "id": "gorev-illegal-gang-operations",
+      "title": "GTA 6 çete operasyonları (Illegal Operations) nasıl yapılır?",
+      "summary": "Haritada yeni bir operasyona girdiğinde sarı ikon belirir; sıradaki işin tamamlanması için içindeki tüm key valuables (kasa, nadir eşyalar, uyuşturucu) toplanmalı. Toplam 39 operasyon var, Pest Control için her çeteden birini soymak yeterli.",
+      "body": [
+        "Başladığı yer: Leonida (genel).",
+        "Bölgeye girince operasyon haritada belirir; ziyaret etmediklerin Robbery Opportunity olarak görünür. Takip: Map > Robberies > Illegal Operations ve Progress > Gangs.",
+        "İkonun üzerine gelince key valuables listesi görünür (özel silah, lüks saat, kasa gibi); hepsini almadan operasyon tamamlanmış sayılmaz.",
+        "KeenGamer'a göre sessiz silahla muhafızları tek tek temizlemek en güvenlisi; kasa kodu rastgele olup tesiste ya da yere serilen bir muhafızda bulunuyor.",
+        "Polis yalnızca tanık bildirirse ya da çatışma gürültülü olursa geliyor; mağaza ve banka soygunlarına göre daha az ilgi çekiyor.",
+        "Gelir kasadaki nakit ve fence'e satılan uyuşturucudan geliyor; Tyrone en yüksek ödemeyi veriyor. 100% listesi 100.000 dolarlık uyuşturucu satışı istiyor.",
+        "Tamamlanan operasyon grileşir, bir süre sonra yeniden açılır. 9 çeteden her birinden en az birini soymak Bronz Pest Control kupası; 39'unun hepsi 100% için gerekli."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-ac8a47",
+        "g-keengamer-com-2e7425e9",
+        "g-powerpyx-com-fb817dad"
+      ],
+      "category": "Görevler ve Yan Görevler › Çete operasyonları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Illegal Gang Operations"
+    },
+    {
+      "id": "gorev-kingfishers",
+      "title": "GTA 6 Kingfishers çete operasyonları nerede?",
+      "summary": "Kingfishers, Pelican Valley'deki bataklık çetesi; 3 operasyonu var: Fishing Shacks, Sunrise RV Park ve Manatee Motel.",
+      "body": [
+        "Başladığı yer: Pelican Valley.",
+        "Operasyonlar: Fishing Shacks, Sunrise RV Park ve Manatee Motel.",
+        "KeenGamer'a göre çete Gone Fishing görevinde tanıtılıyor, Sunrise RV Park bilinen hedef.",
+        "Her operasyonda tüm key valuables toplanmalı; kasa kodu rastgele.",
+        "Pest Control kupası için dokuz çeteden her birinden en az bir operasyon gerekiyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-ac8a47",
+        "g-keengamer-com-2e7425e9"
+      ],
+      "category": "Görevler ve Yan Görevler › Çete operasyonları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Kingfishers"
+    },
+    {
+      "id": "gorev-kolts-and-associates",
+      "title": "GTA 6 Kolts & Associates çete operasyonları nerede?",
+      "summary": "Kolts & Associates'in 5 operasyonu var; hepsi Port Gellhorn'da ve çevresinde: Kingpin Bowling, June Warehouse, La Cascara Motel, Brooks Boatworks ve Stash House. Tek turda temizlenebiliyor.",
+      "body": [
+        "Başladığı yer: Port Gellhorn.",
+        "Operasyonlar: Kingpin Bowling, June Warehouse, La Cascara Motel, Brooks Boatworks, Stash House.",
+        "KeenGamer, çetenin ağrı kesici ticareti yaptığını ve tüm sitelerin kasabaya yakın olduğunu belirtiyor.",
+        "Kingpin Bowling, Chapter 2'de isteğe bağlı görev olarak da açılıyor (ayrı girdisine bak).",
+        "Her yerde key valuables'ları tamamen topla, aksi halde sayılmaz."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-ac8a47",
+        "g-keengamer-com-2e7425e9"
+      ],
+      "category": "Görevler ve Yan Görevler › Çete operasyonları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Kolts & Associates"
+    },
+    {
+      "id": "gorev-hit-kingpin-bowling",
+      "title": "GTA 6 Hit Kingpin Bowling nasıl yapılır, kasa nasıl açılır?",
+      "summary": "Chapter 2'de Coffee Break sonrası açılan isteğe bağlı görev. Kolts'un bowling salonuna girip lüks saat, Gutterball Moreland 850 pompalısı ve kasayı almalısın; kasa için Ammu-Nation'dan Sticky Bomb gerekiyor.",
+      "body": [
+        "Görevi veren: Lucia · Başladığı yer: Port Gellhorn, Kelly County.",
+        "Başlamadan önce partnerini ara, Ammu-Nation'dan zırhını doldur ve kasa için Sticky Bomb al. PowerPyx ayrıca 5 Zombix almayı öneriyor.",
+        "İçeri girince çok sayıda Kolts üyesiyle çatışırsın. Üç key valuable: güneydoğu odadaki Lüks Saat, kuzeydoğu köşedeki bilardo masasında Gutterball Moreland 850 ve kuzeydoğu ofisteki kasa.",
+        "Kasayı Sticky Bomb ile patlat; hepsini aldıktan sonra salondan çık.",
+        "Çıkışta 2 yıldız arama seviyesi alırsın; araç çalıp polisi atlat.",
+        "Bronz Let's Go Bowling kupası üç eşyanın hepsini istiyor; kaçırdıysan operasyon Chapter 3'te birkaç hafta sonra yeniden açılıyor.",
+        "Not: kasa kodu rehberlere göre değişebilir; oyunda patlatmak güvenilir yol."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-1fee1f2c",
+        "g-powerpyx-com-fb817dad"
+      ],
+      "category": "Görevler ve Yan Görevler › Çete operasyonları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Hit Kingpin Bowling"
+    },
+    {
+      "id": "gorev-m7",
+      "title": "GTA 6 M7 çete operasyonları nerede?",
+      "summary": "M7'nin iki operasyonu var: M7 Compound ve Weed Grow. Çete, Chapter 3'te Lucia'nın bir görevine bağlı.",
+      "body": [
+        "Başladığı yer: Leonida.",
+        "Operasyonlar: M7 Compound ve Weed Grow.",
+        "KeenGamer'a göre M7 Compound bilinen hedef ve çete Lucia'nın Chapter 3 görevine bağlı.",
+        "Mekânlarda key valuables'ı topla; ilerlemeyi Progress > Gangs altında gör."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-ac8a47",
+        "g-keengamer-com-2e7425e9"
+      ],
+      "category": "Görevler ve Yan Görevler › Çete operasyonları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "M7"
+    },
+    {
+      "id": "gorev-la-polilla-negra",
+      "title": "GTA 6 La Polilla Negra çete operasyonları nerede?",
+      "summary": "La Polilla Negra, Kolombiyalı karteli olarak anlatılan çete; iki operasyonu var: Palmer Fishing Warehouse ve Watson Bay Safehouse.",
+      "body": [
+        "Başladığı yer: Watson Bay.",
+        "Operasyonlar: Palmer Fishing Warehouse (Watson Bay) ve Watson Bay Safehouse.",
+        "KeenGamer'a göre Palmer Fishing Warehouse bilinen hedef.",
+        "Muhafızları sessiz silahla tek tek temizle; kasa kodu rastgele ve tesiste ya da muhafızda bulunuyor.",
+        "Pest Control kupasına sayılır."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-ac8a47",
+        "g-keengamer-com-2e7425e9"
+      ],
+      "category": "Görevler ve Yan Görevler › Çete operasyonları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "La Polilla Negra"
+    },
+    {
+      "id": "gorev-final-chapter-mc",
+      "title": "GTA 6 Final Chapter motosiklet çetesi operasyonları nerede?",
+      "summary": "Final Chapter, Ambrosia'daki outlaw motosiklet çetesi; 4 operasyonu var: Farm Fix Meth Lab, Biker Hideout, Hog Stars Garage ve Irons Building Supply.",
+      "body": [
+        "Başladığı yer: Ambrosia.",
+        "Operasyonlar: Farm Fix Meth Lab, Biker Hideout, Hog Stars Garage, Irons Building Supply.",
+        "KeenGamer'a göre bilinen hedef Farm Fix Meth Lab.",
+        "Operasyonların uyuşturucusunu Tyrone'a satmak en yüksek getiriyi sağlıyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-ac8a47",
+        "g-keengamer-com-2e7425e9"
+      ],
+      "category": "Görevler ve Yan Görevler › Çete operasyonları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Final Chapter MC"
+    },
+    {
+      "id": "gorev-san4san",
+      "title": "GTA 6 San4San çete operasyonları nerede?",
+      "summary": "San4San, La Perle merkezli Haiti sokak çetesi; 5 operasyonu var: Sound4Sond Studio, La Perle Trap House, Illegal Sneaker Trade, JanJak's Garage ve Parlor Apartments.",
+      "body": [
+        "Başladığı yer: La Perle, Vice City.",
+        "Operasyonlar: Sound4Sond Studio, La Perle Trap House, Illegal Sneaker Trade, JanJak's Garage ve Parlor Apartments.",
+        "KeenGamer'a göre Kolts ile birlikte en çok operasyona sahip çete; Tyrone'un La Perle'deki fence noktası yakın olduğu için satışı kolay.",
+        "Her operasyonda tüm key valuables toplanmalı."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-ac8a47",
+        "g-keengamer-com-2e7425e9"
+      ],
+      "category": "Görevler ve Yan Görevler › Çete operasyonları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "San4San"
+    },
+    {
+      "id": "gorev-ptt-youngin",
+      "title": "GTA 6 PTT Youngin$ çete operasyonları nerede?",
+      "summary": "PTT Youngin$'in Southside, Vice City'de iki operasyonu var: Southside Trap House ve Kamar Devon Community Center. Ultimate Edition'daki Illegal Goods Store sayılmıyor.",
+      "body": [
+        "Başladığı yer: Southside, Vice City.",
+        "Operasyonlar: Southside Trap House ve Kamar Devon Community Center.",
+        "Ultimate Edition'a özel Illegal Goods Store, 100% için gerekmiyor ve çete istatistiklerine sayılmıyor.",
+        "Not: respec.net bu çete için 3 operasyon veriyor, PowerPyx 2; sayım farkı Ultimate Edition bonusundan olabilir."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-ac8a47",
+        "g-keengamer-com-2e7425e9"
+      ],
+      "category": "Görevler ve Yan Görevler › Çete operasyonları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "PTT Youngin$"
+    },
+    {
+      "id": "gorev-the-guardia-brothers",
+      "title": "GTA 6 Guardia Brothers çete operasyonları nerede?",
+      "summary": "The Guardia Brothers'ın 3 operasyonu var: Saber Shipping Yard, Casa Guardia ve Saber Shipping Facility.",
+      "body": [
+        "Başladığı yer: Leonida.",
+        "Operasyonlar: Saber Shipping Yard, Casa Guardia ve Saber Shipping Facility.",
+        "KeenGamer'a göre Casa Guardia bilinen hedef.",
+        "Çete hikâyede Meet the Heders ve Crosstown Traffic gibi görevlerde de geçiyor.",
+        "Operasyon tamamlandığında gri olur ve zamanla yeniden açılır."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-ac8a47",
+        "g-keengamer-com-2e7425e9"
+      ],
+      "category": "Görevler ve Yan Görevler › Çete operasyonları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "The Guardia Brothers"
+    },
+    {
+      "id": "gorev-other-criminals",
+      "title": "GTA 6 'Other Criminals' operasyonları nerede?",
+      "summary": "Bağımsız çetelerin 13 operasyonu var, en büyük grup. Exotic Animals Front, Mill Station Radar Base, Cigar Import Front, Vespucci Mansion gibi yerleri içeriyor.",
+      "body": [
+        "Başladığı yer: Leonida (genel).",
+        "Operasyonlar: Exotic Animals Front, Mill Station Radar Base, Industrial Weed Grow, Slator Towing Inc, Leonida Carrier Warehouse, Cigar Import Front, Chatfield Storage & Logistics, Ocean Beach Lab, Vespucci Mansion, Gas Station Meth Front, Walker Farm, Backroom Weed Front ve Carter Mining Boathouse.",
+        "Bu çete grubu Pest Control kupası için dokuzuncu çete olarak sayılıyor.",
+        "Operasyonlar 100% için gerekli; hepsini aynı bölgede gruplayarak gezmek zaman kazandırıyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-ac8a47",
+        "g-keengamer-com-2e7425e9"
+      ],
+      "category": "Görevler ve Yan Görevler › Çete operasyonları",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Other Criminals"
+    },
+    {
+      "id": "gorev-the-last-mile-passing-the-torch",
+      "title": "GTA 6 Pilot Pete 'Passing the Torch' nasıl yapılır?",
+      "summary": "Chapter 4'te Pool Day görevinden sonra Pete, Jason'ı arar. Sundown Private Airfield'daki uçağı al, üç paketi işaretli noktalara bırak ve uçağı Port Gellhorn'un güneyindeki pistte park et; 12.000 dolar kazanırsın.",
+      "body": [
+        "Görevi veren: Pilot Pete · Başladığı yer: Sundown Private Airfield, Leonard County.",
+        "Pilot Pete, Chapter 3'teki Company Property görevinde tanışılıyor ve Chapter 4'te Jason'ı arıyor; sadece Jason ile oynanıyor.",
+        "Konum: Leonard County'deki Sundown Private Airfield. Hangarda kırmızı kapıdan arka odaya gir, masadaki KZ-59 Assault Rifle'ı al.",
+        "Pete'in uçağına bin, üç işaretli noktanın üstünden geçerken bırakma düğmesine bas.",
+        "Uçağı Port Gellhorn güneyindeki pistte hangarın yanına park et; 12.000 dolar BuckMe ile gelir.",
+        "Pete'in sonraki teslimat görevlerinin her biri 20.000 dolar ödüyor."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-e9f35bae",
+        "g-powerpyx-com-755d2139"
+      ],
+      "category": "Görevler ve Yan Görevler › Yan işler",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "The Last Mile: Passing the Torch"
+    },
+    {
+      "id": "gorev-backseat-pilot",
+      "title": "GTA 6 Backseat Pilot (Pilot Pete 7 paket) nasıl yapılır?",
+      "summary": "Wild Hog Airfield'dan deniz uçağıyla tedarikçiden yükü al, yedi noktaya geçerken paketleri bırak. Kırmızı daireler arama seviyesi getiriyor; iki saatlik oyun içi süre içinde bitirirsen 20.000 dolar.",
+      "body": [
+        "Görevi veren: Pilot Pete · Başladığı yer: Wild Hog Airfield, Kelly County.",
+        "Passing the Torch'tan yaklaşık yarım oyun günü sonra Pete Jason'a mesaj atıyor; Lucia başlatamıyor.",
+        "Kelly County'de Port Gellhorn güneyindeki Wild Hog Airfield'dan başla; deniz uçağını işaretli suya indirip kargoyu al.",
+        "Yedi bırakma noktası beliriyor; inmen gerekmiyor, üstünden geçip bırakma düğmesine bas.",
+        "Haritadaki büyük kırmızı dairelere girme, arama seviyesi süre kaybettirir.",
+        "Yedi bırakma 2 saatlik oyun içi süre içinde bitmeli; sonra Wild Hog'a dönüp uçağı hangarın yanına bırak.",
+        "Ödül 20.000 dolar. ShowGamer'a göre Pete'in tüm zinciri toplam 92.000 dolar ödüyor."
+      ],
+      "sourceIds": [
+        "g-showgamer-com-200340ff",
+        "g-powerpyx-com-9c43727e"
+      ],
+      "category": "Görevler ve Yan Görevler › Yan işler",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Backseat Pilot"
+    },
+    {
+      "id": "gorev-pete-s-deliveries",
+      "title": "GTA 6 Pete's Deliveries (Southpoint Airfield, Avery Allen & Co., Deliver Packages) nasıl yapılır?",
+      "summary": "Backseat Pilot'tan sonra Pete'in üç 7 paketlik teslimatı açılır: Southpoint Airfield (20:00), Avery Allen & Co. (14:00) ve Deliver Packages (08:00). Süre içinde bitirirsen her biri 20.000 dolar.",
+      "body": [
+        "Görevi veren: Pilot Pete · Başladığı yer: Mariana / Kelly / Leonard County.",
+        "Southpoint Airfield (Mariana County): tedarikçinin yanındaki tarlaya in, çatışma çıkarsa çantayı hızla al ve uçağa binip uç; düşmanları öldürmek şart değil. Son saat 20:00.",
+        "Avery Allen & Co. (Kelly County): pistten başla, deniz uçağıyla tedarikçinin yanındaki suya in. Kırmızı dairelerden uzak dur. Son saat 14:00.",
+        "İlk ikisi birlikte işaretleniyor, istediğin sırayla yapabilirsin.",
+        "Deliver Packages (Leonard County): birkaç gün sonra gelir, tarlaya inersin, son saat 08:00. Pete'in zincirini bitirir.",
+        "Hepsi Strangers & Freaks kupasına sayılıyor."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-9c43727e",
+        "g-showgamer-com-200340ff"
+      ],
+      "category": "Görevler ve Yan Görevler › Yan işler",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Pete's Deliveries"
+    },
+    {
+      "id": "gorev-veteran-hunted",
+      "title": "GTA 6 Veteran Hunted (Bret Vogel) nasıl yapılır?",
+      "summary": "Chapter 2'deki Coffee Break görevinden sonra Bret, Jason'a mesaj atar. Mount Kalaga'da bir geyiği takip edip vur, kamyonuna yükleyip kabine götür; ödül 500 dolar ve Killtelligence SM-69 tüfeği.",
+      "body": [
+        "Görevi veren: Bret Vogel · Başladığı yer: Mount Kalaga National Park, Lummox County.",
+        "Sadece Jason oynanabilir; Lucia ile başlamıyor.",
+        "Bret'in kamyonuyla işaretli noktaya git, Focus ile izleri takip et ve geyiği gözle.",
+        "Tek temiz atışla vur. Kafa ya da kalp isabeti karkası daha iyi durumda bırakıyor, hasarlı karkas daha az ödüyor.",
+        "Geyiği kamyon kasasına yükle ve Bret'in kabinine dön.",
+        "Ödül 500 dolar ve Killtelligence SM-69 tüfeği; sonra Bret's Hunting Decks açılıyor."
+      ],
+      "sourceIds": [
+        "g-game-checklists-com-c89ccd88",
+        "g-powerpyx-com-fb817dad"
+      ],
+      "category": "Görevler ve Yan Görevler › Yan işler",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Veteran Hunted"
+    },
+    {
+      "id": "gorev-bret-s-hunting-decks",
+      "title": "GTA 6 Bret's Hunting Decks (15 Target Deck) nasıl yapılır?",
+      "summary": "Veteran Hunted sonrası Bret, haritaya mor ikonlarla 15 Target Deck işaretliyor. Hepsi 100% için gerekli ve biri Bronz Fair Game kupasını verir.",
+      "body": [
+        "Görevi veren: Bret Vogel · Başladığı yer: Mount Kalaga National Park.",
+        "Takip: Map > Activities > Target Deck. Sadece Jason ile oynanıyor.",
+        "Her deck'te Bret'in istediği hayvanları avlarsın; kaynaklara göre temiz atış daha iyi kalite demek.",
+        "15 deck'in tamamı 100% listesinde.",
+        "Fair Game kupası için hangi benzersiz hayvanın gerektiği kaynaklarda net değil; oyun içinde göreve bak."
+      ],
+      "sourceIds": [
+        "g-game-checklists-com-c89ccd88",
+        "g-powerpyx-com-fb817dad",
+        "g-powerpyx-com-755d2139"
+      ],
+      "category": "Görevler ve Yan Görevler › Yan işler",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Bret's Hunting Decks"
+    },
+    {
+      "id": "gorev-moses-vehicle-drop-offs",
+      "title": "GTA 6 Moses araç satışı ve Vehicle Drop-Offs nasıl yapılır?",
+      "summary": "Moses, Chapter 2'de Port Gellhorn'da tracker'sız araçları satın alıyor. Waink ile tara, ana yoldan çal ve ona götür; ödeme 1.000 dolar ve üzeri, satışlar arasında yaklaşık 2 dakika bekleme var.",
+      "body": [
+        "Görevi veren: Moses Watkins · Başladığı yer: Port Gellhorn, Ambrosia, Mount Kalaga.",
+        "Moses'ın Scooter Bros uygulaması Chapter 2'de açılıyor. Takip: Robberies > Moses Drop-Offs.",
+        "Moses tracker'lı araç almaz; Waink ile kontrol et. Garajına çok yakın yerden çalınan araçları da kabul etmediği için Port Gellhorn ana yolundan çal.",
+        "PowerPyx'e göre 1.000 dolar ve üzeri ödüyor, satışlar arasında yaklaşık 2 dakika bekleme var.",
+        "Görev listesindeki 7 araçtan örnekler: Port Gellhorn'da Declasse Yosemite 1500, Buckskin Swamp'ta BF Bandito, Draper Island'da Karin Futo, Ambrosia'da Western Nightblade. Ödül Moses'ın Emperor Sultan'ı.",
+        "Standard Tracker'lı araçları Chapter 3'ten sonra Pay 'n' Spray'e yaklaşık 4.000+ dolara satabilirsin."
+      ],
+      "sourceIds": [
+        "g-game-checklists-com-c89ccd88",
+        "kaynak-powerpyx-com-11f607",
+        "g-powerpyx-com-755d2139"
+      ],
+      "category": "Görevler ve Yan Görevler › Yan işler",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Moses' Vehicle Drop-Offs"
+    },
+    {
+      "id": "gorev-kenton-s-treasures",
+      "title": "GTA 6 Kenton Rees batık gemi dalış görevleri nasıl yapılır?",
+      "summary": "Chapter 1'deki Island Dreams sonrası Key Lento'da Kenton Rees ile konuşursun; 7 batık gemide dalış yapıp metal dedektörle hazine kazarsın. 100% için 7 setten 5'i gerekli.",
+      "body": [
+        "Görevi veren: Kenton Rees · Başladığı yer: Leonida Keys.",
+        "Island Dreams sonrası Kenton ile konuşuyorsun; Chapter 1 sonrası bir süre kayboluyor, Chapter 2-3'te tekrar yazıyor.",
+        "Yedi batıkta dalış yapıp metal dedektörle hazineyi çıkarırsın. İlerleme: Progress > Collections > Kenton's Treasures.",
+        "100% listesinde 7 setten 5'i isteniyor ve 33 sualtı keşfi de gerekli.",
+        "Son görevi This Was No Boat Accident'i açıyor."
+      ],
+      "sourceIds": [
+        "g-game-checklists-com-c89ccd88",
+        "kaynak-powerpyx-com-63fd47",
+        "g-powerpyx-com-755d2139"
+      ],
+      "category": "Görevler ve Yan Görevler › Yan işler",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Kenton's Treasures"
+    },
+    {
+      "id": "gorev-take-out-kitty-litter-spin-on-this",
+      "title": "GTA 6 Kitty Litter laboratuvarları ve Spin On This nasıl yapılır?",
+      "summary": "Chapter 3'teki Here, Kitty Kitty sonrası Tyrone, Vice City'deki sentetik laboratuvarları yok etmeni ister. Yeterince labı yok edince Spin On This açılır; ödül 10.000 dolar ve Bronz kupa.",
+      "body": [
+        "Görevi veren: Tyrone Russo · Başladığı yer: Vice City / Mount Kalaga.",
+        "Sadece Jason ile oynanıyor.",
+        "Haritada mor ikonlarla işaretli Synthetic Lab'ları bul ve yok et.",
+        "Yeterli sayıda lab sonrası Spin On This açılıyor (Mount Kalaga bölgesindeki bir diner'dan başlıyor).",
+        "Bir motelin altındaki gizli labı temizle, kazanları patlat ve Rocky'yi kovala.",
+        "Ödül 10.000 dolar ve Spin On This! kupası."
+      ],
+      "sourceIds": [
+        "g-game-checklists-com-c89ccd88",
+        "g-powerpyx-com-fb817dad",
+        "g-powerpyx-com-755d2139"
+      ],
+      "category": "Görevler ve Yan Görevler › Yan işler",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Take Out Kitty Litter / Spin On This"
+    },
+    {
+      "id": "gorev-find-the-lost-drugs",
+      "title": "GTA 6 Find the Lost Drugs (Donnie) nasıl yapılır?",
+      "summary": "Chapter 1'de Down to Earth görevinden sonra Donnie sana telefonla kayıp uyuşturucu paketlerini aratır. Mariana County'de paketleri bulup Donnie'nin karavanına bırakırsın.",
+      "body": [
+        "Görevi veren: Donnie Carter · Başladığı yer: Grassrivers, Mariana County.",
+        "Recreation Area'da iki, Burned Houses çevresinde üç ve Pelican Valley'de iki paket var; Pelican Valley'dekiler için timsahları vurman gerekiyor.",
+        "Thorpe Adventures kulübesindeki iki serseriden yarım kalıp kokain al.",
+        "Torbaları Donnie'nin karavanına götür.",
+        "Doğrudan ödeme yok ama uyuşturucuyu fence'e satabilirsin."
+      ],
+      "sourceIds": [
+        "g-game-checklists-com-c89ccd88",
+        "g-powerpyx-com-755d2139"
+      ],
+      "category": "Görevler ve Yan Görevler › Yan işler",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Find the Lost Drugs"
+    },
+    {
+      "id": "gorev-search-for-the-skunk-ape-skunk-apeology-101",
+      "title": "GTA 6 'Search for the Skunk Ape' görevi nasıl başlatılır ve tamamlanır?",
+      "summary": "Hamlet'teki Skeeter's bar'da Kirk'ün Skunk Ape el ilanını bulup okuyun, ardından Kirk'i arayın. Görev sadece geceleri başlıyor; Mariana County bataklığında drone'u takip edip izleri inceliyorsunuz ve sonunda 1.000 dolar kazanıyorsunuz.",
+      "body": [
+        "Görevi veren: Kirk · Başladığı yer: Mariana County (swamp).",
+        "Başlatmak için Kirk'ün Skunk Ape el ilanlarından birini bulmanız gerekiyor; PowerPyx'e göre bir tanesi Hamlet'teki Skeeter's bar'da. İlanı okuyunca Kirk telefon rehberinize ekleniyor, onu arayınca görev Mariana County bataklıklarında işaretleniyor.",
+        "Lucia ya da Jason ile oynanabiliyor ama sadece gece başlıyor. Gündüzse yatağınızda uyuyarak saati ilerletebilirsiniz.",
+        "Bataklıktaki işarete gidin. Kirk kamyonetinin yanında, polen yüzünden yüzü hayli şişmiş halde bekliyor. Silah çarkının sağ alt yuvasından el fenerini çıkarın, ortam karanlık.",
+        "Kirk'ün drone'unu takip ederek ormana girin. Yuvalama alanında durunca Kirk'le tekrar tekrar konuşup yaratığın poleni, kokusu ve sesi hakkında ek bilgi alabilirsiniz (isteğe bağlı).",
+        "Sese doğru ilerleyince ekranda dairesel bir arama alanı çıkıyor. Alanın ortasındaki beslenme noktasını, ardından biraz doğusundaki ağaçtaki pençe izlerini inceleyin.",
+        "Kirk yaratığı görünce kovalayın; yakalayamıyorsunuz. Orman kenarında ağaca asılı bir effigy (ağaç heykeli) bulacaksınız. İncelemeyi bitirince yanında kocaman bir yaban domuzu beliriyor.",
+        "Minimap'teki pembe noktayı takip ederek Kirk'ün kamyonetine koşun. Domuz yaklaşırken size mutlaka çarpıyor; Kirk sizi kurtarıyor ve domuz uzaklaşıyor. Koşarak gitmek kamyonete varmayı kolaylaştırır.",
+        "Ödül: Kirk'ten 1.000 dolar. PowerPyx kaçırılıp kaçırılmayacağını belirtmiyor; Kirk zinciri Strangers & Freaks kupası için sayılıyor."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-7b382968",
+        "g-powerpyx-com-d3470c44"
+      ],
+      "category": "Görevler ve Yan Görevler › Gizem görevleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Search for the Skunk Ape (Skunk Apeology 101)"
+    },
+    {
+      "id": "gorev-search-for-tree-effigies",
+      "title": "GTA 6 'Search for Tree Effigies' nasıl tetiklenir? Kirk'ten mesaj gelmiyor",
+      "summary": "Skunk Ape görevini bitirdikten sonra Kirk'ün mesajını beklemeniz gerekiyor; mesaj gelince Pelican Valley bataklığında işaretli alanda 3 ağaç effigy'sini (herhangi bir sırayla) incelemeniz yeterli.",
+      "body": [
+        "Görevi veren: Kirk · Başladığı yer: Pelican Valley, Mariana County.",
+        "Önkoşul: Kirk'ün ilk görevi 'Search for the Skunk Ape' tamamlanmış olmalı.",
+        "Sonrasında Kirk size mesaj atıyor. PowerPyx'e göre bu biraz zaman alabiliyor; mesaj gelmiyorsa başka görevlere devam edin, geri sayım gibi bir şey yok.",
+        "Görev başlayınca Mariana County'deki Pelican Valley bataklığında geniş bir arama alanı haritada işaretleniyor. Lucia ya da Jason başlatabilir.",
+        "Alan içinde 3 adet oyulmuş ağaç effigy'sini bulup inceleyin. Sıra önemli değil; üçüncüyü incelediğinizde görev kendiliğinden bitiyor.",
+        "PowerPyx effigy konumlarını sadece ekran görüntüleriyle gösteriyor; tam konumlar için kaynağa bakın.",
+        "Bu görevin ödülü yok, ama zincirdeki son görev 'Help Kirk Find Mr. Mangrove'u açıyor."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-5e6a0f28",
+        "g-gtabase-com-06b1b5e6"
+      ],
+      "category": "Görevler ve Yan Görevler › Gizem görevleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Search for Tree Effigies"
+    },
+    {
+      "id": "gorev-help-kirk-find-mr-mangrove-advanced-skunk-apeonomics",
+      "title": "GTA 6 'Help Kirk Find Mr. Mangrove' finali: kimi vurmalı, 10.000 dolar nasıl alınır?",
+      "summary": "Sadece Lucia ile ve geceleri, Mariana County'deki Cottonmouth Lake'te başlıyor. Kirk'ün helikopterinde Mr. Mangrove'u uyuşturucu tüfekle avlıyorsunuz; 10.000 dolar sadece finalde Mr. Mangrove'u vurursanız geliyor, hangi seçim yapılırsa yapılsın görev tamamlanıyor.",
+      "body": [
+        "Görevi veren: Kirk · Başladığı yer: Cottonmouth Lake, Mariana County.",
+        "Spoiler uyarısı: Bu giriş finalin detaylarını içeriyor.",
+        "Tetikleme: Kirk'ün ilk iki görevini (Skunk Ape ve Tree Effigies) bitirin, hikâyede ilerleyin; birkaç gün sonra Kirk yeni arama için mesaj atıyor. Görev Chapter 2'den itibaren, sadece Lucia ile ve sadece gece Cottonmouth Lake'te başlıyor.",
+        "Kirk'ün helikopterine binince uyuşturucu tüfek otomatik veriliyor. Helikopterin spot ışığına bakın; Kirk Mr. Mangrove'u görüyor. Vursanız da vurmasanız da terk edilmiş bir kulübeye kaçıyor.",
+        "Helikopter iniyor; sağdaki kulübeye girin. Mr. Mangrove içeride kendiliğinden yığılıyor, ekstra atış gerekmiyor. Cesedini kaldırınca Lucia spor solayıp bayılıyor.",
+        "Bayıkken önce kurbağa, sonra sinek olarak oynuyorsunuz: kurbağayla kulübe dışındaki domuz leşi üzerindeki sinekleri yiyin, iskele boyunca devam edip fener altındaki ve iskele altındaki leşin sineklerini yiyin. Sinek bölümünde doğuya, Kirk'ün helikopterine uçup konuşmasını dinleyin; Mr. Mangrove'un 10 yıl önce kaybolan Harry Sherrick olduğunu öğreniyorsunuz.",
+        "Final seçimi: Mr. Mangrove'u vurup helikoptere taşırsanız Kirk BuckMe ile 10.000 dolar ödüyor, ama kalkıştan sonra Mr. Mangrove uyanıp helikopteri düşürüyor. Kirk'i vurursanız ya da hiç vurmazsanız ödül yok ve Kirk ölüyor.",
+        "Ödül: 'Mister Mangrove Laird 350' uyuşturucu tüfeği. PowerPyx'e göre silah ve görevin tamamlanması her seçimde kaçırılmaz, sadece 10.000 dolar seçime bağlı. Mr. Mangrove'u erken vurmak sonucu değiştirmiyor."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-a8a9b351",
+        "g-powerpyx-com-1d9c9832"
+      ],
+      "category": "Görevler ve Yan Görevler › Gizem görevleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Help Kirk Find Mr. Mangrove (Advanced Skunk Apeonomics)"
+    },
+    {
+      "id": "gorev-bigfoot-sasquatch-encounter",
+      "title": "GTA 6 Bigfoot (Sasquatch) easter egg'i nerede? Hamlet güneyindeki karşılaşma",
+      "summary": "Hamlet'in güneyindeki yolda Bigfoot bir geyik leşiyle beslenirken bulunuyor. Yaklaşınca kaçıyor; onu bataklıktaki effigy'ye kadar kovalayıp yeşil sisi soluyunca bayılıyorsunuz. PowerPyx'e göre ödül yok.",
+      "body": [
+        "Başladığı yer: South of Hamlet, Mariana County.",
+        "Konum: Hamlet'in güneyindeki yol; Bigfoot burada bir geyik leşi başında yiyor.",
+        "Yaklaştığınızda yüksek sesle homurdanarak kaçıyor. Onu bataklığa doğru kovalayın; ağaç effigy'sinin etrafındaki yeşil sisin arkasında ağaçların arasında kayboluyor.",
+        "Effigy'nin başında durup sisi solumaya devam edin. Karakteriniz bayılıyor, Bigfoot sizi inceliyor, ekran kararıyor ve yakınlarda ayılıyorsunuz.",
+        "PowerPyx karşılaşma için saat ya da ilerleme şartı belirtmiyor ve ödülden de söz etmiyor.",
+        "Bu karşılaşma Kirk'ün Skunk Ape zincirinden ayrı bir açık dünya olayı; zincir 'Skunk Apeology 101', 'Tree Effigies' ve 'Advanced Skunk Apeonomics' sırasıyla ilerliyor."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-1d9c9832"
+      ],
+      "category": "Görevler ve Yan Görevler › Rastgele olaylar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Bigfoot / Sasquatch encounter"
+    },
+    {
+      "id": "gorev-catch-a-bigger-fish",
+      "title": "GTA 6 Cal 'Catch a Bigger Fish' balık tutma görevi nasıl yapılır?",
+      "summary": "Chapter 1'de 'Feng Shui' görevinden sonra Cal, Jason'a mesaj atıyor. Gambit Bay'de bir tekneyle açılıp temel Small Saltwater Lure ile 2 librenin üzerinde bir parrotfish yakalamanız gerekiyor; ödül Focus artışı ve 'Baited My Tackle' kupası.",
+      "body": [
+        "Görevi veren: Cal · Başladığı yer: Gambit Bay, Mariana County.",
+        "Tetikleme: Chapter 1 ana görevi 'Feng Shui' bittikten sonra Cal, Jason'a balık yarışı mesajı atıyor. Sadece Jason ile başlıyor.",
+        "Konum: Mariana County, Gambit Bay. PowerPyx The Rusty Anchor yakınındaki iskeleyi öneriyor; balıkçı tekneleri genelde orada duruyor ve çalabilirsiniz. Jason'ın evindeki tekne Chapter 1'den sonra kullanılamıyor.",
+        "Balıkçılık noktasına gidip araç menüsünden Anchor seçerek tekneyi sabitleyin.",
+        "Silah envanterinin sağ alt yuvasından olta ekipmanını seçin ve temel Small Saltwater Lure ile atın.",
+        "2 librenin üzerinde bir parrotfish tutun ve Cal'a gönder tuşuna (X/A) basın.",
+        "Ödül: Focus artışı ve bronz 'Baited My Tackle' kupası. Kaçırılabilirliği kaynakta belirtilmemiş."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-f1d45904"
+      ],
+      "category": "Görevler ve Yan Görevler › Aktivite görevleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Catch a Bigger Fish"
+    },
+    {
+      "id": "gorev-the-truth-is-out-there-ufo-easter-egg",
+      "title": "GTA 6 'The Truth Is Out There' UFO olayı nasıl tetiklenir? Starlet Motel yakını",
+      "summary": "Kelly County'de Starlet Motel'in kuzeybatısındaki yolda, gece 2'den sonra ve tek başınıza yanıp sönen bir araba arayın. Ormandaki UFO'ya yaklaşıp bırakılan kadına yardım etmeyi kabul edin, sonra onu arabasına götürün; 'The Truth Is Out There' kupası açılıyor.",
+      "body": [
+        "Başladığı yer: Starlet Motel, Kelly County.",
+        "Konum: Kelly County, Starlet Motel'in kuzeybatısındaki yol. PowerPyx'e göre olay sadece gece saat 02:00'den sonra çıkıyor ve yanınızda partner olmadan, tek başınıza gitmelisiniz. Karşılaşma biraz rastgele.",
+        "Yol kenarında yanıp sönen bir araba arayın. Yoksa oradan uzaklaşıp geri dönün; olay her seferinde hemen oluşmuyor.",
+        "Arabanın yanından başlayan patikayı izleyip ormana girin. Gökyüzünde parlak mavi bir ışık, yani UFO göreceksiniz.",
+        "UFO'ya yaklaşın. Kaçırılmış bir kadını bırakıyor. Onunla konuşup yardım etmeyi teklif edin.",
+        "Kadın sizden yol kenarındaki arabasına dönmenizi istiyor. Arabaya vardığınızda kupa açılıyor.",
+        "Ödül: bronz 'The Truth Is Out There' kupası/başarımı. Bazı küçük siteler olayı farklı anlatıyor (örneğin Chapter 2'ye bağlıyor); burada PowerPyx kupa rehberine dayandım."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-fb817dad"
+      ],
+      "category": "Görevler ve Yan Görevler › Rastgele olaylar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "The Truth Is Out There (UFO Easter egg)"
+    },
+    {
+      "id": "gorev-roadside-encounter-fake-breakdown",
+      "title": "GTA 6 yolda bozulmuş araba rastgele olayı: bagajdaki uyuşturucu çantası nasıl satılır?",
+      "summary": "Beebom'a göre Leonida yollarında sabit konumu olmayan 'arızalı araba' olayları çıkıyor. Sahibini umursamadan bagajı kontrol ederseniz yaklaşık 1.280 dolarlık yasa dışı ürün bulunuyor; Brian's Lockup'a götürünce para ertesi gün posta kutunuza geliyor.",
+      "body": [
+        "Başladığı yer: Leonida roads (no fixed location).",
+        "Beebom'a göre bu olaylar haritada sabit bir noktada değil, Leonida'daki yollarda rastgele çıkıyor. Yolları keşfederken arabası bozulmuş gibi duran insanlara dikkat edin.",
+        "Yardım teklif etmek için yaklaşın. Bazıları sizi kovuyor; aldırmayıp araca bakın.",
+        "Bagajı açınca içinde uyuşturucu dolu bir çanta bulacaksınız. Kaynak değerini yaklaşık 1.280 dolar olarak veriyor.",
+        "Çantayı Brian's Lockup'a götürün; para ertesi gün posta kutusuna geliyor.",
+        "İpucu: bazı olaylardan sonra çanta kendi aracınızın bagajına dönebiliyor, bulamazsanız oraya bakın."
+      ],
+      "sourceIds": [
+        "g-beebom-com-ea0909ae"
+      ],
+      "category": "Görevler ve Yan Görevler › Rastgele olaylar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Roadside Encounter (fake breakdown)"
+    },
+    {
+      "id": "gorev-plane-crash-sites",
+      "title": "GTA 6 uçak kazası olayı: Grassrivers'taki enkazdan nasıl ganimet alınır?",
+      "summary": "Beebom'a göre dumanlar içinde alçalan bir uçağı görüp enkaza gidince yerde kokain ve yakınındaki cesette flare gun buluyorsunuz. Kaza yeri başına yaklaşık 1.000 dolarlık ürün düşüyor, ama çevrede suçlular ve polis çabuk gelebilir.",
+      "body": [
+        "Başladığı yer: Grassrivers.",
+        "Tetikleme: Leonida'da irtifa kaybeden, dumanlı bir uçak görün ve dumanı izleyerek enkaza gidin. Beebom bu olayı Grassrivers bölgesiyle ilişkilendiriyor.",
+        "Yanan uçağın altındaki zemini arayıp kokaini toplayın. Yakındaki cesedi de arayın; üzerinde flare gun çıkıyor.",
+        "Ödül: kaza yeri başına yaklaşık 1.000 dolarlık yasa dışı ürün.",
+        "Risk: başka suçlular ve polis hızla gelebilir. Oyalanmayın; yakındaki düşmanları temizleyip ayrılın.",
+        "Ürünleri Brian's Lockup'ta satabilirsiniz."
+      ],
+      "sourceIds": [
+        "g-beebom-com-ea0909ae"
+      ],
+      "category": "Görevler ve Yan Görevler › Rastgele olaylar",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Plane Crash Sites"
+    },
+    {
+      "id": "gorev-veteran-hunted-bret-s-target-decks",
+      "title": "GTA 6 avcılık görevi 'Veteran Hunted': Bret Vogel nasıl açılır, Fair Game kupası?",
+      "summary": "Chapter 2'de 'Coffee Break'ten sonra Jason'a Bret Vogel mesaj atıyor. Mount Kalaga yakınında koku görüşüyle geyiğin izini sürüp tek kurşunla vurun; ödül 500 dolar ve Killtelligence SM-69 tüfeği. Zincir 15 'Target Deck' avından oluşuyor.",
+      "body": [
+        "Görevi veren: Bret Vogel · Başladığı yer: Mount Kalaga, Lummox County.",
+        "Tetikleme: Chapter 2'de 'Coffee Break' sonrası 'Prepare for Vice City' için 15.000 dolar biriktirirken Jason'a Bret'ten mesaj geliyor. Sadece Jason alıyor, Lucia'ya gelmiyor; görev partnersiz başlıyor.",
+        "Konum: Lummox County'nin en kuzeyi, Mount Kalaga yakını. Bret'in kamyonetine binip işaretli ormana sürün.",
+        "İnip koku görüşüyle izleri takip edin, iz sarıya dönene kadar. Keskin nişancı tüfeği ya da dürbünle geyiği inceleyin, sonra av tüfeğiyle vurun.",
+        "Leşi alıp Bret'in kamyonetine yükleyin, işaretli kabine sürüp et işleme alanına bırakın.",
+        "İpucu: tek kafa ya da kalp atışı geyiği kusursuz tutuyor; ek atışlar kaliteyi düşürüyor. Tüfeği silah dolaplarından yeniden alabilirsiniz.",
+        "Ödül: BuckMe ile 500 dolar ve benzersiz 'Killtelligence SM-69' tüfeği.",
+        "Sonrasında Bret haritada mor ikonlarla yeni avlar işaretliyor: Map > Activities > Target Deck altında 15 Target Deck var ve %100 için hepsi gerekli. 'Fair Game' kupasının hangi hayvanla açıldığı PowerPyx'te henüz doğrulanmamış."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-13e72011",
+        "g-powerpyx-com-fb817dad"
+      ],
+      "category": "Görevler ve Yan Görevler › Aktivite görevleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Veteran Hunted / Bret's Target Decks"
+    },
+    {
+      "id": "gorev-thrillbillies-check-out-the-mud-club",
+      "title": "GTA 6 Thrillbilly Mud Club yarışı nasıl kazanılır? Thrillbillies görevi",
+      "summary": "'Coffee Break'ten sonra haritada işaretlenen görev Kelly County'deki Thrillbilly Mud Club'da geçiyor. Roostere's Rentals'tan motor kiralayıp 13 rakiple yarışıyorsunuz; Billy'yi etkilemek için sonuncu olmamak yeterli, 1. olana 2.500 dolara kadar ödül var.",
+      "body": [
+        "Görevi veren: Billy · Başladığı yer: Thrillbilly Mud Club, Kelly County.",
+        "Tetikleme: Chapter 2 ana görevi 'Coffee Break' (Wyman'la Scarlet Motel kafeteryasında kahve) bittiğinde görev otomatik işaretleniyor. Lucia ya da Jason başlatabilir.",
+        "Kulübün giriş yakınındaki hediyelik eşya dükkânında iki karakter için yeni kıyafet alın. Dükkândan çıkınca Billy ve ekibini (Ricky, Brittney, Wyman) tanıtan sahne başlıyor.",
+        "Roostere's Rentals'tan motor kiralayın: Manchez ya da Sanchez. Sanchez daha pahalı ama hızlı, rehber onu öneriyor.",
+        "İşaretli yarış başlangıcına gidip organizatörle konuşun ve 13 rakibe karşı yarışın.",
+        "Kazanmanız şart değil ama Billy'yi etkilemek için PowerPyx'e göre 13.'den kötü olmamanız gerek. Ödül 1.'ye 2.500 dolara kadar, 3.'ye örneğin 625 dolar.",
+        "İpucu: araçlara çarpmayın, çarpışma sizi motordan düşürebilir.",
+        "Kaçırılabilirliği kaynakta belirtilmemiş. Mud Club'daki yarışlar bu görevle tanıtılıyor."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-9347c492",
+        "kaynak-powerpyx-com-a1c53e"
+      ],
+      "category": "Görevler ve Yan Görevler › Aktivite görevleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Thrillbillies (Check Out the Mud Club)"
+    },
+    {
+      "id": "gorev-join-a-street-race",
+      "title": "GTA 6 sokak yarışı nasıl başlar? Hit 'n' Run VC ve 'Join a Street Race'",
+      "summary": "Chapter 3'te 'Dealer's Choice' bitince Manuel mesaj atıp sizi grup sohbetine ekliyor. Salton'daki yarış için 600-900 dolarlık üç araçtan birini kiralayıp yarışıyorsunuz; 1. olursanız 3.000 dolar, sonrasında Yago yeni görevler veriyor.",
+      "body": [
+        "Görevi veren: Yago · Başladığı yer: Salton, Vice City.",
+        "Tetikleme: Chapter 3 ana görevi 'Dealer's Choice (Go See Dre'Quan)' tamamlandıktan birkaç dakika sonra Manuel (Dre'Quan'ın bağlantısı) grup sohbetine ekliyor ve görev haritada belirir. PowerPyx Jason ile başlatılabildiğini yazıyor.",
+        "Konum: Vice City, Salton; yarışçılar Hit 'n' Run VC ekibi.",
+        "Üç araç arasından birini 600 ile 900 dolar arasında kiralayın. En pahalısının değerleri en iyisi, kazanmayı kolaylaştırır.",
+        "Başlangıçta Yago ile tanışıyorsunuz, yarışı bitirin.",
+        "Ödül sıralamaya göre değişiyor; 1. olana 3.000 dolar.",
+        "Yarıştan sonra Yago üç yeni görev veriyor: Bumper to Bumper, Race Against Yago, Brother to Brother. Yago zinciri Strangers & Freaks kupası için sayılıyor."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-8ff97ccd",
+        "kaynak-powerpyx-com-a1c53e"
+      ],
+      "category": "Görevler ve Yan Görevler › Aktivite görevleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Join a Street Race"
+    },
+    {
+      "id": "gorev-bumper-to-bumper-mentor-yago",
+      "title": "GTA 6 'Bumper to Bumper' görevi: Yago'nun araba modifikasyonu ve polisten kaçış",
+      "summary": "'Join a Street Race' sonrası birkaç oyun günü içinde Jason için açılıyor. Little Cuba'daki mod shop'ta Yago'nun bedelini ödediği Custom Street Racing Build ve Nitrous Boost'u uygulayıp yarışıyor, sonra polisten kaçıyorsunuz; ödül 500 dolar.",
+      "body": [
+        "Görevi veren: Yago · Başladığı yer: Little Cuba, Vice City.",
+        "Tetikleme: Yago'nun ilk görevi 'Join a Street Race' bitmiş olmalı. Görevin haritada belirmesi birkaç oyun günü sürebilir; kilit ikonu varsa evde uyuyup tekrar bakın. Sadece Jason ile oynanıyor.",
+        "Konum: Vice City, Little Cuba. Önce sokak dükkânı, sonra yakındaki mod shop.",
+        "Mod shop'ta Pro Builds > Full Kits > Custom Street Racing Build, sonra Performance > Boost > Nitrous Boost seçin. Yago parayı ödüyor.",
+        "Yarış ekibinin yanına gidip park edin, Yago diğer yarışçılarla konuşurken yürüyerek takip edin ve yarışı tamamlayın.",
+        "Yarıştan sonra polis kovalıyor; arama alanından çıkarak kaçın.",
+        "Kuzey Vice City'deki buluşma noktasına gidin; Yago kaçışınızı övüp arabayla ayrılıyor.",
+        "Ödül: 500 dolar (yarışın kendisi nakit vermiyor). Sonraki 'Race Against Yago' birkaç gün içinde açılıyor."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-cd564316"
+      ],
+      "category": "Görevler ve Yan Görevler › Aktivite görevleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Bumper to Bumper (Mentor Yago)"
+    },
+    {
+      "id": "gorev-race-against-yago",
+      "title": "GTA 6 'Race Against Yago' kaçırılır mı? Freeway Run yarışı ve süre sınırı",
+      "summary": "Yago'nun 'Bumper to Bumper'dan birkaç gün sonra attığı mesajla açılan, süreli ve kaçırılabilir bir yarış. Salton'da Santiago ile konuşup ikinci yarış 'Freeway Run'ı seçin, araba kiralayıp bitirin; 1. olana 3.800 dolar.",
+      "body": [
+        "Görevi veren: Yago · Başladığı yer: Salton, Vice City.",
+        "Tetikleme: 'Bumper to Bumper' bittikten ve birkaç oyun günü geçtikten sonra Yago Jason'a mesaj atıyor. Görev haritada pembe, 'Limited Time' kum saati ikonuyla görünür.",
+        "Süreli olduğu için PowerPyx mümkün olan en kısa sürede başlamanızı öneriyor; kaçırılabilir.",
+        "Konum: Vice City, Salton'daki yarış buluşması. Santiago ile konuşun.",
+        "İkinci yarış 'Freeway Run'ı seçin.",
+        "Bu yarış için araba kiralamak zorunlu. Yarışı bitirin.",
+        "Ödül sıralamaya göre değişiyor; 1. olana 3.800 dolar.",
+        "Not: PowerPyx görevi hem kupa için sayılan hem de kaçırılabilir olarak listeliyor; kupa için buna güvenmeden önce teyit edin."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-e145aa48",
+        "g-powerpyx-com-d3470c44"
+      ],
+      "category": "Görevler ve Yan Görevler › Aktivite görevleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Race Against Yago"
+    },
+    {
+      "id": "gorev-unique-races-40-races",
+      "title": "GTA 6 yarış lokasyonları: 40 özel yarış nasıl açılır, Earn Cash, Not Kudos kupası",
+      "summary": "Altı lokasyonda 40 özel yarış var; her lokasyonda bir yarışı kazanınca sıradaki açılıyor. 20 galibiyet 'Earn Cash, Not Kudos' kupasını, 30 galibiyet %100 tamamlamayı sağlıyor. Giriş ve araç kiralama ücreti ödeyip kazanınca kâr ediyorsunuz.",
+      "body": [
+        "Başladığı yer: Hit 'N Run VC, Animal Crackers, Gellhorn International Raceway, Boone Speedway, Ambrosia Raceway, Thrillbilly Mud Club.",
+        "Haritada yarış lokasyonları yaklaşık 100 metre yakınında mavi ikonla görünüyor. İlerlemeyi Map > Activities > Racing filtresinden izleyin.",
+        "Her lokasyonda en az iki yarış var ve sıradakini açmak için öncekini kazanmalısınız. Giriş ve araç kirası ücretli, ama kazanınca kâr kalıyor.",
+        "Hit 'N Run VC (9 yarış, Vice City: Salton 3, La Perle 2, Ocean Beach 2, Gloriana Key 2): Dre'Quan'ın hikâye görevinden sonra gelen 'Join a Street Race' ile açılıyor.",
+        "Animal Crackers (8 yarış): Lummox ve Mariana County'ye dağılmış yarışçıları bulun; Grayson, Redshaw's, Ranchers ve Big Pine'da ikişer yarış var.",
+        "Gellhorn International Raceway (11 yarış, Port Gellhorn güneyi): 'Gellhorn Raceway – Introduction' bitince beş yarışlık amatör 'Keep it PG' serisi açılıyor.",
+        "Boone Speedway (2 yarış, Hamlet'in güneybatısı, eleme yarışları), Ambrosia Raceway (2 yarış, Ambrosia'nın kuzeyi, yıkım yarışları) ve Thrillbilly Mud Club (8 yarış, Kelly County kuzeyi; Billy'nin 'Thrillbillies' görevi tanıtıyor).",
+        "Kupa için 20, %100 için 30 galibiyet yeterli; en zor yarışları atlayabilirsiniz. Ödül tutarları PowerPyx'te listelenmemiş."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-a1c53e",
+        "g-powerpyx-com-fb817dad"
+      ],
+      "category": "Görevler ve Yan Görevler › Aktivite görevleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Unique Races (40 races)"
+    },
+    {
+      "id": "gorev-race-challenges-13-gold-medals",
+      "title": "GTA 6 race challenge altın madalyaları: 13 meydan okuma nerede?",
+      "summary": "13 yarış meydan okumasının her birinde bronz, gümüş ve altın madalya var; %100 için 10 altın gerekiyor. Meydan okumalar yaklaşık 100 metre yakınlıkta mavi ikonla görünüyor ve Progress > Activities > Race Challenges menüsünde listeleniyor.",
+      "body": [
+        "Başladığı yer: Ambrosia, Hamlet, Port Gellhorn, Mount Kalaga, Thrillbilly Mud Club, Waning Sands.",
+        "Her meydan okuma haritada, yaklaşık 100 metre içine girince mavi ikonla çıkıyor. Oynananlarda kazanılan madalya görünür.",
+        "Takip için Map > Activities (dambıl ikonu) > Racing filtresi ya da Progress > Activities > Race Challenges kullanın.",
+        "Liste: Ambrosia Raceway Trial, Hamlet BMX Stunt Run, Boone Speedway Trial, Gellhorn Raceway Trial, Gellhorn Dragway Trial, Kalaga Cycling Trial.",
+        "Devamı: Mud Club Air Time Stunt Run, Mud Club Drag Trial, Mud Club Hill Climb Trial, Mud Club Dirt Track Trial, Mud Club Oval Trial, Mud Club Swamp Run Trial ve Waning Sands Motocross Stunt Run.",
+        "Madalyalar belirli süre ya da puanı geçmeye bağlı. %100 için 10 altın yeterli, en zor üçünü atlayabilirsiniz.",
+        "PowerPyx altın için gereken süre/puan değerlerini ve ödülleri vermiyor."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-0cbce412"
+      ],
+      "category": "Görevler ve Yan Görevler › Aktivite görevleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Race Challenges (13 gold medals)"
+    },
+    {
+      "id": "gorev-top-fun-drone-time-trials",
+      "title": "GTA 6 Top Fun drone yarışları: par süreleri ve 14 lokasyon",
+      "summary": "14 lokasyonda üçer, toplam 42 drone zaman yarışı var. Her lokasyonda ilk ikisinde par süresini geçince üçüncü açılıyor; %100 için 28 yarışta par'ı geçmelisiniz. Her lokasyonda bir yarış kazanmak 'Top Fun' kupasını veriyor.",
+      "body": [
+        "Başladığı yer: 14 locations incl. Hamlet, Watson Bay, Downtown, Dalton Island, Port Gellhorn.",
+        "Her yarış yaklaşık 100 metre yakında mavi ikonla çıkıyor. Takip: Map > Activities > Top Fun Drones ya da Progress > Activities > Top Fun Drones.",
+        "Her lokasyondaki ilk iki yarışta par süresini geçmelisiniz; üçüncüde par şartı yok, bitirmeniz yeterli.",
+        "Örnek par süreleri: Hamlet'te Deep Roots 1:31, Power Station South 1:26; Watson Bay'de Leonida RC Raceway 1:27, Watson Bay 1:34; Downtown'da Future Leonida Art Museum 1:47, Shoreline Market 2:01.",
+        "Diğer lokasyonlar: Capri, Buckskin Swamp, Balsero, Dalton Island, Vice Beach, Waning Sands, Ambrosia, Port Gellhorn, Draper Island, Moreau Sawmill ve Millport.",
+        "Taksi çağırarak lokasyonlara hızlı seyahat edebilirsiniz; Dalton Island'a ise tekne ya da hava aracı gerekiyor.",
+        "İpucu: sol çubuğu tüm yarış boyunca ileri tutup maksimum hızı koruyun ve nesnelere çarpmaktan kaçının, çarpmalar süre kaybettiriyor."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-755f3b40",
+        "g-powerpyx-com-fb817dad"
+      ],
+      "category": "Görevler ve Yan Görevler › Aktivite görevleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Top Fun Drone Time Trials"
+    },
+    {
+      "id": "gorev-golf-and-mini-golf",
+      "title": "GTA 6 golf ve mini golf nerede oynanır? 5 saha ve %100 şartı",
+      "summary": "Üç mini golf sahası (King Gator, Frontier, Dino Golf) ve iki normal saha (Leaf Links, Mount Hailes) var. %100 tamamlama için en az iki mini golf sahası oynanmalı; normal sahalar sayılmıyor. Skorlar Progress > Activities > Sports'ta tutuluyor.",
+      "body": [
+        "Başladığı yer: Buckskin Swamp, Waning Sands, Frogswater, Vice Beach.",
+        "Mini golf: King Gator Adventure Golf (Vice-Dale County, Buckskin Swamp), Frontier Adventure Golf (Leonard County, Waning Sands) ve Dino Golf Challenge (Kelly County, Frogswater).",
+        "Normal golf: Leaf Links Golf Challenge (Vice Beach) ve Mount Hailes Golf Challenge (Leonard County, Waning Sands, Mount Hailes Club).",
+        "%100 listesi için üç mini golf sahasından en az ikisini tamamlamanız gerekiyor; iki büyük saha sayılmıyor.",
+        "Oynanan sahaları ve en iyi skorları Progress > Activities > Sports altında görebilirsiniz.",
+        "'Master of None' kupası için golf de dokuz aktivite türünden biri; hepsini en az bir kez denemelisiniz.",
+        "Kaynak ücretler ve ödülleri açıklamıyor."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-627c09",
+        "g-powerpyx-com-fb817dad"
+      ],
+      "category": "Görevler ve Yan Görevler › Aktivite görevleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Golf and Mini Golf"
+    },
+    {
+      "id": "gorev-stunt-jumps-under-the-bridges-knife-flights-base-jumps",
+      "title": "GTA 6 stunt jump rehberi: 397 stunt, Cunning Stunts kupası nasıl alınır?",
+      "summary": "Toplam 397 stunt var: 130 Stunt Jump, 202 Under the Bridges, 40 Knife Flight ve 25 Base Jump. Kupa için 250, %100 için 300 stunt gerekiyor. Under the Bridges en hızlısı; checklist için sadece atlayışı yapmanız yeterli.",
+      "body": [
+        "Başladığı yer: All counties.",
+        "Dağılım: 130 Stunt Jump, 202 Under the Bridges, 40 Knife Flights, 25 Base Jumps. Herhangi bir karışımla 250'ye ulaşınca 'Cunning Stunts' kupası, 300'e ulaşınca %100 şartı sağlanıyor.",
+        "Her atlayışın küçük bir mini hedefi var ama checklist için sadece atlayışı yapmanız yeterli.",
+        "PowerPyx'e göre en hızlı tür Under the Bridges; 97 stunt fazlalık olduğu için en zorlarını atlayabilirsiniz.",
+        "İlerlemeyi Progress > Activities > Stunts altında (Stunt Jumps üzerinde R3) ya da haritada Exploration > Stunt Spots > Stunt Jumps filtresiyle görün.",
+        "Bölgelere göre liste (yayınlandığı sırada tamamlanmamış): Mariana County 7/17, Vice-Dale County 7/55, Leonard County 3/13, Kelly County 6/29, Lummox County 1/16."
+      ],
+      "sourceIds": [
+        "kaynak-powerpyx-com-96e5c9",
+        "g-powerpyx-com-fb817dad"
+      ],
+      "category": "Görevler ve Yan Görevler › Aktivite görevleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Stunt Jumps, Under the Bridges, Knife Flights, Base Jumps"
+    },
+    {
+      "id": "gorev-shooting-range-challenges",
+      "title": "GTA 6 atış poligonu altın madalyaları: Griffin ve Rodgers Ranch ipuçları",
+      "summary": "İki poligonda 12 meydan okuma ve 42 altın madalya var; Griffin Shooting Range ve Rodgers Ranch'te 5 dolarlık waiver geçişi alınca meydan okumalar haritada işaretleniyor. Hepsini altınla bitirmek 'The Shootist' kupasını ve %100'ü sağlıyor.",
+      "body": [
+        "Başladığı yer: Griffin Shooting Range (NW Vice City), Rodgers Ranch (NE Port Gellhorn).",
+        "Her poligonun dükkânında tezgâhtarla konuşup 5 dolarlık Waiver Pass alın; meydan okumalar haritada işaretleniyor. Kendi silahınız yoksa 10 dolara kiralayabilirsiniz, PowerPyx kiralıkların altın için yettiğini yazıyor.",
+        "Her meydan okumada Beginner, Intermediate ve Advanced/Master zorlukları ile bronz, gümüş ve altın madalya var. Bir meydan okumayı bitirmek ya da bırakmak kalıcı olarak Focus'u artırıyor.",
+        "Griffin Shooting Range (kuzeybatı Vice City): 3-Point, Hook, Loop, Maze, Compound, Villa. Lucia ile oynamak daha hızlı. Tam isabet sadece 1 saniye kazandırıyor, hızlı vurmak çoğu zaman daha iyi. Hook ve Loop'ta küçük dönen kırmızı hedefler için slow motion kullanın.",
+        "Rodgers Ranch (Port Gellhorn kuzeydoğu): Market, Zombie, Hunting, Saloon, Cops & Robbers, Alien. Puanlama çarpana bağlı: baş atışından önce vücuda bir iki isabet kaydedin, ıskalamaktan kaçının.",
+        "Zombie'de vücut atışları çarpanı daha hızlı artırıyor; Hunting'de küçük hayvanlara kafa, ayılara 3-4 gövde atışı sonra zayıf nokta; Cops & Robbers'ta hepsi keskin nişancı tüfeğiyle ve Advanced'de polise vurmamalısınız.",
+        "Kaynağın poligon başına madalya sayıları kendi içinde tutarsız; toplam 42 altın doğru görünüyor."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-2c47c69d",
+        "g-powerpyx-com-fb817dad"
+      ],
+      "category": "Görevler ve Yan Görevler › Aktivite görevleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Shooting Range Challenges"
+    },
+    {
+      "id": "gorev-challenges-80-across-8-categories",
+      "title": "GTA 6 meydan okumalar (Challenges) listesi: 80 challenge ve One Last Thing kupası",
+      "summary": "Combat, Criminal, Exploration, Fitness, Shopping, Sports, Survival ve Vehicle olmak üzere sekiz kategoride toplam 80 meydan okuma var ve hepsi oyunun başından açık. 50'si 'One Last Thing' kupasını, 70'i %100'ü sağlıyor.",
+      "body": [
+        "Sekiz kategori: Combat, Criminal, Exploration, Fitness, Shopping, Sports, Survival ve Vehicle; her birinde 10 meydan okuma.",
+        "İlerleme Progress > Challenges menüsünde; tamamlananların sağ alt köşesinde onay işareti çıkar.",
+        "Herhangi 50 tamamlayınca 'One Last Thing' kupası, 70 tamamlayınca %100 şartı sağlanıyor. Yani 10 tanesini atlayabilirsiniz.",
+        "Örnekler: Combat'ta hızlı öldürmeler, patlayıcı ve yangınla öldürmeler, kafadan vuruşlar; Exploration'da WAiNK taramaları, kart koleksiyonu ve sualtı keşifleri; Survival'da avcılık, balıkçılık ve poligon madalyaları; Vehicle'da wheelie, yüksek hız ve atlayışlar.",
+        "Çoğu, kupa ve %100 peşinde koşarken kendiliğinden tamamlanıyor. Bazılarında 'ölmeden' ya da 'araçtan inmeden' gibi katı şartlar ve günlük/zamanlı koşullar var; başarısız olursanız yeniden denersiniz.",
+        "PowerPyx kaçırılabilir challenge belirtmiyor; hepsi baştan açık."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-85c42b33"
+      ],
+      "category": "Görevler ve Yan Görevler › Aktivite görevleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Challenges (80 across 8 categories)"
+    },
+    {
+      "id": "gorev-kenton-s-treasure-diving-shipwrecks",
+      "title": "GTA 6 Kenton hazine dalışı: metal dedektörle batık hazineleri nasıl bulunur?",
+      "summary": "Key Lento'daki Island Dreams dükkânında Kenton Rees'le başlayan zincirde metal dedektörle batıklardaki sandıkları buluyorsunuz. Toplam 7 batık temizleyince 'This Was No Boat Accident' kupası geliyor; %100 için 5/7 yeterli.",
+      "body": [
+        "Görevi veren: Kenton Rees · Başladığı yer: Key Lento, Mariana County.",
+        "Başlangıç: Chapter 1'de 'Hey Arnold! (Meet Brian)' sonrası, Mariana County'deki Key Lento'da Island Dreams dükkânında Kenton Rees ile konuşun (haritada yeşil 'KR' ikonu).",
+        "İlk dalış hikâye görevi 'Island Dreams (Work for Kenton)': tekneyle işaretli noktaya gidip teknenin arkasında dalış kıyafetini giyin. Dalışta R1/RB tutarak dalın, X ile yüzeye çıkın.",
+        "Silah çarkının sağ alt yuvasından metal dedektörü seçip L2/LT ile nişan alın; pembe alanın içinde ışık kırmızıdan yeşile dönene kadar arayın, deniz tabanında altın sandık ikonu çıkınca açın. İlk batıkta üç hazine var.",
+        "Sonrasında Kenton batık hazine görevleri veriyor ve mor sandık ikonlarıyla işaretliyor. Toplamda 7 batık temizlemeniz gerek.",
+        "Kenton Chapter 1'den sonra bir süre ulaşılmaz, Chapter 2-3'te dönüyor; Jason ile Chapter 2'de Brian'ı arayarak süreci hızlandırabilirsiniz.",
+        "İlerleme Progress > Characters > Kenton Rees ya da Progress > Collections > Kenton's Treasures altında. %100 listesi 7 batıktan 5'ini ve 33 su altı keşfini istiyor."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-fb817dad",
+        "g-powerpyx-com-38c24320",
+        "kaynak-powerpyx-com-63fd47"
+      ],
+      "category": "Görevler ve Yan Görevler › Aktivite görevleri",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Kenton's Treasure Diving (shipwrecks)"
+    },
+    {
+      "id": "gorev-attend-eddie-acosta-s-party",
+      "title": "GTA 6 Eddie Acosta'nın partisi: Heathcliff Heights'ta 50.000 dolarlık NFT tuzağı",
+      "summary": "Chapter 4'te 'Pool Day' sonrası Eddie davet mesajı atıyor. Ocean Beach'teki Y Hotel'e tek başınıza gidin; Eddie tavanda sizden 50.000 dolarlık değersiz bir NFT istiyor. Reddetmek ödül kazandırmıyor ama para da kaybettirmiyor.",
+      "body": [
+        "Görevi veren: Eddie Acosta · Başladığı yer: Y Hotel, Ocean Beach / Heathcliff Heights, Vice City.",
+        "Tetikleme: Chapter 4 ana görevi 'Pool Day'de Eddie barda yanınıza geliyor, birkaç gün sonra davet mesajı atıyor. Lucia ya da Jason ile, ama partnersiz gidilmeli.",
+        "Konum: Görev Ocean Beach'teki Y Hotel'de başlıyor; parti Vice City ortasındaki Heathcliff Heights'ta.",
+        "Lobiye girince Eddie otomatik aranıyor. Asansörde onu dinleyin; çatıda sizi kilitliyor ve değersiz bir NFT için 50.000 dolar istiyor.",
+        "Ödeyebilir, reddedebilir ya da ateş açabilirsiniz. Kapı kurşun geçirmez olduğu için Eddie ölmüyor.",
+        "Reddederseniz motora binip güneş panellerinin üzerinden tam hızla atlayın, diğer çatıdaki asansöre ulaşın. Ateş etmediyseniz Eddie orada sizinle konuşuyor.",
+        "Lobide Eddie'yi sindirebilirsiniz, kapıdan kaçıyor ve kovalayabilirsiniz. PowerPyx reddetmeyi öneriyor: ödeme 50.000 dolara mal olurken reddetmek ödül kazandırmıyor.",
+        "Eddie'nin tek görevi var, o yüzden Strangers & Freaks kupası için sayılmıyor."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-8a15ae3c"
+      ],
+      "category": "Görevler ve Yan Görevler › Strangers & Freaks",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "minor",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Attend Eddie Acosta's Party"
+    },
+    {
+      "id": "gorev-get-shirley-s-rum",
+      "title": "GTA 6 Shirley'nin romu görevi kaçırılır mı? Key Lento'da Three Sheets Liquor",
+      "summary": "Chapter 1'de Key Lento'da Shirley sizi çağırıyor; Three Sheets Liquor'dan rom alıp ona getirmeniz yeterli. Görev 'Tourist Trap' ana görevi başlayınca kalıcı olarak kayboluyor, o yüzden Chapter 1'de yapın.",
+      "body": [
+        "Görevi veren: Shirley · Başladığı yer: Key Lento, Mariana County.",
+        "Tetikleme: Jason ile 'Pipework (Collect Mandy's Rent)' açıldıktan sonra Key Lento'da Shirley yakınından geçerken sesleniyor. Önkoşul olarak Gear Up, Lab Fees, Just a Scratch ve Unwanted Attention tamamlanmış olmalı.",
+        "Shirley ile konuşup romu getirmeyi kabul edin, güneydeki Three Sheets Liquor'a gidin.",
+        "Tezgâhtara bakıp (L2/LT) X/A ile romu isteyin, sonra Shirley'ye dönüp teslim edin.",
+        "İpucu: dükkânda tezgâhtara arkadan gelen kuş seslerini sorarsanız 'Illegal Operation Exotic Animals Front' işaretleniyor.",
+        "Ödül: Focus artışı ve Professional Criminal rating artışı.",
+        "Kaçırılabilir: 'Tourist Trap (Take Up Mattia's Offer)' ana görevini başlatınca kayboluyor; kupa ve %100 için gerekli değil."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-0a6a22ac"
+      ],
+      "category": "Görevler ve Yan Görevler › Strangers & Freaks",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Get Shirley's Rum"
+    },
+    {
+      "id": "gorev-steal-the-scooter",
+      "title": "GTA 6 'Steal the Scooter' görevi: Peggy'nin scooter'ı nasıl çalınır?",
+      "summary": "'Get Shirley's Rum' bittikten yaklaşık bir gün sonra Shirley komşusu Peggy'nin scooter'ını çalmanızı istiyor. Sudan yüzüp ya da yoldan dolaşıp evin arkasına gidin, scooter'ı Shirley'nin verandasından eve sürün. Sadece Chapter 1'de yapılabiliyor.",
+      "body": [
+        "Görevi veren: Shirley · Başladığı yer: Key Lento, Mariana County.",
+        "Tetikleme: 'Get Shirley's Rum' tamamlandıktan yaklaşık bir gün sonra Shirley arıyor. Jason ile Key Lento'da başlıyor.",
+        "Shirley'nin evinin arkasında, suyun karşısındaki komşunun evine yüzerek ya da yoldan sürerek gidin.",
+        "Peggy'nin scooter'ı garaj yolunda, merdivenin yanında duruyor. Peggy bağırıyor; yalan söyleyebilir ya da aldırmayıp atlayabilirsiniz. PowerPyx'e göre Peggy'nin gözleri kötü, Jason'ı tanımıyor.",
+        "Scooter'la yolu izleyerek Shirley'ye dönün; Peggy kovalıyor ama yarı yolda düşüyor.",
+        "Scooter'ı veranda kapısından Shirley'nin evine sürüp park edin.",
+        "Ödül yok. Kaçırılabilir: Chapter 2'ye geçince ve 'Tourist Trap' başlayınca kalıcı olarak kayboluyor, kupa ve %100 için gerekmiyor."
+      ],
+      "sourceIds": [
+        "g-powerpyx-com-2b31c3c3"
+      ],
+      "category": "Görevler ve Yan Görevler › Strangers & Freaks",
+      "kind": "community",
+      "platforms": [
+        "PS5",
+        "Xbox Series"
+      ],
+      "spoiler": "none",
+      "checkedAt": "2026-11-20T02:36:08.766Z",
+      "mission": "Steal the Scooter"
     }
   ],
   "map": {
