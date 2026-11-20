@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 155,
-  "publishedAt": "2026-11-20T03:34:49.298Z",
+  "revision": 156,
+  "publishedAt": "2026-11-20T03:54:54.709Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -29203,6 +29203,29 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T03:15:17Z",
       "checkedAt": "2026-11-20T03:34:49.298Z"
+    },
+    {
+      "id": "web-rockstar-sendika-oylamasi",
+      "url": "https://novaramedia.com/2026/11/17/the-workers-who-made-gta-6-are-voting-on-whether-to-form-a-union/",
+      "author": "Novara Media",
+      "network": "web",
+      "title": "Rockstar çalışanları sendika için oy veriyor; “grev başladı” iddiası doğru değil",
+      "summary": "Rockstar’ın İngiltere’deki yaklaşık 1.600 çalışanı, IWGB destekli Rockstar Game Workers Union’ın tanınması için 12–26 Kasım arasında oy kullanıyor. Sosyal medyada çalışanların greve çıktığı iddia ediliyor, ancak şu an başlamış bir grev yok. Çalışanlar, sendika tanınmazsa grev olabileceğini söylemişti; Rockstar ise suçlamaları reddediyor.",
+      "category": "Haber",
+      "tags": [
+        "Rockstar",
+        "sendika",
+        "union",
+        "IWGB",
+        "grev",
+        "strike",
+        "çalışanlar",
+        "workers",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T03:30:00Z",
+      "checkedAt": "2026-11-20T03:54:54.709Z"
     }
   ]
 }
