@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 156,
-  "publishedAt": "2026-11-20T03:54:54.709Z",
+  "revision": 157,
+  "publishedAt": "2026-11-20T06:04:37.446Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -29226,6 +29226,116 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T03:30:00Z",
       "checkedAt": "2026-11-20T03:54:54.709Z"
+    },
+    {
+      "id": "x-ghbsmith-zirhli-arac-bankaya-takip",
+      "url": "https://x.com/GHBSmith/status/2123630163842015282",
+      "author": "@GHBSmith",
+      "network": "x",
+      "title": "İpucu: Vice City’de Odak çizgilerini takip et, zırhlı araca ulaş; bankaya kadar izlersen daha büyük vurgun (iddia)",
+      "summary": "Bir oyuncuya göre Vice City’de gezerken bazen görünen Odak (Focus) çizgileri seni bir zırhlı araca götürüyor; kapılarını patlatırsan yaklaşık 5.000 dolar çıkıyor. Aracı bekleyip bankaya kadar takip edersen 100.000 dolara varan bir fırsat doğduğu iddia ediliyor; bu kısım doğrulanmadı.",
+      "category": "İpucu",
+      "tags": [
+        "zırhlı araç",
+        "armored car",
+        "Odak",
+        "Focus",
+        "banka",
+        "bank",
+        "para",
+        "money",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T04:11:00Z",
+      "checkedAt": "2026-11-20T06:04:37.446Z"
+    },
+    {
+      "id": "x-zephryss-south-vice-dale-depo",
+      "url": "https://x.com/TheRealZephryss/status/2123626652945244421",
+      "author": "@TheRealZephryss",
+      "network": "x",
+      "title": "Erken para: South Vice-Dale deposunda 13.000 dolarlık ganimet ve 6.000 dolarlık Leroy Rook Gold kartı",
+      "summary": "Bir oyuncu, erken oyunda en iyi ganimet noktalarından birinin South Vice-Dale’deki depo olduğunu yazdı: yaklaşık 13.000 dolar değerinde nakit, yasa dışı mal ve silah, ayrıca 6.000 dolara satılabilen nadir Leroy Rook Gold koleksiyon kartı. Topluluk bilgisi, doğrulanmadı.",
+      "category": "İpucu",
+      "tags": [
+        "para",
+        "money",
+        "erken oyun",
+        "early game",
+        "depo",
+        "warehouse",
+        "Vice-Dale",
+        "Leroy Rook",
+        "koleksiyon kartı",
+        "collectible card"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T03:57:03Z",
+      "checkedAt": "2026-11-20T06:04:37.446Z"
+    },
+    {
+      "id": "x-gtaseries-gorev-14-down-to-earth",
+      "url": "https://x.com/GTASeries/status/2123622625209696546",
+      "author": "@GTASeries",
+      "network": "x",
+      "title": "Video: 14. görev “Down to Earth” (Bölüm 1) baştan sona oynanış",
+      "summary": "GTA Series Videos, ana hikâyenin 14. görevi Down to Earth’ün PS5’te 4K tam oynanışını yayınladı. Görevin Türkçe adım adım anlatımı getea Görevler bölümünde.",
+      "category": "Görev",
+      "tags": [
+        "Down to Earth",
+        "görev 14",
+        "mission 14",
+        "Bölüm 1",
+        "Chapter 1",
+        "walkthrough",
+        "oynanış",
+        "video"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-20T03:41:03Z",
+      "checkedAt": "2026-11-20T06:04:37.446Z"
+    },
+    {
+      "id": "x-barzfanback-cardi-b-dont-chart",
+      "url": "https://x.com/barzfanback/status/2123628040861458713",
+      "author": "@barzfanback",
+      "network": "x",
+      "title": "Cardi B’nin GTA 6 şarkısı “Don’t Chart” Urban Radio’da 1 numara",
+      "summary": "Cardi B’nin GTA VI albümündeki “Don’t Chart” şarkısının ABD’de Urban Radio listesinde zirveye çıktığı paylaşıldı.",
+      "category": "Radyo",
+      "tags": [
+        "Cardi B",
+        "Don’t Chart",
+        "şarkı",
+        "song",
+        "radyo listesi",
+        "chart",
+        "GTA 6 The Album"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T04:02:34Z",
+      "checkedAt": "2026-11-20T06:04:37.446Z"
+    },
+    {
+      "id": "x-bpthaber-niko-bellic-iddia",
+      "url": "https://x.com/bpthaber/status/2123652161729106190",
+      "author": "@bpthaber",
+      "network": "x",
+      "title": "İddia: GTA 4’ün Niko Bellic’i GTA 6’da yer alıyor",
+      "summary": "BPT, GTA IV’ün ana karakteri Niko Bellic’in GTA 6’da göründüğünü paylaştı; Türk oyuncular da karşılaşma anını paylaşıyor. Rockstar’dan bir açıklama yok ve rehber sitelerinde henüz doğrulanmadı.",
+      "category": "Easter Egg",
+      "tags": [
+        "Niko Bellic",
+        "GTA 4",
+        "GTA IV",
+        "cameo",
+        "karşılaşma",
+        "iddia"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-20T05:38:25Z",
+      "checkedAt": "2026-11-20T06:04:37.446Z"
     }
   ]
 }
