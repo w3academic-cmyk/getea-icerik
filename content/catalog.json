@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 196,
-  "publishedAt": "2026-11-21T01:35:09.521Z",
+  "revision": 197,
+  "publishedAt": "2026-11-21T01:35:26.556Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -31874,27 +31874,6 @@
       ],
       "spoiler": "none",
       "postedAt": "2026-11-21T00:59:00Z",
-      "checkedAt": "2026-11-21T01:35:09.521Z"
-    },
-    {
-      "id": "x-fearedbuck-carti-ahh-yeah",
-      "url": "https://x.com/FearedBuck/status/2123949865462125005",
-      "author": "@FearedBuck",
-      "network": "x",
-      "title": "Playboi Carti’nin “AHH YEAH” şarkısı GTA 6 müziklerinde",
-      "summary": "Playboi Carti’nin “AHH YEAH” şarkısı GTA 6’nın müzikleri arasında; GTA V’in Franklin’ini seslendiren Shawn Fonteno da şarkıya eşlik ettiği bir video paylaştı.",
-      "category": "Radyo",
-      "tags": [
-        "Playboi Carti",
-        "AHH YEAH",
-        "radyo",
-        "radio",
-        "soundtrack",
-        "Franklin",
-        "Shawn Fonteno"
-      ],
-      "spoiler": "none",
-      "postedAt": "2026-11-21T01:21:23Z",
       "checkedAt": "2026-11-21T01:35:09.521Z"
     }
   ]
