@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 255,
-  "publishedAt": "2026-11-21T17:54:50.064Z",
+  "revision": 257,
+  "publishedAt": "2026-11-21T18:14:51.311Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -33289,8 +33289,8 @@
       "url": "https://x.com/SicklyTheNinJa/status/2124169716734320804",
       "author": "@SicklyTheNinJa",
       "network": "x",
-      "title": "Vice City’ye taşınır taşınmaz bedava pembe spor araba ve ek garaj: Auntie’s’in arkasındaki garaj, kapı şifresi 92665",
-      "summary": "Vice City’deki dairede başlayan ipucu zinciri: koridordaki köpek fotoğrafını alın, yatak odasındaki çizimi alıp çevirin, dizüstü bilgisayara “MUFFINSQUEEN15” şifresini girin ve “Unknown”dan gelen e-postaya bakın. E-posta sizi “Auntie’s” dükkânının arkasındaki garaja yönlendiriyor; garaj kapısının şifresi 92665. İçerideki pembe spor araba ve garaj sizin oluyor. Adımları atlayıp doğrudan şifreyle de girebilirsiniz. Topluluk bilgisi, doğrulanmadı.",
+      "title": "Kaçırılabilir: Bölüm 3’teki yeni evde bedava pembe spor araba ve ek garaj (Auntie’s’in arkasındaki garaj, şifre 92665)",
+      "summary": "Bölüm 3’te Jason ve Lucia kendi evlerine taşındığında başlayan gizli bulmaca: koridordaki köpek fotoğrafını alın, yatak odasındaki çizimi alıp çevirin, dizüstü bilgisayara “MUFFINSQUEEN15” şifresini girin ve “Unknown”dan gelen e-postaya bakın. E-posta sizi “Auntie’s” dükkânının arkasındaki garaja yönlendiriyor; garaj kapısının şifresi 92665. İçerideki pembe spor araba ve garaj sizin oluyor. Adımları atlayıp doğrudan şifreyle de girebilirsiniz. Topluluk bilgisi, doğrulanmadı. @GHBSmith’e göre Bölüm 3’ü bitirmeden yapmazsanız araba ve garaj kalıcı olarak kaçıyor.",
       "category": "Gizli",
       "tags": [
         "pembe spor araba",
@@ -33307,7 +33307,7 @@
       ],
       "spoiler": "minor",
       "postedAt": "2026-11-21T15:55:00Z",
-      "checkedAt": "2026-11-21T16:55:10.661Z"
+      "checkedAt": "2026-11-21T18:14:40.764Z"
     },
     {
       "id": "x-discussingfilm-vermin-vigilante",
@@ -33466,6 +33466,28 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T17:17:54Z",
       "checkedAt": "2026-11-21T17:34:59.722Z"
+    },
+    {
+      "id": "x-gtawiki-emotion-983-sarki-listesi",
+      "url": "https://x.com/GTAWikiOfficial/status/2124197582234874021",
+      "author": "@GTAWikiOfficial",
+      "network": "x",
+      "title": "Emotion 98.3 radyosunun tam şarkı listesi yayımlandı: toplam 35 şarkı",
+      "summary": "GTA Wiki, GTA 6’daki Emotion 98.3 radyo istasyonunun tam şarkı listesini paylaştı. İstasyonda toplam 35 şarkı bulunuyor; liste paylaşımdaki görsellerde.",
+      "category": "Radyo",
+      "tags": [
+        "Emotion 98.3",
+        "radyo",
+        "radio",
+        "şarkı listesi",
+        "tracklist",
+        "35 şarkı",
+        "GTA Wiki",
+        "soundtrack"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T17:45:43Z",
+      "checkedAt": "2026-11-21T18:14:51.311Z"
     }
   ]
 }
