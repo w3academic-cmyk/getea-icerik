@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 206,
-  "publishedAt": "2026-11-21T04:55:17.888Z",
+  "revision": 207,
+  "publishedAt": "2026-11-21T05:14:51.786Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32253,6 +32253,27 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T04:42:42Z",
       "checkedAt": "2026-11-21T04:55:17.888Z"
+    },
+    {
+      "id": "x-ilysalt-pop-smoke-dior",
+      "url": "https://x.com/ilySalt/status/2124002535916835274",
+      "author": "@ilySalt",
+      "network": "x",
+      "title": "Pop Smoke’un “Dior” şarkısı GTA 6 radyosunda",
+      "summary": "Merhum rapçi Pop Smoke’un “Dior” şarkısı GTA 6’nın radyosunda çalıyor; şarkıyı ilk kez oyunda duyan yayıncıların tepkileri viral oldu.",
+      "category": "Radyo",
+      "tags": [
+        "Pop Smoke",
+        "Dior",
+        "rap",
+        "radyo",
+        "radio",
+        "şarkı",
+        "song"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T04:50:41Z",
+      "checkedAt": "2026-11-21T05:14:51.786Z"
     }
   ]
 }
