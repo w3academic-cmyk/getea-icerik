@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 203,
-  "publishedAt": "2026-11-21T03:55:02.649Z",
+  "revision": 204,
+  "publishedAt": "2026-11-21T04:15:04.049Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32093,6 +32093,30 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T03:22:40Z",
       "checkedAt": "2026-11-21T03:55:02.649Z"
+    },
+    {
+      "id": "x-ghbsmith-donnie-fotograf-sbw-zula",
+      "url": "https://x.com/GHBSmith/status/2123983435853136217",
+      "author": "@GHBSmith",
+      "network": "x",
+      "title": "Gizli zula: Donnie’nin evindeki fotoğrafın arkasındaki ipucu Mile Zero Air Station’daki hangara götürüyor",
+      "summary": "Bölüm 1’de Donnie’nin evindeki fotoğrafın arkasında bir ipucu var. İpucu, The Keys’in batısındaki Mile Zero Air Station’da, hikâyede Donnie ile buluştuğun hangardaki SBW zulasını işaret ediyor. Zula hangarın arka tarafında: merdivenden çık, kutulara tırman ve kenara geç.",
+      "category": "Gizli",
+      "tags": [
+        "zula",
+        "stash",
+        "SBW",
+        "Donnie",
+        "fotoğraf",
+        "ipucu",
+        "clue",
+        "Mile Zero Air Station",
+        "hangar",
+        "Bölüm 1"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-21T03:34:47Z",
+      "checkedAt": "2026-11-21T04:15:04.049Z"
     }
   ]
 }
