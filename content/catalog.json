@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 248,
-  "publishedAt": "2026-11-21T16:34:57.727Z",
+  "revision": 250,
+  "publishedAt": "2026-11-21T16:55:10.661Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -31387,7 +31387,7 @@
       "author": "@nekaishi",
       "network": "x",
       "title": "Tartışma: Metacritic kullanıcı puanı 4’lerde, eleştirmen puanı 99",
-      "summary": "Paylaşımlara göre GTA 6’nın Metacritic kullanıcı puanı açıldıktan sonra 4,x seviyesinde (“Genel olarak olumsuz”) seyrediyor; eleştirmen puanı ise 99. En sık şikâyetler 30 FPS kilidi ve oynanış temposu. PlayStation Store’daki puan ise 120 binden fazla oyla 4,86/5. Puanın düşük olmasının bir sebebi “review bombing”: kullanıcılar kadın başkarakterden, romantik odaktan, finallerden ve “GTA ruhunun kaybolmasından” şikâyet ediyor. 21 Kasım itibarıyla kullanıcı puanı 34.965 oyla 5,5’e yükseldi; 152 basın kuruluşunun ortalaması 99.",
+      "summary": "Paylaşımlara göre GTA 6’nın Metacritic kullanıcı puanı açıldıktan sonra 4,x seviyesinde (“Genel olarak olumsuz”) seyrediyor; eleştirmen puanı ise 99. En sık şikâyetler 30 FPS kilidi ve oynanış temposu. PlayStation Store’daki puan ise 120 binden fazla oyla 4,86/5. Puanın düşük olmasının bir sebebi “review bombing”: kullanıcılar kadın başkarakterden, romantik odaktan, finallerden ve “GTA ruhunun kaybolmasından” şikâyet ediyor. 21 Kasım akşamı itibarıyla kullanıcı puanı 59.000’i aşkın değerlendirmeyle 5,6; eleştirmen ortalaması 99.",
       "category": "Haber",
       "tags": [
         "Metacritic",
@@ -31400,7 +31400,7 @@
       ],
       "spoiler": "none",
       "postedAt": "2026-11-20T20:47:03Z",
-      "checkedAt": "2026-11-21T08:34:42.899Z"
+      "checkedAt": "2026-11-21T16:55:10.597Z"
     },
     {
       "id": "x-gta6newshub-arac-sahiplenme-waink",
@@ -33283,6 +33283,98 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T16:00:02Z",
       "checkedAt": "2026-11-21T16:34:57.727Z"
+    },
+    {
+      "id": "x-sicklytheninja-pembe-spor-araba-92665",
+      "url": "https://x.com/SicklyTheNinJa/status/2124169716734320804",
+      "author": "@SicklyTheNinJa",
+      "network": "x",
+      "title": "Vice City’ye taşınır taşınmaz bedava pembe spor araba ve ek garaj: Auntie’s’in arkasındaki garaj, kapı şifresi 92665",
+      "summary": "Vice City’deki dairede başlayan ipucu zinciri: koridordaki köpek fotoğrafını alın, yatak odasındaki çizimi alıp çevirin, dizüstü bilgisayara “MUFFINSQUEEN15” şifresini girin ve “Unknown”dan gelen e-postaya bakın. E-posta sizi “Auntie’s” dükkânının arkasındaki garaja yönlendiriyor; garaj kapısının şifresi 92665. İçerideki pembe spor araba ve garaj sizin oluyor. Adımları atlayıp doğrudan şifreyle de girebilirsiniz. Topluluk bilgisi, doğrulanmadı.",
+      "category": "Gizli",
+      "tags": [
+        "pembe spor araba",
+        "pink sports car",
+        "bedava araba",
+        "free car",
+        "garaj",
+        "garage",
+        "92665",
+        "MUFFINSQUEEN15",
+        "Auntie’s",
+        "şifre",
+        "gizli"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-21T15:55:00Z",
+      "checkedAt": "2026-11-21T16:55:10.661Z"
+    },
+    {
+      "id": "x-discussingfilm-vermin-vigilante",
+      "url": "https://x.com/DiscussingFilm/status/2124180641017209257",
+      "author": "@DiscussingFilm",
+      "network": "x",
+      "title": "Oyundaki Batman parodisinin adı: “Vermin Vigilante”",
+      "summary": "Oyunda bulunan Batman parodisine yeni bir bakış paylaşıldı: karakterin adı “Vermin Vigilante” (Haşere Kanunsuzu). Daha önce bulunan Batman: The Animated Series göndermesiyle birlikte Rockstar’ın oyunda DC çizgi romanlarına birden fazla gönderme yaptığı görülüyor.",
+      "category": "Easter Egg",
+      "tags": [
+        "Batman",
+        "parodi",
+        "parody",
+        "Vermin Vigilante",
+        "DC",
+        "çizgi roman",
+        "easter egg",
+        "DiscussingFilm"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T16:38:24Z",
+      "checkedAt": "2026-11-21T16:55:10.661Z"
+    },
+    {
+      "id": "x-activewurld-mrbeast-tareq-44661",
+      "url": "https://x.com/Activewurld_/status/2124167105188655108",
+      "author": "@Activewurld_",
+      "network": "x",
+      "title": "MrBeast’in meydan okuması: Kameraman Tareq oyunda 1 saatte 44.661 $ çaldı, aynı parayı gerçekte annesine aldı",
+      "summary": "MrBeast, ekibinden kameraman Tareq’e bir saat içinde GTA 6’da çalabildiği kadar para çalma görevi verdi ve aynı miktarı gerçek parayla annesine vereceğine söz verdi. Tareq oyunda 44.661 $ çaldı ve bu miktarı gerçek para olarak kazandı.",
+      "category": "Topluluk",
+      "tags": [
+        "MrBeast",
+        "Tareq",
+        "meydan okuma",
+        "challenge",
+        "YouTube",
+        "para",
+        "money",
+        "soygun"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T15:44:37Z",
+      "checkedAt": "2026-11-21T16:55:10.661Z"
+    },
+    {
+      "id": "x-platcorn-deniz-aksoy-eray",
+      "url": "https://x.com/platcornweb/status/2124180283280793926",
+      "author": "@platcornweb",
+      "network": "x",
+      "title": "S Sport sunucusu Deniz Aksoy, Eray’ın GTA 6 maraton yayınına konuk oldu",
+      "summary": "Kick yayıncısı Eray Can Özkenar’ın GTA 6 maraton yayınına S Sport sunucusu Deniz Aksoy konuk oldu. Aksoy, Eray’dan oyunu oynamayı öğrenmeye başladı ve kendisine bir Lucia figürü hediye edildi.",
+      "category": "Türkçe",
+      "tags": [
+        "Eray",
+        "Eray Can Özkenar",
+        "Deniz Aksoy",
+        "S Sport",
+        "Kick",
+        "yayıncı",
+        "streamer",
+        "Türk yayıncı",
+        "Lucia figürü"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T16:36:59Z",
+      "checkedAt": "2026-11-21T16:55:10.661Z"
     }
   ]
 }
