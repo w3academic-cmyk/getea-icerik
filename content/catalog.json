@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 215,
-  "publishedAt": "2026-11-21T08:34:42.899Z",
+  "revision": 216,
+  "publishedAt": "2026-11-21T08:54:46.379Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32458,6 +32458,53 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T11:03:00Z",
       "checkedAt": "2026-11-21T08:14:46.267Z"
+    },
+    {
+      "id": "x-automaton-ingiltere-okul-devamsizlik",
+      "url": "https://x.com/AUTOMATONJapan/status/2124050366958592237",
+      "author": "@AUTOMATONJapan",
+      "network": "x",
+      "title": "İngiltere’de okullar, öğrenciler GTA 6 için okulu asmasın diye servis ve hediye çekilişi düzenliyor",
+      "summary": "AUTOMATON’un aktardığına göre İngiltere’deki bazı okullar, GTA 6’nın çıkışında öğrencilerin oyun oynamak için okula gelmemesini önlemek amacıyla öğrencileri minibüsle evden alıyor ve yaklaşık 14.000 yen (yaklaşık 70 sterlin) değerinde Amazon hediye kartı çekilişleri düzenliyor.",
+      "category": "Haber",
+      "tags": [
+        "İngiltere",
+        "UK",
+        "okul",
+        "school",
+        "devamsızlık",
+        "truancy",
+        "çekiliş",
+        "raffle",
+        "haber"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T11:51:00Z",
+      "checkedAt": "2026-11-21T08:54:46.379Z"
+    },
+    {
+      "id": "x-roundtable-gizli-araclar-haritasi",
+      "url": "https://x.com/RoundtableSpace/status/2124046403915690014",
+      "author": "@RoundtableSpace",
+      "network": "x",
+      "title": "Hayran yapımı infografik: Tüm gizli araçlar tek haritada (Infernus’tan P-996 Lazer’e)",
+      "summary": "Bir hayranın hazırladığı ve oyundaki gizli araçların yerini tek haritada gösteren infografik, kısa sürede 14 bini aşkın kez kaydedildi. Listede Infernus spor arabadan P-996 Lazer savaş uçağına kadar nadir araçlar var. Hayran yapımı olduğu için konumlar resmî olarak doğrulanmadı.",
+      "category": "Araç",
+      "tags": [
+        "gizli araçlar",
+        "hidden vehicles",
+        "nadir araç",
+        "rare car",
+        "Infernus",
+        "P-996 Lazer",
+        "savaş uçağı",
+        "harita",
+        "infografik",
+        "araç konumu"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T11:34:00Z",
+      "checkedAt": "2026-11-21T08:54:46.379Z"
     }
   ]
 }
