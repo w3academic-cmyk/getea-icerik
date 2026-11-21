@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 193,
-  "publishedAt": "2026-11-21T00:34:51.295Z",
+  "revision": 194,
+  "publishedAt": "2026-11-21T00:54:56.326Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -31787,6 +31787,51 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T23:34:24Z",
       "checkedAt": "2026-11-21T00:34:51.295Z"
+    },
+    {
+      "id": "x-ghbsmith-garaj-satislari",
+      "url": "https://x.com/GHBSmith/status/2123911515128602643",
+      "author": "@GHBSmith",
+      "network": "x",
+      "title": "İpucu: Yol kenarındaki “Yard Sale” tabelalarını takip et, ucuz kıyafet bul",
+      "summary": "Leonida’nın çeşitli yerlerinde garaj satışları (yard sale) var; yol kenarındaki tabelalar gerçekten bir satışa götürüyor. Burada çok ucuza ilginç kıyafetler bulunabiliyor.",
+      "category": "Kıyafet",
+      "tags": [
+        "yard sale",
+        "garaj satışı",
+        "kıyafet",
+        "clothing",
+        "ucuz",
+        "cheap",
+        "Leonida",
+        "ipucu"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T22:49:00Z",
+      "checkedAt": "2026-11-21T00:54:56.326Z"
+    },
+    {
+      "id": "x-jamiemoran-yanan-tekne-olayi",
+      "url": "https://x.com/JamieMoranUK/status/2123929550505865333",
+      "author": "@JamieMoranUK",
+      "network": "x",
+      "title": "Rastgele olay: Denizde yanan tekne, köpekbalığı ve satılacak kokain",
+      "summary": "Bir oyuncu görevine giderken denizde yanan bir tekne görüp yardıma gitti; hayatta kalan kişiyi bir köpekbalığı kaptı, enkazdan ise satılabilecek kokain topladı. Denizde de rastgele olaylar yaşanabiliyor.",
+      "category": "Easter Egg",
+      "tags": [
+        "rastgele olay",
+        "random event",
+        "yanan tekne",
+        "burning boat",
+        "köpekbalığı",
+        "shark",
+        "kokain",
+        "ganimet",
+        "deniz"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T00:00:40Z",
+      "checkedAt": "2026-11-21T00:54:56.326Z"
     }
   ]
 }
