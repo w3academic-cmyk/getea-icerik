@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 224,
-  "publishedAt": "2026-11-21T11:03:10.654Z",
+  "revision": 225,
+  "publishedAt": "2026-11-21T11:14:58.487Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32669,6 +32669,32 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T12:21:00Z",
       "checkedAt": "2026-11-21T10:55:09.014Z"
+    },
+    {
+      "id": "x-gta6tracker-10-baslangic-ipucu",
+      "url": "https://x.com/GTA6Tracker/status/2124080024039133591",
+      "author": "@GTA6Tracker",
+      "network": "x",
+      "title": "Yeni başlayanlara 10 ipucu: Hayvan sevmek Odak barını dolduruyor, yedek kıyafet sakla, nakit paranı koru",
+      "summary": "Leonida’daki ilk saatleri kolaylaştıran 10 ipucu: gizli iç mekânları keşfet, araçlarını tamir ettir, yedek kıyafetlerini sakla (aranırken kılık değiştirmek için), hayvanları severek Odak (Focus) barını artır, WAiNK ile araçları tara, yaban hayatını incele ve üzerindeki nakit parayı koru (öldüğünde ya da yakalandığında kaybetmemek için).",
+      "category": "İpucu",
+      "tags": [
+        "başlangıç ipuçları",
+        "beginner tips",
+        "Odak",
+        "Focus",
+        "hayvan sevmek",
+        "pet animals",
+        "kıyafet",
+        "outfits",
+        "WAiNK",
+        "araç tamiri",
+        "nakit",
+        "ipucu"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T12:31:00Z",
+      "checkedAt": "2026-11-21T11:14:58.487Z"
     }
   ]
 }
