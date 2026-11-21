@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 260,
-  "publishedAt": "2026-11-21T18:34:51.934Z",
+  "revision": 261,
+  "publishedAt": "2026-11-21T18:54:46.295Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -33532,6 +33532,30 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T18:04:53Z",
       "checkedAt": "2026-11-21T18:34:51.934Z"
+    },
+    {
+      "id": "x-gta6turkish-serbest-dolasimda-yagmur-yok",
+      "url": "https://x.com/GTA6_Turkish/status/2124207407958041077",
+      "author": "@GTA6_Turkish",
+      "network": "x",
+      "title": "Oyuncular soruyor: 20 saatten fazla oynamalarına rağmen serbest dolaşımda yağmur ve gök gürültüsü görmediler",
+      "summary": "Bazı oyuncular, 20 saati aşan oynanış sürelerine rağmen serbest dolaşımda bir kez bile yağmur ya da gök gürültülü fırtınayla karşılaşmadıklarını söylüyor. Yağmurun yalnızca belli görevlerde mi çıktığı yoksa nadir mi olduğu henüz netleşmedi.",
+      "category": "Topluluk",
+      "tags": [
+        "hava durumu",
+        "weather",
+        "yağmur",
+        "rain",
+        "fırtına",
+        "storm",
+        "gök gürültüsü",
+        "thunder",
+        "serbest dolaşım",
+        "free roam"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T18:24:46Z",
+      "checkedAt": "2026-11-21T18:54:46.295Z"
     }
   ]
 }
