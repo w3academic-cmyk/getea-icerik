@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 242,
-  "publishedAt": "2026-11-21T15:15:12.197Z",
+  "revision": 243,
+  "publishedAt": "2026-11-21T15:34:56.190Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -33144,6 +33144,29 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T15:03:00Z",
       "checkedAt": "2026-11-21T15:15:12.197Z"
+    },
+    {
+      "id": "x-discussingfilm-npc-oyunda-oldugunu-biliyor",
+      "url": "https://x.com/DiscussingFilm/status/2124161524629467553",
+      "author": "@DiscussingFilm",
+      "network": "x",
+      "title": "Easter egg: Bir video oyununda olduğuna inanan NPC; komplo panosunda GTA 6 hakkında gerçek bilgiler var",
+      "summary": "IGN’in bulduğu bir NPC, bir video oyununun içinde yaşadığına inanıyor. Evindeki komplo panosu GTA 6’nın gerçek dünyadaki ayrıntılarıyla dolu. Bu, oyuncuların “her şey bir simülasyon” diye konuştuğu gizemle ilgili olabilir.",
+      "category": "Easter Egg",
+      "tags": [
+        "easter egg",
+        "NPC",
+        "simülasyon",
+        "simulation",
+        "komplo panosu",
+        "conspiracy board",
+        "dördüncü duvar",
+        "fourth wall",
+        "IGN"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T15:22:27Z",
+      "checkedAt": "2026-11-21T15:34:56.190Z"
     }
   ]
 }
