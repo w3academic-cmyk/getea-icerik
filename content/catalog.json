@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 198,
-  "publishedAt": "2026-11-21T01:55:04.603Z",
+  "revision": 199,
+  "publishedAt": "2026-11-21T02:15:20.129Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -31917,6 +31917,29 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T23:38:40Z",
       "checkedAt": "2026-11-21T01:55:04.603Z"
+    },
+    {
+      "id": "x-yunusdemirbag-nino-v4-turkce",
+      "url": "https://x.com/Yunus_Demirbag/status/2123939443316760697",
+      "author": "@Yunus_Demirbag",
+      "network": "x",
+      "title": "Nino V4: GTA 6’nın telefon mesajlarını, görevlerini ve uygulamalarını Türkçeye çeviren araç",
+      "summary": "Türk geliştirici Yunus Demirbağ, GTA 6 için Nino adlı çeviri aracının 4. sürümünü yayınladı. Araç; oyundaki telefon mesajlarını, harita görevlerini ve banka, taksi, haber, spor gibi uygulamaları Türkçe gösteriyor, oyunun stiline uyan altyazı sunuyor ve PS5 ile Xbox’ı destekliyor. Üçüncü taraf, resmî olmayan bir araç; kullanım kendi sorumluluğunuzda.",
+      "category": "Türkçe",
+      "tags": [
+        "Nino",
+        "Türkçe çeviri",
+        "Turkish translation",
+        "Türkçe yama",
+        "altyazı",
+        "subtitles",
+        "PS5",
+        "Xbox",
+        "Türk geliştirici"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T00:39:58Z",
+      "checkedAt": "2026-11-21T02:15:20.129Z"
     }
   ]
 }
