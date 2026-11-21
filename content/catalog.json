@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 200,
-  "publishedAt": "2026-11-21T02:35:09.438Z",
+  "revision": 201,
+  "publishedAt": "2026-11-21T02:55:07.890Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -26200,7 +26200,7 @@
       "author": "@Andy_VGC (VGC)",
       "network": "x",
       "title": "2021'deki gizli ipucu doğru çıktı: o ev oyunda",
-      "summary": "Oyuncular, yıllardır konuşulan 'GTA 6 evi'ni oyunda buldu. Bu, oyunun ilk görüntüsünün aslında 2021'de bir easter egg içinde saklandığını gösteriyor olabilir. Haritalama topluluğuna göre ev Belville banliyösünde ve garajında bir komplo teorisyeninin saklandığı bir oda var.",
+      "summary": "Oyuncular, yıllardır konuşulan 'GTA 6 evi'ni oyunda buldu. Bu, oyunun ilk görüntüsünün aslında 2021'de bir easter egg içinde saklandığını gösteriyor olabilir. Haritalama topluluğuna göre ev Belville banliyösünde ve garajında bir komplo teorisyeninin saklandığı bir oda var. IGN, aynı evin içinde komik bir sır daha saklandığını gösterdi.",
       "category": "Easter Egg",
       "tags": [
         "easter egg",
@@ -31963,6 +31963,71 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T01:45:00Z",
       "checkedAt": "2026-11-21T02:35:09.438Z"
+    },
+    {
+      "id": "x-marionawfal-elma-aranma",
+      "url": "https://x.com/MarioNawfal/status/2123960633922048045",
+      "author": "@MarioNawfal",
+      "network": "x",
+      "title": "Garip hata: Burger, sosisli yemek sorun değil ama elma ısırınca iki yıldız aranma",
+      "summary": "Bir yayıncı GTA 6’da sosisli, burger ve sandviç yerken sorun yaşamadı; ancak bir elmayı ısırdığı anda iki yıldızlı aranma seviyesine düştü. Muhtemelen elmayı bir tezgâhtan çalmış sayılmasından kaynaklanan bir hata ya da mekanik; doğrulanmadı.",
+      "category": "Hata",
+      "tags": [
+        "elma",
+        "apple",
+        "aranma",
+        "wanted level",
+        "2 yıldız",
+        "hata",
+        "bug",
+        "yemek",
+        "hırsızlık"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T02:04:11Z",
+      "checkedAt": "2026-11-21T02:55:07.890Z"
+    },
+    {
+      "id": "x-scyan-kedili-ev",
+      "url": "https://x.com/ScyanYT/status/2123958620421234917",
+      "author": "@ScyanYT",
+      "network": "x",
+      "title": "Ürkütücü easter egg: Kedilerle dolu ev ve “kocam içeride kedileri besliyor” diyen kadın",
+      "summary": "Bir oyuncu, içi kedilerle dolu bir ev buldu. Kapıdaki kadın sürekli kocasının içeride kedileri beslediğini söylüyor; oyuncuya göre hikâyenin arkasında oldukça karanlık bir sır var. Yeri paylaşımda belirtilmedi.",
+      "category": "Gizli",
+      "tags": [
+        "kedili ev",
+        "cat house",
+        "ürkütücü",
+        "creepy",
+        "easter egg",
+        "gizem",
+        "kara mizah"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T01:56:11Z",
+      "checkedAt": "2026-11-21T02:55:07.890Z"
+    },
+    {
+      "id": "x-pltytus-okyanus-deniz-feneri",
+      "url": "https://x.com/PLTytus/status/2123954374011494616",
+      "author": "@PLTytus",
+      "network": "x",
+      "title": "Okyanusun ortasında yalnız bir deniz feneri bulundu",
+      "summary": "Bir oyuncu, Leonida açıklarında okyanusun ortasında tek başına duran bir deniz feneri buldu. Bir hikâyesi ya da gizli bir şey barındırıp barındırmadığı henüz bilinmiyor.",
+      "category": "Harita",
+      "tags": [
+        "deniz feneri",
+        "lighthouse",
+        "okyanus",
+        "ocean",
+        "keşif",
+        "exploration",
+        "gizem"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T01:39:18Z",
+      "checkedAt": "2026-11-21T02:55:07.890Z"
     }
   ]
 }
