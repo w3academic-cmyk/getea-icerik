@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 226,
-  "publishedAt": "2026-11-21T11:14:58.487Z",
+  "revision": 227,
+  "publishedAt": "2026-11-21T11:34:42.737Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32695,6 +32695,28 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T12:31:00Z",
       "checkedAt": "2026-11-21T11:14:58.487Z"
+    },
+    {
+      "id": "x-cerfia-huzurevi-emekliler",
+      "url": "https://x.com/CerfiaFR/status/2124098110024749423",
+      "author": "@CerfiaFR",
+      "network": "x",
+      "title": "Fransa’da bir huzurevindeki emekliler GTA 6 ile tanıştı ve karakterlere bağlandı",
+      "summary": "ICI Paris Île-de-France’ın haberine göre Seine-et-Marne’daki bir emekli yaşam merkezinde yaşlılar GTA 6 oynamaya başladı ve karakterlere şimdiden bağlandı. Bir sakin Lucia için “Zavallıcık, bir bebeği var, hapisten çıkması lazım” dedi.",
+      "category": "Haber",
+      "tags": [
+        "Fransa",
+        "France",
+        "huzurevi",
+        "emekliler",
+        "retirees",
+        "Lucia",
+        "ICI Paris",
+        "haber"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-21T13:00:00Z",
+      "checkedAt": "2026-11-21T11:34:42.737Z"
     }
   ]
 }
