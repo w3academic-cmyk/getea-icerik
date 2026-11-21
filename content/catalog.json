@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 204,
-  "publishedAt": "2026-11-21T04:15:04.049Z",
+  "revision": 205,
+  "publishedAt": "2026-11-21T04:34:57.424Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -31067,7 +31067,7 @@
       "author": "@Dexerto",
       "network": "x",
       "title": "Yan görev: Gotik kız Vicki’nin patronunu soymasına yardım et",
-      "summary": "Oyuncular Mandy’den sonra gotik karakter Vicki’ye ilgi gösteriyor: Vicki’nin patronunu soymasına yardım ettiğin bir görev var; görev bitince seni bir dansla ödüllendiriyor.",
+      "summary": "Oyuncular Mandy’den sonra gotik karakter Vicki’ye ilgi gösteriyor: Vicki’nin patronunu soymasına yardım ettiğin bir görev var; görev bitince seni bir dansla ödüllendiriyor. Bazı oyuncular ise görevi iki farklı şekilde bitirmelerine rağmen dans alamadığını söylüyor; ödül şarta bağlı olabilir.",
       "category": "Görev",
       "tags": [
         "Vicki",
@@ -32117,6 +32117,50 @@
       "spoiler": "minor",
       "postedAt": "2026-11-21T03:34:47Z",
       "checkedAt": "2026-11-21T04:15:04.049Z"
+    },
+    {
+      "id": "x-mislead-tuvalet-dayaniklilik",
+      "url": "https://x.com/mislead/status/2123990457608995022",
+      "author": "@mislead",
+      "network": "x",
+      "title": "İddia: Bir tuvalet easter egg’i kalıcı dayanıklılık (stamina) artışı veriyor",
+      "summary": "Bir içerik üreticisi, GTA 6’daki bir tuvalet easter egg’inin karaktere kalıcı dayanıklılık artışı verdiğini paylaştı. Yeri ve nasıl yapıldığı videoda; doğrulanmadı.",
+      "category": "Gizli",
+      "tags": [
+        "tuvalet",
+        "toilet",
+        "dayanıklılık",
+        "stamina",
+        "kalıcı stat",
+        "easter egg",
+        "karakter gelişimi",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T04:02:41Z",
+      "checkedAt": "2026-11-21T04:34:57.424Z"
+    },
+    {
+      "id": "x-millzaa-mor-mclaren-tabanca",
+      "url": "https://x.com/Millzaatv_/status/2123992848529768948",
+      "author": "@Millzaatv_",
+      "network": "x",
+      "title": "İddia: Nadir mor nitrolu McLaren, 10.000 $ ve efsanevi susturuculu tabanca",
+      "summary": "Bir içerik üreticisi, nadir mor renkli ve nitrolu bir McLaren benzeri arabanın, yanında 10.000 $ ve efsanevi susturuculu bir tabancayla nasıl alınacağını gösterdi. Yeri videoda; doğrulanmadı.",
+      "category": "Araç",
+      "tags": [
+        "McLaren",
+        "mor araba",
+        "nitro",
+        "nadir araba",
+        "rare car",
+        "efsanevi tabanca",
+        "10.000 dolar",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T04:12:11Z",
+      "checkedAt": "2026-11-21T04:34:57.424Z"
     }
   ]
 }
