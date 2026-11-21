@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 232,
-  "publishedAt": "2026-11-21T13:02:48.699Z",
+  "revision": 233,
+  "publishedAt": "2026-11-21T13:15:04.918Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32813,6 +32813,32 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T13:10:00Z",
       "checkedAt": "2026-11-21T12:15:05.906Z"
+    },
+    {
+      "id": "x-gtavi-tum-gizemler-listesi",
+      "url": "https://x.com/_GTAVI_/status/2124119118840246695",
+      "author": "@_GTAVI_",
+      "network": "x",
+      "title": "Şimdiye kadar bulunan GTA 6 gizemleri listesi: Kırmızı Hulk, ölümsüz adam, dev mutant yengeç, Bigfoot, Kraken",
+      "summary": "Bir hayran hesabı, oyunda şimdiye kadar bulunan gizemleri tek bir listede topladı: Kırmızı Hulk benzeri dev yaratık, “ölümsüz adam”, dev mutant yengeç, Bigfoot, Dexter’ın dairesi, “her şey bir simülasyon” teorisi ve Kraken. Ölümsüz adam iddiası için henüz ayrıntılı açıklama yok; diğerlerinin ayrıntıları sitemizde ayrı paylaşımlarda.",
+      "category": "Easter Egg",
+      "tags": [
+        "gizem",
+        "mystery",
+        "Kırmızı Hulk",
+        "Red Hulk",
+        "ölümsüz adam",
+        "immortal man",
+        "mutant yengeç",
+        "Bigfoot",
+        "Kraken",
+        "simülasyon",
+        "Dexter",
+        "iddia"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-21T13:33:56Z",
+      "checkedAt": "2026-11-21T13:15:04.918Z"
     }
   ]
 }
