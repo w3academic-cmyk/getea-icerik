@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 210,
-  "publishedAt": "2026-11-21T06:54:51.848Z",
+  "revision": 211,
+  "publishedAt": "2026-11-21T07:16:25.222Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32341,6 +32341,52 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T04:00:01Z",
       "checkedAt": "2026-11-21T06:34:59.257Z"
+    },
+    {
+      "id": "x-bennycentral-karavan-siginak-roketatar",
+      "url": "https://x.com/BennyCentral/status/2124019981583294878",
+      "author": "@BennyCentral",
+      "network": "x",
+      "title": "Oyunun başında gizli sığınak: bedava roketatar ve efsanevi “Conspiracist Type 9” makineli tabanca",
+      "summary": "Bir oyuncuya göre erken oyunda bir karavanın (RV) içine gizlenmiş bir sığınak var; içinde ücretsiz roketatar, el bombaları ve tek örnek “Conspiracist Type 9” makineli tabanca bulunuyor. Karavan kolayca gözden kaçıyor; yeri videoda gösteriliyor (haritadaki kesin konum henüz doğrulanmadı).",
+      "category": "Silah",
+      "tags": [
+        "gizli sığınak",
+        "secret bunker",
+        "karavan",
+        "RV",
+        "roketatar",
+        "rocket launcher",
+        "Conspiracist Type 9",
+        "efsanevi silah",
+        "legendary weapon",
+        "el bombası",
+        "silah konumu"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T09:30:00Z",
+      "checkedAt": "2026-11-21T07:16:25.222Z"
+    },
+    {
+      "id": "x-priyankkharge-rockstar-india-bengaluru",
+      "url": "https://x.com/PriyankKharge/status/2124014999064736036",
+      "author": "@PriyankKharge",
+      "network": "x",
+      "title": "İddia: Rockstar India’nın Bengaluru stüdyosundan 1.600’den fazla geliştirici GTA 6’ya katkı verdi",
+      "summary": "Hindistan’ın Karnataka eyaletinin bakanı Priyank Kharge, Rockstar India’nın Bengaluru stüdyosundaki 1.600’ü aşkın geliştiricinin GTA 6’da çalıştığının bildirildiğini paylaştı. Sayı Rockstar tarafından resmî olarak doğrulanmadı.",
+      "category": "Haber",
+      "tags": [
+        "Rockstar India",
+        "Bengaluru",
+        "geliştirici",
+        "developers",
+        "stüdyo",
+        "iddia",
+        "GTA 6 yapımı"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T08:47:00Z",
+      "checkedAt": "2026-11-21T07:16:25.222Z"
     }
   ]
 }
