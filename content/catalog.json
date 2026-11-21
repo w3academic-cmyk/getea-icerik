@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 243,
-  "publishedAt": "2026-11-21T15:34:56.190Z",
+  "revision": 245,
+  "publishedAt": "2026-11-21T15:55:06.297Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32917,7 +32917,7 @@
       "author": "@xGarbett",
       "network": "x",
       "title": "İddia: Gizli bir görev, içinde 2. Dünya Savaşı tankı ve Soğuk Savaş dönemi tüfeği olan sığınakları açıyor",
-      "summary": "Bir içerik üreticisine göre oyunda gizli bir görev var; bu görev bazı gizli sığınakların kapısını açıyor. Sığınaklarda 2. Dünya Savaşı’ndan kalma bir tank ve Soğuk Savaş dönemine ait bir taarruz tüfeği bulunuyor. Görevin adı ve sığınakların yeri paylaşımda yazmıyor; doğrulanmadı.",
+      "summary": "Bir içerik üreticisine göre oyunda gizli bir görev var; bu görev bazı gizli sığınakların kapısını açıyor. Sığınaklarda 2. Dünya Savaşı’ndan kalma bir tank ve Soğuk Savaş dönemine ait bir taarruz tüfeği bulunuyor. Görevin adı ve sığınakların yeri paylaşımda yazmıyor; doğrulanmadı. Güncelleme: Başka bir içerik üreticisi (@MrDalekJD) gizli sığınak gizeminin çözüldüğünü ve içindeki tankın bedava alınıp saklanabildiğini söylüyor; görevin adı ve yer hâlâ yazılı olarak paylaşılmadı.",
       "category": "Gizli Görev",
       "tags": [
         "gizli görev",
@@ -32934,7 +32934,7 @@
       ],
       "spoiler": "minor",
       "postedAt": "2026-11-21T14:03:00Z",
-      "checkedAt": "2026-11-21T13:54:44.210Z"
+      "checkedAt": "2026-11-21T15:55:01.776Z"
     },
     {
       "id": "x-derrickgott-psn-ciplak-foto-ban",
@@ -33167,6 +33167,28 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T15:22:27Z",
       "checkedAt": "2026-11-21T15:34:56.190Z"
+    },
+    {
+      "id": "x-worldmusicaward-lana-crazy-for-you",
+      "url": "https://x.com/WORLDMUSICAWARD/status/2124158525588852868",
+      "author": "@WORLDMUSICAWARD",
+      "network": "x",
+      "title": "Lana Del Rey’in GTA VI albümündeki “Crazy for You” şarkısı iTunes listelerine girdi",
+      "summary": "Lana Del Rey’in “Grand Theft Auto VI: The Album”de yer alan “Crazy for You” şarkısı, Avrupa iTunes şarkı listesine 13. sıradan, dünya geneli iTunes listesine 20. sıradan giriş yaptı.",
+      "category": "Radyo",
+      "tags": [
+        "Lana Del Rey",
+        "Crazy for You",
+        "GTA VI: The Album",
+        "iTunes",
+        "müzik listesi",
+        "chart",
+        "şarkı",
+        "song"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T15:10:32Z",
+      "checkedAt": "2026-11-21T15:55:06.297Z"
     }
   ]
 }
