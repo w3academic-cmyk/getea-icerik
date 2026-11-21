@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 192,
-  "publishedAt": "2026-11-21T00:14:59.210Z",
+  "revision": 193,
+  "publishedAt": "2026-11-21T00:34:51.295Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -31766,6 +31766,27 @@
       "spoiler": "major",
       "postedAt": "2026-11-20T23:24:28Z",
       "checkedAt": "2026-11-21T00:14:59.210Z"
+    },
+    {
+      "id": "x-xgarbett-denizadami-easter-egg",
+      "url": "https://x.com/xGarbett/status/2123922939901059414",
+      "author": "@xGarbett",
+      "network": "x",
+      "title": "Deniz adamı (Merman) easter egg’i bulundu",
+      "summary": "Bir içerik üreticisi, GTA 6’da bir deniz adamı (merman) ile karşılaşılan bir easter egg buldu. Oyunun kriptid ve doğaüstü karşılaşmalar listesine bir yenisi eklendi; yeri videoda.",
+      "category": "Gizli",
+      "tags": [
+        "deniz adamı",
+        "merman",
+        "kriptid",
+        "cryptid",
+        "easter egg",
+        "doğaüstü",
+        "su altı"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T23:34:24Z",
+      "checkedAt": "2026-11-21T00:34:51.295Z"
     }
   ]
 }
