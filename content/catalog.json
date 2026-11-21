@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 223,
-  "publishedAt": "2026-11-21T10:55:09.014Z",
+  "revision": 224,
+  "publishedAt": "2026-11-21T11:03:10.654Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -23468,11 +23468,11 @@
       "category": "Gizli",
       "x": 0.52,
       "y": 0.732,
-      "description": "Pelican Valley’deki gizli yengeç araştırma tesisi. İçerideki bulmacayı çözersen 10.000 dolar ve efsanevi VF5 SMG kazanıyorsun; 1. bölümden itibaren açık. Tam koordinat henüz yok; Pelican Valley bölgesinde listelenir.",
+      "description": "Pelican Valley’deki gizli yengeç araştırma tesisi. İçerideki bulmacayı çözersen 10.000 dolar ve efsanevi VF5 SMG kazanıyorsun; 1. bölümden itibaren açık. Tarif (topluluk bilgisi, doğrulanmadı): Hamlet’in güneybatısında, bataklıkta iskelesi ve kayıkhanesi olan terk edilmiş istasyon. Evdeki kasa 0072 ile açılıyor ve sıradaki şifreyi veriyor; kayıkhanedeki tuş takımına 0212 girince SMG, 10.000 $’lık çanta ve bir jet ski çıkıyor. Tam koordinat henüz yok; Pelican Valley bölgesinde listelenir.",
       "sourceIds": [
         "topluluk-rehberleri"
       ],
-      "checkedAt": "2026-11-20T02:02:45.161Z",
+      "checkedAt": "2026-11-21T11:03:10.654Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
