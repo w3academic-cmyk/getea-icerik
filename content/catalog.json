@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 218,
-  "publishedAt": "2026-11-21T09:34:49.813Z",
+  "revision": 219,
+  "publishedAt": "2026-11-21T09:54:41.208Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32573,6 +32573,29 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T11:58:00Z",
       "checkedAt": "2026-11-21T09:34:49.813Z"
+    },
+    {
+      "id": "x-afcbournemouth-gta6-boscombe",
+      "url": "https://x.com/afcbournemouth/status/2124065291533435290",
+      "author": "@afcbournemouth",
+      "network": "x",
+      "title": "Premier Lig ekibi AFC Bournemouth’tan GTA 6 temalı paylaşım: “GTA VI: Boscombe Edition”",
+      "summary": "İngiliz futbol kulübü AFC Bournemouth, stadının bulunduğu Boscombe semtine gönderme yapan GTA 6 kapak tarzında bir görsel paylaştı. Galatasaray’dan sonra GTA 6 temasını kullanan bir başka futbol kulübü oldu.",
+      "category": "Topluluk",
+      "tags": [
+        "AFC Bournemouth",
+        "Premier Lig",
+        "Premier League",
+        "futbol",
+        "football",
+        "kulüp",
+        "kapak tasarımı",
+        "cover art",
+        "Boscombe"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T12:22:00Z",
+      "checkedAt": "2026-11-21T09:54:41.208Z"
     }
   ]
 }
