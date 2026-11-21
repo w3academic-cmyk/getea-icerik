@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 263,
-  "publishedAt": "2026-11-21T19:14:47.213Z",
+  "revision": 264,
+  "publishedAt": "2026-11-21T19:34:52.816Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -33579,6 +33579,73 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T18:56:11Z",
       "checkedAt": "2026-11-21T19:14:47.213Z"
+    },
+    {
+      "id": "x-bosunatiklama-leroy-sane-sistem",
+      "url": "https://x.com/bosunatiklama/status/2124223251320881225",
+      "author": "@bosunatiklama",
+      "network": "x",
+      "title": "Galatasaraylı Leroy Sané, GTA 6 için 192 bin TL’lik oyun sistemi kurdu",
+      "summary": "Galatasaray’ın yıldızı Leroy Sané, GTA 6 oynamak için yaklaşık 192 bin TL’lik yeni bir oyun düzeni kurdu. Paylaşılan listeye göre sistemde monitör (40.399 TL), çalışma masası (18.999 TL), oyun kolu (7.499 TL), oyuncu koltuğu (40.449 TL), PlayStation 5 Wolverine Sınırlı Sürüm (61.499 TL), oyuncu kulaklığı (18.669 TL) ve GTA 6 Ultimate Edition var (kaynak: GamingGenTR).",
+      "category": "Türkçe",
+      "tags": [
+        "Leroy Sané",
+        "Galatasaray",
+        "futbol",
+        "football",
+        "oyun sistemi",
+        "setup",
+        "PS5",
+        "Ultimate Edition",
+        "Türk futbolu"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T19:27:43Z",
+      "checkedAt": "2026-11-21T19:34:52.816Z"
+    },
+    {
+      "id": "x-dualipabrasil-go-easy-spotify",
+      "url": "https://x.com/dualipabrasil/status/2124221942572220825",
+      "author": "@dualipabrasil",
+      "network": "x",
+      "title": "Dua Lipa’nın GTA VI albümündeki “Go Easy” şarkısı Spotify Global listesine 20. sıradan girdi",
+      "summary": "Dua Lipa’nın “Grand Theft Auto VI: The Album”deki “Go Easy” şarkısı ilk gününde 2.336.505 dinlenmeyle Spotify Global listesine 20. sıradan girdi. Hayran hesabına göre bu, albümdeki tüm şarkılar arasında en yüksek giriş.",
+      "category": "Radyo",
+      "tags": [
+        "Dua Lipa",
+        "Go Easy",
+        "GTA VI: The Album",
+        "Spotify",
+        "müzik listesi",
+        "chart",
+        "şarkı",
+        "song"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T19:22:31Z",
+      "checkedAt": "2026-11-21T19:34:52.816Z"
+    },
+    {
+      "id": "x-alonsonvl-idle-mono-radyo",
+      "url": "https://x.com/AlonsoNvl/status/2124216385421373789",
+      "author": "@AlonsoNvl",
+      "network": "x",
+      "title": "K-pop grubu i-dle’nin “MONO” şarkısı GTA 6’nın radyo istasyonlarından birinde çalıyor",
+      "summary": "Bir hayran hesabı, K-pop grubu i-dle’nin “MONO” şarkısının GTA 6’daki radyo istasyonlarından birinde çaldığını videoyla paylaştı. Hangi istasyon olduğu paylaşımda yazmıyor.",
+      "category": "Radyo",
+      "tags": [
+        "i-dle",
+        "MONO",
+        "K-pop",
+        "radyo",
+        "radio",
+        "şarkı",
+        "song",
+        "soundtrack"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T19:00:26Z",
+      "checkedAt": "2026-11-21T19:34:52.816Z"
     }
   ]
 }
