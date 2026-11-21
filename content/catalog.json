@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 254,
-  "publishedAt": "2026-11-21T17:34:59.722Z",
+  "revision": 255,
+  "publishedAt": "2026-11-21T17:54:50.064Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -26345,7 +26345,7 @@
       "author": "@bpthaber",
       "network": "x",
       "title": "Oyunda Türkçe konuşan karakterler var",
-      "summary": "Oyuncular bazı sahnelerde Türkçe seslendirme olduğunu fark etti; NPC'lerin ağzından “Kurşun yedim!” gibi Türkçe repliklerin duyulduğu bir video paylaşıldı. Yanında başka Türkçe repliklerle karşılaşırsan bize yaz. Güncelleme: Oyuncular Türkçe konuşulan bir sahne daha buldu (@andersonburak). İlginç olan, altyazıda Türkçe “bilinmeyen dil” olarak gösteriliyor.",
+      "summary": "Oyuncular bazı sahnelerde Türkçe seslendirme olduğunu fark etti; NPC'lerin ağzından “Kurşun yedim!” gibi Türkçe repliklerin duyulduğu bir video paylaşıldı. Yanında başka Türkçe repliklerle karşılaşırsan bize yaz. Güncelleme: Oyuncular Türkçe konuşulan bir sahne daha buldu (@andersonburak). İlginç olan, altyazıda Türkçe “bilinmeyen dil” olarak gösteriliyor. Bilinen yerler: hastane görevindeki Türkçe konuşan NPC ve başka bir görevde Türkçe konuşan bir NPC daha (@GTA6_Turkish, @mertbaba_06). Bazı paylaşımlarda oyunun yapımında 18’den fazla Türk’ün çalıştığı da söyleniyor (iddia, doğrulanmadı).",
       "category": "Türkçe",
       "tags": [
         "Türkçe",
@@ -26357,7 +26357,7 @@
       ],
       "spoiler": "none",
       "postedAt": "2026-11-18T20:49:00Z",
-      "checkedAt": "2026-11-21T17:34:59.639Z"
+      "checkedAt": "2026-11-21T17:54:50.064Z"
     },
     {
       "id": "x-bosunatiklama-gercekci-siddet",
@@ -27658,7 +27658,7 @@
       "author": "@sedevrplus",
       "network": "x",
       "title": "Radyoda Azerbaycan’dan Alim Qasımov ve Fargana Qasımova",
-      "summary": "Azerbaycanlı usta sanatçı Alim Qasımov ile kızı Fargana Qasımova’nın seslendirdiği bir eser GTA VI’ın müzik listesinde yer aldı.",
+      "summary": "Azerbaycanlı usta sanatçı Alim Qasımov ile kızı Fargana Qasımova’nın seslendirdiği bir eser GTA VI’ın müzik listesinde yer aldı. Paylaşımlara göre şarkı “Say It Right” ve Kaleidoscope FM’de çalıyor.",
       "category": "Radyo",
       "tags": [
         "Alim Qasımov",
@@ -27670,7 +27670,7 @@
       ],
       "spoiler": "none",
       "postedAt": "2026-11-19T07:49:21Z",
-      "checkedAt": "2026-11-19T15:05:19.106Z"
+      "checkedAt": "2026-11-21T17:54:50.064Z"
     },
     {
       "id": "x-furkancavlak-turkce-altyazi",
