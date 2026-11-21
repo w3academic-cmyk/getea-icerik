@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 202,
-  "publishedAt": "2026-11-21T03:15:38.914Z",
+  "revision": 203,
+  "publishedAt": "2026-11-21T03:55:02.649Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32072,6 +32072,27 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T02:52:51Z",
       "checkedAt": "2026-11-21T03:15:38.914Z"
+    },
+    {
+      "id": "x-onlydrama-dora-ozsoy-yorum",
+      "url": "https://x.com/onlydramaX/status/2123980384752771081",
+      "author": "@onlydramaX",
+      "network": "x",
+      "title": "Dora Özsoy’dan GTA 6 yorumu: “Grafikte çığır açmışlar ama ben realizm sevmiyorum”",
+      "summary": "Türk yayıncı Dora Özsoy, GTA 6 hakkındaki düşüncelerini paylaştı: Grafiklerin gerçekten çığır açtığını ve oyunun ilerleyen kısımlarının eğlenceli göründüğünü söyledi; ancak oyunlarda aşırı gerçekçiliği sevmediğini ve bazı mekaniklerden hoşlanmadığını belirtti.",
+      "category": "Türkçe",
+      "tags": [
+        "Dora Özsoy",
+        "Türk yayıncı",
+        "yorum",
+        "review",
+        "realizm",
+        "grafik",
+        "Türkiye"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T03:22:40Z",
+      "checkedAt": "2026-11-21T03:55:02.649Z"
     }
   ]
 }
