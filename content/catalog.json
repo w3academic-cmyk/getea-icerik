@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 220,
-  "publishedAt": "2026-11-21T10:14:51.629Z",
+  "revision": 222,
+  "publishedAt": "2026-11-21T10:36:03.108Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -29848,7 +29848,7 @@
       "author": "@Duvalx",
       "network": "x",
       "title": "İddia: Griffin Shooting Range’deki gizli kapakta roketatar ve efsanevi SMG",
-      "summary": "Bir oyuncu, Griffin Shooting Range’de gizli bir kapak (hatch) bulunduğunu ve içinde roketatar ile efsanevi bir SMG olduğunu söylüyor; kendisi de “söylentiye göre” diyor. Doğrulanmadı.",
+      "summary": "Bir oyuncu, Griffin Shooting Range yakınında gizli bir kapak (hatch) bulunduğunu ve içinde roketatar ile efsanevi bir SMG olduğunu söylemişti. Sonradan başka oyuncular da aynı yeri tarif etti: kapak, poligona yakın karavan parkındaki mavi bir karavanın zemininde.",
       "category": "Silah",
       "tags": [
         "Griffin Shooting Range",
@@ -29863,7 +29863,7 @@
       ],
       "spoiler": "none",
       "postedAt": "2026-11-20T07:36:17Z",
-      "checkedAt": "2026-11-20T08:55:18.991Z"
+      "checkedAt": "2026-11-21T10:36:02.989Z"
     },
     {
       "id": "x-crescentjs-jisoo-earthquake",
@@ -32348,7 +32348,7 @@
       "author": "@BennyCentral",
       "network": "x",
       "title": "Oyunun başında gizli sığınak: bedava roketatar ve efsanevi “Conspiracist Type 9” makineli tabanca",
-      "summary": "Bir oyuncuya göre erken oyunda bir karavanın (RV) içine gizlenmiş bir sığınak var; içinde ücretsiz roketatar, el bombaları ve tek örnek “Conspiracist Type 9” makineli tabanca bulunuyor. Karavan kolayca gözden kaçıyor; yeri videoda gösteriliyor (haritadaki kesin konum henüz doğrulanmadı).",
+      "summary": "Erken oyunda bir karavanın (RV) zeminindeki kapaktan girilen gizli bir sığınak var; içinde ücretsiz roketatar, el bombaları, mermi ve tek örnek “Conspiracist Type 9” makineli tabanca bulunuyor. Yer tarifi (FrenchRapUS): Vice City’nin güneybatısında, Griffin Shooting Range yakınında, bir Ammu-Nation’ın karşısındaki küçük karavan parkında, hurda araçların yanındaki mavi karavan. Topluluk bilgisi; haritadaki kesin nokta doğrulanmadı.",
       "category": "Silah",
       "tags": [
         "gizli sığınak",
@@ -32365,7 +32365,7 @@
       ],
       "spoiler": "none",
       "postedAt": "2026-11-21T09:30:00Z",
-      "checkedAt": "2026-11-21T07:16:25.222Z"
+      "checkedAt": "2026-11-21T10:36:02.989Z"
     },
     {
       "id": "x-priyankkharge-rockstar-india-bengaluru",
@@ -32619,6 +32619,32 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T12:51:00Z",
       "checkedAt": "2026-11-21T10:14:51.629Z"
+    },
+    {
+      "id": "x-frenchrapus-arastirma-istasyonu-kasa",
+      "url": "https://x.com/FrenchRapUS/status/2124082643210027061",
+      "author": "@FrenchRapUS",
+      "network": "x",
+      "title": "Pelican Valley’deki terk edilmiş araştırma istasyonu: 0072 ve 0212 şifreleriyle 10.000 $, efsanevi SMG ve jet ski",
+      "summary": "Paylaşıma göre Hamlet’in güneybatısında, Pelican Valley bataklıklarında iskelesi ve kayıkhanesi olan terk edilmiş eski bir araştırma istasyonu var. Evdeki kasayı 0072 şifresiyle açınca bir sonraki şifre çıkıyor; kayıkhanedeki tuş takımına 0212 girince efsanevi bir SMG, 10.000 $ içeren bir çanta ve bir jet ski alınabiliyor. Aynı paylaşım ayrıca Hamlet’in doğusundaki, önünde oyuncak ayılarla süslü minibüs olan kırmızı depoda 20.000 $ ve silah; Manatee Motel’de efsanevi keskin nişancı tüfeği olduğunu söylüyor. Topluluk bilgisi, doğrulanmadı.",
+      "category": "Gizli",
+      "tags": [
+        "kasa şifresi",
+        "safe code",
+        "0072",
+        "0212",
+        "Pelican Valley",
+        "araştırma istasyonu",
+        "research station",
+        "efsanevi SMG",
+        "legendary SMG",
+        "jet ski",
+        "para",
+        "gizli konum"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T11:09:00Z",
+      "checkedAt": "2026-11-21T10:36:03.108Z"
     }
   ]
 }
