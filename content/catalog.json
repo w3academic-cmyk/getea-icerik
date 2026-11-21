@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 208,
-  "publishedAt": "2026-11-21T05:35:09.691Z",
+  "revision": 209,
+  "publishedAt": "2026-11-21T06:34:59.257Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32319,6 +32319,28 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T05:00:00Z",
       "checkedAt": "2026-11-21T05:35:09.691Z"
+    },
+    {
+      "id": "x-bennycentral-gun-nut-ev",
+      "url": "https://x.com/BennyCentral/status/2123989786839163146",
+      "author": "@BennyCentral",
+      "network": "x",
+      "title": "Tek bir evde efsanevi “Gun Nut SMS-01” keskin nişancı, bedava zırh ve iki silah daha",
+      "summary": "Bir oyuncu, içinde efsanevi Gun Nut SMS-01 keskin nişancı tüfeği, ücretsiz vücut zırhı, bir makineli ve bir saldırı tüfeği bulunan bir ev buldu. Dikkat: ev sahibi evde oluyor. Evin yeri videoda.",
+      "category": "Silah",
+      "tags": [
+        "Gun Nut",
+        "SMS-01",
+        "efsanevi keskin nişancı",
+        "legendary sniper",
+        "zırh",
+        "body armor",
+        "ev soygunu",
+        "silah konumu"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T04:00:01Z",
+      "checkedAt": "2026-11-21T06:34:59.257Z"
     }
   ]
 }
