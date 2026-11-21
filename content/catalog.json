@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 212,
-  "publishedAt": "2026-11-21T07:34:56.196Z",
+  "revision": 213,
+  "publishedAt": "2026-11-21T07:54:51.986Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32409,6 +32409,31 @@
       "spoiler": "minor",
       "postedAt": "2026-11-21T10:33:00Z",
       "checkedAt": "2026-11-21T07:34:56.196Z"
+    },
+    {
+      "id": "x-ghbsmith-gece-kirmizi-araba-gizem",
+      "url": "https://x.com/GHBSmith/status/2124043383983292589",
+      "author": "@GHBSmith",
+      "network": "x",
+      "title": "Gizem ipucu: Bölüm 2’den sonra gece 01.00–03.00 arası yol kenarında terk edilmiş kırmızı bir araba belirebiliyor",
+      "summary": "Bir oyuncuya göre Bölüm 2’den itibaren gece saat 01.00 ile 03.00 arasında paylaşımdaki noktaya giderseniz, bazen yol kenarında terk edilmiş kırmızı bir araba çıkıyor ve “ipuçlarını takip edince” etkileyici bir olaya ulaşılıyor. Her seferinde çıkmıyor; olayın ne olduğu ve kesin konum henüz doğrulanmadı.",
+      "category": "Easter Egg",
+      "tags": [
+        "gizem",
+        "mystery",
+        "easter egg",
+        "kırmızı araba",
+        "red car",
+        "gece",
+        "1am-3am",
+        "Bölüm 2",
+        "Chapter 2",
+        "ipucu",
+        "iddia"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-21T11:00:00Z",
+      "checkedAt": "2026-11-21T07:54:51.986Z"
     }
   ]
 }
