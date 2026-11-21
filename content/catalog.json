@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 245,
-  "publishedAt": "2026-11-21T15:55:06.297Z",
+  "revision": 246,
+  "publishedAt": "2026-11-21T16:14:42.457Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -33189,6 +33189,31 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T15:10:32Z",
       "checkedAt": "2026-11-21T15:55:06.297Z"
+    },
+    {
+      "id": "x-paultassi-luks-ev-soygunu",
+      "url": "https://x.com/PaulTassi/status/2124170131995545723",
+      "author": "@PaulTassi",
+      "network": "x",
+      "title": "İpucu: Lüks evlere, özellikle garajlara girin; nadir arabalar, koleksiyon kartları ve lüks saatler çıkıyor",
+      "summary": "Forbes yazarı Paul Tassi, oyunda lüks evlere girip soygun yapmayı öneriyor; özellikle garajlar verimli. Şimdiye kadar iki çok nadir araba, en az bir düzine koleksiyon kartı, Jason için birkaç lüks saat ve Lucia için yeni bir dergi bulduğunu söylüyor.",
+      "category": "İpucu",
+      "tags": [
+        "ev soygunu",
+        "home invasion",
+        "garaj",
+        "garage",
+        "koleksiyon kartı",
+        "collectible cards",
+        "lüks saat",
+        "luxury watch",
+        "nadir araba",
+        "Paul Tassi",
+        "ipucu"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T15:56:39Z",
+      "checkedAt": "2026-11-21T16:14:42.457Z"
     }
   ]
 }
