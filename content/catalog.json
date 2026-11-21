@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 250,
-  "publishedAt": "2026-11-21T16:55:10.661Z",
+  "revision": 252,
+  "publishedAt": "2026-11-21T17:14:51.538Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -27956,7 +27956,7 @@
       "author": "@SiteTheWeekndBR",
       "network": "x",
       "title": "The Weeknd ve Justice’ten oyuna özel şarkı: “My Only Vice”",
-      "summary": "The Weeknd, Justice ile birlikte yaptığı yepyeni “My Only Vice” şarkısıyla GTA VI müzik listesinde yer alıyor.",
+      "summary": "The Weeknd, Justice ile birlikte yaptığı yepyeni “My Only Vice” şarkısıyla GTA VI müzik listesinde yer alıyor. Pop Crave ve Daily Loud’a göre şarkı oyunun final görevinde çalıyor.",
       "category": "Radyo",
       "tags": [
         "The Weeknd",
@@ -27968,7 +27968,7 @@
       ],
       "spoiler": "none",
       "postedAt": "2026-11-19T15:21:22Z",
-      "checkedAt": "2026-11-19T15:37:14.197Z"
+      "checkedAt": "2026-11-21T17:14:51.474Z"
     },
     {
       "id": "x-gameroll-bobby-moynihan",
@@ -33058,7 +33058,7 @@
       "author": "@GHBSmith",
       "network": "x",
       "title": "İpucu: Haritada görünmeyen Kitty Litter laboratuvarlarını önündeki minibüs ve pembe dumandan tanıyın",
-      "summary": "Bölüm 3’te Tyrone ve Dook için Kitty Litter laboratuvarlarını avlarken ilk laboratuvarlar haritada işaretli, ama işaretsiz çok daha fazlası var. Her laboratuvarın önünde pembe duman ve aynı tip bir minibüs bulunuyor; bunları gördüğünüz yerde gizli bir lab var demektir.",
+      "summary": "Bölüm 3’te Tyrone ve Dook için Kitty Litter laboratuvarlarını avlarken ilk laboratuvarlar haritada işaretli, ama işaretsiz çok daha fazlası var. Her laboratuvarın önünde pembe duman ve aynı tip bir minibüs bulunuyor; bunları gördüğünüz yerde gizli bir lab var demektir. Ek ipucu: Labların çoğu tehlikeli mahallelerde ve lab yok edilince çete üyeleri hemen ateş açıyor. Büyük çatışmadan kaçmak için yapışkan bomba bırakıp birkaç sokak uzaklaşın, sonra patlatın.",
       "category": "İpucu",
       "tags": [
         "Kitty Litter",
@@ -33075,7 +33075,7 @@
       ],
       "spoiler": "minor",
       "postedAt": "2026-11-21T13:56:00Z",
-      "checkedAt": "2026-11-21T15:15:12.197Z"
+      "checkedAt": "2026-11-21T17:14:51.474Z"
     },
     {
       "id": "x-cartoonsotmoon-arthur-morgan-pelus",
@@ -33375,6 +33375,30 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T16:36:59Z",
       "checkedAt": "2026-11-21T16:55:10.661Z"
+    },
+    {
+      "id": "x-synthpotato-suclu-profili-elestiri",
+      "url": "https://x.com/SynthPotato/status/2124184144880304425",
+      "author": "@SynthPotato",
+      "network": "x",
+      "title": "Eleştiri: “Şiddet yanlısı / profesyonel suçlu” profil sistemi, kafadan vuruşları nefsi müdafaada bile cezalandırıyor",
+      "summary": "Oyunda karakterinizin oyun tarzına göre “şiddet yanlısı” ya da “profesyonel” suçlu olarak işaretlendiği bir suçlu profili sistemi var. Bir oyuncu, sistemin kâğıt üzerinde güzel göründüğünü ama kendinizi savunurken bile kafadan vuruş yaptığınızda sizi cezalandırdığını söyleyerek eleştiriyor.",
+      "category": "Özellik",
+      "tags": [
+        "suçlu profili",
+        "criminal profile",
+        "şiddet yanlısı",
+        "violent",
+        "profesyonel",
+        "professional",
+        "kafadan vuruş",
+        "headshot",
+        "eleştiri",
+        "oynanış"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T16:52:20Z",
+      "checkedAt": "2026-11-21T17:14:51.538Z"
     }
   ]
 }
