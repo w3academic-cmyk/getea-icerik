@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 199,
-  "publishedAt": "2026-11-21T02:15:20.129Z",
+  "revision": 200,
+  "publishedAt": "2026-11-21T02:35:09.438Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -31940,6 +31940,29 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T00:39:58Z",
       "checkedAt": "2026-11-21T02:15:20.129Z"
+    },
+    {
+      "id": "x-ghbsmith-tekne-otopilot-demir",
+      "url": "https://x.com/GHBSmith/status/2123955807620407566",
+      "author": "@GHBSmith",
+      "network": "x",
+      "title": "Tekne ipuçları: Üçgene iki kez basıp dümeni bırak, tekne rotasında gitsin; demir atmayı da unutma",
+      "summary": "Bazı teknelerde Üçgen tuşuna iki kez basınca dümenden kalkabiliyorsun ve tekne rotasını korumaya devam ediyor; açık sularda yavaş teknelerle uzun yolculuklar için çok işe yarıyor. Tekne dururken yön tuşlarından Sol’u basılı tutup sağ analog çubuğu yukarı itince açılan araç menüsünden demir atabiliyorsun.",
+      "category": "İpucu",
+      "tags": [
+        "tekne",
+        "boat",
+        "dümen",
+        "helm",
+        "rota",
+        "demir atma",
+        "anchor",
+        "kontroller",
+        "PS5"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T01:45:00Z",
+      "checkedAt": "2026-11-21T02:35:09.438Z"
     }
   ]
 }
