@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 257,
-  "publishedAt": "2026-11-21T18:14:51.311Z",
+  "revision": 259,
+  "publishedAt": "2026-11-21T18:34:51.934Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -33151,7 +33151,7 @@
       "author": "@DiscussingFilm",
       "network": "x",
       "title": "Easter egg: Bir video oyununda olduğuna inanan NPC; komplo panosunda GTA 6 hakkında gerçek bilgiler var",
-      "summary": "IGN’in bulduğu bir NPC, bir video oyununun içinde yaşadığına inanıyor. Evindeki komplo panosu GTA 6’nın gerçek dünyadaki ayrıntılarıyla dolu. Bu, oyuncuların “her şey bir simülasyon” diye konuştuğu gizemle ilgili olabilir.",
+      "summary": "IGN’in bulduğu bir NPC, bir video oyununun içinde yaşadığına inanıyor. Evindeki komplo panosu GTA 6’nın gerçek dünyadaki ayrıntılarıyla dolu. Bu, oyuncuların “her şey bir simülasyon” diye konuştuğu gizemle ilgili olabilir. Ek ayrıntılar (IGN, @FearedBuck): Panoda birbirinin aynısı 140 kişi takip ediliyor ve “Neden Leonida’dan çıkamıyorum???” diye soruluyor; NPC oyunda çocuk olmadığını da fark eden tek kişi. Evi, beş yıl önce GTA San Andreas remaster’ındaki bir UFO fotoğrafında da görünmüştü.",
       "category": "Easter Egg",
       "tags": [
         "easter egg",
@@ -33166,7 +33166,7 @@
       ],
       "spoiler": "none",
       "postedAt": "2026-11-21T15:22:27Z",
-      "checkedAt": "2026-11-21T15:34:56.190Z"
+      "checkedAt": "2026-11-21T18:34:51.871Z"
     },
     {
       "id": "x-worldmusicaward-lana-crazy-for-you",
@@ -33488,6 +33488,50 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T17:45:43Z",
       "checkedAt": "2026-11-21T18:14:51.311Z"
+    },
+    {
+      "id": "x-itskwissy-kokain-kopekbaligi",
+      "url": "https://x.com/itskwissy/status/2124201732867555369",
+      "author": "@itskwissy",
+      "network": "x",
+      "title": "Easter egg: “Kokainli köpekbalığı”",
+      "summary": "Oyuncular GTA 6’da kokainle ilişkilendirilen bir köpekbalığı easter egg’i buldu; Florida açıklarında suya düşen uyuşturucu paketleri hakkındaki gerçek haberlere ve “Cocaine Shark” şakasına gönderme olduğu düşünülüyor. Yeri paylaşımdaki videoda.",
+      "category": "Easter Egg",
+      "tags": [
+        "easter egg",
+        "köpekbalığı",
+        "shark",
+        "kokain",
+        "cocaine shark",
+        "Florida",
+        "gönderme"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T18:02:13Z",
+      "checkedAt": "2026-11-21T18:34:51.934Z"
+    },
+    {
+      "id": "x-bewyxanims-billie-eilish-npc",
+      "url": "https://x.com/BewyxAnims/status/2124202405386694678",
+      "author": "@BewyxAnims",
+      "network": "x",
+      "title": "İddia: Billie Eilish’e benzeyen bir NPC, Popeyes parodisi Peewees’te bulundu",
+      "summary": "Bir oyuncu, Popeyes’ın oyundaki parodisi Peewees restoranında Billie Eilish’e çok benzeyen bir NPC bulduğunu paylaştı. Gerçekten Billie Eilish’in oyunda yer alıp almadığı doğrulanmadı.",
+      "category": "Easter Egg",
+      "tags": [
+        "Billie Eilish",
+        "NPC",
+        "benzer",
+        "lookalike",
+        "Peewees",
+        "Popeyes",
+        "ünlü",
+        "celebrity",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T18:04:53Z",
+      "checkedAt": "2026-11-21T18:34:51.934Z"
     }
   ]
 }
