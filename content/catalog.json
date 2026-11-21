@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 231,
-  "publishedAt": "2026-11-21T12:35:00.219Z",
+  "revision": 232,
+  "publishedAt": "2026-11-21T13:02:48.699Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1498,6 +1498,11 @@
       "id": "x-gta6newshub-altin-toros-casanova-src",
       "name": "@GTA6NewsHub (X)",
       "url": "https://x.com/GTA6NewsHub/status/2124102565654577591"
+    },
+    {
+      "id": "x-bluegamingsa-mor-mclaren-src",
+      "name": "@BlueGamingSA (X)",
+      "url": "https://x.com/BlueGamingSA/status/2124104880717435127"
     }
   ],
   "articles": [
@@ -23495,6 +23500,23 @@
         "x-gta6newshub-altin-toros-casanova-src"
       ],
       "checkedAt": "2026-11-21T12:03:02.100Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-arac-mor-mclaren-waxman-limani",
+      "title": "Araç: Nadir mor McLaren + 5800 kasası (Waxman Island limanı)",
+      "category": "Araç",
+      "x": 0.766,
+      "y": 0.533,
+      "description": "Waxman Island’daki konteyner limanında. Üst kattaki kasa 5800 şifresiyle açılıyor (10.000 $), masadaki kutuda efsanevi susturuculu Quarter Mile ES9 tabanca var; konteynerdeki 32.000 $ değerindeki mor McLaren kilitsiz ve takip cihazı yok. Topluluk bilgisi, doğrulanmadı. Tam koordinat henüz yok; Waxman Island bölgesinde listelenir. Tam yerini biliyorsan 📍 ile düzelt.",
+      "sourceIds": [
+        "x-bluegamingsa-mor-mclaren-src"
+      ],
+      "checkedAt": "2026-11-21T13:02:48.699Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
