@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 191,
-  "publishedAt": "2026-11-20T23:34:50.275Z",
+  "revision": 192,
+  "publishedAt": "2026-11-21T00:14:59.210Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -31343,7 +31343,7 @@
       "author": "@nekaishi",
       "network": "x",
       "title": "Tartışma: Metacritic kullanıcı puanı 4’lerde, eleştirmen puanı 99",
-      "summary": "Paylaşımlara göre GTA 6’nın Metacritic kullanıcı puanı açıldıktan sonra 4,x seviyesinde (“Genel olarak olumsuz”) seyrediyor; eleştirmen puanı ise 99. En sık şikâyetler 30 FPS kilidi ve oynanış temposu. PlayStation Store’daki puan ise 120 binden fazla oyla 4,86/5. Puanın düşük olmasının bir sebebi “review bombing”: kullanıcılar kadın başkarakterden, romantik odaktan, finallerden ve “GTA ruhunun kaybolmasından” şikâyet ediyor.",
+      "summary": "Paylaşımlara göre GTA 6’nın Metacritic kullanıcı puanı açıldıktan sonra 4,x seviyesinde (“Genel olarak olumsuz”) seyrediyor; eleştirmen puanı ise 99. En sık şikâyetler 30 FPS kilidi ve oynanış temposu. PlayStation Store’daki puan ise 120 binden fazla oyla 4,86/5. Puanın düşük olmasının bir sebebi “review bombing”: kullanıcılar kadın başkarakterden, romantik odaktan, finallerden ve “GTA ruhunun kaybolmasından” şikâyet ediyor. 21 Kasım itibarıyla kullanıcı puanı 5,4’e yükseldi.",
       "category": "Haber",
       "tags": [
         "Metacritic",
@@ -31701,6 +31701,71 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T22:58:50Z",
       "checkedAt": "2026-11-20T23:34:50.275Z"
+    },
+    {
+      "id": "x-pcgamer-haritayi-ucakla-gecmek",
+      "url": "https://x.com/pcgamer/status/2123909386360041587",
+      "author": "@pcgamer",
+      "network": "x",
+      "title": "Dev haritayı uçakla boydan boya geçmek yalnızca 4 dakika 18 saniye sürüyor",
+      "summary": "PC Gamer’ın ölçümüne göre GTA 6’nın devasa Leonida haritasını bir uçakla bir uçtan öbür uca geçmek yaklaşık 4 dakika 18 saniye sürüyor.",
+      "category": "Harita",
+      "tags": [
+        "harita büyüklüğü",
+        "map size",
+        "uçak",
+        "plane",
+        "Leonida",
+        "PC Gamer",
+        "ölçüm"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T22:40:32Z",
+      "checkedAt": "2026-11-21T00:14:59.210Z"
+    },
+    {
+      "id": "x-korzawyd-lucia-uzayli-kacirma",
+      "url": "https://x.com/korzawyd/status/2123923784948383998",
+      "author": "@korzawyd",
+      "network": "x",
+      "title": "Uzaylılar görevin ortasında Lucia’yı kaçırdı",
+      "summary": "Bir yayıncının oyununda Lucia, bir görevin ortasında aniden uzaylılar tarafından kaçırıldı. GTA 6’daki UFO karşılaşmalarının yalnızca belirli bir noktada değil, rastgele de yaşanabildiğini gösteriyor.",
+      "category": "Gizli",
+      "tags": [
+        "uzaylı",
+        "alien",
+        "UFO",
+        "kaçırılma",
+        "abduction",
+        "Lucia",
+        "rastgele olay",
+        "random event"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T23:37:45Z",
+      "checkedAt": "2026-11-21T00:14:59.210Z"
+    },
+    {
+      "id": "x-gtaseries-gorev-17-swamped",
+      "url": "https://x.com/GTASeries/status/2123920442654105995",
+      "author": "@GTASeries",
+      "network": "x",
+      "title": "Video: 17. görev “Swamped” (Bölüm 1) baştan sona oynanış",
+      "summary": "GTA Series Videos, ana hikâyenin 17. görevi Swamped’in PS5’te 4K tam oynanışını yayınladı. Görevin Türkçe adım adım anlatımı getea Görevler bölümünde; hikâye spoiler’ı içerir.",
+      "category": "Görev",
+      "tags": [
+        "Swamped",
+        "görev 17",
+        "mission 17",
+        "Bölüm 1",
+        "Chapter 1",
+        "walkthrough",
+        "oynanış",
+        "video"
+      ],
+      "spoiler": "major",
+      "postedAt": "2026-11-20T23:24:28Z",
+      "checkedAt": "2026-11-21T00:14:59.210Z"
     }
   ]
 }
