@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 265,
-  "publishedAt": "2026-11-21T19:54:39.236Z",
+  "revision": 267,
+  "publishedAt": "2026-11-21T20:49:01.163Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -25506,7 +25506,7 @@
       "author": "@hypetribeng",
       "network": "x",
       "title": "Burna Boy’dan GTA VI albümü için yeni şarkı: “Bigger”",
-      "summary": "Burna Boy’un GTA VI albüm soundtrack’inden yeni şarkısı “Bigger” cuma günü çıkıyor.",
+      "summary": "Burna Boy’un GTA VI albüm soundtrack’inden yeni şarkısı “Bigger” cuma günü çıkıyor. Şarkı Spotify Nijerya günlük listesine 137 bin dinlenmeyle 21. sıradan girdi.",
       "category": "Radyo",
       "tags": [
         "Müzik",
@@ -25515,7 +25515,7 @@
       ],
       "spoiler": "none",
       "postedAt": "2026-11-18T16:04:39Z",
-      "checkedAt": "2026-11-18T16:17:38Z"
+      "checkedAt": "2026-11-21T20:48:54.621Z"
     },
     {
       "id": "x-fcbayern-son-antrenman",
@@ -33646,6 +33646,28 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T19:00:26Z",
       "checkedAt": "2026-11-21T19:34:52.816Z"
+    },
+    {
+      "id": "x-dcfilmnews-diddler-riddler-parodisi",
+      "url": "https://x.com/DCFilmNews/status/2124238471703462247",
+      "author": "@DCFilmNews",
+      "network": "x",
+      "title": "Batman’den sonra Riddler parodisi: “The Diddler”",
+      "summary": "Oyundaki DC parodilerine bir yenisi eklendi: Batman parodisi Vermin Vigilante’nin yanında, Riddler’ın GTA 6 versiyonu “The Diddler” da bulundu.",
+      "category": "Easter Egg",
+      "tags": [
+        "Riddler",
+        "The Diddler",
+        "Batman",
+        "Vermin Vigilante",
+        "DC",
+        "parodi",
+        "parody",
+        "easter egg"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T20:28:12Z",
+      "checkedAt": "2026-11-21T20:49:01.163Z"
     }
   ]
 }
