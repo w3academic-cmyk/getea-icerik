@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 195,
-  "publishedAt": "2026-11-21T01:14:53.839Z",
+  "revision": 196,
+  "publishedAt": "2026-11-21T01:35:09.521Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -31852,6 +31852,50 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T13:55:04Z",
       "checkedAt": "2026-11-21T01:14:53.839Z"
+    },
+    {
+      "id": "x-ghbsmith-swat-baskini-olayi",
+      "url": "https://x.com/GHBSmith/status/2123944230628528269",
+      "author": "@GHBSmith",
+      "network": "x",
+      "title": "Rastgele olay: SWAT baskınında bulunamayan 3.000 $ havalandırmada saklı",
+      "summary": "Bir oyuncu, hızla geçen üç polis aracını takip edip bir apartmanda SWAT baskınına denk geldi. Polisler parayı bulamadan çıkınca, nöbete bırakılan iki memurun yanından gizlice geçip dairedeki havalandırma ızgarasının arkasında saklı 3.000 $’ı aldı.",
+      "category": "İpucu",
+      "tags": [
+        "rastgele olay",
+        "random event",
+        "SWAT",
+        "polis",
+        "baskın",
+        "raid",
+        "para",
+        "havalandırma",
+        "gizlilik"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T00:59:00Z",
+      "checkedAt": "2026-11-21T01:35:09.521Z"
+    },
+    {
+      "id": "x-fearedbuck-carti-ahh-yeah",
+      "url": "https://x.com/FearedBuck/status/2123949865462125005",
+      "author": "@FearedBuck",
+      "network": "x",
+      "title": "Playboi Carti’nin “AHH YEAH” şarkısı GTA 6 müziklerinde",
+      "summary": "Playboi Carti’nin “AHH YEAH” şarkısı GTA 6’nın müzikleri arasında; GTA V’in Franklin’ini seslendiren Shawn Fonteno da şarkıya eşlik ettiği bir video paylaştı.",
+      "category": "Radyo",
+      "tags": [
+        "Playboi Carti",
+        "AHH YEAH",
+        "radyo",
+        "radio",
+        "soundtrack",
+        "Franklin",
+        "Shawn Fonteno"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T01:21:23Z",
+      "checkedAt": "2026-11-21T01:35:09.521Z"
     }
   ]
 }
