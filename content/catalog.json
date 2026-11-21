@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 240,
-  "publishedAt": "2026-11-21T14:54:50.449Z",
+  "revision": 241,
+  "publishedAt": "2026-11-21T15:15:12.197Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -33026,6 +33026,124 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T14:03:20Z",
       "checkedAt": "2026-11-21T14:54:50.449Z"
+    },
+    {
+      "id": "x-raptv-radyoda-olmayan-rapciler",
+      "url": "https://x.com/Rap/status/2124157122619326770",
+      "author": "@Rap",
+      "network": "x",
+      "title": "GTA 6 radyolarında şarkısı olmadığı bildirilen ünlü rapçiler: Kendrick Lamar, Eminem, JAY-Z, Ye ve diğerleri",
+      "summary": "RapTV’ye göre şu ünlü rapçilerin GTA 6 radyo istasyonlarında hiç şarkısı yok: Ye (Kanye West), Kendrick Lamar, Juice WRLD, Tyler, The Creator, J. Cole, Eminem, 50 Cent, JAY-Z, Nas, Mac Miller ve Doja Cat. Liste resmî şarkı listesiyle karşılaştırılarak doğrulanmadı.",
+      "category": "Radyo",
+      "tags": [
+        "radyo",
+        "radio",
+        "soundtrack",
+        "rapçi",
+        "rapper",
+        "Kendrick Lamar",
+        "Eminem",
+        "JAY-Z",
+        "Kanye West",
+        "şarkı listesi",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T15:04:57Z",
+      "checkedAt": "2026-11-21T15:15:12.197Z"
+    },
+    {
+      "id": "x-ghbsmith-kitty-litter-gizli-lab-minibus",
+      "url": "https://x.com/GHBSmith/status/2124139769332412716",
+      "author": "@GHBSmith",
+      "network": "x",
+      "title": "İpucu: Haritada görünmeyen Kitty Litter laboratuvarlarını önündeki minibüs ve pembe dumandan tanıyın",
+      "summary": "Bölüm 3’te Tyrone ve Dook için Kitty Litter laboratuvarlarını avlarken ilk laboratuvarlar haritada işaretli, ama işaretsiz çok daha fazlası var. Her laboratuvarın önünde pembe duman ve aynı tip bir minibüs bulunuyor; bunları gördüğünüz yerde gizli bir lab var demektir.",
+      "category": "İpucu",
+      "tags": [
+        "Kitty Litter",
+        "uyuşturucu laboratuvarı",
+        "drug lab",
+        "Tyrone",
+        "Dook",
+        "Bölüm 3",
+        "Chapter 3",
+        "minibüs",
+        "van",
+        "pembe duman",
+        "ipucu"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-21T13:56:00Z",
+      "checkedAt": "2026-11-21T15:15:12.197Z"
+    },
+    {
+      "id": "x-cartoonsotmoon-arthur-morgan-pelus",
+      "url": "https://x.com/CartoonsOTMoon/status/2124157469660164263",
+      "author": "@CartoonsOTMoon",
+      "network": "x",
+      "title": "Easter egg: Arthur Morgan, chihuahua’ya binen bir peluş oyuncak olarak GTA 6’da",
+      "summary": "Red Dead Redemption 2’nin başkarakteri Arthur Morgan, oyunda bir chihuahua’nın üstüne binmiş peluş oyuncak olarak karşımıza çıkıyor.",
+      "category": "Easter Egg",
+      "tags": [
+        "Arthur Morgan",
+        "Red Dead Redemption 2",
+        "RDR2",
+        "peluş",
+        "plush",
+        "chihuahua",
+        "easter egg",
+        "Rockstar göndermesi"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T15:06:20Z",
+      "checkedAt": "2026-11-21T15:15:12.197Z"
+    },
+    {
+      "id": "x-dexerto-kaiji-tang-the-johnsons",
+      "url": "https://x.com/Dexerto/status/2124155455979003948",
+      "author": "@Dexerto",
+      "network": "x",
+      "title": "Jujutsu Kaisen’in Gojo’sunu seslendiren Kaiji Tang, GTA 6 için kayıt yaptığını bilmiyormuş",
+      "summary": "Jujutsu Kaisen’de Satoru Gojo’nun İngilizce sesi Kaiji Tang, oyun içindeki “The Johnsons” çizgi filminde üç karakteri seslendirdi; bunlardan biri paltosunun içinden steroid satan bir teşhirci. Tang, kayıt sırasında bunun GTA 6 için olduğunu bilmediğini söyledi.",
+      "category": "Haber",
+      "tags": [
+        "Kaiji Tang",
+        "Jujutsu Kaisen",
+        "Gojo",
+        "seslendirme",
+        "voice actor",
+        "The Johnsons",
+        "çizgi film",
+        "cartoon",
+        "Dexerto"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T14:58:20Z",
+      "checkedAt": "2026-11-21T15:15:12.197Z"
+    },
+    {
+      "id": "x-piratnation-lens-profil-iddiasi",
+      "url": "https://x.com/Pirat_Nation/status/2124156631319454038",
+      "author": "@Pirat_Nation",
+      "network": "x",
+      "title": "Kanıtsız iddia: Eski Rockstar mühendisi olduğunu söyleyen anonim hesap, oyunun “Lens” adlı sistemle oyuncu profili çıkardığını öne sürüyor",
+      "summary": "Kendini eski bir Rockstar mühendisi olarak tanıtan anonim bir hesap, GTA 6’nın “Lens” adlı bir sistemle oyuncuların tepki süresi ve dürtü kontrolü gibi davranışlarını izleyip psikolojik profil oluşturduğunu iddia ediyor. Hesabın kimliği ve iddialar hiçbir kanıtla desteklenmiyor; Rockstar bir açıklama yapmadı.",
+      "category": "Haber",
+      "tags": [
+        "iddia",
+        "Lens",
+        "gizlilik",
+        "privacy",
+        "veri toplama",
+        "data collection",
+        "Rockstar",
+        "anonim hesap",
+        "doğrulanmadı"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T15:03:00Z",
+      "checkedAt": "2026-11-21T15:15:12.197Z"
     }
   ]
 }
