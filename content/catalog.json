@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 214,
-  "publishedAt": "2026-11-21T08:14:46.267Z",
+  "revision": 215,
+  "publishedAt": "2026-11-21T08:34:42.899Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -31343,7 +31343,7 @@
       "author": "@nekaishi",
       "network": "x",
       "title": "Tartışma: Metacritic kullanıcı puanı 4’lerde, eleştirmen puanı 99",
-      "summary": "Paylaşımlara göre GTA 6’nın Metacritic kullanıcı puanı açıldıktan sonra 4,x seviyesinde (“Genel olarak olumsuz”) seyrediyor; eleştirmen puanı ise 99. En sık şikâyetler 30 FPS kilidi ve oynanış temposu. PlayStation Store’daki puan ise 120 binden fazla oyla 4,86/5. Puanın düşük olmasının bir sebebi “review bombing”: kullanıcılar kadın başkarakterden, romantik odaktan, finallerden ve “GTA ruhunun kaybolmasından” şikâyet ediyor. 21 Kasım itibarıyla kullanıcı puanı 5,4’e yükseldi.",
+      "summary": "Paylaşımlara göre GTA 6’nın Metacritic kullanıcı puanı açıldıktan sonra 4,x seviyesinde (“Genel olarak olumsuz”) seyrediyor; eleştirmen puanı ise 99. En sık şikâyetler 30 FPS kilidi ve oynanış temposu. PlayStation Store’daki puan ise 120 binden fazla oyla 4,86/5. Puanın düşük olmasının bir sebebi “review bombing”: kullanıcılar kadın başkarakterden, romantik odaktan, finallerden ve “GTA ruhunun kaybolmasından” şikâyet ediyor. 21 Kasım itibarıyla kullanıcı puanı 34.965 oyla 5,5’e yükseldi; 152 basın kuruluşunun ortalaması 99.",
       "category": "Haber",
       "tags": [
         "Metacritic",
@@ -31356,7 +31356,7 @@
       ],
       "spoiler": "none",
       "postedAt": "2026-11-20T20:47:03Z",
-      "checkedAt": "2026-11-20T21:35:13.036Z"
+      "checkedAt": "2026-11-21T08:34:42.899Z"
     },
     {
       "id": "x-gta6newshub-arac-sahiplenme-waink",
