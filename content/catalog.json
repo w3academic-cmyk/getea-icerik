@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 247,
-  "publishedAt": "2026-11-21T16:14:42.457Z",
+  "revision": 248,
+  "publishedAt": "2026-11-21T16:34:57.727Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -33214,6 +33214,75 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T15:56:39Z",
       "checkedAt": "2026-11-21T16:14:42.457Z"
+    },
+    {
+      "id": "x-wccftech-xbox-quick-resume-60fps",
+      "url": "https://x.com/wccftech/status/2124097846450520204",
+      "author": "@wccftech",
+      "network": "x",
+      "title": "Xbox Series X’te Quick Resume hatası: Oyun 60 FPS’in üstüne çıkıyor ama her şey iki kat hızlı oynuyor",
+      "summary": "Wccftech’e göre Xbox Series X’te Quick Resume (Hızlı Devam) özelliğinden sonra oluşan bir hatada GTA 6 60 FPS ve üzerinde çalışıyor; ancak oyun normalin iki katı hızda oynanıyor. Oyuncular da bu durumu yaşadıklarını videolarla paylaşıyor. Normal oyunda kare hızı 30 FPS.",
+      "category": "Hata",
+      "tags": [
+        "Xbox Series X",
+        "Quick Resume",
+        "Hızlı Devam",
+        "60 FPS",
+        "glitch",
+        "hata",
+        "bug",
+        "çift hız",
+        "double speed",
+        "Wccftech"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T11:09:25Z",
+      "checkedAt": "2026-11-21T16:34:57.727Z"
+    },
+    {
+      "id": "x-marionawfal-floridali-kendi-dairesi",
+      "url": "https://x.com/MarioNawfal/status/2124171478610436291",
+      "author": "@MarioNawfal",
+      "network": "x",
+      "title": "Floridalı bir oyuncu, oyunda kendi oturduğu apartmanı buldu",
+      "summary": "Florida’da yaşayan bir oyuncu, oyunda tanıdık gelen bir bina gördü; balkonuna çıkıp manzarayı karşılaştırınca binanın kendi apartmanına çok benzediğini fark etti. Vice City’nin gerçek Miami’yi ne kadar yakından yansıttığını gösteren paylaşım viral oldu.",
+      "category": "Topluluk",
+      "tags": [
+        "Florida",
+        "Miami",
+        "gerçek dünya",
+        "real world",
+        "apartman",
+        "apartment",
+        "karşılaştırma",
+        "comparison",
+        "Vice City"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T16:02:00Z",
+      "checkedAt": "2026-11-21T16:34:57.727Z"
+    },
+    {
+      "id": "x-demarke-rdr2-malikane-sosyal-medya",
+      "url": "https://x.com/demarkegaming/status/2124170983984500887",
+      "author": "@demarkegaming",
+      "network": "x",
+      "title": "Easter egg: Oyundaki sosyal medya uygulamasında Red Dead Redemption 2’deki ünlü bir malikâneye yer verilmiş",
+      "summary": "Oyun içi sosyal medya uygulamasında paylaşılan bir gönderide, Red Dead Redemption 2’deki ünlü bir malikâne görülüyor. Paylaşım, Rockstar’ın oyunları arasındaki bir başka gönderme olarak dikkat çekti.",
+      "category": "Easter Egg",
+      "tags": [
+        "easter egg",
+        "Red Dead Redemption 2",
+        "RDR2",
+        "malikâne",
+        "mansion",
+        "sosyal medya",
+        "social media",
+        "Rockstar göndermesi"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T16:00:02Z",
+      "checkedAt": "2026-11-21T16:34:57.727Z"
     }
   ]
 }
