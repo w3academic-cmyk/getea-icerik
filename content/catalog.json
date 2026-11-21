@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 201,
-  "publishedAt": "2026-11-21T02:55:07.890Z",
+  "revision": 202,
+  "publishedAt": "2026-11-21T03:15:38.914Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32028,6 +32028,50 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T01:39:18Z",
       "checkedAt": "2026-11-21T02:55:07.890Z"
+    },
+    {
+      "id": "x-piratnation-sahte-pc-surumu-dolandiricilik",
+      "url": "https://x.com/Pirat_Nation/status/2123975437097549854",
+      "author": "@Pirat_Nation",
+      "network": "x",
+      "title": "Uyarı: “GTA 6 PC sürümü” adıyla dolandırıcılık kiti satılıyor",
+      "summary": "NordVPN’e göre karanlık ağda 200 dolara satılan bir dolandırıcılık kiti, sahte bir GTA 6 PC sürümüyle insanları zararlı yazılım indirmeye kandırıyor. Kitte hesap çalmak için tasarlanmış sahte bir “GTA6 Keygen.exe” ve kripto cüzdan boşaltıcı var. GTA 6 PC’de yok; “PC sürümü”, “keygen” ya da “crack” diye sunulan hiçbir dosyayı indirmeyin.",
+      "category": "Haber",
+      "tags": [
+        "dolandırıcılık",
+        "scam",
+        "zararlı yazılım",
+        "malware",
+        "sahte PC sürümü",
+        "fake PC version",
+        "NordVPN",
+        "güvenlik",
+        "security"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T03:03:00Z",
+      "checkedAt": "2026-11-21T03:15:38.914Z"
+    },
+    {
+      "id": "x-countdown-oyuncular-times-square",
+      "url": "https://x.com/GTAVI_Countdown/status/2123972882326008171",
+      "author": "@GTAVI_Countdown",
+      "network": "x",
+      "title": "GTA 6’nın oyuncu kadrosu çıkışı Times Square’de kutladı",
+      "summary": "GTA 6’nın seslendirme ve oyuncu kadrosu, oyunun reklam panolarıyla dolu New York Times Square’de bir araya gelerek çıkışı kutladı.",
+      "category": "Haber",
+      "tags": [
+        "oyuncu kadrosu",
+        "cast",
+        "Times Square",
+        "New York",
+        "kutlama",
+        "celebration",
+        "reklam panosu"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T02:52:51Z",
+      "checkedAt": "2026-11-21T03:15:38.914Z"
     }
   ]
 }
