@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 211,
-  "publishedAt": "2026-11-21T07:16:25.222Z",
+  "revision": 212,
+  "publishedAt": "2026-11-21T07:34:56.196Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32387,6 +32387,28 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T08:47:00Z",
       "checkedAt": "2026-11-21T07:16:25.222Z"
+    },
+    {
+      "id": "x-internethof-vicki-favori",
+      "url": "https://x.com/InternetH0F/status/2124035089239781595",
+      "author": "@InternetH0F",
+      "network": "x",
+      "title": "Topluluk gündemi: Hayranlar en sevdikleri karakteri Mandy’den gotik kız Vicki’ye çeviriyor",
+      "summary": "Bazı GTA 6 oyuncuları, son günlerin popüler karakteri Mandy yerine gotik tarzıyla öne çıkan Vicki’yi favori ilan etmeye başladı. Vicki, Delights striptiz kulübünde çalışan ve kendi yan görevi olan bir karakter.",
+      "category": "Topluluk",
+      "tags": [
+        "Vicki",
+        "Mandy",
+        "favori karakter",
+        "fan favorite",
+        "gotik",
+        "goth girl",
+        "Delights",
+        "topluluk"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-21T10:33:00Z",
+      "checkedAt": "2026-11-21T07:34:56.196Z"
     }
   ]
 }
