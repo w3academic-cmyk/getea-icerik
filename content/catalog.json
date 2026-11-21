@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 219,
-  "publishedAt": "2026-11-21T09:54:41.208Z",
+  "revision": 220,
+  "publishedAt": "2026-11-21T10:14:51.629Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32596,6 +32596,29 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T12:22:00Z",
       "checkedAt": "2026-11-21T09:54:41.208Z"
+    },
+    {
+      "id": "x-frenchfreakus-snapmatic-npc-yorum",
+      "url": "https://x.com/FrenchFreakUS/status/2124073138820673555",
+      "author": "@FrenchFreakUS",
+      "network": "x",
+      "title": "Oyundaki sosyal medyada NPC’ler yorum yazıyor: Fransız rapçi Théodort’un Snapmatic paylaşımlarıyla dalga geçtiler",
+      "summary": "Bir paylaşıma göre oyun içindeki Snapmatic sosyal medyasında NPC’ler paylaşımlara yorum yazıyor. Oyunda yer alan Fransız rapçi Théodort’un gönderilerinin altına NPC’lerin müziğiyle dalga geçen yorumlar yazdığı görülüyor.",
+      "category": "Özellik",
+      "tags": [
+        "Snapmatic",
+        "sosyal medya",
+        "social media",
+        "NPC",
+        "yorum",
+        "comments",
+        "Théodort",
+        "rapçi",
+        "Fransa"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T12:51:00Z",
+      "checkedAt": "2026-11-21T10:14:51.629Z"
     }
   ]
 }
