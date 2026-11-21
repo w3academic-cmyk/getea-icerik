@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 238,
-  "publishedAt": "2026-11-21T14:34:46.046Z",
+  "revision": 239,
+  "publishedAt": "2026-11-21T14:54:50.449Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -33004,6 +33004,28 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T13:55:27Z",
       "checkedAt": "2026-11-21T14:34:46.046Z"
+    },
+    {
+      "id": "x-austinclips-koko-pee-ogogoro",
+      "url": "https://x.com/austinclips1/status/2124141616390914152",
+      "author": "@austinclips1",
+      "network": "x",
+      "title": "Afro Bank Radio’da Koko Pee’nin ödüllü şarkısı “Ogogoro” çalıyor",
+      "summary": "Oyundaki Afro Bank Radio istasyonunda Nijeryalı sanatçı Koko Pee’nin ödüllü şarkısı “Ogogoro” çalıyor; oyuncular şarkının oyundaki araba sürüşleriyle uyumunu övüyor.",
+      "category": "Radyo",
+      "tags": [
+        "Afro Bank Radio",
+        "Koko Pee",
+        "Ogogoro",
+        "Afrobeat",
+        "radyo",
+        "radio",
+        "şarkı",
+        "song"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T14:03:20Z",
+      "checkedAt": "2026-11-21T14:54:50.449Z"
     }
   ]
 }
