@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 234,
-  "publishedAt": "2026-11-21T13:34:52.457Z",
+  "revision": 235,
+  "publishedAt": "2026-11-21T13:54:44.210Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32910,6 +32910,31 @@
       "spoiler": "minor",
       "postedAt": "2026-11-21T13:59:00Z",
       "checkedAt": "2026-11-21T13:34:52.457Z"
+    },
+    {
+      "id": "x-xgarbett-gizli-siginak-tank",
+      "url": "https://x.com/xGarbett/status/2124128733431046531",
+      "author": "@xGarbett",
+      "network": "x",
+      "title": "İddia: Gizli bir görev, içinde 2. Dünya Savaşı tankı ve Soğuk Savaş dönemi tüfeği olan sığınakları açıyor",
+      "summary": "Bir içerik üreticisine göre oyunda gizli bir görev var; bu görev bazı gizli sığınakların kapısını açıyor. Sığınaklarda 2. Dünya Savaşı’ndan kalma bir tank ve Soğuk Savaş dönemine ait bir taarruz tüfeği bulunuyor. Görevin adı ve sığınakların yeri paylaşımda yazmıyor; doğrulanmadı.",
+      "category": "Gizli Görev",
+      "tags": [
+        "gizli görev",
+        "secret mission",
+        "sığınak",
+        "bunker",
+        "tank",
+        "2. Dünya Savaşı",
+        "WW2",
+        "Soğuk Savaş",
+        "Cold War",
+        "taarruz tüfeği",
+        "iddia"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-21T14:03:00Z",
+      "checkedAt": "2026-11-21T13:54:44.210Z"
     }
   ]
 }
