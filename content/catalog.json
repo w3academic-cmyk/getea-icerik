@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 237,
-  "publishedAt": "2026-11-21T14:14:46.761Z",
+  "revision": 238,
+  "publishedAt": "2026-11-21T14:34:46.046Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32959,6 +32959,51 @@
       "spoiler": "none",
       "postedAt": "2026-11-20T20:29:42Z",
       "checkedAt": "2026-11-21T14:14:46.761Z"
+    },
+    {
+      "id": "x-dexerto-zelda-gta6-review-bomb",
+      "url": "https://x.com/Dexerto/status/2124144766967504971",
+      "author": "@Dexerto",
+      "network": "x",
+      "title": "Metacritic’te karşılıklı “review bombing”: GTA 6 ve Zelda: Ocarina of Time remake hayranları birbirinin oyununu hedef alıyor",
+      "summary": "Dexerto’ya göre GTA 6 ve Zelda: Ocarina of Time remake, Metacritic’te birbirinin hayranları tarafından düşük puan yağmuruna tutuluyor. Bazı hesaplar yalnızca iki oyuna puan vermiş: GTA 6’ya 0/10, Zelda’ya 10/10.",
+      "category": "Haber",
+      "tags": [
+        "Metacritic",
+        "review bombing",
+        "Zelda",
+        "Ocarina of Time",
+        "kullanıcı puanı",
+        "user score",
+        "tartışma",
+        "Dexerto"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T14:15:51Z",
+      "checkedAt": "2026-11-21T14:34:46.046Z"
+    },
+    {
+      "id": "web-forbes-tassi-soygun-rehberi",
+      "url": "https://x.com/PaulTassi/status/2124139630844858682",
+      "author": "@PaulTassi (Forbes)",
+      "network": "x",
+      "title": "Forbes rehberi: En çok parayı getiren kusursuz soygun nasıl yapılır?",
+      "summary": "Forbes yazarı Paul Tassi, GTA 6’da soygunlardan en yüksek kazancı almak için adım adım bir rehber yayımladı. Rehber Forbes’un sitesinde.",
+      "category": "İpucu",
+      "tags": [
+        "soygun",
+        "heist",
+        "robbery",
+        "para",
+        "money",
+        "rehber",
+        "guide",
+        "Forbes",
+        "Paul Tassi"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T13:55:27Z",
+      "checkedAt": "2026-11-21T14:34:46.046Z"
     }
   ]
 }
