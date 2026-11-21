@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 222,
-  "publishedAt": "2026-11-21T10:36:03.108Z",
+  "revision": 223,
+  "publishedAt": "2026-11-21T10:55:09.014Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32645,6 +32645,30 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T11:09:00Z",
       "checkedAt": "2026-11-21T10:36:03.108Z"
+    },
+    {
+      "id": "x-albylad-mavi-binalar-girilebilir",
+      "url": "https://x.com/AlbyLad_/status/2124077488288764187",
+      "author": "@AlbyLad_",
+      "network": "x",
+      "title": "Harita ipucu: Haritada mavi görünen binaların hepsine girilebiliyor",
+      "summary": "Bir oyuncuya göre oyun içi haritada mavi renkte gösterilen binalar, içine girilebilen binalar. Haritayı açınca mağaza, ev ve dükkân gibi girilebilir mekânları bu renkten ayırt edebilirsiniz.",
+      "category": "İpucu",
+      "tags": [
+        "harita",
+        "map",
+        "mavi binalar",
+        "blue buildings",
+        "girilebilir bina",
+        "enterable buildings",
+        "iç mekân",
+        "interior",
+        "ipucu",
+        "tip"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T12:21:00Z",
+      "checkedAt": "2026-11-21T10:55:09.014Z"
     }
   ]
 }
