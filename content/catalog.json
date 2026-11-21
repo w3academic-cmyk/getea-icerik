@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 216,
-  "publishedAt": "2026-11-21T08:54:46.379Z",
+  "revision": 217,
+  "publishedAt": "2026-11-21T09:14:44.126Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32505,6 +32505,29 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T11:34:00Z",
       "checkedAt": "2026-11-21T08:54:46.379Z"
+    },
+    {
+      "id": "x-scubaryan-kai-cenat-67-saat",
+      "url": "https://x.com/scubaryan_/status/2124058103444332762",
+      "author": "@scubaryan_",
+      "network": "x",
+      "title": "Kai Cenat hikâyeyi 67 saatte bitirdi: “GTA 5 kadar komik değil ama gerçekçilik muhteşem”",
+      "summary": "Yayıncı Kai Cenat, GTA 6’nın hikâye modunu yaklaşık 67 saatte tamamladı. Ona göre oyun GTA 5 kadar eğlenceli ve şakacı değil, ama gerçekçiliği oyunu harika yapıyor.",
+      "category": "Topluluk",
+      "tags": [
+        "Kai Cenat",
+        "yayıncı",
+        "streamer",
+        "hikâye modu",
+        "story mode",
+        "67 saat",
+        "oyun süresi",
+        "playtime",
+        "GTA 5 karşılaştırma"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T12:02:00Z",
+      "checkedAt": "2026-11-21T09:14:44.126Z"
     }
   ]
 }
