@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 228,
-  "publishedAt": "2026-11-21T11:55:03.336Z",
+  "revision": 229,
+  "publishedAt": "2026-11-21T12:03:02.100Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -1493,6 +1493,11 @@
       "id": "g-gta-tech4gamers-com-bca10e68",
       "name": "Tech4Gamers",
       "url": "https://gta.tech4gamers.com/gta-6/missions/vcia-takedown/"
+    },
+    {
+      "id": "x-gta6newshub-altin-toros-casanova-src",
+      "name": "@GTA6NewsHub (X)",
+      "url": "https://x.com/GTA6NewsHub/status/2124102565654577591"
     }
   ],
   "articles": [
@@ -23473,6 +23478,23 @@
         "topluluk-rehberleri"
       ],
       "checkedAt": "2026-11-21T11:03:10.654Z",
+      "platform": "all",
+      "gameVersion": "1.0",
+      "spoiler": "none",
+      "mapId": "leonida-resmi-v1",
+      "verification": "verified"
+    },
+    {
+      "id": "live-arac-lustrous-toros-casanova",
+      "title": "Araç: Lustrous Toros (altın SUV, plaka CASHTLKS)",
+      "category": "Araç",
+      "x": 0.7935,
+      "y": 0.4795,
+      "description": "Casanova Island’ın güney tarafındaki beyaz evin garajında, koyu renkli SUV’nin yanında. Bölüm 3’teki Key Cloner gerekiyor; araçta takip cihazı var. Konum tarife göre işaretlendi · Topluluk bilgisi, doğrulanmadı. Tam yerini biliyorsan 📍 ile düzelt.",
+      "sourceIds": [
+        "x-gta6newshub-altin-toros-casanova-src"
+      ],
+      "checkedAt": "2026-11-21T12:03:02.100Z",
       "platform": "all",
       "gameVersion": "1.0",
       "spoiler": "none",
