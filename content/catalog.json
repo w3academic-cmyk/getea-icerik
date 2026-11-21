@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 230,
-  "publishedAt": "2026-11-21T12:15:05.906Z",
+  "revision": 231,
+  "publishedAt": "2026-11-21T12:35:00.219Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32167,8 +32167,8 @@
       "url": "https://x.com/Millzaatv_/status/2123992848529768948",
       "author": "@Millzaatv_",
       "network": "x",
-      "title": "İddia: Nadir mor nitrolu McLaren, 10.000 $ ve efsanevi susturuculu tabanca",
-      "summary": "Bir içerik üreticisi, nadir mor renkli ve nitrolu bir McLaren benzeri arabanın, yanında 10.000 $ ve efsanevi susturuculu bir tabancayla nasıl alınacağını gösterdi. Yeri videoda; doğrulanmadı.",
+      "title": "Waxman Island limanında nadir mor McLaren, 10.000 $ (kasa şifresi 5800) ve efsanevi susturuculu ES9 tabanca",
+      "summary": "Waxman Island’daki konteyner limanına gidin; bölgeye mor bir McLaren giriyor. Alana sağ taraftan atlayarak girilebiliyor, susturuculu silah önerilir. Kasa C4 ile ya da içine girilen konteynerdeki dizüstü bilgisayardaki şifreyle açılıyor; üst katta 5800 şifresiyle kasadan 10.000 $ çıkıyor. Masadaki silah kutusunda efsanevi, susturuculu Quarter Mile ES9 tabanca var. Konteynerdeki 32.000 $ değerindeki mor McLaren kilitsiz; takip cihazı ya da alarmı olmadığı için saklanabiliyor. Ek tarif @BlueGamingSA’dan; topluluk bilgisi, doğrulanmadı.",
       "category": "Araç",
       "tags": [
         "McLaren",
@@ -32178,11 +32178,15 @@
         "rare car",
         "efsanevi tabanca",
         "10.000 dolar",
-        "iddia"
+        "iddia",
+        "Waxman Island",
+        "5800",
+        "ES9",
+        "Quarter Mile"
       ],
       "spoiler": "none",
       "postedAt": "2026-11-21T04:12:11Z",
-      "checkedAt": "2026-11-21T04:34:57.424Z"
+      "checkedAt": "2026-11-21T12:35:00.219Z"
     },
     {
       "id": "x-gta6tracker-3-bedava-efsanevi-silah",
