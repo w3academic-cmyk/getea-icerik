@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 205,
-  "publishedAt": "2026-11-21T04:34:57.424Z",
+  "revision": 206,
+  "publishedAt": "2026-11-21T04:55:17.888Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32161,6 +32161,98 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T04:12:11Z",
       "checkedAt": "2026-11-21T04:34:57.424Z"
+    },
+    {
+      "id": "x-gta6tracker-3-bedava-efsanevi-silah",
+      "url": "https://x.com/GTA6Tracker/status/2123997833988857938",
+      "author": "@GTA6Tracker",
+      "network": "x",
+      "title": "Bölüm 1’de para harcamadan alınabilecek 3 efsanevi silah",
+      "summary": "Assassin Nipper .38 susturuculu tabanca güneydoğu Permit Keys’teki bir batığın içinde; Smuggler Gorse 425 pompalı kuzey Permit Keys’te yan yatmış bir teknenin yanında; Kingfishers W-22 susturuculu tüfek ise Wetman Bay’deki Fishing Shacks’in ana kulübesinde (buraya erişmek için Donnie’nin soygun mesajını beklemen gerekiyor). Üçü de ücretsiz.",
+      "category": "Silah",
+      "tags": [
+        "efsanevi silah",
+        "legendary weapon",
+        "bedava",
+        "free",
+        "Assassin Nipper",
+        "Smuggler Gorse 425",
+        "Kingfishers W-22",
+        "Permit Keys",
+        "Wetman Bay",
+        "Bölüm 1"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T04:32:00Z",
+      "checkedAt": "2026-11-21T04:55:17.888Z"
+    },
+    {
+      "id": "x-zephryss-erken-en-iyi-arabalar",
+      "url": "https://x.com/TheRealZephryss/status/2123989714730459621",
+      "author": "@TheRealZephryss",
+      "network": "x",
+      "title": "Erken alınması gereken en iyi arabalar: Stanier, Raiden, Carbonizzare, Coquette, Dominator, Elegy",
+      "summary": "Oyuncu listesine göre erken oyunun en iyi arabaları: Vapid ’55 Stanier (Ocean Beach yakınında Shore Court), Tesla benzeri elektrikli Coil Raiden (polisten kaçmak için sessiz ve hızlı; Downtown Vice City), Ferrari California benzeri Grotti Carbonizzare (zengin semtler), Corvette benzeri Invetero Coquette D10 (Vice City ve benzinlikler), Mustang benzeri nadir Vapid Dominator ve Skyline benzeri Annis ’90 Elegy. Bölüm 2’de Moses’la ilk araç tescili ücretsiz.",
+      "category": "Araç",
+      "tags": [
+        "en iyi arabalar",
+        "best cars",
+        "Stanier",
+        "Coil Raiden",
+        "Carbonizzare",
+        "Coquette",
+        "Dominator",
+        "Elegy",
+        "Moses",
+        "tescil",
+        "erken oyun"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T03:59:44Z",
+      "checkedAt": "2026-11-21T04:55:17.888Z"
+    },
+    {
+      "id": "x-sourcevi-super-mario-sapkalar",
+      "url": "https://x.com/SourceVI/status/2123984927653773635",
+      "author": "@SourceVI",
+      "network": "x",
+      "title": "Super Mario easter egg’i: Jason ve Lucia’ya Mario ve Luigi şapkaları",
+      "summary": "Oyuncular GTA 6’da Super Mario’ya gönderme yapan bir easter egg buldu; tamamlayınca Jason ve Lucia’ya nadir Mario ve Luigi tarzı şapkalar veriliyor.",
+      "category": "Easter Egg",
+      "tags": [
+        "Super Mario",
+        "Mario",
+        "Luigi",
+        "şapka",
+        "hat",
+        "Nintendo",
+        "easter egg",
+        "kıyafet"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T03:40:43Z",
+      "checkedAt": "2026-11-21T04:55:17.888Z"
+    },
+    {
+      "id": "x-fadeaway-rhea-ripley",
+      "url": "https://x.com/FadeAwayMedia/status/2124000528195633347",
+      "author": "@FadeAwayMedia",
+      "network": "x",
+      "title": "İddia: WWE güreşçisi Rhea Ripley oyunda bir NPC olarak bulundu",
+      "summary": "WWE hayranları, güreşçi Rhea Ripley’e çok benzeyen bir NPC’yi GTA 6’da bulduklarını söylüyor. Rockstar’ın onu taradığı doğrulanmadı.",
+      "category": "Easter Egg",
+      "tags": [
+        "Rhea Ripley",
+        "WWE",
+        "güreş",
+        "NPC",
+        "benzerlik",
+        "cameo",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T04:42:42Z",
+      "checkedAt": "2026-11-21T04:55:17.888Z"
     }
   ]
 }
