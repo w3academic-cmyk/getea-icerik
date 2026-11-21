@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 252,
-  "publishedAt": "2026-11-21T17:14:51.538Z",
+  "revision": 254,
+  "publishedAt": "2026-11-21T17:34:59.722Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -26345,7 +26345,7 @@
       "author": "@bpthaber",
       "network": "x",
       "title": "Oyunda Türkçe konuşan karakterler var",
-      "summary": "Oyuncular bazı sahnelerde Türkçe seslendirme olduğunu fark etti; NPC'lerin ağzından “Kurşun yedim!” gibi Türkçe repliklerin duyulduğu bir video paylaşıldı. Yanında başka Türkçe repliklerle karşılaşırsan bize yaz.",
+      "summary": "Oyuncular bazı sahnelerde Türkçe seslendirme olduğunu fark etti; NPC'lerin ağzından “Kurşun yedim!” gibi Türkçe repliklerin duyulduğu bir video paylaşıldı. Yanında başka Türkçe repliklerle karşılaşırsan bize yaz. Güncelleme: Oyuncular Türkçe konuşulan bir sahne daha buldu (@andersonburak). İlginç olan, altyazıda Türkçe “bilinmeyen dil” olarak gösteriliyor.",
       "category": "Türkçe",
       "tags": [
         "Türkçe",
@@ -26357,7 +26357,7 @@
       ],
       "spoiler": "none",
       "postedAt": "2026-11-18T20:49:00Z",
-      "checkedAt": "2026-11-18T20:57:44.724Z"
+      "checkedAt": "2026-11-21T17:34:59.639Z"
     },
     {
       "id": "x-bosunatiklama-gercekci-siddet",
@@ -33399,6 +33399,73 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T16:52:20Z",
       "checkedAt": "2026-11-21T17:14:51.538Z"
+    },
+    {
+      "id": "x-synthpotato-silah-tekerlegi-bagaj",
+      "url": "https://x.com/SynthPotato/status/2124191864307785742",
+      "author": "@SynthPotato",
+      "network": "x",
+      "title": "İpucu: Silahlarını almak için bagajı açmana gerek yok; sürerken silah tekerleğini aç",
+      "summary": "Araç sürerken silah tekerleğini açarsanız, bagaja gitmeden silahlarınızı değiştirebilir ya da kaldırabilirsiniz.",
+      "category": "İpucu",
+      "tags": [
+        "silah tekerleği",
+        "weapon wheel",
+        "bagaj",
+        "trunk",
+        "silah değiştirme",
+        "ipucu",
+        "tip",
+        "araç"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T17:23:00Z",
+      "checkedAt": "2026-11-21T17:34:59.722Z"
+    },
+    {
+      "id": "x-thegameverse-atm-para-yatir",
+      "url": "https://x.com/TheGameVerse/status/2124180830897709234",
+      "author": "@TheGameVerse",
+      "network": "x",
+      "title": "İpucu: Üzerindeki nakdi düzenli olarak ATM’ye yatır; bir oyuncu köpekbalığına yem olup 7.000 $ kaybetti",
+      "summary": "Üzerinizde çok nakit taşıyorsanız onu sık sık yakındaki bir ATM’ye yatırın. Bir oyuncu, bir köpekbalığına yem olduğunda üzerindeki yaklaşık 7.000 doları kaybettiğini söylüyor.",
+      "category": "İpucu",
+      "tags": [
+        "ATM",
+        "nakit",
+        "cash",
+        "para kaybı",
+        "ölüm",
+        "köpekbalığı",
+        "shark",
+        "ipucu",
+        "tip"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T16:39:10Z",
+      "checkedAt": "2026-11-21T17:34:59.722Z"
+    },
+    {
+      "id": "x-forzacimbom-sallai-jakobs-gta6-foto",
+      "url": "https://x.com/forzacimbom/status/2124190581924540909",
+      "author": "@forzacimbom",
+      "network": "x",
+      "title": "Galatasaraylı Sallai GTA 6 efektli fotoğraflar paylaştı, Jakobs’tan yorum: “Çok havalı, nasıl yaptın?”",
+      "summary": "Galatasaray’ın oyuncusu Roland Sallai, GTA 6 tarzı efektlerle düzenlenmiş fotoğraflar paylaştı. Takım arkadaşı Ismail Jakobs da paylaşıma “Çok havalı, nasıl yaptın 😳” yorumunu yaptı.",
+      "category": "Türkçe",
+      "tags": [
+        "Galatasaray",
+        "Sallai",
+        "Jakobs",
+        "futbol",
+        "football",
+        "GTA 6 efekti",
+        "fotoğraf",
+        "Türk futbolu"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T17:17:54Z",
+      "checkedAt": "2026-11-21T17:34:59.722Z"
     }
   ]
 }
