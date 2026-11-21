@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 217,
-  "publishedAt": "2026-11-21T09:14:44.126Z",
+  "revision": 218,
+  "publishedAt": "2026-11-21T09:34:49.813Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32528,6 +32528,51 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T12:02:00Z",
       "checkedAt": "2026-11-21T09:14:44.126Z"
+    },
+    {
+      "id": "x-cerfia-michel-drucker-83",
+      "url": "https://x.com/CerfiaFR/status/2124069808140415448",
+      "author": "@CerfiaFR",
+      "network": "x",
+      "title": "83 yaşındaki Fransız televizyoncu Michel Drucker GTA 6 oynuyor: “10 saattir oynuyorum, uyumadım”",
+      "summary": "Fransa’nın tanınmış televizyon sunucusu Michel Drucker (83), GTA 6 oynadığını açıkladı. Drucker, “Vice City’ye dönmek için sabırsızlanıyorum, şimdiden 10 saatim geçti, uyumadım. Mutluyum” dedi.",
+      "category": "Haber",
+      "tags": [
+        "Michel Drucker",
+        "Fransa",
+        "France",
+        "ünlü",
+        "celebrity",
+        "televizyon",
+        "TV host",
+        "haber"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T12:24:00Z",
+      "checkedAt": "2026-11-21T09:34:49.813Z"
+    },
+    {
+      "id": "x-akademiks-blueface-radyo",
+      "url": "https://x.com/AkademiksTV/status/2124052508981301736",
+      "author": "@AkademiksTV",
+      "network": "x",
+      "title": "Rapçi Blueface oyunu oynarken kendi şarkısının GTA 6 radyosunda çaldığını öğrendi",
+      "summary": "Yayındaki videoya göre rapçi Blueface, GTA 6 oynarken radyoda kendi şarkısını duydu ve şarkının oyunda olduğundan haberi olmadığı anlaşıldı. Şarkının hangi radyo kanalında çaldığı paylaşımda belirtilmiyor.",
+      "category": "Radyo",
+      "tags": [
+        "Blueface",
+        "rapçi",
+        "rapper",
+        "radyo",
+        "radio",
+        "şarkı",
+        "song",
+        "müzik",
+        "soundtrack"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T11:58:00Z",
+      "checkedAt": "2026-11-21T09:34:49.813Z"
     }
   ]
 }
