@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 227,
-  "publishedAt": "2026-11-21T11:34:42.737Z",
+  "revision": 228,
+  "publishedAt": "2026-11-21T11:55:03.336Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32717,6 +32717,31 @@
       "spoiler": "minor",
       "postedAt": "2026-11-21T13:00:00Z",
       "checkedAt": "2026-11-21T11:34:42.737Z"
+    },
+    {
+      "id": "x-gta6newshub-altin-toros-casanova",
+      "url": "https://x.com/GTA6NewsHub/status/2124102565654577591",
+      "author": "@GTA6NewsHub",
+      "network": "x",
+      "title": "Altın renkli SUV “Lustrous Toros”: Casanova Island’daki garajda, plakası CASHTLKS",
+      "summary": "Vespucci Island’dan doğuya, Casanova Island’a geçin; adanın güney tarafındaki beyaz evi bulun. Koyu renkli SUV’nin yanındaki garajı açınca CASHTLKS plakalı altın Lustrous Toros’u görürsünüz. Bölüm 3’te açılan Key Cloner gerekiyor. Aracın gelişmiş takip cihazı (tracker) olduğu için saklamadan önce kayıt seçeneklerine bakın. Paylaşıma göre yakında bir de Ruby Emerus var (Rialto Islands). Topluluk bilgisi, doğrulanmadı.",
+      "category": "Araç",
+      "tags": [
+        "Lustrous Toros",
+        "Pegassi Toros",
+        "altın SUV",
+        "gold SUV",
+        "Casanova Island",
+        "Rialto Islands",
+        "CASHTLKS",
+        "Key Cloner",
+        "Ruby Emerus",
+        "nadir araç",
+        "araç konumu"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T12:28:00Z",
+      "checkedAt": "2026-11-21T11:55:03.336Z"
     }
   ]
 }
