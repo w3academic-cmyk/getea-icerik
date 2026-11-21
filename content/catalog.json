@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 229,
-  "publishedAt": "2026-11-21T12:03:02.100Z",
+  "revision": 230,
+  "publishedAt": "2026-11-21T12:15:05.906Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32764,6 +32764,29 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T12:28:00Z",
       "checkedAt": "2026-11-21T11:55:03.336Z"
+    },
+    {
+      "id": "x-populicc-lana-del-rey-canta",
+      "url": "https://x.com/populicc/status/2124102004649889979",
+      "author": "@populicc",
+      "network": "x",
+      "title": "Lana Del Rey’in GTA 6 temalı özel tasarım çantası: fiyatı yaklaşık 2 milyon TL",
+      "summary": "Paylaşıma göre oyunda radyo sunuculuğu da yapan Lana Del Rey için GTA 6 konseptli özel bir çanta tasarlandı; çantanın fiyatı 2.020.768 TL olarak aktarılıyor. Fiyat ve tasarımcı bilgisi resmî kaynaktan doğrulanmadı.",
+      "category": "Haber",
+      "tags": [
+        "Lana Del Rey",
+        "çanta",
+        "bag",
+        "moda",
+        "fashion",
+        "özel tasarım",
+        "ünlü",
+        "celebrity",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T13:10:00Z",
+      "checkedAt": "2026-11-21T12:15:05.906Z"
     }
   ]
 }
