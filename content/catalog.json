@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 235,
-  "publishedAt": "2026-11-21T13:54:44.210Z",
+  "revision": 236,
+  "publishedAt": "2026-11-21T14:14:46.761Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32935,6 +32935,30 @@
       "spoiler": "minor",
       "postedAt": "2026-11-21T14:03:00Z",
       "checkedAt": "2026-11-21T13:54:44.210Z"
+    },
+    {
+      "id": "x-derrickgott-psn-ciplak-foto-ban",
+      "url": "https://x.com/derrickgott007/status/2123876461861859627",
+      "author": "@derrickgott007",
+      "network": "x",
+      "title": "Uyarı (iddia): Oyun içi kamerayla çekilen çıplaklık içeren fotoğrafı PSN’den gönderen oyuncu 30 gün sosyal özellik yasağı aldı",
+      "summary": "Bir oyuncu, oyunda bulduğu çıplaklar kampının oyun içi kamerayla çekilmiş fotoğrafını bir arkadaşına PSN mesajıyla gönderdiği için 30 günlük PSN sosyal özellikler yasağı aldığını söyledi. Diğer oyuncuları, çıplaklık içeren ekran görüntülerini PSN üzerinden paylaşmamaları için uyarıyor. Yasağın sebebi Sony tarafından doğrulanmadı.",
+      "category": "Haber",
+      "tags": [
+        "PSN",
+        "PlayStation",
+        "ban",
+        "yasak",
+        "fotoğraf",
+        "photo mode",
+        "çıplaklar kampı",
+        "nudist resort",
+        "uyarı",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-20T21:04:00Z",
+      "checkedAt": "2026-11-21T14:14:46.761Z"
     }
   ]
 }
