@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 207,
-  "publishedAt": "2026-11-21T05:14:51.786Z",
+  "revision": 208,
+  "publishedAt": "2026-11-21T05:35:09.691Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32274,6 +32274,51 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T04:50:41Z",
       "checkedAt": "2026-11-21T05:14:51.786Z"
+    },
+    {
+      "id": "x-ghbsmith-gullet-marsh-8-yer",
+      "url": "https://x.com/GHBSmith/status/2124006890137071879",
+      "author": "@GHBSmith",
+      "network": "x",
+      "title": "Gullet Marsh’ta kaçırılabilecek 8 yer: mutant timsahlar, kaçak balina avı, hazine haritalı uçak",
+      "summary": "The Keys’in hemen dışındaki Gullet Marsh bataklığında bir oyuncunun bulduğu 8 nokta: mutant timsahlar, yasa dışı bir balina avı operasyonu, suya iniş yapmış bir helikopter, tuhaf bir “bu ne?” keşfi, iki özel silah (tabanca ve keskin nişancı tüfeği), “hazine haritası” bulunan düşmüş bir uçak, çıplak adamlarla kanolar ve tuvalette ölü bir adam. Topluluk bilgisi.",
+      "category": "Gizli",
+      "tags": [
+        "Gullet Marsh",
+        "bataklık",
+        "swamp",
+        "mutant timsah",
+        "alligator",
+        "balina avı",
+        "hazine haritası",
+        "treasure map",
+        "özel silah",
+        "keşif"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T05:07:59Z",
+      "checkedAt": "2026-11-21T05:35:09.691Z"
+    },
+    {
+      "id": "x-internethof-top-30-en-cok-satan",
+      "url": "https://x.com/InternetH0F/status/2124004882621542725",
+      "author": "@InternetH0F",
+      "network": "x",
+      "title": "GTA 6, tek günde tüm zamanların en çok satan 30 oyunu arasına girdi",
+      "summary": "Çıkış öncesi satılan 32,5 milyon kopyayla GTA 6, piyasaya çıktığı ilk gün tüm zamanların en çok satan 30 video oyunu listesine girdi.",
+      "category": "Haber",
+      "tags": [
+        "satış",
+        "sales",
+        "en çok satan",
+        "best-selling",
+        "32,5 milyon",
+        "rekor",
+        "record"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T05:00:00Z",
+      "checkedAt": "2026-11-21T05:35:09.691Z"
     }
   ]
 }
