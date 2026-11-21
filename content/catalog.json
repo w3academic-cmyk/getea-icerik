@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 233,
-  "publishedAt": "2026-11-21T13:15:04.918Z",
+  "revision": 234,
+  "publishedAt": "2026-11-21T13:34:52.457Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32839,6 +32839,77 @@
       "spoiler": "minor",
       "postedAt": "2026-11-21T13:33:56Z",
       "checkedAt": "2026-11-21T13:15:04.918Z"
+    },
+    {
+      "id": "x-piratnation-ultimate-ozel-magazalar",
+      "url": "https://x.com/Pirat_Nation/status/2124125689029054559",
+      "author": "@Pirat_Nation",
+      "network": "x",
+      "title": "Tartışma: Dört mağaza yalnızca Ultimate Edition’da; Standart sürüm oyuncuları giremiyor",
+      "summary": "One-Eyed Willie’s, Sara’s Unisex Salon, Stock 305 ve Electric Fang Tattoo Parlor adlı dört dükkân oyunda tam tasarlanmış olarak var. Ama bunlara yalnızca 20 dolar daha pahalı Ultimate Edition sahipleri girebiliyor. Bazı oyuncular bu yüzden Rockstar’ı açgözlülükle eleştiriyor.",
+      "category": "Haber",
+      "tags": [
+        "Ultimate Edition",
+        "Standart sürüm",
+        "özel mağazalar",
+        "exclusive shops",
+        "One-Eyed Willie’s",
+        "Sara’s Unisex Salon",
+        "Stock 305",
+        "Electric Fang Tattoo",
+        "tartışma",
+        "controversy"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T13:50:00Z",
+      "checkedAt": "2026-11-21T13:34:52.457Z"
+    },
+    {
+      "id": "x-sourcevi-russo-uzayli-fotograf",
+      "url": "https://x.com/SourceVI/status/2124120171283407098",
+      "author": "@SourceVI",
+      "network": "x",
+      "title": "Easter egg: Başkan Russo’nun Mount Chiliad’da bir uzaylıyla tokalaştığı fotoğraf",
+      "summary": "Oyunda bulunan bir fotoğrafta Başkan Russo, Mount Chiliad’da bir uzaylıyla el sıkışıyor. Fotoğraf, GTA 5’in 2013’ten beri konuşulan Mount Chiliad UFO gizemine gönderme yapıyor.",
+      "category": "Easter Egg",
+      "tags": [
+        "easter egg",
+        "Başkan Russo",
+        "President Russo",
+        "uzaylı",
+        "alien",
+        "UFO",
+        "Mount Chiliad",
+        "GTA 5 göndermesi",
+        "fotoğraf"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T13:28:00Z",
+      "checkedAt": "2026-11-21T13:34:52.457Z"
+    },
+    {
+      "id": "x-frenchrapus-travis-scott-kanye-bolum1",
+      "url": "https://x.com/FrenchRapUS/status/2124127743311032761",
+      "author": "@FrenchRapUS",
+      "network": "x",
+      "title": "İddia: Bölüm 1’in son görevinde Kanye West prodüktörlüğünde yayımlanmamış bir Travis Scott şarkısı çalıyor",
+      "summary": "Paylaşıma göre 1. bölümün son görevinde, Kanye West’in prodüktörlüğünü yaptığı ve daha önce yayımlanmamış bir Travis Scott şarkısı çalıyor. Şarkının adı ve prodüktör bilgisi resmî olarak doğrulanmadı.",
+      "category": "Radyo",
+      "tags": [
+        "Travis Scott",
+        "Kanye West",
+        "yayımlanmamış şarkı",
+        "unreleased song",
+        "Bölüm 1",
+        "Chapter 1",
+        "son görev",
+        "final mission",
+        "müzik",
+        "iddia"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-21T13:59:00Z",
+      "checkedAt": "2026-11-21T13:34:52.457Z"
     }
   ]
 }
