@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 213,
-  "publishedAt": "2026-11-21T07:54:51.986Z",
+  "revision": 214,
+  "publishedAt": "2026-11-21T08:14:46.267Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -32434,6 +32434,30 @@
       "spoiler": "minor",
       "postedAt": "2026-11-21T11:00:00Z",
       "checkedAt": "2026-11-21T07:54:51.986Z"
+    },
+    {
+      "id": "x-synthpotato-fragman1-final-karsilastirma",
+      "url": "https://x.com/SynthPotato/status/2124044126047846550",
+      "author": "@SynthPotato",
+      "network": "x",
+      "title": "Karşılaştırma: Çıkan oyun, 2023’teki ilk fragmandan daha iyi görünüyor",
+      "summary": "Bir oyuncu, oyunun son halini 2023’te yayımlanan ilk fragmanla aynı sahnelerde yan yana koydu. Paylaşıma göre çıkan sürümde görüntü daha keskin, ayrıntılar daha fazla, gölge ve ışıklandırma daha iyi; yani “downgrade” yerine görsel bir iyileşme var.",
+      "category": "Video",
+      "tags": [
+        "karşılaştırma",
+        "comparison",
+        "fragman 1",
+        "trailer 1",
+        "grafik",
+        "graphics",
+        "görsel",
+        "downgrade",
+        "upgrade",
+        "2023"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-21T11:03:00Z",
+      "checkedAt": "2026-11-21T08:14:46.267Z"
     }
   ]
 }
