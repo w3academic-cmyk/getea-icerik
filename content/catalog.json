@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 270,
+  "revision": 271,
   "publishedAt": "2026-11-26T18:03:29.054Z",
   "locale": "tr-TR",
   "sources": [
@@ -33819,12 +33819,11 @@
       "author": "@xzx_slipknot",
       "network": "x",
       "title": "Viral “1886” ve “9853” şifreleri ne? Haritada işaretli yere gidip şifre gir paylaşımları milyonlarca izlendi",
-      "summary": "X’te “GTA 6 haritasında bu yere git, 1886 (ya da 9853, 7777) şifresini gir, sonra bana teşekkür et” paylaşımları milyonlarca izlendi; aralarında Türk hesapları da var. Paylaşımlar yeri yalnızca harita görselinde gösteriyor ve şifrenin ne açtığını yazmıyor; birçoğu etkileşim tuzağı ya da şaka olabilir. Doğrulanmış şifreler (ör. Waxman Island 5800, araştırma istasyonu 0072/0212, pembe araba garajı 92665) sitemizde ayrı paylaşımlarda.",
+      "summary": "X’te “GTA 6 haritasında bu yere git, 1886 (ya da 9853) şifresini gir, sonra bana teşekkür et” paylaşımları milyonlarca izlendi; aralarında Türk hesapları da var. Paylaşımlar yeri yalnızca harita görselinde gösteriyor ve şifrenin ne açtığını yazmıyor; birçoğu etkileşim tuzağı ya da şaka olabilir. Doğrulanmış şifreler (ör. Waxman Island 5800, araştırma istasyonu 0072/0212, pembe araba garajı 92665, Nova Auto Junkyard 7777) sitemizde ayrı paylaşımlarda.",
       "category": "Gizli",
       "tags": [
         "1886",
         "9853",
-        "7777",
         "şifre",
         "code",
         "kasa",
