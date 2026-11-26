@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 267,
-  "publishedAt": "2026-11-21T20:49:01.163Z",
+  "revision": 270,
+  "publishedAt": "2026-11-26T18:03:29.054Z",
   "locale": "tr-TR",
   "sources": [
     {
@@ -6763,7 +6763,8 @@
         "4) Arkadaşlarla sosyalleşin; Kat ve Mattia gelir. Cal'in flört uygulaması ve Donnie'nin kokain teklifinin sonucu yok.",
         "5) Lucia'yla dans edin, Mattia'ya içki ısmarlayıp bilardo için meydan okuyun.",
         "6) Aviators gelince dışarıda bloklayıp karşı saldırıyla dövüşün; polisten Lucia'yla plaja ve eve kaçın. Sabah Donnie yeni bir iş için arar.",
-        "İpuçları: İsteğe bağlı işler: Pick Up Groceries, Buy Flowers, Buy Lucia a Necklace (Chapter 2'de işe yarar), Get The Chop, Get Lucia's Clothes; hepsi ilişkiyi artırır, hepsini yapmak ilişkiyi 4 kalpten 3'üyle başlatır. Ev onarımları: yatak odası duvarı ve boya, merdiven, çatı, balkon korkuluğu. Rusty Anchor'da Lucia'yı Lori'den ayırmak küçük bir ilişki bonusu verir. Lavaboda el yıkamak geçici Focus verir."
+        "İpuçları: İsteğe bağlı işler: Pick Up Groceries, Buy Flowers, Buy Lucia a Necklace (Chapter 2'de işe yarar), Get The Chop, Get Lucia's Clothes; hepsi ilişkiyi artırır, hepsini yapmak ilişkiyi 4 kalpten 3'üyle başlatır. Ev onarımları: yatak odası duvarı ve boya, merdiven, çatı, balkon korkuluğu. Rusty Anchor'da Lucia'yı Lori'den ayırmak küçük bir ilişki bonusu verir. Lavaboda el yıkamak geçici Focus verir.",
+        "Süreli görev: Lucia’yı oyun içi saatle yaklaşık 14:20’ye kadar hapishaneden almazsanız arayıp “İstersen otobüse binerim” der; ilişkiniz zarar görür ve görev zorla başlar. Çok geç kalırsanız “Lucia’yı terk ettin” diyerek görev başarısız olur (IGN rehberi ve oyuncu testleri)."
       ],
       "sourceIds": [
         "g-gtabase-com-f44e82cf",
@@ -33538,8 +33539,8 @@
       "url": "https://x.com/GTA6_Turkish/status/2124207407958041077",
       "author": "@GTA6_Turkish",
       "network": "x",
-      "title": "Oyuncular soruyor: 20 saatten fazla oynamalarına rağmen serbest dolaşımda yağmur ve gök gürültüsü görmediler",
-      "summary": "Bazı oyuncular, 20 saati aşan oynanış sürelerine rağmen serbest dolaşımda bir kez bile yağmur ya da gök gürültülü fırtınayla karşılaşmadıklarını söylüyor. Yağmurun yalnızca belli görevlerde mi çıktığı yoksa nadir mi olduğu henüz netleşmedi.",
+      "title": "Serbest dolaşımda yağmur yağmıyor mu? Bir hava durumu hatası olabilir; önerilen çözüm PS5 önbelleğini temizlemek",
+      "summary": "Bazı oyuncular, 20 saati aşan oynanış sürelerine rağmen serbest dolaşımda bir kez bile yağmur ya da gök gürültülü fırtınayla karşılaşmadıklarını söylüyor. Yağmurun yalnızca belli görevlerde mi çıktığı yoksa nadir mi olduğu henüz netleşmedi. Güncelleme (GameRoll, 26 Kasım): Bunun bir hava durumu hatası olduğu ve PS5’in önbelleğini temizleyince düzeldiği söyleniyor: PS5’i tamamen kapatın, ardından güç tuşuna basılı tutarak önbellek temizleme seçeneğini kullanın. Rockstar’dan resmî açıklama yok.",
       "category": "Topluluk",
       "tags": [
         "hava durumu",
@@ -33555,7 +33556,7 @@
       ],
       "spoiler": "none",
       "postedAt": "2026-11-21T18:24:46Z",
-      "checkedAt": "2026-11-21T18:54:46.295Z"
+      "checkedAt": "2026-11-26T17:59:42.839Z"
     },
     {
       "id": "x-discussingfilm-the-tyrone-show",
@@ -33668,6 +33669,173 @@
       "spoiler": "none",
       "postedAt": "2026-11-21T20:28:12Z",
       "checkedAt": "2026-11-21T20:49:01.163Z"
+    },
+    {
+      "id": "x-memeio-vice-city-portali-easter-egg",
+      "url": "https://x.com/MemeioYT/status/2124773456231444900",
+      "author": "@MemeioYT",
+      "network": "x",
+      "title": "12 milyon izlenen easter egg: Elektrik hatlarını ve santralleri takip ederek çözülen gizli “Vice City portalı”",
+      "summary": "Bir oyuncu, üç gün boyunca elektrik hatlarını ve santralleri takip ederek çözdüğü bir şifreli easter egg’i videoyla paylaştı; paylaşım 12 milyondan fazla izlendi, The Verge’den Tom Warren da paylaştı. Başka bir hesap (@GTACIPHER) bu gizemi “Vice City Portal – T.H. Power Station” olarak listeliyor. Adımların tamamı videoda; yazılı tarif henüz yok.",
+      "category": "Easter Egg",
+      "tags": [
+        "easter egg",
+        "Vice City portalı",
+        "portal",
+        "T.H. Power Station",
+        "elektrik santrali",
+        "power station",
+        "şifre",
+        "gizem",
+        "mystery",
+        "Tommy Vercetti"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-23T07:54:03Z",
+      "checkedAt": "2026-11-26T17:59:42.957Z"
+    },
+    {
+      "id": "x-sirrgrotti-missing-persons-softlock",
+      "url": "https://x.com/SirrGrotti/status/2125331777233498124",
+      "author": "@SirrGrotti",
+      "network": "x",
+      "title": "Uyarı: Bölüm 3’teki “Missing Persons” görevi kaydı kilitleyebilir; Lucia’da takılıp hikâyede ilerleyemiyorsunuz",
+      "summary": "Bir oyuncuya göre Bölüm 3’te Kelly County’deki “Missing Persons” görevini tamamlamak, sizi kalıcı olarak Lucia’da bırakabiliyor ve Jason kullanılamaz hale geliyor. Sıradaki hikâye görevi Jason gerektirdiği için ilerlemek mümkün olmuyor (softlock). Rockstar henüz düzeltme yayınlamadı; görevden önce ayrı bir manuel kayıt almanız önerilir.",
+      "category": "Hata",
+      "tags": [
+        "softlock",
+        "hata",
+        "bug",
+        "Missing Persons",
+        "Kelly County",
+        "Bölüm 3",
+        "Chapter 3",
+        "Lucia",
+        "Jason",
+        "kayıt",
+        "save"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-24T20:52:37Z",
+      "checkedAt": "2026-11-26T17:59:42.957Z"
+    },
+    {
+      "id": "x-checkpoint-lucia-hapishane-zamanlayici",
+      "url": "https://x.com/checkpoint_gg_/status/2125577253966721337",
+      "author": "@checkpoint_gg_",
+      "network": "x",
+      "title": "Lucia’yı 30 saat hapiste bırakmak mümkün mü? “Coming Home” görevinde zamanlayıcı var",
+      "summary": "Viral olan “oyuncular Lucia’yı 30 saat hapiste bırakıyor” iddiasına yanıt: IGN’in rehberine göre “Coming Home” süreli bir görev. Oyun içi saatle yaklaşık 14:20’yi kaçırırsanız Lucia arayıp “İstersen otobüse binerim” diyor, ilişki zarar görüyor, uyumak kapanıyor ve görev zorla başlıyor; daha da geç kalırsanız “Lucia’yı terk ettin” ile görev başarısız oluyor. Yani hikâyeyi ancak bu aramadan önce oyalayabilirsiniz.",
+      "category": "Görev",
+      "tags": [
+        "Coming Home",
+        "Lucia",
+        "hapishane",
+        "prison",
+        "zamanlayıcı",
+        "timer",
+        "süreli görev",
+        "ilişki",
+        "relationship",
+        "IGN"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-25T13:08:03Z",
+      "checkedAt": "2026-11-26T17:59:42.957Z"
+    },
+    {
+      "id": "x-sourcevi-gizli-boss-savasi",
+      "url": "https://x.com/SourceVI/status/2124291171165860009",
+      "author": "@SourceVI",
+      "network": "x",
+      "title": "İddia: Gizli bir boss savaşı easter egg’i bulundu; ödülü efsanevi pompalı ve özel dövmeler",
+      "summary": "Paylaşıma göre oyunda gizli bir boss savaşı easter egg’i var. Boss’u yenen oyuncular efsanevi bir pompalı tüfek ve özel dövmeler kazanıyor. Yeri ve nasıl başlatıldığı paylaşımdaki videoda; doğrulanmadı.",
+      "category": "Easter Egg",
+      "tags": [
+        "boss savaşı",
+        "boss fight",
+        "easter egg",
+        "efsanevi pompalı",
+        "legendary shotgun",
+        "dövme",
+        "tattoo",
+        "gizli",
+        "iddia"
+      ],
+      "spoiler": "minor",
+      "postedAt": "2026-11-21T23:57:37Z",
+      "checkedAt": "2026-11-26T17:59:42.957Z"
+    },
+    {
+      "id": "x-isaacbeast-oyuncak-ayi-minibus-para-glitch",
+      "url": "https://x.com/ItsIsaacBeast/status/2125743896395469005",
+      "author": "@ItsIsaacBeast",
+      "network": "x",
+      "title": "İddia: Oyuncak ayılı minibüsle yeni para glitch’i: 30 dakikada yaklaşık 1 milyon dolar",
+      "summary": "Oyuncular, Hamlet’in doğusundaki oyuncak ayılı minibüs, beyaz para çantaları ve Donk’un evi üzerinden çalışan bir para glitch’i paylaşıyor; karakter değiştirmeden 30 dakikada yaklaşık 1 milyon dolar kazanıldığı söyleniyor. Benzer “4 minibüs” yöntemi de yayılıyor. Rockstar bir yamayla kapatabilir; ayrıca deneyimi bozabileceğini unutmayın. Doğrulanmadı.",
+      "category": "Hata",
+      "tags": [
+        "para glitch",
+        "money glitch",
+        "oyuncak ayılı minibüs",
+        "teddy bear van",
+        "Donk",
+        "sınırsız para",
+        "glitch",
+        "iddia"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-26T00:10:13Z",
+      "checkedAt": "2026-11-26T17:59:42.957Z"
+    },
+    {
+      "id": "x-yashank-pc-emulasyon-haberi",
+      "url": "https://x.com/yashanktwt/status/2125891459182444654",
+      "author": "@yashanktwt",
+      "network": "x",
+      "title": "Haber: Jailbreak’li PS5’lerden alınan kopyayla GTA 6 PC’de emülasyonla çalıştırılmaya çalışılıyor; resmî PC sürümü yok",
+      "summary": "Son günlerde jailbreak’li PS5’lerden alınan oyun kopyasıyla GTA 6’yı PC’de emülasyonla çalıştırma denemeleri gündemde; paylaşımlara göre açılış görevinde 25-30 FPS’e ulaşıldı ve ilk mod araçları ortaya çıktı. Bu korsan bir yöntemdir ve resmî değildir; Rockstar henüz bir PC sürümü duyurmadı. Ayrıca “GTA 6 PC crack” diye dağıtılan dosyaların içinden zararlı yazılım çıktığı da raporlanıyor; bu tür dosyaları indirmeyin. Getea korsan bağlantı paylaşmaz.",
+      "category": "Haber",
+      "tags": [
+        "PC",
+        "emülasyon",
+        "emulation",
+        "jailbreak",
+        "PS5",
+        "korsan",
+        "piracy",
+        "zararlı yazılım",
+        "malware",
+        "uyarı",
+        "resmî değil"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-26T09:56:35Z",
+      "checkedAt": "2026-11-26T18:03:29.054Z"
+    },
+    {
+      "id": "x-viral-1886-9853-sifreleri",
+      "url": "https://x.com/xzx_slipknot/status/2124707853944631341",
+      "author": "@xzx_slipknot",
+      "network": "x",
+      "title": "Viral “1886” ve “9853” şifreleri ne? Haritada işaretli yere gidip şifre gir paylaşımları milyonlarca izlendi",
+      "summary": "X’te “GTA 6 haritasında bu yere git, 1886 (ya da 9853, 7777) şifresini gir, sonra bana teşekkür et” paylaşımları milyonlarca izlendi; aralarında Türk hesapları da var. Paylaşımlar yeri yalnızca harita görselinde gösteriyor ve şifrenin ne açtığını yazmıyor; birçoğu etkileşim tuzağı ya da şaka olabilir. Doğrulanmış şifreler (ör. Waxman Island 5800, araştırma istasyonu 0072/0212, pembe araba garajı 92665) sitemizde ayrı paylaşımlarda.",
+      "category": "Gizli",
+      "tags": [
+        "1886",
+        "9853",
+        "7777",
+        "şifre",
+        "code",
+        "kasa",
+        "safe",
+        "viral",
+        "iddia",
+        "doğrulanmadı"
+      ],
+      "spoiler": "none",
+      "postedAt": "2026-11-23T03:33:22Z",
+      "checkedAt": "2026-11-26T18:03:29.054Z"
     }
   ]
 }
